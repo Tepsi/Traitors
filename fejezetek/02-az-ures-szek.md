@@ -216,7 +216,7 @@ A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
 
 – Maga mondta, hogy balra! – harsogta Psota Irén olyan erővel, hogy a levelek megremegtek.
 
-– Én? Én soha nem mondok balra! Én mindig jobbra mondok!
+– Én? Én azt mondtam, hogy jobbra! Mindig azt mondom, hogy jobbra!
 
 – Akkor miért vagyunk balra?!
 
