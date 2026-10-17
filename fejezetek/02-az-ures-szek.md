@@ -160,7 +160,7 @@ A csend most más volt, mint a reggeli. Ez számoló csend volt.
 
 Neumann azonnal megszólalt, mintha ezt a percet várta volna.
 
-– Ez optimális megállási feladat – mondta –, csak két kellemetlen szereplővel: az idővel és egymással. A pénz akkor a legtöbb, ha a lehető legtovább keresünk. A pajzs akkor biztonságos, ha időben a közepén vagyunk. Javaslom: a harmadik ütésig gyűjtünk, aztán mindenki elindul a középpont felé. Aki először ér oda, megkapja a pajzsot, és a többiek ezt elfogadják.
+– Ez időzítési feladat – mondta –, két kellemetlen tényezővel: az idővel és egymással. A pénz akkor a legtöbb, ha a lehető legtovább keresünk. A pajzs akkor biztonságos, ha időben a közepén vagyunk. Javaslom: a harmadik ütésig gyűjtünk, aztán mindenki elindul a középpont felé. Aki először ér oda, megkapja a pajzsot, és a többiek ezt elfogadják.
 
 – Vagyis a leggyorsabb kapja – mondta Welles. – Meg a legszerencsésebb.
 
