@@ -168,7 +168,7 @@ Neumann azonnal megszólalt, mintha ezt a percet várta volna.
 
 – Kedves... kedves barátaim, én nem is... – kezdte Kabos.
 
-– A félelem nem bizonyítvány – mondta Dietrich szárazon.
+– A félelem nem érv – mondta Dietrich szárazon.
 
 – De jó taktika – mondta Welles.
 
