@@ -26,13 +26,13 @@ Az ajtóban zaj támadt: Hofi, Psota Irén, de Funès és Dietrich érkezett egy
 
 – Él! Él mindenki!
 
-– Ne mondja még! – kiáltotta Psota Irén olyan hangosan, hogy a gyertyák meghajoltak. – Még csak nyolcan vagyunk!
+– Ne mondja még! – kiáltotta Psota Irén olyan hangosan, hogy a poharak megcsörrentek. – Még csak nyolcan vagyunk!
 
 – Nyolc a huszonkettőből – mondta Hofi. A székek közé lépett, és ünnepélyesen megkérdezte Bessenyeitől: – Gyilkos vagy?
 
 – Nem – mondta Bessenyei.
 
-– Akkor jó. Még tizennégy emberrel hátra van a kérdezgetés.
+– Akkor jó. Egy kipipálva, még húsz van hátra.
 
 De Funès az asztal szélére csapott. – Latabár! – sziszegte. – Ő mondta tegnap, hogy hárman ültek a sarokban! Hárman! Hol van most? Miért nincs itt?
 
@@ -42,7 +42,7 @@ Aztán jött a harmadik csoport. Latabár, Kabos és Puskás együtt jöttek le,
 
 – Kálmán! – kiáltott Einstein, és megölelte. – De jó, hogy él!
 
-– Nem éppen mindenki örül neki – mormolta Latabár. – De ez ellen nem tehetek semmit.
+– Nem mindenki örül ennek – mormolta Latabár. – De ez ellen nem tehetek semmit.
 
 Kabos a kezében forgatta a nem létező kalapját. – Kedves... kedves barátaim, ne haragudjanak, de én ma reggel háromszor ellenőriztem, hogy megvagyok-e.
 
@@ -72,17 +72,19 @@ Hitchcock biccentett, mintha ez bók lett volna. Leült a székére, és a bejá
 
 Már tizenhatan voltak. Az ötödik csoport érkezett: Callas, Dalí, Bud Spencer és Mercury. Mercury még az ajtóban megállt, végignézett az asztalon, és a keze önkéntelenül a nyakához nyúlt.
 
-– Tizenhat – mondta csendesen. – Mi leszünk húsz. Akkor még egy, és...
+– Velünk húsz – mondta csendesen. – Marad kettő, és...
 
 Nem fejezte be.
 
 – Dalí nem fél – jelentette ki Dalí, és leült. – Dalí a félelmet is megfesti. – Aztán, mintha mégis meghallotta volna, amit az előbb mondott, hozzátette: – Elnézést.
 
-Callas megállt az asztal végén, és lassan körbepillantott. – Minden ajtó mögül hallottam valamit az éjjel – mondta. – Lépéseket. Suttogást. Egyszer azt hittem, valaki a folyosón sír. – Senki sem válaszolt.
+Callas megállt az asztal végén, és lassan körbepillantott. – Minden ajtó mögül hallottam valamit az éjjel – mondta. – Lépéseket. Suttogást. Egyszer azt hittem, valaki a folyosón sír.
+
+Senki sem válaszolt.
 
 Húszan ültek az asztalnál. A teremben most már csak a gyertyák ropogtak. Mindenki a kijárat felé nézett, és mindenki számolt, és mindenki más-más nevet keresett a fejében. Hepburn a keze fejét nézte. Bud Spencer a kenyeret törte, és közben az ajtót figyelte. Neumann a gyertyák lángját nézte, mintha ott lenne a válasz.
 
-Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik az, akié még nem érkezett meg. Aki az utolsó, az mindkét oldalon gyanús: vagy lusta, vagy túl nyugodt, vagy hiányzik valamiért.
+Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik azé, aki még nem érkezett meg. Aki utolsónak jön, az mindig gyanús: vagy lusta, vagy túl nyugodt, vagy oka van elkésni.
 
 Aztán a lépcsőn lassú, nehéz léptek hallatszottak.
 
@@ -96,7 +98,7 @@ Brando az ajtóban megállt, a keze a zsebében, az arca álmos. Végignézett a
 
 Odament az asztalhoz, és leült. Huszonegy ember ült a huszonkét székből. A huszonkettedik üres volt.
 
-Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég még meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a szélük megpuhult, mint a por, amelyet a szél hord, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
+Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég még meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
 
 A gong egyetlen mély hanggal megkondult, lassan, mintha számolna.
 
@@ -116,7 +118,7 @@ Hitchcock sokáig nézte az üres széket kifejezéstelen arccal, mint aki jelen
 
 – Nagyon tiszta munka – mondta halkan. – Semmi zaj, semmi nyom. Aki ezt csinálta, az nem sietett.
 
-– Maga úgy beszél, mintha csodálná! – fakadt ki Psota Irén olyan hangosan, hogy a gyertyák lángja meghajolt.
+– Maga úgy beszél, mintha csodálná! – fakadt ki Psota Irén olyan hangosan, hogy a gyertyák lángja meglibbent.
 
 – A szakmát csodálom – felelte Hitchcock. – Az embert nem.
 
@@ -176,7 +178,7 @@ Többen bólintottak. Nem volt kimondott megállapodás, csak olyan egyetértés
 
 Puskás lépett át elsőként az íven, mert ő mindig az volt, aki elindítja a játékot. A többiek követték, és a sövény egy pillanat alatt elnyelte őket. Az első fordulónál még látták egymást, a másodiknál már csak a lépteket hallották, a harmadiknál senkit sem.
 
-Neumann fejben számolta a kanyarokat: két jobbra, egy balra, kettő balra. Einstein mellette sétált, és vidáman magyarázta, hogy ha az ember mindig a bal kezét a falon tartja, előbb-utóbb mindenhová eljut.
+Neumann fejben számolta a kanyarokat: két jobbra, egy balra, megint két balra. Einstein mellette sétált, és vidáman magyarázta, hogy ha az ember mindig a bal kezét a falon tartja, előbb-utóbb mindenhová eljut.
 
 – A kijáratig – mondta Neumann. – A középpontig nem, ha az sziget.
 
@@ -288,11 +290,11 @@ Kabos tiltakozott, Zsazsa kacagott, Mercury azt mondta: – Drágám, ha az voln
 
 – Akkor kinek mondta még?
 
-Hofi egy darabig állt, aztán továbbment. A következő ajtónál annyit mormogott: – Ennek kérdéssel válaszolnak. Ezt még nem tapasztaltam.
+Hofi egy darabig állt, aztán továbbment. A következő ajtónál annyit mormogott: – Ez kérdéssel felel a kérdésre. Ilyet még nem tapasztaltam.
 
 Késő délután a szalonban Kabos egy kanapé szélén ült, és a nem létező kalapját forgatta.
 
-– Volt itt egy ember – mondta bizonytalanul. – Aki mindig mosolygott. A zenekarról... kérdezett. Hogy is hívták? – Összeráncolta a homlokát, és a keze megállt. – Kedves barátom, ez a legrosszabb. Nem a félelem. Hanem hogy már most nehezebb.
+– Volt itt egy ember – mondta bizonytalanul. – Aki mindig mosolygott. A zenekarról... kérdezett. Hogy is hívták? – Összeráncolta a homlokát, és a keze megállt. – Kedves barátom, ez a legrosszabb. Nem a félelem. Hanem hogy már most nehezebb emlékezni.
 
 – Louis – mondta Mercury, aki a kandalló mellett állt. – Louis Armstrong.
 
@@ -314,7 +316,7 @@ Egy ideig senki sem szólalt meg. Aztán de Funès felpattant.
 
 – Hárman ültünk – mondta Latabár, és olyan sértett volt, hogy a hangja elcsuklott. – Én, Kabos meg Puskás. Ez számtan, nem vallomás.
 
-– Aki így nevet, annak oka van rá – mondta Psota Irén. – Ma meg nem is nevetett, és az még gyanúsabb.
+– Aki így nevet, annak oka van rá – mondta Psota Irén. – Ma meg elnémult, és az még gyanúsabb.
 
 – Hát most mégis hogy nevessen, Irénke? – kérdezte Zsazsa. – Darling, így nem lehet jól csinálni.
 
@@ -326,7 +328,7 @@ A vita olyan kerek volt, mint az asztal: körbejárt, és mindig ugyanoda ért v
 
 Bessenyei sokáig hallgatott, karját összefonta, és az arca egyre sötétebb lett. Aztán a tenyerét az asztalra csapta, olyan erővel, hogy a krétadarabok megugrottak.
 
-– Elég! – mondta mély, öblös hangján, és a kupola visszhangozta. – Ember nevetéséért nem ítélkezünk! – Aztán, mintha ő maga is megijedt volna a saját hangjától, halkabban hozzátette: – Vagy ha mégis, legalább lássuk be, hogy mit teszünk.
+– Elég! – mondta mély, öblös hangján, és a kupola visszhangozta. – Embert a nevetéséért nem ítélünk el! – Aztán, mintha ő maga is megijedt volna a saját hangjától, halkabban hozzátette: – Vagy ha mégis, legalább lássuk be, hogy mit teszünk.
 
 – Én ma reggel feljegyeztem, ki viselkedik másképp, mint tegnap este – mondta Christie. – Hofi nem viccel. Psota Irén halkabb. Latabár Kálmán nem nevet. Ez mind érthető, és egyik sem bizonyít semmit. A többit megtartom magamnak, amíg többet nem tudok.
 
@@ -340,7 +342,7 @@ Hepburn nem vádolt senkit. – Nem tudom – mondta halkan. – Nem tudom, és 
 
 Dalí a mennyezet arany foltjait nézte, és kijelentette, hogy Dalí csillagokat lát ott, ahol más csak vakolatot.
 
-– Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák maguk elé a táblát.
+– Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
 
 Kréta koccant a palatáblákon. Huszonegy ember írt, és mindenki más-más arcot vágott közben. Hepburn ujja remegett. Neumann gyorsan írt, aztán fel sem nézett. Brando alig nézett a tábla felé.
 
@@ -354,7 +356,7 @@ A Játékmester sorban körbement, és minden játékos felfordította a palatá
 
 – Elnézést, kedvesem – fordult Welles Hepburn felé, amikor az ő táblája került sorra. – Amit tegnap mondtam a késve érkezőkről...
 
-– Nem haragszom – felelte Hepburn, és mosolygott. – Ön legalább szólt előtte.
+– Nem haragszom – felelte Hepburn, és mosolygott. – Ön legalább nyíltan mondta.
 
 A Játékmester a végén megállt az asztalfőnél.
 
@@ -370,7 +372,7 @@ Latabár felállt, megigazította a nyakkendőjét, és körülnézett az asztal
 
 – Latabár Kálmán ártatlan volt – mondta a Játékmester.
 
-Kilenc ember szegezte a tekintetét a saját palatábláján.
+Kilenc ember a saját palatábláját nézte.
 
 – Hát persze – mondta Latabár halkan.
 
