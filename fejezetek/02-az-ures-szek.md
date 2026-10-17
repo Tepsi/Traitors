@@ -66,7 +66,7 @@ Tizenkettőn voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött 
 
 – Aki ennyire jól alszik, annak jó az ágya – felelte Hitchcock. – Ezt a kastélyt altatónak építették.
 
-– Vagy altatáshoz – mondta Welles mély, élvezetes hangon. – Mi, többiek, akik nem aludtunk jól, csak azért vagyunk itt, hogy a maga nyugalmát eltakarjuk.
+– Vagy altatáshoz – mondta Welles mély, élvezetes hangon. – Mi, többiek, akik nem aludtunk jól, csak azért vagyunk itt, hogy a maga nyugalma még jobban feltűnjön.
 
 Hitchcock biccentett, mintha ez bók lett volna. Leült a székére, és a bejáratot nézte.
 
