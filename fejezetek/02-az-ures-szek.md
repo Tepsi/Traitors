@@ -6,7 +6,7 @@ A gong reggel hétkor szólalt meg, ugyanazzal a mély, lassú hanggal, mint el�
 
 Az ajtók nem egyszerre nyíltak. Aki bátrabb volt, vagy aki nem bírta tovább az ágyon fekvést, már a gong elmúltával lent volt. Mások sokáig hallgatóztak a résnél, mielőtt kimerészkedtek a folyosóra, és csak akkor indultak el, amikor a szomszédjuk lépteit meghallották. A Nagyterem hosszú asztalánál huszonkét teríték várta őket, mindegyik mellett aranyozott névtábla. A székek még üresek voltak.
 
-Elsőként Einstein érkezett, kócosan, mosolyogva, mintha csak egy szokatlanul hosszú éjszakai gondolkodásból ébredt volna. Utána Christie jött a noteszével, majd Bessenyei, aztán Neumann, pontosan, mintha menetrend szerint. Négyen álltak az asztal körül, és mind a négy ugyanazt számolta, csak senki sem mondta ki hangosan.
+Elsőként Einstein érkezett, kócosan, mosolyogva, mintha csak egy szokatlanul hosszú éjszakai gondolkodásból ébredt volna. Utána Christie jött a noteszével, majd Bessenyei, aztán Neumann, pontosan, mintha menetrend szerint. Négyen álltak az asztal körül, és mind a négyen ugyanazt számolták, csak senki sem mondta ki hangosan.
 
 – Négy – mondta végül Neumann. – A huszonkettőből négy. Statisztikailag a kezdet még nem jelent semmit.
 
@@ -156,7 +156,7 @@ Szünetet tartott.
 
 A csend most más volt, mint a reggeli. Ez számoló csend volt.
 
-– Negyven percük van. A torony órája tízpercenként üt. Ha negyven perc alatt senki sem ér a középre, a pajzs és a pénz is elvész. – Az inasra pillantott, aki meghajolt, mintha ezt neki mondták volna. – A pajzs egy éjszakára védi a viselőjét. Mindenki látni fogja, kié, és az árulók tudni fogják, kihez nem nyúlhatnak. Egy pajzs van, egy harang és huszonegy játékos. Az idő akkor indul, amikor az első játékos átlép az íven. Addig beszélhetnek.
+– Negyven percük van. A torony órája tízpercenként üt. Ha negyven perc alatt senki sem ér a labirintus közepére, a pajzs és a pénz is elvész. – Az inasra pillantott, aki meghajolt, mintha ezt neki mondták volna. – A pajzs egy éjszakára védi a viselőjét. Mindenki látni fogja, kié, és az árulók tudni fogják, kihez nem nyúlhatnak. Egy pajzs van, egy harang és huszonegy játékos. Az idő akkor indul, amikor az első játékos átlép az íven. Addig beszélhetnek.
 
 Neumann azonnal megszólalt, mintha ezt a percet várta volna.
 
