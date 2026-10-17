@@ -46,7 +46,7 @@ Aztán jött a harmadik csoport. Latabár, Kabos és Puskás együtt jöttek le,
 
 Kabos a kezében forgatta a nem létező kalapját. – Kedves... kedves barátaim, ne haragudjanak, de én ma reggel háromszor ellenőriztem, hogy megvagyok-e.
 
-– Megvan, Gyula – mondta Puskás, és megveregette a vállát. – Te megvagy, én megvagyok. Már csak a többiek kellenek.
+– Megvagy, Gyula – mondta Puskás, és megveregette a vállát. – Te megvagy, én megvagyok. Már csak a többiek kellenek.
 
 Mögöttük, kissé lemaradva, Hepburn lépett be. A keze összekulcsolva a mellén, az arca sápadt, a szeme fényes. Amikor meglátta Kabost, felsóhajtott, és megfogta mindkét kezét.
 
@@ -154,7 +154,7 @@ A bejáratnál kőív állt, alatta a Játékmester, mellette az inas egy üres 
 
 Szünetet tartott.
 
-– A sövényfalak között harminc bőr erszény van elrejtve. Mindegyikben aranyérmék vannak, és mindegyik ötvenezer forintot ér. Amit megtalálnak, az a fődíjba kerül. A labirintus közepén kőoszlop áll, az oszlopon pajzs, mellette harang. Aki megkondítja a harangot és megfogja a pajzsot, az megtarthatja és a játék véget ér. Amit addig nem találtak meg, az a labirintusban marad.
+– A sövényfalak között harminc bőr erszény van elrejtve. Mindegyikben aranyérmék vannak, és mindegyik ötvenezer forintot ér. Amit megtalálnak, az a fődíjba kerül. A labirintus közepén kőoszlop áll, az oszlopon pajzs, mellette harang. Aki megkondítja a harangot és megfogja a pajzsot, az megkapja és a játék véget ér. Amit addig nem találtak meg, az a labirintusban marad.
 
 A csend most más volt, mint a reggeli. Ez lázasan kalkuláló csend volt.
 
@@ -220,7 +220,7 @@ A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
 
 – Én? Én azt mondtam, hogy jobbra! Mindig azt mondom, hogy jobbra!
 
-– Akkor miért jött nekem?!
+– Akkor miért fordult mégis balra?!
 
 Egy erszény közben közvetlenül a fejük fölött lógott, és egyikük sem vette észre. Később Hepburn találta meg, aki épp arra járt, és szó nélkül leemelte.
 
@@ -386,9 +386,9 @@ Aztán belépett a ködbe. Az ajtó becsukódott mögötte.
 
 A székén álló névtáblán a betűk kifakultak és lehulltak. Az asztalnál valaki halkan kimondta a nevét. Aztán más is. Mintha így lehetett volna megtartani.
 
-– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer úrt pajzsa védi. A többiekét senki.
+– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer úrat pajzsa védi. A többieket senki.
 
-Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, négy Brandóra. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
+Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, Brandóra öt. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
 
 Christie ceruzája megállt a lap fölött. Nem szólt semmit. Aztán beírt valamit apró betűkkel, és gyorsan becsukta a noteszt.
 
