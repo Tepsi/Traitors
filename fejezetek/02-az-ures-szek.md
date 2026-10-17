@@ -428,8 +428,8 @@ Nem tették hozzá, kire gondolnak. Nem is kellett. Mindhárman tudták, hogy a 
 
 A Második kimondott egy nevet. Nem emelte fel a hangját. Az Első bólintott. A Harmadik egy ideig a gyertyát nézte, aztán ő is.
 
-– Gyorsan megy? – kérdezte a Harmadik.
+– Tudják, mi történik velük? – kérdezte a Harmadik.
 
-– Nem tudom – mondta a Második. – Egy üres szék nem mondja meg.
+– Nem tudom – mondta a Második. – Az üres szék erről nem mesél.
 
 Odakint a köd felkúszott a falakon, és bekopogott az ablakokon, ahogy minden este fog majd, amíg a kastélyban valaki még játszik.
