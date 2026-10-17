@@ -1,0 +1,15 @@
+# Privát munkaanyag: spoilert tartalmaz, soha nem kerülhet a publikus repóba
+privat/
+titkos-terv*
+*.srt
+jegyzet-*.md
+szerkesztői javaslatok*
+
+# Operációs rendszer / szerkesztő
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
