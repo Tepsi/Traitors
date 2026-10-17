@@ -386,7 +386,7 @@ Aztán belépett a ködbe. Az ajtó becsukódott mögötte.
 
 A székén álló névtáblán a betűk kifakultak és lehulltak. Az asztalnál valaki halkan kimondta a nevét. Aztán más is. Mintha így lehetett volna megtartani.
 
-– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer úrat pajzsa védi. A többieket senki.
+– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer urat pajzsa védi. A többieket senki.
 
 Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, Brandóra öt. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
 
