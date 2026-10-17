@@ -46,7 +46,7 @@ Aztán jött a harmadik csoport. Latabár, Kabos és Puskás együtt jöttek le,
 
 Kabos a kezében forgatta a nem létező kalapját. – Kedves... kedves barátaim, ne haragudjanak, de én ma reggel háromszor ellenőriztem, hogy megvagyok-e.
 
-– Meg van, Gyula – mondta Puskás, és megveregette a vállát. – Te meg vagy, én meg vagyok. Már csak a többiek kellenek.
+– Megvan, Gyula – mondta Puskás, és megveregette a vállát. – Te megvagy, én megvagyok. Már csak a többiek kellenek.
 
 Mögöttük, kissé lemaradva, Hepburn lépett be. A keze összekulcsolva a mellén, az arca sápadt, a szeme fényes. Amikor meglátta Kabost, felsóhajtott, és megfogta mindkét kezét.
 
@@ -58,7 +58,7 @@ Mögöttük, kissé lemaradva, Hepburn lépett be. A keze összekulcsolva a mell
 
 Neumann a háttérben figyelte az egész jelenetet. Christie ceruzája megállt egy pillanatra, aztán tovább írt.
 
-Tizenkettőn voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött elsőként, kényelmes, lassú léptekkel, mint aki sehová sem siet. Mögötte Welles, Taylor és Zsazsa, aki félig suttogva magyarázott valamit Taylornak, és közben a haját igazgatta.
+Tizenketten voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött elsőként, kényelmes, lassú léptekkel, mint aki sehová sem siet. Mögötte Welles, Taylor és Zsazsa, aki félig suttogva magyarázott valamit Taylornak, és közben a haját igazgatta.
 
 – Jó reggelt – mondta Hitchcock. – Kitűnően aludtam. – Körülnézett. – Meglepő, nem?
 
@@ -84,7 +84,7 @@ Senki sem válaszolt.
 
 Húszan ültek az asztalnál. A teremben most már csak a gyertyák ropogtak. Mindenki a kijárat felé nézett, és mindenki számolt, és mindenki más-más nevet keresett a fejében. Hepburn a keze fejét nézte. Bud Spencer a kenyeret törte, és közben az ajtót figyelte. Neumann a gyertyák lángját nézte, mintha ott lenne a válasz.
 
-Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik azé, aki még nem érkezett meg. Aki utolsónak jön, az mindig gyanús: vagy lusta, vagy túl nyugodt, vagy oka van elkésni.
+Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik Brandoé, akik még nem érkeztek meg. Aki utolsónak jön, az mindig gyanús: vagy lusta, vagy túl nyugodt, vagy oka van elkésni.
 
 Aztán a lépcsőn lassú, nehéz léptek hallatszottak.
 
@@ -98,7 +98,7 @@ Brando az ajtóban megállt, a keze a zsebében, az arca álmos. Végignézett a
 
 Odament az asztalhoz, és leült. Huszonegy ember ült a huszonkét székből. A huszonkettedik üres volt.
 
-Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég még meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
+Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég soha meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
 
 A gong egyetlen mély hanggal megkondult, lassan, mintha számolna.
 
@@ -132,7 +132,7 @@ Christie a noteszét az asztal szélére tette, és lapozott. Előző este felí
 
 Kabos utánamondta, aztán Hepburn, aztán Zsazsa, aztán Puskás, mély hangon, mintha eredményt hirdetne. Egyenként ismételték, és mindenki úgy mondta, ahogy tudta, de senki sem mosolygott.
 
-Dalí az üres széket ugyanazzal a tekintettel nézte, amellyel előző este a bástyákat: befelé. – Dalí nem fog elfelejteni – jelentette ki. – Dalí olyan, mint egy festmény. Ami rákerül, az rajta marad. – Christie ránézett, aztán beírt egy szót a noteszébe. Hogy melyiket, azt nem lehetett látni.
+Dalí az üres széket ugyanazzal a tekintettel nézte, amellyel előző este a bástyákat: befelé. – Dalí nem fog elfelejteni – jelentette ki. – Dalí olyan, mint egy festmény. Ami rákerül, az rajta marad. – Christie ránézett, aztán beírt egy szót a noteszébe. Hogy mit, azt nem lehetett látni.
 
 A Játékmester ezúttal nem az erkélyen állt. Az asztalfőnél ült, ahol előző este a gyertyák kialudtak, és a köpenye redői a szék karfájára omlottak. Senki sem látta bejönni.
 
@@ -154,15 +154,15 @@ A bejáratnál kőív állt, alatta a Játékmester, mellette az inas egy üres 
 
 Szünetet tartott.
 
-– A sövényfalak között harminc bőr erszény van elrejtve. Mindegyikben aranyérmék vannak, és mindegyik ötvenezer forintot ér. Amit megtalálnak, az a fődíjba kerül. A labirintus közepén kőoszlop áll, az oszlopon pajzs, mellette harang. Aki megfogja a pajzsot, megkondítja a harangot, és a játék véget ér. Amit addig nem találtak meg, az a labirintusban marad.
+– A sövényfalak között harminc bőr erszény van elrejtve. Mindegyikben aranyérmék vannak, és mindegyik ötvenezer forintot ér. Amit megtalálnak, az a fődíjba kerül. A labirintus közepén kőoszlop áll, az oszlopon pajzs, mellette harang. Aki megkondítja a harangot és megfogja a pajzsot, az megtarthatja és a játék véget ér. Amit addig nem találtak meg, az a labirintusban marad.
 
-A csend most más volt, mint a reggeli. Ez számoló csend volt.
+A csend most más volt, mint a reggeli. Ez lázasan kalkuláló csend volt.
 
 – Negyven percük van. A torony órája tízpercenként üt. Ha negyven perc alatt senki sem ér a labirintus közepére, a pajzs és a pénz is elvész. – Az inasra pillantott, aki meghajolt, mintha ezt neki mondták volna. – A pajzs egy éjszakára védi a viselőjét. Mindenki látni fogja, kié, és az árulók tudni fogják, kihez nem nyúlhatnak. Egy pajzs van, egy harang és huszonegy játékos. Az idő akkor indul, amikor az első játékos átlép az íven. Addig beszélhetnek.
 
 Neumann azonnal megszólalt, mintha ezt a percet várta volna.
 
-– Ez időzítési feladat – mondta –, két kellemetlen tényezővel: az idővel és egymással. A pénz akkor a legtöbb, ha a lehető legtovább keresünk. A pajzs akkor biztonságos, ha időben a közepén vagyunk. Javaslom: a harmadik ütésig gyűjtünk, aztán mindenki elindul a középpont felé. Aki először ér oda, megkapja a pajzsot, és a többiek ezt elfogadják.
+– Ez egy tipikus optimális leállási feladat – mondta –, két kellemetlen tényezővel: az idővel és egymással. A pénz akkor a legtöbb, ha a lehető legtovább keresünk. A pajzs akkor biztonságos, ha időben a közepén vagyunk. Javaslom: a harmadik ütésig gyűjtünk, aztán mindenki elindul a középpont felé. Aki először ér oda, megkapja a pajzsot, és a többiek ezt elfogadják.
 
 – Vagyis a leggyorsabb kapja – mondta Welles. – Meg a legszerencsésebb.
 
@@ -220,7 +220,7 @@ A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
 
 – Én? Én azt mondtam, hogy jobbra! Mindig azt mondom, hogy jobbra!
 
-– Akkor miért vagyunk balra?!
+– Akkor miért jött nekem?!
 
 Egy erszény közben közvetlenül a fejük fölött lógott, és egyikük sem vette észre. Később Hepburn találta meg, aki épp arra járt, és szó nélkül leemelte.
 
@@ -236,9 +236,9 @@ Kabos két fordulóval később a karjába ütközött. Hepburn a kezébe nyomta
 
 Valahol a ködben Callas egyetlen hosszú hangot küldött a sövény fölé, tisztán, mint egy kihúzott vonalat. Aki hallotta, tudta, merre van a labirintus nyugati széle, és aki nem hallotta, annak a többiek segítettek. Mercury dúdolva ment, és közben néha megállt, mintha várna valamire. Nem jött válasz.
 
-A torony órája kétszer ütött. A hangja átjött a ködön, és mindenki megtorpant, aki hallotta: az idő fele eltelt, és senki sem tudta, ki hol áll.
+A torony órája kétszer ütött. A hangja átjött a ködön, és mindenki megtorpant, aki hallotta: az idő fele eltelt, és senki sem tudta, ki merre van.
 
-Bud Spencer addig a labirintus keleti oldalán állt, karját lógatva, és hallgatta az ütéseket. A második ütés után megindult. Nem fordult balra, nem fordult jobbra. A legrövidebb út két pont között az egyenes, és ő ezt komolyan vette. A tiszafa nem engedett, aztán mégis engedett. Négy falon ment át, és a negyedik után már a harang alatt állt.
+Bud Spencer addig a labirintus keleti oldalán állt, karját lógatva, és hallgatta az ütéseket. A második ütés után megindult. Nem fordult balra, nem fordult jobbra. A legrövidebb út két pont között az egyenes, és ő ezt komolyan vette. A tiszafa először nem engedett, aztán mégis. Négy falon ment át, és a negyedik után már a harang alatt állt.
 
 A recsegést és ropogást mindenhol hallották, utána pedig a harang mély, lassú hangját. Egyszer kondult. Mindenki tudta, hogy vége.
 
@@ -272,7 +272,7 @@ Taylor szemöldöke felszaladt. – Aki ennyire siet a pajzsért, az fél.
 
 A Játékmester felemelte a kezét, és mindenki elhallgatott.
 
-– A pajzs ma éjjel Spencer úré. – Szünetet tartott. – A többiekét senki sem védi.
+– A pajzs ma éjjel Spencer úré. – Szünetet tartott. – A többieket semmi sem védi.
 
 ## A délután
 
@@ -288,7 +288,7 @@ Kabos tiltakozott, Zsazsa kacagott, Mercury azt mondta: – Drágám, ha az voln
 
 – Mert kérdezem.
 
-– Akkor kinek mondta még?
+– Kitől kérdezte még?
 
 Hofi egy darabig állt, aztán továbbment. A következő ajtónál annyit mormogott: – Ez kérdéssel felel a kérdésre. Ilyet még nem tapasztaltam.
 
@@ -318,7 +318,7 @@ Egy ideig senki sem szólalt meg. Aztán de Funès felpattant.
 
 – Aki így nevet, annak oka van rá – mondta Psota Irén. – Ma meg elnémult, és az még gyanúsabb.
 
-– Hát most mégis hogy nevessen, Irénke? – kérdezte Zsazsa. – Darling, így nem lehet jól csinálni.
+– Hát most mégis hogy nevessen, Irénke? – kérdezte Zsazsa. – Darling, ezt így nem lehet csinálni.
 
 – Kálmán nem hazudik – mondta Puskás, és az asztalon át megveregette Latabár karját. – Hangosan nevet, az igaz. De amit mond, az úgy van.
 
@@ -386,9 +386,9 @@ Aztán belépett a ködbe. Az ajtó becsukódott mögötte.
 
 A székén álló névtáblán a betűk kifakultak és lehulltak. Az asztalnál valaki halkan kimondta a nevét. Aztán más is. Mintha így lehetett volna megtartani.
 
-– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer úr pajzsa védi. A többiekét senki.
+– A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer úrt pajzsa védi. A többiekét senki.
 
-Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, Brandóra ötön. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
+Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, négy Brandóra. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
 
 Christie ceruzája megállt a lap fölött. Nem szólt semmit. Aztán beírt valamit apró betűkkel, és gyorsan becsukta a noteszt.
 
