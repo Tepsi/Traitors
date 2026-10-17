@@ -10,7 +10,7 @@ Elsőként Einstein érkezett, kócosan, mosolyogva, mintha csak egy szokatlanul
 
 – Négy – mondta végül Neumann. – A huszonkettőből négy. Statisztikailag a kezdet még nem jelent semmit.
 
-– Az, aki hat előtt ér ide, mindig gyanús – mondta Christie, és kinyitotta a noteszét. – Aki későn jön, szintén. Én ezért érkeztem középre.
+– Az, aki az elsők között ér ide, mindig gyanús – mondta Christie, és kinyitotta a noteszét. – Aki utolsónak jön, szintén. Én ezért érkeztem középre.
 
 – Maga hamar ideért – jegyezte meg Bessenyei mély hangon.
 
