@@ -4,8 +4,8 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 
 ## Következő lépések
 - [ ] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
-- [ ] 3. fejezet: reggeli kis csoportokban (új csoportbontás), új üres szék, új próbatétel, K3. (C)
-- [ ] Új próbatétel a 3. naphoz: saját, nem a műsoré. (C+Z)
+- [ ] 3. fejezet átolvasása és jelzés: hangnem, a Csend Szalonja próbatétel szabályai, a Kerekasztal, a konklávé. (Z)
+- [ ] 4. fejezet: reggeli új csoportbontásban, új üres szék, új próbatétel (saját), K4. (C)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
 - [ ] A bejárás szálai: Christie üres polcrése a könyvtárban, a festmények a Nagyterem felé néznek, a pincelépcső ajtaja zárva, a konklávé tölgyajtaja. Visszatérnek-e? (C+Z)
 - [ ] A titkos terv karbantartása: minden új fejezetnél ellenőrzés, a nyomok és a kiesések naplózása. Zoli nem akarja tudni, csak Claude használja. (C)
@@ -29,12 +29,15 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - Welles, Taylor, Dietrich stílusa jó, nem kell bővíteni. (Z)
 - Elfelejtés: a név lekopik a névtábláról és a leírt szövegből, az emlékezet lassan halványul. (C, 2. fejezet)
 - Első próbatétel: Holdvári-labirintus (pajzs paradoxona). Eredmény: fődíj 850 000 Ft. (C, 2. fejezet)
+- Második próbatétel: a Csend Szalonja (hatvan perc hallgatás, minden néma perc +10 000 Ft, aki megszólal, azé a pajzs). Eredmény: fődíj 1 220 000 Ft. (C, 3. fejezet)
 - Halállista lesz a későbbiekben. (Z, 10-16)
 - Meghívás-szabály: ha egy árulót kiszavaznak, az árulók éjjel vagy ölnek, vagy meghívnak egy ártatlant. Elfogadja: áruló lesz; elutasítja: kiesik. Ha az ártatlanok árulót fognak, és reggel senki sem hal meg, sejthetik a meghívást. Részletek: `claude/szabaly-kiegeszitesek.md`. (Z, 10-16)
 - Reggeli-szerkezet minden fejezetben: a játékosok kis csoportokban érkeznek, kibeszélhetik egymást, nyomozhatnak, ármánykodhatnak; örülnek a megérkezőknek; az árulók színlelnek; az utolsó vendég megérkezésekor derül ki, ki halt meg az éjjel. A 2. fejezetben kész. (Z, 10-17)
 - Az árulók a Játékmester szavaiból tudják, hogy 2–4-en vannak, tehát van társuk; az első konklávéig csak azt nem tudják, kik ők és hányan. Soha nem hihetik, hogy egyedül vannak. (Z, 10-17)
 
 ## Kész
+- [x] 3. fejezet megírva: `fejezetek/03-a-hallgatas.md` (új próbatétel: a Csend Szalonja; fődíj 1 220 000 Ft; K3 Psota; N3 név nélkül) (C, 10-18)
+- [x] Titkos terv frissítve a 3. fejezethez (C, 10-18)
 - [x] 4.1 felirat kijegyzetelve: `claude/jegyzet-4-1.md` (C)
 - [x] 4.8 felirat kijegyzetelve: `claude/jegyzet-4-8.md` (C)
 - [x] 1. fejezet: három kis beillesztés a feliratból (C)
