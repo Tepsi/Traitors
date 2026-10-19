@@ -6,6 +6,12 @@ Ide kerülnek a fejezetekhez tartozó illusztrációk promptjai és az elkészü
 
 `FF-SS-cim.md` a prompt, mellette ugyanezzel a névvel `.png` a kész kép. `FF` a fejezet sorszáma, `SS` a kép sorszáma a fejezeten belül.
 
+## Hogyan épülnek a promptok
+
+Minden prompt rögzíti: a kameraállást, az előteret, a középteret és a hátteret, a bal és jobb oldalt (mindig a néző szemszögéből), azt, hogy ki hol ül vagy áll, merre néz, és milyen irányba állnak a székek. A végén egy `DO NOT` sor felsorolja, amit a generátor ne tegyen. A promptok szándékosan hosszúak.
+
+A helyszínek és a ruhák rögzített leírása a `helyszinek-es-szereplok.md` fájlban van, minden prompt ezekből építkezik. Ha egy generátor mégis elrontja a térbeli elrendezést (például a székeket az asztalnak háttal rakja), írd át a promptot a következő módon: ismételd meg a hibás részt, és fogalmazd meg ellentétes irányban („the chairs face the table, the sitters face each other").
+
 ## Közös stílus
 
 Minden prompt ugyanazzal a mondattal indul, így a képek egységesek lesznek:

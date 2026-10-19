@@ -3,21 +3,48 @@
 **Kapcsolódó mondat (2. fejezet, „A reggeli"):**
 „Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek."
 
-**Jelenet:** Louis Armstrong üres széke előtt a névtábla. A betűk kifakulnak, apró por pereg a terítőre. Mellette az összehajtott szalvéta és az érintetlen teríték.
+**Jelenet:** a Nagyterem asztala reggel. Előtérben élesen az aranyozott névtábla, amelyről a betűk porrá omlanak. Mögötte az üres szék, tőle balra Bud Spencer, jobbra Mercury, mindketten elmosódva.
 
 ## Prompt (angolul)
 
 ```
 Monochrome graphite pencil drawing on cream paper, hand-hatched, soft smudged
-shading, fine paper grain, soft vignette edges, ominous gothic mood. Extreme
-close-up of a small gilded name plate in an ornate frame standing on a white
-tablecloth. The engraved letters on the plate are crumbling away: their edges
-dissolve into fine dust and individual letters tumble down onto the cloth,
-leaving a small drift of powder. The plate is almost blank. Beside it an
-untouched place setting: a neatly folded napkin, a clean plate, silver cutlery.
-Behind, softly out of focus, an empty high-backed wooden chair and the warm
-glow of candles. Very shallow depth of field, delicate hatching, the dust
-rendered as tiny stippled dots. No readable text on the plate. Landscape, 3:2.
+shading, fine paper grain, soft vignette edges, quiet and ominous mood.
+Landscape, 3:2.
+
+COMPOSITION: the camera is at table height, close to the table, on one long
+side of a banquet table, looking straight across it. Very shallow depth of
+field: only the foreground object is sharp.
+
+FOREGROUND, SHARP: in the lower center of the picture, a small gilded name
+plate in an ornate frame stands upright on a white linen tablecloth. The
+engraved letters on the plate are crumbling: their edges dissolve into fine
+powder, and individual letters are tumbling down off the plate onto the
+tablecloth, where they lie as a small drift of dust. The plate is almost
+empty. The remaining marks are abstract strokes, not readable text. The dust
+is drawn as tiny stippled dots. Directly behind the plate a clean plate
+with untouched silver cutlery, and to the right of it a neatly folded napkin.
+
+MIDDLE GROUND, SOFT: directly behind the place setting, in the exact center of
+the picture, an empty high-backed carved oak chair, pushed in to the table.
+Nobody sits in it.
+
+THE NEIGHBORS, BLURRED, on the same side of the table, immediately next to the
+empty chair:
+- on the viewer's LEFT of the empty chair sits a very tall, powerfully built
+  man with a thick dark beard in a plain open-collared light shirt, looking
+  down at a piece of bread that he has pushed aside on his plate;
+- on the viewer's RIGHT of the empty chair sits a man with dark hair and a
+  moustache in a dark jacket, head bowed, lips pressed together, his right
+  hand laid on the backrest of the empty chair.
+
+BACKGROUND: dark oak paneling and tall narrow windows with fog. A candelabra
+with lit candles stands on the table, and the candlelight makes a warm
+glow on the paneling behind the three seats. The rest of the hall fades into
+darkness. Everything except the name plate is soft.
+
+DO NOT: add readable letters on the plate, put anyone on the empty chair, add
+color, add other people in sharp focus.
 ```
 
-**Megjegyzés:** a generátorok rosszul írnak betűt, ezért a prompt kifejezetten olvashatatlan feliratot kér. Ez a sorozat visszatérő képe, a 3. fejezetben ugyanez történik Latabárral, Christie-vel és Psota Irénnel.
+**Szereplők (név szerint):** a jobb oldali Freddie Mercury, a bal oldali Bud Spencer. A szék Louis Armstrongé.
