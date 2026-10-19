@@ -342,7 +342,15 @@ Psota Irén nem mozdult.
 
 Psota Irén állt. A pajzsot leengedte az asztalra, két kézzel, mint valami nagyon törékeny dolgot.
 
-– Hát jó – mondta. – Ártatlan vagyok. Ezt most mondom, hangosan, hogy valaki hallja, mielőtt elfelejtik. – A hangja egyre hangosabb lett, és mintha minden szóval visszakapott volna valamit magából. – Nekem az egész testem kiabál! Azt nem lehet elfelejteni!
+– Tíz – mondta. Nem kiabált, és ez volt a legijesztőbb. – Tegnap kilenc kéz kellett egy nevetésért, ma tíz egy hangért. Önök egyre gyorsabbak.
+
+Végignézett az asztalon, lassan, és két embernél, Dietrichnél és Wellesnél egy másodperccel tovább időzött, mint kellett volna.
+
+– Azt hiszik, a pajzs miatt? Nem. Azért, mert hangos vagyok, és a hangost könnyű megszavazni. A csendeset megfigyelni kell, ahhoz fej kell. A hangosra elég a kéz. – A hangja egyre hangosabb lett, és mintha minden szóval visszakapott volna valamit magából. – Én ezen az asztalon egyetlen percig sem játszottam szerepet! Valaki ezen az asztalon most ünnepel, és maguk adták neki az okot rá! Maguk, a tíz kezükkel!
+
+Az asztal körül senki sem mozdult. Psota Irén hangja váratlanul egészen halk lett.
+
+– Nekem az egész testem kiabál. Azt nem lehet elfelejteni. – Egy pillanatra becsukta a szemét. – Ártatlan vagyok.
 
 – Psota Irén ártatlan volt – mondta a Játékmester.
 

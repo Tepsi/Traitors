@@ -366,15 +366,21 @@ Csend lett.
 
 – Latabár Kálmán – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
 
-Latabár felállt, megigazította a nyakkendőjét, és körülnézett az asztalon. Senki sem nézett vissza rá, kivéve Puskást.
+Latabár felállt, megigazította a nyakkendőjét, és körülnézett az asztalon. Senki sem nézett vissza rá, kivéve Puskást. Akkor meghajolt, mélyen, ahogy színpadon szokás, és csak utána szólalt meg, panaszos, ünnepélyes hangon, mintha díjat venne át.
 
-– Hát jó – mondta. – Nem én voltam. Ezt most mondom, hogy valaki leírja, mielőtt elfelejtik.
+– Tisztelt Kerekasztal! Kilenc szavazat. Kilenc! Ilyen sikerem nem volt egy szezonban sem, és most mind itt ültök, és úgy néztek a palatáblátokra, mintha nem ti írtátok volna rá. Ráadásul milyen pontosan! Dalíra egyetlen szavazat jutott, és az is az enyém. Ezt a szabályt még a Játékmester sem ismeri: aki hozzám hasonlóan rosszul céloz, az legalább nem bántott senkit.
+
+Kabos felé fordult, és sértődötten felemelte az ujját.
+
+– Gyula, te négyet kaptál. Négyet! Nem tudom, mit csináltál, de ez tisztességtelen verseny.
+
+Kabos tehetetlenül széttárta a karját. Brando a plafont nézte. Latabár hangja ekkor lassan lejjebb ment, és már nem a közönségnek szólt.
+
+– Egész nap azt hallgattam, hogy hangosan nevetek. Hát nevettem. Én úgy szoktam félni, a többiek meg csendben. Egyvalamit kérek, mielőtt kimegyek: aki közületek ma este mégis nyugodtan alszik, annak vastapsot adok. Ilyen előadást én sem láttam. – Egy pillanatra elhallgatott, aztán felvonta a vállát. – És hogy a nagyjelenetnek is meglegyen a vége: ártatlan vagyok. Tessék. Ennyit tudtam kihozni a szerepből.
 
 – Latabár Kálmán ártatlan volt – mondta a Játékmester.
 
 Kilenc ember a saját palatábláját nézte.
-
-– Hát persze – mondta Latabár halkan.
 
 Einstein kinyújtotta a nyelvét, gyermeki, szívből jövő nyelvöltéssel, hogy megvigasztalja. Latabár elnevette magát, ezúttal halkan, és biccentett.
 
