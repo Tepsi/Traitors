@@ -22,7 +22,7 @@ chairs, looking toward the center of the room. The clock is in the center of
 the picture, tall and dark, and in front of it, a little to the left of
 center, one woman stands in the middle of the circle.
 
-THE WOMAN: a middle-aged woman in a 1960s dress, hair set in waves, has just
+THE WOMAN: Psota Irén, the Hungarian actress, a middle-aged woman in a 1960s dress, hair set in waves, has just
 stood up out of her chair (the chair behind her, pushed back, empty). She
 holds a small round grey iron shield with a single star engraved in raised
 relief at its center, gripped with both hands at arm's length in front of her
@@ -49,12 +49,12 @@ DO NOT: show anyone smiling, hold the shield like a weapon or like a prize,
 show the cloaked man's face, add color, add readable text.
 ```
 
-**Szereplő:** Psota Irén. A jobb oldalon álló, köpenyes alak a Játékmester.
+**Szereplők:** a nevek a promptban is szerepelnek.
 
-## Rövid változat (Microsoft Create, 342 karakter)
+## Rövid változat (Microsoft Create, 354 karakter)
 
 ```
-Monochrome pencil drawing, hatched, tense. A middle-aged woman in a 1960s dress, hair in waves, stands in front of a tall black grandfather clock holding a small round grey iron shield with one star at arm's length in both hands, as if it were a snake, mouth open in protest. Around her a ring of seated people stare at her coldly. Landscape.
+Monochrome pencil drawing, hatched, tense. Psota Irén, a middle-aged woman in a 1960s dress, hair in waves, stands in front of a tall black grandfather clock holding a small round grey iron shield with one star at arm's length in both hands, as if it were a snake, mouth open in protest. Around her a ring of seated people stare at her coldly. Landscape.
 ```
 
 A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

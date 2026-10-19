@@ -22,7 +22,7 @@ black iron shield with a crescent moon on its face is mounted. Beside the
 shield a bronze bell hangs from an iron bracket on the column. The bell is
 motionless.
 
-CENTER: a very tall, powerfully built man with a thick dark beard, in a plain
+CENTER: Bud Spencer, a very tall, powerfully built man with a thick dark beard, in a plain
 open-collared light shirt with rolled sleeves, is bursting through the dense
 hedge wall at the edge of the clearing, walking straight toward the camera,
 shoulders first, unhurried, with a calm, almost bored expression, as if he
@@ -45,12 +45,12 @@ DO NOT: show any other person, add color, make him angry or strained, add
 readable text.
 ```
 
-**Szereplő:** Bud Spencer.
+**Szereplők:** a nevek a promptban is szerepelnek.
 
-## Rövid változat (Microsoft Create, 338 karakter)
+## Rövid változat (Microsoft Create, 352 karakter)
 
 ```
-Monochrome pencil drawing, hatched, ominous with dark humor. A very tall, powerful bearded man in a light shirt calmly bursts through a dense hedge wall, branches splintering. Behind him a straight tunnel of torn hedges recedes into fog. Left foreground: a stone column with a black iron crescent-moon shield and a bronze bell. Landscape.
+Monochrome pencil drawing, hatched, ominous with dark humor. Bud Spencer, a very tall, powerful bearded man in a light shirt, calmly bursts through a dense hedge wall, branches splintering. Behind him a straight tunnel of torn hedges recedes into fog. Left foreground: a stone column with a black iron crescent-moon shield and a bronze bell. Landscape.
 ```
 
 A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

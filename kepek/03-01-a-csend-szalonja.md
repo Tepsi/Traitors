@@ -30,20 +30,17 @@ of the ring from the front. A figure sits on every chair. Nobody speaks.
 THE SITTERS, in period clothing from the 1930s to the 1970s. Distinct figures
 (positions as on a clock face seen from above, 6 o'clock is nearest to the
 camera):
-- at 7 o'clock: a woman in an evening gown with many sparkling bracelets sitting
-  stiffly;
-- at 8 o'clock, seen from behind and the side: a man in a dark suit with a very
-  long, thin, upturned waxed moustache, gripping the moustache with both
+- at 7 o'clock: Elizabeth Taylor, in an evening gown with many sparkling bracelets, sitting stiffly;
+- at 8 o'clock, seen from behind and the side: Salvador Dalí, in a dark suit with a very long, thin, upturned waxed moustache, gripping the moustache with both
   hands, mouth pressed shut;
-- at 10 o'clock: a woman in a dark cape with one hand raised to her throat, her
+- at 10 o'clock: Maria Callas, in a dark cape with one hand raised to her throat, her
   chin lifted, breathing slowly like a trained singer;
-- at 12 o'clock, far side, facing the camera: a man in a formal dark
-  three-piece suit with eyes closed and a faint smile at the corner of his mouth;
-- at 1 o'clock: a very tall bearded man in an open-collared shirt, sitting
+- at 12 o'clock, far side, facing the camera: Alfred Hitchcock, in a formal dark three-piece suit, with eyes closed and a faint smile at the corner of his mouth;
+- at 1 o'clock: Bud Spencer, a very tall bearded man in an open-collared shirt, sitting
   perfectly relaxed with his arms folded, doing nothing, quite at ease;
-- at 3 o'clock: a man with untidy white hair and a rumpled cardigan, sticking
+- at 3 o'clock: Albert Einstein, with untidy white hair and a rumpled cardigan, sticking
   his tongue out;
-- at 4 o'clock: a man in a dark casual jacket with closed eyes, perfectly calm.
+- at 4 o'clock: Marlon Brando, in a dark casual jacket with closed eyes, perfectly calm.
 The other chairs hold anonymous seated figures in similar clothes, hands in
 their laps, eyes on the clock or on the floor.
 
@@ -60,12 +57,12 @@ DO NOT: turn the chairs outward, add more or fewer than nineteen chairs, show
 the cloaked man's face, add color, add readable text on the clock face.
 ```
 
-**Szereplők (név szerint):** 7 óránál Elizabeth Taylor, 8 óránál Salvador Dalí, 10 óránál Maria Callas, 12 óránál Alfred Hitchcock, 1 óránál Bud Spencer, 3 óránál Albert Einstein, 4 óránál Marlon Brando.
+**Szereplők:** a nevek a promptban is szerepelnek.
 
-## Rövid változat (Microsoft Create, 339 karakter)
+## Rövid változat (Microsoft Create, 426 karakter)
 
 ```
-Monochrome pencil drawing, hatched, ominous. High angle on a dim salon with dark green velvet curtains: a huge black grandfather clock in the center, nineteen chairs in a ring all facing the clock, a silent guest on each. Behind one chair stands a tall man in a black cloak, face in shadow, his hand hovering above her shoulder. Landscape.
+Monochrome pencil drawing, hatched, ominous. High angle on a dim salon with dark green velvet curtains: a huge black grandfather clock in the center, nineteen chairs in a ring all facing the clock, a silent famous guest on each (Dalí, Callas, Hitchcock, Bud Spencer, Einstein, Brando, Taylor). Behind Elizabeth Taylor's chair stands a tall man in a black cloak, face in shadow, his hand hovering above her shoulder. Landscape.
 ```
 
 A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

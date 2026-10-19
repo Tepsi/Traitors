@@ -35,13 +35,13 @@ BEYOND, to the right and above the cloak: a long banquet table covered with
 white linen, and across it, on the far side, four guests who sit in a row and
 face the camera, softly lit and a little out of focus, all with their eyes
 tightly shut and their hands on the table:
-- a woman in a tailored 1930s dark outfit with a fur coat over her shoulders,
+- Marlene Dietrich, in a tailored 1930s dark outfit with a fur coat over her shoulders,
   perfectly rigid, like a statue;
-- a woman in an evening gown with many sparkling bracelets, her hands slightly
+- Elizabeth Taylor, in an evening gown with many sparkling bracelets, her hands slightly
   trembling so that the jewelry seems to shiver;
-- a man in a dark 1930s suit and bow tie, lips moving silently as if
+- Kabos Gyula, in a dark 1930s suit and bow tie, lips moving silently as if
   praying;
-- a man in a light 1950s suit, who smiled all evening, now serious.
+- Louis Armstrong, in a light 1950s suit, who smiled all evening, now serious.
 On the table, between the guests and the cloaked figure, the dark silhouettes
 of silver candlesticks whose candles are out, with thin smoke still rising.
 
@@ -55,12 +55,12 @@ fabric), show anyone's open eyes, add candle flames, add color, add readable
 text.
 ```
 
-**Szereplők (név szerint, ha a generátor engedi):** az asztal túloldalán, balról jobbra Marlene Dietrich, Elizabeth Taylor, Kabos Gyula, Louis Armstrong. Az érintett szándékosan nem látszik.
+**Szereplők:** a nevek a promptban is szerepelnek. Az érintett vendég szándékosan nem látszik.
 
-## Rövid változat (Microsoft Create, 360 karakter)
+## Rövid változat (Microsoft Create, 436 karakter)
 
 ```
-Monochrome pencil drawing, hatched, dark and tense. Over the shoulder of a tall figure in a black cloak, seen only from behind: the huge cloak hides the person in front of him completely. Only his pale hand shows, two fingers on a tiny cropped fragment of dark shoulder. Beyond, across a banquet table, four guests with eyes shut. Snuffed candles with smoke. Landscape.
+Monochrome pencil drawing, hatched, dark and tense. Over the shoulder of a tall figure in a black cloak, seen only from behind: the huge cloak hides the person in front of him completely. Only his pale hand shows, two fingers on a tiny cropped fragment of dark shoulder. Beyond, across a banquet table, four guests with eyes shut (Marlene Dietrich, Elizabeth Taylor, Kabos Gyula, Louis Armstrong). Snuffed candles with smoke. Landscape.
 ```
 
 A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

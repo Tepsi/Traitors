@@ -14,12 +14,12 @@ A helyszínek és a ruhák rögzített leírása a `helyszinek-es-szereplok.md` 
 
 ## Generátor: Microsoft Create
 
-A képek a Microsoft Create (Designer) segítségével készülnek. Két dolgot nem tudtam ellenőrizni, ezért próbáld ki: mekkora promptot fogad el a beviteli mező, és elfogadja-e a valós személyek neveit. Ezért minden promptfájlban van két változat:
+A képek a Microsoft Create (Designer) segítségével készülnek. Azt nem tudtam ellenőrizni, mekkora promptot fogad el a beviteli mező. Ezért minden promptfájlban van két változat:
 
 - **Hosszú prompt:** minden térbeli részlet benne van. Ezt használd, ha a mező elfogadja.
 - **Rövid változat (kb. 300–450 karakter):** ha a mező levágja a hosszú promptot, ezt másold be, és a hiányzó részleteket (ki hol ül) szükség esetén egy-egy mondattal pótold.
 
-A promptok szövegében nincs valós név: a szereplők külsejét ruha és mozdulat adja, a nevek csak a promptfájlok végén vannak megjegyzésként. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
+A promptokban a szereplők neve is szerepel, mert a Microsoft Create elfogadja a valós személyeket. Kivétel a `01-03` kép, ahol az érintett vendég szándékosan névtelen és nem látszik. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
 
 ## Közös stílus
 
@@ -33,7 +33,7 @@ Tippek az egységességhez:
 - Ha a generátor színt vagy fotót ad, tedd a prompt elejére: „black and white only, pencil on paper, not a photo".
 - Negatív prompt, ha támogatja: `color, watercolor, photograph, 3D render, cartoon, anime, text, caption, signature, watermark`.
 - Olvasható feliratot a generátorok rosszul írnak, ezért a promptok szándékosan olvashatatlan feliratot kérnek.
-- Ha egy generátor elutasítja a valós személyek nevét, cseréld a nevet korhű ruhaleírásra („a man in a 1950s dark suit and tie"), és a jellegzetes mozdulatot hagyd benne. A mozdulat a szereplő modorát hordozza, az arc felismerhetősége nem fontos.
+- Ha a generátor mégis elutasít egy nevet, cseréld a nevet korhű ruhaleírásra („a man in a 1950s dark suit and tie"), és a jellegzetes mozdulatot hagyd benne. A mozdulat a szereplő modorát hordozza, az arc felismerhetősége nem fontos.
 - A szereplőket méltósággal ábrázold, karikatúra nélkül. A könyv humora a szövegben van, a képek komolyak.
 
 ## Képek

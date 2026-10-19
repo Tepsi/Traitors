@@ -12,8 +12,7 @@ Monochrome graphite pencil drawing on cream paper, hand-hatched, soft smudged
 shading, fine paper grain, soft vignette edges, quiet, sorrowful and ominous
 mood. Landscape, 3:2.
 
-COMPOSITION: close-up from just behind and above the shoulder of a man who
-stands in a doorway, the camera at the height of his chest, looking forward
+COMPOSITION: close-up from just behind and above the shoulder of Freddie Mercury, who stands in a doorway, the camera at the height of his chest, looking forward
 and slightly down at his own hand. The man himself is only suggested: the edge
 of a dark jacket sleeve with a turned-back cuff, and a bit of his chin and
 moustache at the very top edge of the picture, out of focus. He is not the
@@ -31,9 +30,8 @@ A long banquet table with white linen runs away from the camera down the
 center of the hall, silver candelabras with lit candles along its middle, dark
 oak paneling and tall narrow windows in the wall. At the table, in the
 middle distance, two seated figures are recognizable even though blurred: on
-the left side of the table a man in a formal dark three-piece suit sits with
-his hands clasped, looking at the doorway, and on the right side of the
-table, a very tall, bearded man in a light shirt sits next to a round black
+the left side of the table Alfred Hitchcock, in a formal dark three-piece suit, sits with his hands clasped, looking at the doorway, and on the right side of the
+table, Bud Spencer, a very tall, bearded man in a light shirt, sits next to a round black
 iron shield that leans against his chair like an umbrella. The other chairs
 are empty.
 
@@ -44,12 +42,12 @@ DO NOT: show any readable letters on the palm, show a full face, add color,
 add more people.
 ```
 
-**Szereplők (név szerint):** az ajtóban Freddie Mercury (csak a keze és az álla látszik), az asztalnál Alfred Hitchcock és Bud Spencer.
+**Szereplők:** a nevek a promptban is szerepelnek.
 
-## Rövid változat (Microsoft Create, 305 karakter)
+## Rövid változat (Microsoft Create, 355 karakter)
 
 ```
-Monochrome pencil drawing, hatched, sorrowful. Close-up of an open palm in the foreground with only a faint grey smudge, like rubbed-out pencil writing, fingers starting to curl. Behind it, blurred, a doorway onto a long candlelit banquet table with two seated men. Soft warm light on the hand. Landscape.
+Monochrome pencil drawing, hatched, sorrowful. Close-up of Freddie Mercury's open palm in the foreground with only a faint grey smudge, like rubbed-out pencil writing, fingers starting to curl. Behind it, blurred, a doorway onto a long candlelit banquet table with two seated men (Alfred Hitchcock and Bud Spencer). Soft warm light on the hand. Landscape.
 ```
 
 A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.
