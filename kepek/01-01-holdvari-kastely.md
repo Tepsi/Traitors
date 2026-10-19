@@ -5,7 +5,7 @@
 
 A kép a következő részleteket is megmutatja a bekezdésből: sehol egy fénypont az ablakokban, a kapu előtt égő kovácsoltvas lámpás, mellette mozdulatlan, fekete egyenruhás inas, a köd a bekötőúton.
 
-**Fájlok:** `01-holdvari-kastely.png` (kész kép), `01-holdvari-kastely.svg` (vektoros forrás)
+**Fájlok:** `01-01-holdvari-kastely.png` (kész kép), `01-01-holdvari-kastely.svg` (vektoros forrás)
 
 ## Prompt képgenerátorhoz (angolul)
 
