@@ -56,11 +56,3 @@ text.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek. Az érintett vendég szándékosan nem látszik.
-
-## Rövid változat (Microsoft Create, 436 karakter)
-
-```
-Monochrome pencil drawing, hatched, dark and tense. Over the shoulder of a tall figure in a black cloak, seen only from behind: the huge cloak hides the person in front of him completely. Only his pale hand shows, two fingers on a tiny cropped fragment of dark shoulder. Beyond, across a banquet table, four guests with eyes shut (Marlene Dietrich, Elizabeth Taylor, Kabos Gyula, Louis Armstrong). Snuffed candles with smoke. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

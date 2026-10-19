@@ -43,11 +43,3 @@ robes; everything else is deep shadow. The wall and the door fade into black.
 DO NOT: show any faces, add more candles, add color, add windows with
 daylight, add readable text.
 ```
-
-## Rövid változat (Microsoft Create, 327 karakter)
-
-```
-Monochrome pencil drawing, hatched, ominous. Round stone tower room: three figures in dark hooded robes sit on stools around a rough stone table, faces hidden in pure black, only pale hands visible. One candle in the center, its flame bent sideways. Heavy oak door ajar on the right, narrow foggy window on the left. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

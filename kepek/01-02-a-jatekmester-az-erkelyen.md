@@ -52,11 +52,3 @@ DO NOT: put chairs at the ends of the table, turn the chairs away from the
 table, show the cloaked man's face, add color, add readable text, add modern
 objects.
 ```
-
-## Rövid változat (Microsoft Create, 418 karakter)
-
-```
-Monochrome pencil drawing, hatched, ominous. View down the length of a very long banquet table in a dark Tudor hall, from the near end. Guests sit on both long sides facing each other across the table, chairs pushed in toward the table, all heads turned toward the far end. Candles just snuffed, smoke rising. At the far end a stone balcony: one beam of light on a tall man in a black cloak, face in shadow. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

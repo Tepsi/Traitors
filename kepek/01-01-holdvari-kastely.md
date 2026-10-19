@@ -47,11 +47,3 @@ the horizon, and a thin crescent moon in the upper right.
 DO NOT: add color, add more people, light any window, add modern elements,
 make the castle asymmetrical.
 ```
-
-## Rövid változat (Microsoft Create, 397 karakter)
-
-```
-Monochrome graphite pencil drawing, hatched, cream paper. Symmetrical front view of a Tudor castle on a hilltop at night: grey stone, two round towers with conical roofs, black half-timbered wings, a central gable, a pointed door with a lit iron lantern beside it and a motionless footman in a black uniform. All windows dark. Winding path, mist, bare trees, crescent moon, hatched sky. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

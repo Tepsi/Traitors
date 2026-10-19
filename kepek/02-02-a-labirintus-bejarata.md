@@ -47,11 +47,3 @@ footman hold anything but the empty tray, add readable text.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek.
-
-## Rövid változat (Microsoft Create, 398 karakter)
-
-```
-Monochrome pencil drawing, hatched, foggy morning. Seen from behind a group of about twenty famous people in 1930s-70s clothes, including Neumann János and Bud Spencer: a towering dark yew hedge wall with a stone arch in its center. Under the arch a tall man in a black cloak, face in shadow, and beside him a footman in a black uniform holding an empty silver tray. Fog beyond the arch. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

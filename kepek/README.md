@@ -14,12 +14,7 @@ A helyszínek és a ruhák rögzített leírása a `helyszinek-es-szereplok.md` 
 
 ## Generátor: Microsoft Create
 
-A képek a Microsoft Create (Designer) segítségével készülnek. Azt nem tudtam ellenőrizni, mekkora promptot fogad el a beviteli mező. Ezért minden promptfájlban van két változat:
-
-- **Hosszú prompt:** minden térbeli részlet benne van. Ezt használd, ha a mező elfogadja.
-- **Rövid változat (kb. 300–450 karakter):** ha a mező levágja a hosszú promptot, ezt másold be, és a hiányzó részleteket (ki hol ül) szükség esetén egy-egy mondattal pótold.
-
-A promptokban a szereplők neve is szerepel, mert a Microsoft Create elfogadja a valós személyeket. Kivétel a `01-03` kép, ahol az érintett vendég szándékosan névtelen és nem látszik. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
+A képek a Microsoft Create (Designer) segítségével készülnek, amely elfogadja a hosszú promptokat és a valós személyek neveit. Ezért minden promptfájl egyetlen, teljes részletességű promptot tartalmaz, a szereplők nevével együtt. Kivétel a `01-03` kép, ahol az érintett vendég szándékosan névtelen és nem látszik. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
 
 ## Közös stílus
 

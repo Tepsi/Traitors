@@ -43,11 +43,3 @@ add more people.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek.
-
-## Rövid változat (Microsoft Create, 355 karakter)
-
-```
-Monochrome pencil drawing, hatched, sorrowful. Close-up of Freddie Mercury's open palm in the foreground with only a faint grey smudge, like rubbed-out pencil writing, fingers starting to curl. Behind it, blurred, a doorway onto a long candlelit banquet table with two seated men (Alfred Hitchcock and Bud Spencer). Soft warm light on the hand. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

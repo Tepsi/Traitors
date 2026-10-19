@@ -58,11 +58,3 @@ the cloaked man's face, add color, add readable text on the clock face.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek.
-
-## Rövid változat (Microsoft Create, 426 karakter)
-
-```
-Monochrome pencil drawing, hatched, ominous. High angle on a dim salon with dark green velvet curtains: a huge black grandfather clock in the center, nineteen chairs in a ring all facing the clock, a silent famous guest on each (Dalí, Callas, Hitchcock, Bud Spencer, Einstein, Brando, Taylor). Behind Elizabeth Taylor's chair stands a tall man in a black cloak, face in shadow, his hand hovering above her shoulder. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

@@ -46,11 +46,3 @@ color, add other people in sharp focus.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek.
-
-## Rövid változat (Microsoft Create, 420 karakter)
-
-```
-Monochrome pencil drawing, hatched, quiet. Close-up of a gilded name plate on a white tablecloth, its letters crumbling into fine dust that falls on the cloth, no readable text. Behind it Louis Armstrong's blurred empty chair, with Bud Spencer (big, bearded, light shirt) on its left and Freddie Mercury (dark hair, moustache, dark jacket) on its right, his hand on the chair back. Candlelight, dark paneling. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

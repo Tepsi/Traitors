@@ -50,11 +50,3 @@ show the cloaked man's face, add color, add readable text.
 ```
 
 **Szereplők:** a nevek a promptban is szerepelnek.
-
-## Rövid változat (Microsoft Create, 354 karakter)
-
-```
-Monochrome pencil drawing, hatched, tense. Psota Irén, a middle-aged woman in a 1960s dress, hair in waves, stands in front of a tall black grandfather clock holding a small round grey iron shield with one star at arm's length in both hands, as if it were a snake, mouth open in protest. Around her a ring of seated people stare at her coldly. Landscape.
-```
-
-A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.
