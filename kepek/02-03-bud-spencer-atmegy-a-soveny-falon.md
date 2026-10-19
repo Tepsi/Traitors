@@ -46,3 +46,11 @@ readable text.
 ```
 
 **Szereplő:** Bud Spencer.
+
+## Rövid változat (Microsoft Create, 338 karakter)
+
+```
+Monochrome pencil drawing, hatched, ominous with dark humor. A very tall, powerful bearded man in a light shirt calmly bursts through a dense hedge wall, branches splintering. Behind him a straight tunnel of torn hedges recedes into fog. Left foreground: a stone column with a black iron crescent-moon shield and a bronze bell. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

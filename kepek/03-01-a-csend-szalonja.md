@@ -61,3 +61,11 @@ the cloaked man's face, add color, add readable text on the clock face.
 ```
 
 **Szereplők (név szerint):** 7 óránál Elizabeth Taylor, 8 óránál Salvador Dalí, 10 óránál Maria Callas, 12 óránál Alfred Hitchcock, 1 óránál Bud Spencer, 3 óránál Albert Einstein, 4 óránál Marlon Brando.
+
+## Rövid változat (Microsoft Create, 339 karakter)
+
+```
+Monochrome pencil drawing, hatched, ominous. High angle on a dim salon with dark green velvet curtains: a huge black grandfather clock in the center, nineteen chairs in a ring all facing the clock, a silent guest on each. Behind one chair stands a tall man in a black cloak, face in shadow, his hand hovering above her shoulder. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

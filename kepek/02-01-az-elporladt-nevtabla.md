@@ -48,3 +48,11 @@ color, add other people in sharp focus.
 ```
 
 **Szereplők (név szerint):** a jobb oldali Freddie Mercury, a bal oldali Bud Spencer. A szék Louis Armstrongé.
+
+## Rövid változat (Microsoft Create, 393 karakter)
+
+```
+Monochrome pencil drawing, hatched, quiet. Close-up of a gilded name plate on a white tablecloth, its letters crumbling into fine dust that falls on the cloth, no readable text. Behind it a blurred empty chair, with a big bearded man in a light shirt on its left and a dark-haired moustached man in a dark jacket on its right, his hand on the chair back. Candlelight, dark paneling. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

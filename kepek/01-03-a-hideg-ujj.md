@@ -49,3 +49,11 @@ add color, add readable text.
 ```
 
 **Szereplők (név szerint, ha a generátor engedi):** balról jobbra Marlene Dietrich, Elizabeth Taylor, a középső névtelen, Kabos Gyula, Louis Armstrong.
+
+## Rövid változat (Microsoft Create, 338 karakter)
+
+```
+Monochrome pencil drawing, hatched, dark and tense. Five guests sit in a row behind a banquet table, facing us, eyes shut. Behind the middle man stands a tall figure in a black cloak, face in shadow, resting two pale fingers lightly on his shoulder. Snuffed candles with smoke in the foreground, a narrow moonlit window behind. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

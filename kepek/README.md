@@ -12,6 +12,15 @@ Minden prompt rögzíti: a kameraállást, az előteret, a középteret és a h�
 
 A helyszínek és a ruhák rögzített leírása a `helyszinek-es-szereplok.md` fájlban van, minden prompt ezekből építkezik. Ha egy generátor mégis elrontja a térbeli elrendezést (például a székeket az asztalnak háttal rakja), írd át a promptot a következő módon: ismételd meg a hibás részt, és fogalmazd meg ellentétes irányban („the chairs face the table, the sitters face each other").
 
+## Generátor: Microsoft Create
+
+A képek a Microsoft Create (Designer) segítségével készülnek. Két dolgot nem tudtam ellenőrizni, ezért próbáld ki: mekkora promptot fogad el a beviteli mező, és elfogadja-e a valós személyek neveit. Ezért minden promptfájlban van két változat:
+
+- **Hosszú prompt:** minden térbeli részlet benne van. Ezt használd, ha a mező elfogadja.
+- **Rövid változat (kb. 300–450 karakter):** ha a mező levágja a hosszú promptot, ezt másold be, és a hiányzó részleteket (ki hol ül) szükség esetén egy-egy mondattal pótold.
+
+A promptok szövegében nincs valós név: a szereplők külsejét ruha és mozdulat adja, a nevek csak a promptfájlok végén vannak megjegyzésként. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
+
 ## Közös stílus
 
 Minden prompt ugyanazzal a mondattal indul, így a képek egységesek lesznek:

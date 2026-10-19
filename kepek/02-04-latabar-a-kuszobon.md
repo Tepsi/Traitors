@@ -50,3 +50,11 @@ on the slates, put the standing man in the room.
 ```
 
 **Szereplők (név szerint):** a küszöbön Latabár Kálmán, előtérben Kabos Gyula.
+
+## Rövid változat (Microsoft Create, 425 karakter)
+
+```
+Monochrome pencil drawing, hatched, melancholic. Domed round chamber with a huge round black table. Far right: a tall black door with a silver frame stands open onto soft white fog. In the doorway a man in a 1950s suit stumbles on the threshold, looking back over his shoulder with a bittersweet half-smile. Left foreground: a seated man in a 1930s suit and bow tie, hands raised as if holding a hat, watching him. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.

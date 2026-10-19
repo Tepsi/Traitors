@@ -50,3 +50,11 @@ show the cloaked man's face, add color, add readable text.
 ```
 
 **Szereplő:** Psota Irén. A jobb oldalon álló, köpenyes alak a Játékmester.
+
+## Rövid változat (Microsoft Create, 342 karakter)
+
+```
+Monochrome pencil drawing, hatched, tense. A middle-aged woman in a 1960s dress, hair in waves, stands in front of a tall black grandfather clock holding a small round grey iron shield with one star at arm's length in both hands, as if it were a snake, mouth open in protest. Around her a ring of seated people stare at her coldly. Landscape.
+```
+
+A rövid változat nem rögzíti a bal-jobb helyzetet olyan pontosan, mint a hosszú. Ha a generátor elrontja az elrendezést, egészítsd ki a hosszú prompt megfelelő bekezdésével.
