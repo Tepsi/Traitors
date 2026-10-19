@@ -26,7 +26,7 @@ A titkos terv, a vázlatok és a feliratok jegyzetei a claude.ai Projectben vann
 3. **Átolvasás.** Ha a fejezet kész, olvasd át egyszer, és javítsd a következetlenségeket, a nyelvtani hibákat és a magyartalan mondatokat (Edit-tel). Ellenőrizd a szöveget a titkos terv megfelelő részével (fair play nyomok, ki esik ki).
 4. **Lezárás.** Mentsd a kész fejezetet a `fejezetek/` mappába (`NN-cim.md`), frissítsd a `README.md` fejezettáblázatát és a `projekt/teendok.md`-t. A módosult privát jegyzeteket (titkos terv stb.) a Projectben frissítsd. Végül töröld a `temporary/` mappát (`git rm -r temporary`), és commitold, pushold.
 
-A felhasználó kérése: ne kérdezd meg minden lépés után, hogy jöhet-e a következő. Haladj tovább a lépéseken, és csak akkor állj meg, ha valódi döntés kell tőle (például új szereplő sorsa, a titkos terv módosítása), vagy ha a fejezet elkészült.
+A felhasználó kérése: új fejezetet csak akkor kezdj el, ha ő kéri, és ne kérdezgesd, hogy jöhet-e a következő. Ha egy fejezet már folyamatban van, ne kérdezd meg minden lépés után, hogy mehet-e tovább: haladj a lépéseken, és csak akkor állj meg, ha valódi döntés kell tőle (például új szereplő sorsa, a titkos terv módosítása), vagy ha a fejezet elkészült.
 
 ### Illusztrációk
 A `kepek/` mappában vannak az illusztrációk promptjai (`FF-SS-cim.md`) és a kész képek. A felhasználó a képeket külső AI-val készíti. Minden kép egy konkrét mondathoz kapcsolódik, a promptfájl ezt idézi. Új fejezetnél a szöveg elkészülte után javasolj és írj 2–4 promptot ugyanebben a formában, és vedd fel a `kepek/README.md` táblázatába. A képeket a fejezet szövegébe csak a lezáráskor (4. lépés) szerkesszük bele, a kapcsolódó mondat alá.
