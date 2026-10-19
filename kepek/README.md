@@ -6,6 +6,16 @@ Ide kerülnek a fejezetekhez tartozó illusztrációk promptjai és az elkészü
 
 `FF-SS-cim.md` a prompt, mellette ugyanezzel a névvel `.png` a kész kép. `FF` a fejezet sorszáma, `SS` a kép sorszáma a fejezeten belül.
 
+## Hogyan épülnek a promptok
+
+Minden prompt rögzíti: a kameraállást, az előteret, a középteret és a hátteret, a bal és jobb oldalt (mindig a néző szemszögéből), azt, hogy ki hol ül vagy áll, merre néz, és milyen irányba állnak a székek. A végén egy `DO NOT` sor felsorolja, amit a generátor ne tegyen. A promptok szándékosan hosszúak.
+
+A helyszínek és a ruhák rögzített leírása a `helyszinek-es-szereplok.md` fájlban van, minden prompt ezekből építkezik. Ha egy generátor mégis elrontja a térbeli elrendezést (például a székeket az asztalnak háttal rakja), írd át a promptot a következő módon: ismételd meg a hibás részt, és fogalmazd meg ellentétes irányban („the chairs face the table, the sitters face each other").
+
+## Generátor: Microsoft Create
+
+A képek a Microsoft Create (Designer) segítségével készülnek, amely elfogadja a hosszú promptokat és a valós személyek neveit. Ezért minden promptfájl egyetlen, teljes részletességű promptot tartalmaz, a szereplők nevével együtt. Kivétel a `01-03` kép, ahol az érintett vendég szándékosan névtelen és nem látszik. Ha van képarány-választó, válaszd a fekvő (3:2 vagy 16:9) formátumot.
+
 ## Közös stílus
 
 Minden prompt ugyanazzal a mondattal indul, így a képek egységesek lesznek:
@@ -18,7 +28,7 @@ Tippek az egységességhez:
 - Ha a generátor színt vagy fotót ad, tedd a prompt elejére: „black and white only, pencil on paper, not a photo".
 - Negatív prompt, ha támogatja: `color, watercolor, photograph, 3D render, cartoon, anime, text, caption, signature, watermark`.
 - Olvasható feliratot a generátorok rosszul írnak, ezért a promptok szándékosan olvashatatlan feliratot kérnek.
-- Ha egy generátor elutasítja a valós személyek nevét, cseréld a nevet korhű ruhaleírásra („a man in a 1950s dark suit and tie"), és a jellegzetes mozdulatot hagyd benne. A mozdulat a szereplő modorát hordozza, az arc felismerhetősége nem fontos.
+- Ha a generátor mégis elutasít egy nevet, cseréld a nevet korhű ruhaleírásra („a man in a 1950s dark suit and tie"), és a jellegzetes mozdulatot hagyd benne. A mozdulat a szereplő modorát hordozza, az arc felismerhetősége nem fontos.
 - A szereplőket méltósággal ábrázold, karikatúra nélkül. A könyv humora a szövegben van, a képek komolyak.
 
 ## Képek
