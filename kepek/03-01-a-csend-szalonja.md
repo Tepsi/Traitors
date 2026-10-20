@@ -1,7 +1,7 @@
 # 3. fejezet – A Csend Szalonja
 
 **Kapcsolódó mondat (3. fejezet, „A Csend Szalonja"):**
-„A terem közepén hatalmas álló óra állt, fekete tokjában ezüst ingával, és körülötte tizenkilenc szék kört alkotott."
+„A terem közepén hatalmas, fekete álló óra állt ezüst ingával, és körülötte tizenkilenc szék kört alkotott."
 
 **Jelenet:** a szalon felülről nézve, a tizenkilenc szék köre befelé, az óra felé fordul. Mindenki némán ül, mindenkinek más a jellegzetes mozdulata. Az egyik szék mögött megáll a Játékmester.
 

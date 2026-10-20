@@ -56,7 +56,7 @@ A negyedik csoport zajosan érkezett, mert Hofi és de Funès már a lépcsőn v
 
 – Hagyja már, Funès úr – mondta Psota Irén, de olyan halkan, hogy alig lehetett hallani. – Úgyis megérkeznek.
 
-Ezt a reggelen többen is észrevették Psota Irénen, és mindenki másként magyarázta.
+Psota Irénnél szokatlan volt ez a halk hang, ezt többen is észrevették a reggelinél, és mindenki másként magyarázta.
 
 Az ötödik csoportot Neumann vezette. Pontosan érkezett, mint egy vonat, és mögötte Hepburn lépett be, majd Brando, kissé hátul, mintha véletlenül került volna a sor végére.
 
@@ -64,7 +64,7 @@ Az ötödik csoportot Neumann vezette. Pontosan érkezett, mint egy vonat, és m
 
 – Mi van? – kérdezte Brando az ajtóban. – Ma nem én vagyok az utolsó?
 
-– Ma még nem – mondta Hitchcock.
+– Ma nem – mondta Hitchcock.
 
 – Akkor ma én nem vagyok gyanús – mondta Brando, és Hitchcock felé biccentett. – Aki az első, az ideges, ezt tegnap mondtam. Aki a közepén jön, az kiszámítható. – Megvonta a vállát. – Nem tudom, melyiket szeretném jobban.
 
@@ -72,7 +72,7 @@ Hepburn nem szólt semmit. Leült Kabos mellé, és megfogta a kezét az asztal 
 
 Tizennyolc ember ült az asztalnál. Armstrong és Latabár terítéke mellett a névtábla üres volt, a másik kettőn még ott állt a név: CHRISTIE és CALLAS.
 
-– Tizennyolc – mondta Neumann. – Egy még jön, és egy nem. – Elhallgatott, és a gyertyák lángját nézte. – Ha ő megérkezik, tudni fogjuk.
+– Tizennyolc – mondta Neumann. – Egy még jön, és egy nem. – Elhallgatott, és a gyertyák lángját nézte.
 
 – Még lehet, hogy késik – mondta Einstein halkan. – Tegnap az elsők között jött, de talán ma...
 
@@ -130,13 +130,13 @@ Senki sem nevetett, és ő sem.
 
 ## A Csend Szalonja
 
-A Csend Szalonja a keleti szárnyban volt, a Kerekasztal kupolatermén túl. Nehéz, sötétzöld függönyök fogták be az ablakokat, és a padlót vastag szőnyeg borította, amely elnyelte a lépteket. A terem közepén hatalmas álló óra állt, fekete tokjában ezüst ingával, és körülötte tizenkilenc szék kört alkotott.
+A Csend Szalonja a keleti szárnyban volt, a Kerekasztal kupolatermén túl. Nehéz, sötétzöld függönyök fogták be az ablakokat, és a padlót vastag szőnyeg borította, amely elnyelte a lépteket. A terem közepén hatalmas, fekete álló óra állt ezüst ingával, és körülötte tizenkilenc szék kört alkotott.
 
 Mindenki ott ült le, ahol akart. Kabos Hepburn mellé ült, Puskás a másik oldalára. Dietrich és Welles a kör túloldalán foglalt helyet, egymás mellett. Brando leült, és lehunyta a szemét, mint aki odahaza van.
 
 A Játékmester az óra mellett állt, az inas a háta mögött.
 
-– Egy órájuk van – mondta. – Minden perc, amelyben senki sem szólal meg, tízezer forinttal gyarapítja a fődíjat. Beszélni nem szabad, hangot adni nem szabad, írni sem. Mozdulni szabad, jelezni szabad. – Szünetet tartott. – Aki megszólal, véget vet a játéknak. A pénz addig a fődíjban marad, a pajzs pedig azé, aki először megszólalt. Ha az óra hatvanat üt, és mind hallgatnak, a pénz az övék, de a pajzs elvész.
+– Egy órájuk van – mondta. – Minden perc, amelyben senki sem szólal meg, tízezer forinttal gyarapítja a fődíjat. Beszélni nem szabad, hangot adni nem szabad, írni sem. Mozdulni szabad, jelezni szabad. – Szünetet tartott. – Aki megszólal, véget vet a játéknak. Az addig összegyűlt pénz a fődíjba kerül, a pajzs pedig azé, aki először megszólalt. Ha az óra hatvanat üt, és mind hallgatnak, mind a hatszázezer forint a fődíjba kerül, de a pajzs elvész.
 
 Senki sem mozdult.
 
@@ -184,11 +184,11 @@ Nem sietett. A léptei egyenletesek voltak, ugyanazok, amelyek az első éjszak�
 
 A kör túlsó felén valaki élesen beszívta a levegőt. A Játékmester továbbment.
 
-Dietrich feje alig észrevehetően elfordult. A tekintete a kör túloldalára siklott, ahol hat-hét ember ült egymás mellett. Senki sem nézett vissza rá. Aztán Welles felé fordult, és kérdőn felvonta a szemöldökét. Welles egy mozdulattal biccentett: ő is hallotta.
+Dietrich feje alig észrevehetően odafordult. A tekintete a kör túloldalára siklott, ahol hat-hét ember ült egymás mellett. Senki sem nézett vissza rá. Aztán Welles felé fordult, és kérdőn felvonta a szemöldökét. Welles egy mozdulattal biccentett: ő is hallotta.
 
 A második tíz perc elteltével az óra ismét megkondult. – Húsz perc – mondta a Játékmester. – Kétszázezer forint.
 
-A harmadik tíz perc lassabban telt. A mozgások eltűntek, a kezek az ölbe kerültek, a tekintetek az óra tokjára vagy a padlóra. Zsazsa ajka hangtalanul formálta, hogy darling, de senki sem nézett rá. De Funès arca végre elcsendesedett. Kabos száját a tenyerébe temette. Mercury ujjai nem doboltak többé. Callas a kezét a torkához emelte, mintha tartaná a hangját, és közben lassan, egyenletesen lélegzett, ahogy énekesek tanulják.
+A harmadik tíz perc lassabban telt. A mozgások eltűntek, a kezek az ölbe kerültek, a tekintetek az órára vagy a padlóra. Zsazsa ajka hangtalanul formálta, hogy darling, de senki sem nézett rá. De Funès arca végre elcsendesedett. Kabos száját a tenyerébe temette. Mercury ujjai nem doboltak többé. Callas a kezét a torkához emelte, mintha tartaná a hangját, és közben lassan, egyenletesen lélegzett, ahogy énekesek tanulják.
 
 Hitchcock csukott szemmel ült, és az ajka sarkán halvány mosoly látszott. Taylor észrevette, és nem tudta eldönteni, hogy ez nyugalom vagy valami más.
 
@@ -220,7 +220,7 @@ Az inas elővett valahonnan egy kisebb pajzsot, szürke vasból, amelyen egyetle
 
 – Nem kell! – tiltakozott Psota Irén, és a pajzsot két kézzel tartotta, mintha kígyót fogna. – Én nem kértem! Én csak... Nem bírtam! Mondják már, hogy nem bírtam!
 
-Senki sem mondta. Mindenki őt nézte, és a tekintetekben nem volt harag, csak számolás.
+Senki sem mondta. Mindenki őt nézte, és a tekintetekben nem volt harag, csak mérlegelés.
 
 – Ő szólt – jegyezte meg de Funès, és nem volt olyan hangos, mint máskor. – Ő volt az első.
 
@@ -342,11 +342,11 @@ Psota Irén nem mozdult.
 
 Psota Irén állt. A pajzsot leengedte az asztalra, két kézzel, mint valami nagyon törékeny dolgot.
 
-– Tíz – mondta. Nem kiabált, és ez volt a legijesztőbb. – Tegnap kilenc kéz kellett egy nevetésért, ma tíz egy hangért. Önök egyre gyorsabbak.
+– Tíz – mondta. Nem kiabált, és ez volt a legijesztőbb. – Tegnap kilenc kéz is elég volt egy nevetésért, ma tíz egy hangért. Önök egyre gyorsabbak.
 
 Végignézett az asztalon, lassan, és két embernél, Dietrichnél és Wellesnél egy másodperccel tovább időzött, mint kellett volna.
 
-– Azt hiszik, a pajzs miatt? Nem. Azért, mert hangos vagyok, és a hangost könnyű megszavazni. A csendeset megfigyelni kell, ahhoz fej kell. A hangosra elég a kéz. – A hangja egyre hangosabb lett, és mintha minden szóval visszakapott volna valamit magából. – Én ezen az asztalon egyetlen percig sem játszottam szerepet! Valaki ezen az asztalon most ünnepel, és maguk adták neki az okot rá! Maguk, a tíz kezükkel!
+– Azt hiszik, a pajzs miatt? Nem. Azért, mert hangos vagyok, és a hangost könnyű megszavazni. A csendeset megfigyelni kell, ahhoz fej kell. A hangosra elég a kéz. – A hangja egyre hangosabb lett, és mintha minden szóval visszakapott volna valamit magából. – Én ennél az asztalnál egyetlen percig sem játszottam szerepet! Valaki ennél az asztalnál most ünnepel, és maguk adták neki az okot rá! Maguk, a tíz kezükkel!
 
 Az asztal körül senki sem mozdult. Psota Irén hangja váratlanul egészen halk lett.
 
@@ -394,15 +394,15 @@ A gyertya lángja nem remegett. Sokáig senki sem szólalt meg, és ez a hallgat
 
 – Valaki ma újra hallott valamit – mondta végül az Első.
 
-– Ketten is – felelte a Második. – Az egyik elfordult, a másik bólintott.
+– Ketten is – felelte a Második. – Az egyik odafordult, a másik bólintott.
 
 – Láttam – mondta a Harmadik.
 
-– Ma éjjel csak az egyiket – mondta az Első. – Egyszerre kettő sok volna. Két nap egymás után ugyanabból a sarokból, és már mindenki odanézne.
+– Az egyiket ma éjjel – mondta az Első. – A másikat később. Két nap egymás után ugyanabból a sarokból, és már mindenki odanézne.
 
 – Melyiket? – kérdezte a Második.
 
-– Aki elfordult.
+– Aki odafordult.
 
 – Rendben – mondta a Második.
 
