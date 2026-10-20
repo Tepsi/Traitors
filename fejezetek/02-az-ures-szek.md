@@ -376,7 +376,7 @@ Kabos felé fordult, és sértődötten felemelte az ujját.
 
 Kabos tehetetlenül széttárta a karját. Brando a plafont nézte. Latabár hangja ekkor lassan lejjebb ment, és már nem a közönségnek szólt.
 
-– Egész nap azt hallgattam, hogy hangosan nevetek. Hát nevettem. Én úgy szoktam félni, a többiek meg csendben. Egyvalamit kérek, mielőtt kimegyek: aki közületek ma este mégis nyugodtan alszik, annak vastapsot adok. Ilyen előadást én sem láttam. – Egy pillanatra elhallgatott, aztán felvonta a vállát. – És hogy a nagyjelenetnek is meglegyen a vége: ártatlan vagyok. Tessék. Ennyit tudtam kihozni a szerepből.
+– Egész nap azt hallgattam, hogy hangosan nevetek. Hát nevettem. Én úgy szoktam félni, a többiek meg csendben. Egyvalamit kérek, mielőtt kimegyek: aki közületek ma este mégis nyugodtan alszik, az tapsoljon magának. Vastapsot érdemel. Ilyen előadást én sem láttam. – Egy pillanatra elhallgatott, aztán felvonta a vállát. – És hogy a nagyjelenetnek is meglegyen a vége: ártatlan vagyok. Tessék. Ennyit tudtam kihozni a szerepből.
 
 – Latabár Kálmán ártatlan volt – mondta a Játékmester.
 
