@@ -278,4 +278,126 @@ Hepburn odalépett de Funèshez, és megfogta a karját. – Hagyják, kérem. M
 
 A lépcsőn egy ideig csak a víz csorgott lefelé. Welles a medence mellett állt, a kancsó még a kezében, és nem szólt semmit. Aztán letette, nagyon óvatosan, mintha attól félne, hogy a rézfal visszhangot ad.
 
-Brando eleresztette a kötelet, és a kút mélyén valami kopogott.
+Brando eleresztette a kötelet, és a kút mélyén a kötél végén lógó üres vödör a kőfalhoz koccant.
+
+## A Kerekasztal
+
+A Kerekasztal körül tizenhét szék állt. A kupola csillagfoltjai tompábban ragyogtak, mint tegnap, és a fekete ajtó ezüst kerete mozdulatlan volt.
+
+A Játékmester a magasabb székben ült, és sokáig nem szólt.
+
+– Huszonketten ültek le ehhez az asztalhoz – mondta végül. – Most tizenheten vannak. – Szünetet tartott. – Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, és ha volna, itt akkor sem védene. Kérem, kezdjék.
+
+Egy ideig csak a lélegzetek hallatszottak. De Funès a szék szélén ült, a két kezét a térdére szorította, mintha attól félne, hogy magától elindulnak.
+
+– Szeretném megérteni, mi történt a lépcsőn – mondta Taylor nyugodtan, mint aki szerződést olvas. – Funès úr, maga azt mondta Einstein úrnak, hogy tudja, hogy csúszik. Aztán kiesett a kezéből a vödör.
+
+– Mert csúszott! – De Funès felugrott, és a keze magától a levegőbe lendült, mint régen. Aztán észrevette, hogy mindenki őt nézi, és lassan visszaült. – Tudtam, hogy csúszik, és csúszott. Pardon. Egy kéz nem azért remeg, mert valaki akarja.
+
+– Én csak annyit mondok – szólalt meg Hofi –, hogy tizenhat vödör simán ment, és a tizenhetedik pont akkor szakad, amikor a lánc a legszebben tart. Ez nem szerencse. Ez dramaturgia.
+
+– Ez nem dramaturgia – mondta de Funès halkan. – Ez a lépcső volt. – Nem emelte fel a hangját, és ettől a mondat gyengébbnek hangzott, mint amilyen volt.
+
+– Tegnap Irén azt mondta, hogy a hangost könnyű megszavazni – mondta Taylor. – Maga ma halk. Aki kiabál, azt ismerjük. Aki egyik napról a másikra elhallgat, azt nem.
+
+– Aki tegnap kiabált, azt tegnap kiszavazták – felelte de Funès. – Ezt már reggel mondtam. Maguk akkor megértették.
+
+– A betűrendet én javasoltam – mondta Neumann, és összefonta a kezét az asztalon. – Ha valakit az gyanúsít, hogy a lépcsőre került, azt én osztottam be. Nem mentegetőzöm, csak tisztázom: a hely nem választás volt, hanem ábécé.
+
+– Rend – mondta Hepburn halkan. – Azt mondtam, hogy az megnyugtat. – Nem nézett Neumannra, hanem de Funèsre. – Kérem, ne szavazzanak rá. Bármi történt a lépcsőn, ma ő a legkevésbé veszélyes ember ezen az asztalon.
+
+– Javaslom – mondta Brando, és a kezére támasztotta a fejét –, hogy a lépcsőt szavazzuk ki.
+
+– A lépcső nem játékos – mondta a Játékmester, anélkül hogy ránézett volna.
+
+– Pedig ő csúszott. – Brando vállat vont. – Mindenkit megkérdeztek, csak őt nem.
+
+– Én aláírom – mondta Hofi.
+
+Senki sem nevetett, de de Funès arcán egy pillanatra átfutott valami, ami majdnem mosoly volt.
+
+– Maga vállalta a kutat, Marlon – mondta Taylor. – Egyedül, senki sem kérte.
+
+– Maga vállalta volna? – kérdezte Brando.
+
+– Nem.
+
+– Akkor miért gyanús, hogy valaki igen?
+
+– Mert maga vállalta.
+
+– Ez nem válasz. – Brando megint lehunyta a szemét. – Ez egy kör.
+
+– Én nem tudom, kire szavazzak, drágáim – mondta Zsazsa, és a karperecei megcsendültek. – De azt tudom, hogy Marlene mellett ült valaki, és az az ember reggel egy kortyot sem ivott a teájából.
+
+– Maga figyelte, hogy iszom-e? – kérdezte Welles.
+
+– Persze, drágám.
+
+– Akkor figyelhette volna azt is, hogy ki nincs itt. – Welles nem emelte fel a hangját. – Én azt nézem.
+
+Bessenyei ekkor felállt. Eddig hallgatott, és a hangját két napig úgy nyomta le magában, hogy a felállása is többet hallatszott, mint a szava.
+
+– Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom ezt az asztalt. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem állt a vita közepére.
+
+Szünetet tartott.
+
+– Hepburn kisasszony. – A nevet nem hangsúlyozta. – Neumann. Dalí. Callas. Hitchcock. Öt név. Nem vádolom őket, tudja a Jóisten, hogy nem vádolok senkit azzal, amit nem tudok. De én olyan társaságban nőttem fel, ahol aki sosem szólt bele a vitába, azt előbb-utóbb megkérdezték: és te mit gondolsz? Én most megkérdezem. És maguk, öten, mit gondolnak?
+
+– Öt a tizenhétből – mondta Neumann. – Majdnem harminc százalék. Egy társaságban a csendesek aránya ennyi körül szokott lenni. Ez nem tünet, csak eloszlás.
+
+– Dalí nem csendes – jelentette ki Dalí. – Dalí csak nem hajlandó vitatkozni azokkal, akik nem látják a valóságot. Ez nagy különbség.
+
+– Én azért hallgatok, mert nem tudok semmit – mondta Callas. – Ha tudnék, mondanám. – Egy pillanatig a szája nyitva maradt, aztán összezárta. – Ennyi.
+
+– Érdekes – mondta Hitchcock, és kedvesen mosolygott, mint aki egy jó mesét dicsér. – Bessenyei úr listáján pont azok szerepelnek, akik nem vitatkoznak vele. Egy kérdés, Ferenc: melyikük a legjobb gyanú? Mert öt gyanús az nem gyanú, az hangulat.
+
+– Nem tudom – dörögte Bessenyei, de a hangja most kevésbé volt biztos. – Ez a baj. Hogy nem tudom.
+
+– Akkor ez nem lista – mondta Hitchcock szelíden. – Ez egy kérdés. Azt pedig nem szavazzák ki.
+
+Bessenyei leült. Az öklét még az asztalon tartotta, aztán lassan kiengedte, és a tenyerével simította végig a terítőt.
+
+– Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
+
+Kréta koccant a palatáblákon. Tizenhét ember írt, és az arcokról semmit sem lehetett leolvasni. De Funès sokáig nézte a táblát, aztán gyorsan írt valamit. Bessenyei nagy betűkkel írt, és az asztalra csapta a krétát. Hepburn gyorsan írt, és letette a krétát, mielőtt a többiek elkezdték volna.
+
+A Játékmester sorban felfordította a táblákat. Egy ideig de Funès és Brando neve váltakozott, mint két ember, aki egymás sarkát tapossa. Tizenhat tábla után hat-hat állt, és mindenki tudta, hogy az utolsó dönt.
+
+Az utolsó tábla de Funèsé volt.
+
+– Hét szavazat Louis de Funèsre – mondta a Játékmester. – Hat Marlon Brandóra. Kettő Orson Wellesre. Egy Elizabeth Taylorra. Egy Hofi Gézára.
+
+– Egy tábla – mondta Brando halkan. – Nem tudom, kinek köszönjem. – Nem nézett senkire.
+
+– Louis de Funès – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
+
+De Funès felállt. Az arca, amely mindig mozgott, most megállt, és ettől idegennek látszott, mintha valaki más arcát viselné.
+
+– Nem csúsztam – mondta. – Ezt már mondtam. – Körülnézett az asztalon, lassan, és ahogy az embereken végigment, a harag, amelyet az egész napon át szorongatott, egyszerre elfogyott belőle. – Tudják, mit tanul az ember a rózsák mellett? Hogy nem mindig attól fagy el a bokor, hogy valaki rosszat akart neki. Néha csak hideg az éjszaka. – Egy pillanatra elhallgatott. – Önök ma mind hidegek. Én nem haragszom. Nagyon nem szeretnék haragudni.
+
+– Funès úr – mondta Einstein. Felállt, és kezet nyújtott neki. – Azt mondtam, vigyázzon. Nem azt, hogy ejtse el. Bocsásson meg, ha ez másképp hangzott.
+
+– Magára? – De Funès megszorította a kezét. – Soha. – Aztán Taylorra nézett, és a szája sarka megrándult, mint régen. – Madame, a lépcsőt azért még mindig hibáztatom.
+
+Taylor nem felelt, de a szeme egy pillanatra lesiklott.
+
+– Pardon – mondta de Funès, és ezúttal nem a lépcsőnek szólt. – Ártatlan vagyok. Remélem, ezt nem felejtik el.
+
+– Louis de Funès ártatlan volt – mondta a Játékmester.
+
+Hét ember nézte a saját palatábláját.
+
+A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. Mögötte köd volt, szelíd, semmilyen. De Funès a küszöbön megállt, kihúzta magát, és a nyakkendőjét egyenesre igazította, bár nem volt rajta nyakkendő. Aztán belépett a ködbe, és az ajtó becsukódott mögötte.
+
+A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Az asztalnál valaki halkan kimondta a nevet: Louis. Mercury volt, aztán elakadt.
+
+– Melyik Louis? – kérdezte.
+
+– Mindkettő – mondta Einstein. – Armstrong és de Funès.
+
+Mercury lassan bólintott, és a tenyerére nézett, ahol a nevek már rég elmosódtak.
+
+– A játék folytatódik – mondta a Játékmester. – Tizenhatan vannak. Reggelre kevesebben lesznek.
+
+A gong háromszor kondult.
