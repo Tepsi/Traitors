@@ -12,6 +12,8 @@ A hangulat komor és fenyegető, a humor a humoristáké: Kabos, Latabár, Hofi,
 |---|-----|------|
 | 1 | Érkezés | [fejezetek/01-erkezes.md](fejezetek/01-erkezes.md) |
 | 2 | Az üres szék | [fejezetek/02-az-ures-szek.md](fejezetek/02-az-ures-szek.md) |
+| 3 | A hallgatás | [fejezetek/03-a-hallgatas.md](fejezetek/03-a-hallgatas.md) |
+| 4 | A lánc | [fejezetek/04-a-lanc.md](fejezetek/04-a-lanc.md) |
 
 ## Háttéranyag
 
