@@ -212,7 +212,7 @@ Hofi odafordult hozzá. – Maga elszámolta?
 
 – Elszólás – mondta Neumann. – Fáradt vagyok.
 
-Senki sem szólt többet. Kabos a tizenegyedik vödörnél már nem számolt, csak lihegett, és a keze, amely a vödörnyelet fogta, remegett.
+Senki sem szólt többet. Kabos a hatodik vödörnél már nem számolt, csak lihegett, és a keze, amely a vödörnyelet fogta, remegett.
 
 – Én... kedves barátom, én nem... – hebegte, és a vödör oldalra billent.
 
@@ -248,7 +248,7 @@ A tizenhetedik vödröt Brando eresztette le. A csiga megnyikordult, a kötél m
 
 De Funès elvette. A lépcsőfok, amelyen állt, tele volt vízzel, és a vödör, amely félig üres volt, váratlanul könnyebbnek érződött, mint amire a keze számított. A lába megcsúszott.
 
-Nem kiáltott. A vödör kiesett a kezéből, végigkopogott a lépcsőn, és a víz szétfröccsent a köveken. A fakarika a medencéig gurult, és ott megállt.
+Nem kiáltott. A vödör kiesett a kezéből, végigkopogott a lépcsőn, a víz szétfröccsent a köveken, és a vödör a medence lábánál állt meg.
 
 Egyetlen pillanatig senki sem mozdult.
 
@@ -274,6 +274,8 @@ Az inas a kút pereméről felvett valamit, amit addig senki sem látott ott, eg
 
 Hepburn odalépett de Funèshez, és megfogta a karját. – Hagyják, kérem. Mindenki fáradt, mindenkinek remegett a keze. – A hangja lágy volt, de a szeme egy pillanatra végigsiklott az embereken, megmérve, kinek mi a véleménye. – Ez baleset volt.
 
+De Funès nem vonta el a karját. – Köszönöm, kisasszony – mondta halkan, és a keze még mindig remegett.
+
 – Lehet – mondta Hitchcock. – Egy baleset is ugyanolyan jól elejt egy vödröt.
 
 A lépcsőn egy ideig csak a víz csorgott lefelé. Welles a medence mellett állt, a kancsó még a kezében, és nem szólt semmit. Aztán letette, nagyon óvatosan, mintha attól félne, hogy a rézfal visszhangot ad.
@@ -286,7 +288,7 @@ A Kerekasztal körül tizenhét szék állt. A kupola csillagfoltjai tompábban 
 
 A Játékmester a magasabb székben ült, és sokáig nem szólt.
 
-– Huszonketten ültek le ehhez az asztalhoz – mondta végül. – Most tizenheten vannak. – Szünetet tartott. – Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, és ha volna, itt akkor sem védene. Kérem, kezdjék.
+– Huszonketten léptek be a kastély kapuján – mondta végül. – Most tizenheten vannak. – Szünetet tartott. – Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, és ha volna, itt akkor sem védene. Kérem, kezdjék.
 
 Egy ideig csak a lélegzetek hallatszottak. De Funès a szék szélén ült, a két kezét a térdére szorította, mintha attól félne, hogy magától elindulnak.
 
@@ -336,9 +338,9 @@ Senki sem nevetett, de de Funès arcán egy pillanatra átfutott valami, ami maj
 
 – Akkor figyelhette volna azt is, hogy ki nincs itt. – Welles nem emelte fel a hangját. – Én azt nézem.
 
-Bessenyei ekkor felállt. Eddig hallgatott, és a hangját két napig úgy nyomta le magában, hogy a felállása is többet hallatszott, mint a szava.
+Bessenyei ekkor felállt. Eddig hallgatott, és a hangját napok óta úgy nyomta le magában, hogy a felállása is többet hallatszott, mint a szava.
 
-– Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom ezt az asztalt. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem állt a vita közepére.
+– Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom ezt az asztalt. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem kockáztatott meg egy gyanút.
 
 Szünetet tartott.
 
@@ -388,7 +390,7 @@ Taylor nem felelt, de a szeme egy pillanatra lesiklott.
 
 Hét ember nézte a saját palatábláját.
 
-A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. Mögötte köd volt, szelíd, semmilyen. De Funès a küszöbön megállt, kihúzta magát, és a nyakkendőjét egyenesre igazította, bár nem volt rajta nyakkendő. Aztán belépett a ködbe, és az ajtó becsukódott mögötte.
+A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. Mögötte köd volt, szelíd, semmilyen. De Funès a küszöbön megállt, kihúzta magát, és megigazította a nyakkendőjét. Aztán belépett a ködbe, és az ajtó becsukódott mögötte.
 
 A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Az asztalnál valaki halkan kimondta a nevet: Louis. Mercury volt, aztán elakadt.
 
@@ -418,13 +420,13 @@ A gyertya lángja nem remegett. Egy ideig csak a kő hidegét lehetett érezni, 
 
 – Véletlenül – mondta a Második.
 
-– Lehet. – Az Első halkan beszélt, mint aki számol. – De aki egyszer véletlenül eltalálja, az másodszor már szándékkal próbálkozik. A második lista már pontosabb lenne.
+– Lehet. – Az Első halkan beszélt, mint aki számol. – De aki egyszer véletlenül három nevet eltalál, annak a következő listája már pontosabb lesz.
 
 – Ritka az ilyen jó megfigyelő – mondta a Második. – Kár, hogy hangosan figyel.
 
 A Harmadik nem szólt. Hosszan nézte a gyertyát, és a csuklya alól csak a keze látszott, ahogy összefonva pihent az asztalon.
 
-– Valaki ma újra utalt rá, hogy kik hallgatnak – mondta végül az Első. – Nem kell kitalálnunk, hogy kire gondol.
+– Aki listát ír, az már nyomoz – mondta végül az Első. – Nem kell kitalálnunk, hogy ki legyen ma éjjel.
 
 A Második kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Harmadik egy ideig még a lángot nézte, aztán ő is.
 
