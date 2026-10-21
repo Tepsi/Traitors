@@ -401,3 +401,35 @@ Mercury lassan bólintott, és a tenyerére nézett, ahol a nevek már rég elmo
 – A játék folytatódik – mondta a Játékmester. – Tizenhatan vannak. Reggelre kevesebben lesznek.
 
 A gong háromszor kondult.
+
+## A negyedik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három lépéssor hallatszott. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
+
+– Hét szavazat – mondta az Első. – Hárman voltunk a hétben. A másik négy magától jött.
+
+– Funès ártatlan volt – mondta a Második. – Tudtuk.
+
+– Tudtuk – ismételte az Első. – Ez nem változtat semmit.
+
+A gyertya lángja nem remegett. Egy ideig csak a kő hidegét lehetett érezni, és azt, hogy mind a hárman a lángot nézik, és nem egymást.
+
+– Bessenyei listája – mondta az Első. – Öt név, és három közülük itt ül.
+
+– Véletlenül – mondta a Második.
+
+– Lehet. – Az Első halkan beszélt, mint aki számol. – De aki egyszer véletlenül eltalálja, az másodszor már szándékkal próbálkozik. A második lista már pontosabb lenne.
+
+– Ritka az ilyen jó megfigyelő – mondta a Második. – Kár, hogy hangosan figyel.
+
+A Harmadik nem szólt. Hosszan nézte a gyertyát, és a csuklya alól csak a keze látszott, ahogy összefonva pihent az asztalon.
+
+– Valaki ma újra utalt rá, hogy kik hallgatnak – mondta végül az Első. – Nem kell kitalálnunk, hogy kire gondol.
+
+A Második kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Harmadik egy ideig még a lángot nézte, aztán ő is.
+
+– Megfogtam a karját – mondta a Harmadik halkan. – Remegett, és megköszönte.
+
+Senki sem válaszolt.
+
+Lent, a szobákban tizenhárom ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Kútházban a csiga lassan megmozdult a szélben, bár senki sem járt arra.
