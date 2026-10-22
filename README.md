@@ -8,6 +8,8 @@ A hangulat komor és fenyegető, a humor a humoristáké: Kabos, Latabár, Hofi,
 
 ## Fejezetek
 
+Az oldal fejezetenként, a `site/menetrend.txt` dátumai szerint jelenik meg a GitHub Pages-en.
+
 | # | Cím | Fájl |
 |---|-----|------|
 | 1 | Érkezés | [fejezetek/01-erkezes.md](fejezetek/01-erkezes.md) |

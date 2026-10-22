@@ -1,0 +1,17 @@
+
+:root{--bg:#fbf8f3;--fg:#1d1a17;--mut:#6b625a;--acc:#7a1f1f;--line:#e2d9cd}
+@media (prefers-color-scheme:dark){:root{--bg:#161412;--fg:#e8e1d8;--mut:#9a8f84;--acc:#d06a5f;--line:#2e2924}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:19px/1.7 Georgia,'Times New Roman',serif}
+main{max-width:40rem;margin:0 auto;padding:2rem 16px 4rem}
+header.site{max-width:40rem;margin:0 auto;padding:1.2rem 16px 0;font-size:.9rem}
+header.site a{color:var(--mut);text-decoration:none}
+a{color:var(--acc)}
+h1{font-size:1.9rem;line-height:1.25;margin:1.5rem 0 1rem}
+p{margin:0 0 1.1rem}
+hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
+nav.pn{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);font-size:.95rem}
+ul.toc{list-style:none;padding:0}
+ul.toc li{padding:.6rem 0;border-bottom:1px solid var(--line)}
+.date{color:var(--mut);font-size:.85rem;margin-left:.5rem}
+.note{color:var(--mut);font-size:.85rem;margin-top:3rem}
