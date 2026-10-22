@@ -10,6 +10,8 @@ Elsőként Hitchcock érkezett. Már ott ült a Nagyteremben, a saját székén,
 
 Mercury az ajtóban megállt, és a tenyerére nézett. A ceruzával írt név már nem látszott, csak egy halvány, szürke folt maradt a bőrén, mintha valaki letörölte volna. Összezárta az ujjait, és leült.
 
+![Mercury tenyere](../kepek/03-02-mercury-tenyere.jpg)
+
 – Hárman vagyunk – mondta Bud Spencer.
 
 – A többiek még nem értek ide – felelte Mercury.
@@ -132,6 +134,8 @@ Senki sem nevetett, és ő sem.
 
 A Csend Szalonja a keleti szárnyban volt, a Kerekasztal kupolatermén túl. Nehéz, sötétzöld függönyök fogták be az ablakokat, és a padlót vastag szőnyeg borította, amely elnyelte a lépteket. A terem közepén hatalmas, fekete álló óra állt ezüst ingával, és körülötte tizenkilenc szék kört alkotott.
 
+![A Csend Szalonja](../kepek/03-01-a-csend-szalonja.jpg)
+
 Mindenki ott ült le, ahol akart. Kabos Hepburn mellé ült, Puskás a másik oldalára. Dietrich és Welles a kör túloldalán foglalt helyet, egymás mellett. Brando leült, és lehunyta a szemét, mint aki odahaza van.
 
 A Játékmester az óra mellett állt, az inas a háta mögött.
@@ -219,6 +223,8 @@ Az inas elővett valahonnan egy kisebb pajzsot, szürke vasból, amelyen egyetle
 – A pajzs az öné – mondta a Játékmester. – Egy éjszakára védi.
 
 – Nem kell! – tiltakozott Psota Irén, és a pajzsot két kézzel tartotta, mintha kígyót fogna. – Én nem kértem! Én csak... Nem bírtam! Mondják már, hogy nem bírtam!
+
+![Psota Irén a pajzzsal](../kepek/03-03-psota-iren-a-pajzzsal.jpg)
 
 Senki sem mondta. Mindenki őt nézte, és a tekintetekben nem volt harag, csak mérlegelés.
 

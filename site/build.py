@@ -39,6 +39,16 @@ nav.pn{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;paddi
 ul.toc{list-style:none;padding:0}
 ul.toc li{padding:.6rem 0;border-bottom:1px solid var(--line)}
 .date{color:var(--mut);font-size:.85rem;margin-left:.5rem}
+img{max-width:100%;height:auto;display:block;margin:1.5rem auto;border-radius:2px}
+.cover{text-align:center}
+.cover img{max-width:28rem;width:100%;margin:0 auto 1rem}
+.cover h1{font-size:2.6rem;letter-spacing:.04em;margin:.5rem 0}
+.cover h1 span{display:block;font-size:1.4rem;font-weight:normal;color:var(--mut);letter-spacing:.2em;text-transform:uppercase;margin-top:.4rem}
+.tag{color:var(--mut);font-style:italic}
+.btn{display:inline-block;padding:.6rem 1.6rem;margin:.3rem;background:var(--acc);color:#fff;text-decoration:none;border-radius:2px;font-size:1rem}
+.btn.alt{background:transparent;color:var(--acc);border:1px solid var(--acc)}
+.legal{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:.8rem;line-height:1.55;color:var(--mut)}
+.legal h2{font-size:.9rem;text-transform:uppercase;letter-spacing:.1em;margin:0 0 .6rem}
 .note{color:var(--mut);font-size:.85rem;margin-top:3rem}
 """
 
@@ -53,6 +63,9 @@ def page(title, body, is_index=False):
 <main>{body}</main></body></html>"""
 
 OUT.mkdir(exist_ok=True)
+if (ROOT / "kepek").exists():
+    shutil.copytree(ROOT / "kepek", OUT / "kepek", ignore=shutil.ignore_patterns("*.md", "*.svg", "*.png"), dirs_exist_ok=True)
+shutil.copy(ROOT / "site" / "borito.svg", OUT / "borito.svg")
 (OUT / "style.css").write_text(CSS, encoding="utf-8")
 
 md = markdown.Markdown(extensions=["smarty"], extension_configs={"smarty": {"smart_dashes": False}})
@@ -61,7 +74,7 @@ for i, c in enumerate(chapters):
     body = md.convert(c["text"])
     prev_ = chapters[i - 1] if i > 0 else None
     next_ = chapters[i + 1] if i + 1 < len(chapters) else None
-    nav = '<nav class="pn"><span>%s</span><span><a href="../index.html">Fejezetek</a></span><span>%s</span></nav>' % (
+    nav = '<nav class="pn"><span>%s</span><span><a href="../fejezetek.html">Fejezetek</a></span><span>%s</span></nav>' % (
         f'<a href="../{prev_["slug"]}/index.html">← {html.escape(prev_["title"])}</a>' if prev_ else "",
         f'<a href="../{next_["slug"]}/index.html">{html.escape(next_["title"])} →</a>' if next_ else "")
     d = OUT / c["slug"]
@@ -72,5 +85,13 @@ toc = "".join(
     f'<li><a href="{c["slug"]}/index.html">{c["num"]}. {html.escape(c["title"])}</a><span class="date">{c["date"]}</span></li>'
     for c in chapters)
 intro = (ROOT / "site" / "bevezeto.html").read_text(encoding="utf-8")
-(OUT / "index.html").write_text(page(TITLE, f"<h1>{TITLE}</h1>{intro}<h2>Fejezetek</h2><ul class=\"toc\">{toc}</ul>", True), encoding="utf-8")
+legal = (ROOT / "site" / "jogi.html").read_text(encoding="utf-8")
+(OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"<h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul><hr>{intro}", True), encoding="utf-8")
+first = f'<a class="btn" href="{chapters[0]["slug"]}/index.html">Olvasás</a> ' if chapters else ""
+cover = f"""<div class="cover"><img src="borito.svg" alt="A Holdvári-kastély sziluettje a telihold előtt">
+<h1>Árulók<br><span>Halálos kastély</span></h1>
+<p class="tag">Huszonkét híresség. Egy kastély. Minden éjjel egy üres szék.</p>
+<p>{first}<a class="btn alt" href="fejezetek.html">Fejezetek</a></p></div>
+<section class="legal">{legal}</section>"""
+(OUT / "index.html").write_text(page(TITLE, cover, True), encoding="utf-8")
 print(f"{len(chapters)} fejezet kész ({today})")

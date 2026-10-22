@@ -10,6 +10,8 @@ A köd már a bekötőúton felbukkant, és a kapuig kísérte az érkezőket. H
 
 A Holdvári-kastély a dombtetőn állt, szürke kőből épült, tornyokkal és fekete gerendázatú szárnyakkal. Az ablakok mögött sehol sem látszott fény. A kapu előtt kovácsoltvas lámpás égett, mellette egy fekete egyenruhás inas várt, mozdulatlanul, akár egy szobor.
 
+![A Holdvári-kastély](../kepek/01-01-holdvari-kastely.jpg)
+
 Elsőként Kabos Gyula érkezett, a kalapját a kezében forgatva. Végignézett a tornyokon, aztán az inason.
 
 – Kedves... kedves barátom, én azt hittem, ez a mennyország. De ez inkább egy gyanús vendéglőnek látszik.
@@ -102,6 +104,8 @@ A Nagyterem hosszú asztala mellett huszonkét szék állt. Mindegyik előtt kis
 
 Egyszerre kialudtak a gyertyák. A terem végében, az erkélyen egyetlen fénysugár villant fel, és a fényben egy magas, fekete köpenyes férfi állt. Sokáig nem szólt, csak nézte őket.
 
+![A Játékmester az erkélyen](../kepek/01-02-a-jatekmester-az-erkelyen.jpg)
+
 – Üdvözlöm önöket a Holdvári-kastélyban – szólalt meg végül mély, lassú hangon. – Szerafin Barnabás vagyok, a Játékmester.
 
 – Önök mind meghaltak – folytatta, és a hangja még halkabb lett. – Ezt senki ne vegye sértésnek. Ez tény. De van, amit még nem tudnak: ez a hely a Feledés Előszobája. Aki ide kerül, azt még nem felejtette el a világ. A nevük él a filmekben, a lemezeken, a könyvekben, az emberek emlékezetében. Aki viszont innen kiesik, azt a világ nem csupán elveszíti. Elfelejti. A nevét kitörlik a hanglemezekről, a stáblistákról, a könyvek lapjairól, és senki sem fogja tudni, hogy valaha létezett.
@@ -153,6 +157,8 @@ Lassúak voltak, súlyosak és egyenletesek. A Játékmester körbejárta az asz
 Kabos ajka hangtalanul mozgott, mintha imádkozna. Taylor ékszerei finoman csilingeltek, ahogy remegett a keze. Armstrong, aki egész este mosolygott, most először volt komoly. Dietrich mozdulatlanul ült, akár egy szobor. Latabár a saját lélegzetét hallgatta, pedig tudta, hogy már nem kellene lélegeznie.
 
 A léptek valaki mögött megálltak. Hosszan. Olyan hosszan, hogy az illető már azt hitte, őt fogják kivonszolni a teremből. Aztán hideg ujj érintette a vállát, könnyedén, szinte gyengéden. Az asztal túlsó végén valaki élesen beszívta a levegőt, és a léptek továbbmentek.
+
+![A hideg ujj](../kepek/01-03-a-hideg-ujj.jpg)
 
 Később megint megálltak. Aztán újra.
 
@@ -349,6 +355,8 @@ Hárman voltak, bár a többiek ezt még nem tudhatták. Újra a fejükre húzt�
 – Akkor ki legyen? – kérdezte a Harmadik.
 
 Sokáig nem szólt senki. A gyertya lángja meghajolt, mintha valaki a háttérben sóhajtott volna.
+
+![A konklávé](../kepek/01-04-a-konklave.jpg)
 
 – Olyasvalaki – mondta az Első –, akit nem fognak sokáig keresni.
 

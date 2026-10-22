@@ -100,6 +100,8 @@ Odament az asztalhoz, és leült. Huszonegy ember ült a huszonkét székből. A
 
 Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég soha meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
 
+![Az elporladt névtábla](../kepek/02-01-az-elporladt-nevtabla.jpg)
+
 A gong egyetlen mély hanggal megkondult, lassan, mintha számolna.
 
 – Huszonegy – mondta Christie. – Huszonegy ember. Egy hiányzik.
@@ -149,6 +151,8 @@ Felállt, és mielőtt bárki pislogott volna, már nem volt ott.
 A kert a kastély mögött terült el, a dombtetőről lefelé lejtett, a közepén pedig egy sötétzöld tömb állt, magasabb, mint két egymásra állított ember. A tiszafák ágai olyan sűrűn fonódtak egymásba, hogy a fal mögött nem látszott semmi, csak a köd, amely a levelek között ült, mintha ott lakna.
 
 A bejáratnál kőív állt, alatta a Játékmester, mellette az inas egy üres ezüsttálcával.
+
+![A labirintus bejárata](../kepek/02-02-a-labirintus-bejarata.jpg)
 
 – Ez a Holdvári-labirintus – mondta a Játékmester, amikor mind összegyűltek. – Három méter magas, száz évnél öregebb. A ködben tíz lépésnél messzebbre nem látnak.
 
@@ -239,6 +243,8 @@ Valahol a ködben Callas egyetlen hosszú hangot küldött a sövény fölé, ti
 A torony órája kétszer ütött. A hangja átjött a ködön, és mindenki megtorpant, aki hallotta: az idő fele eltelt, és senki sem tudta, ki merre van.
 
 Bud Spencer addig a labirintus keleti oldalán állt, karját lógatva, és hallgatta az ütéseket. A második ütés után megindult. Nem fordult balra, nem fordult jobbra. A legrövidebb út két pont között az egyenes, és ő ezt komolyan vette. A tiszafa először nem engedett, aztán mégis. Négy falon ment át, és a negyedik után már a harang alatt állt.
+
+![Bud Spencer átmegy a sövényfalon](../kepek/02-03-bud-spencer-atmegy-a-soveny-falon.jpg)
 
 A recsegést és ropogást mindenhol hallották, utána pedig a harang mély, lassú hangját. Egyszer kondult. Mindenki tudta, hogy vége.
 
@@ -385,6 +391,8 @@ Kilenc ember a saját palatábláját nézte.
 Einstein kinyújtotta a nyelvét, gyermeki, szívből jövő nyelvöltéssel, hogy megvigasztalja. Latabár elnevette magát, ezúttal halkan, és biccentett.
 
 A fekete ajtó ezüst kerete megkondult, és az ajtó magától kinyílt. Mögötte köd volt, nem a kinti, hanem valami szelídebb, mintha a világ széle lett volna. Latabár odalépett. A küszöbön megbotlott, aztán hátrafordult, és Kabosra nézett, mintha az tehetne róla.
+
+![Latabár a küszöbön](../kepek/02-04-latabar-a-kuszobon.jpg)
 
 – Régi trükk – mondta, és a hangjában volt valami, amit nem lehetett nevetésnek nevezni. – De most legalább van közönség.
 
