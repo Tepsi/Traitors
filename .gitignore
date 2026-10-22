@@ -13,4 +13,5 @@ desktop.ini
 *~
 .vscode/
 .idea/
-*.bat_site/
+*.bat
+_site/
