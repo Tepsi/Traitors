@@ -36,4 +36,4 @@ A cselekmény titkos terve (kik az árulók, ki mikor esik ki) szándékosan nin
 
 ## Licenc
 
-A szöveg szerzői jogvédett, és minden jog fenntartott, amíg a szerző másként nem dönt. A repó azért publikus, hogy a fejezetek olvashatók legyenek.
+Ez a mű egy tudományos kísérlet: az egész, az ötlet, a szöveg, a szerkesztés és az illusztrációk is ingyenes MI-vel készült, minimális emberi beavatkozással. Az anyag ingyenes és szabadon terjeszthető, de pénzért nem adható tovább, és mások nem kereshetnek rajta pénzt.
