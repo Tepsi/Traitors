@@ -36,4 +36,6 @@ A cselekmény titkos terve (kik az árulók, ki mikor esik ki) szándékosan nin
 
 ## Licenc
 
-Ez a mű egy tudományos kísérlet: az egész, az ötlet, a szöveg, a szerkesztés és az illusztrációk is ingyenes MI-vel készült, minimális emberi beavatkozással. Az anyag ingyenes és szabadon terjeszthető, de pénzért nem adható tovább, és mások nem kereshetnek rajta pénzt.
+Ez a mű egy tudományos kísérlet: az egész, az ötlet, a szöveg, a szerkesztés és az illusztrációk is ingyenes MI-vel készült, minimális emberi beavatkozással.
+
+Licenc: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.hu). Az anyag ingyenes és szabadon terjeszthető a szerző nevének és a forrás megjelölésével, változtatás nélkül. Pénzért nem adható tovább, mások nem kereshetnek rajta pénzt, és a mű nem módosítható, nem dolgozható át.
