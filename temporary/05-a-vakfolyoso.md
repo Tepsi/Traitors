@@ -475,3 +475,41 @@ Belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla
 – A játék folytatódik – mondta a Játékmester. – Tizennégyen vannak. Reggelre kevesebben lesznek.
 
 A gong háromszor kondult.
+
+## Az ötödik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
+
+– Nyolc szavazat – mondta az Első. – Ketten voltunk köztük.
+
+– Taylor ártatlan volt – mondta a Második. – Ezt is tudtuk.
+
+– Tudtuk – mondta az Első. – De ma legalább nem kellett kitalálnunk senkit. Az asztal maga döntött.
+
+– Én Brandóra írtam – mondta a Második. – Kellett egy másik név a számba. Négyen írták rá, és egyik sem volt rossz szándékú.
+
+– Brando ma sokat hallgatott – mondta az Első.
+
+– Brando mindig sokat hallgat. Ha egyszer kimondana valamit, azt senki sem hinné el.
+
+A gyertya lángja egy pillanatra meghajolt, aztán újra kiegyenesedett. A Harmadik hosszan nézte, mielőtt megszólalt volna.
+
+– Nem én indítottam – mondta halkan. – Csak nem álltam az útjába.
+
+– Ez ma elég volt – felelte az Első.
+
+– Hála Istennek – mondta a Harmadik, és a hangja egy pillanatra elcsuklott, ahogy valaki kimondja azt, amit nem szeretne megismételni. – Nem szerettem volna még egyszer azt mondani, hogy aggódom.
+
+Senki sem válaszolt. Egy ideig csak a kő hidegét lehetett érezni.
+
+– Kabos pajzsot kapott – mondta a Második. – Ma éjjel nem hozzá megyünk.
+
+– Nem is rá gondoltunk – felelte az Első.
+
+– Welles ma magát is megnevezte – folytatta a Második. – Brandóra mutatott. Ha ma éjjel valami történik vele, reggel lesz, aki erre gondol.
+
+– Pontosan ezért – mondta az Első. – Két éjszakán hallotta. A harmadikon ismerné.
+
+A Harmadik nem szólt. Összefonta a kezét az asztalon, és a gyertyát nézte, amíg a láng egészen elcsendesedett. Aztán kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Második egy ideig még a lángot nézte, aztán ő is.
+
+Lent, a szobákban tizenegy ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Galériában a harang magától megmozdult, egyszer, halkan, bár fehér lap volt a padlón, és senki sem lépett rá.
