@@ -2,7 +2,7 @@
 
 ## A reggeli
 
-A gong reggel hétkor szólalt meg, de a folyosókon már félórája hallatszottak az ajtók. A harmadik éjszaka után senki sem aludt mélyen, és aki mégis, az nem akarta, hogy észrevegyék.
+A gong reggel hétkor szólalt meg, de a folyosókon már fél órája járkáltak az emberek, és csapódtak az ajtók. A harmadik éjszaka után senki sem aludt rendesen, és mindenki igyekezett kipihentnek látszani.
 
 Elsőként Hepburn ért a Nagyterembe, kezében tálcával. Két csésze tea volt rajta, és a gőzük még gomolygott. Letette őket az asztalra, Kabos helye elé, aztán egy ideig a szék támlájára tett kézzel állt, és nem nézett körül.
 
@@ -44,7 +44,7 @@ A harmadik csoportot Neumann vezette. A bejáratnál megállt, végignézett a t
 
 – Tizennyolcan maradtunk a Kerekasztal után, és a szabály szerint reggelre valaki hiányzik. – Leült, és a terítőjét simította. – Ez nem jóslás. Ez kivonás.
 
-– Maga reggeli előtt is számol – mondta Hofi. – Én reggeli előtt még az időjárásba is belefáradok.
+– Maga reggeli előtt is számol – mondta Hofi. – Én reggeli előtt még azt sem tudom, milyen nap van.
 
 Senki sem nevetett, de Callas szájának sarka megrándult, aztán újra komor lett.
 
@@ -142,7 +142,13 @@ Welles lassan letette a csészét. – Hogy rosszul alszik ebben a kastélyban �
 
 – Ez kevés – mondta Taylor.
 
-– Ez volt. – Welles nem emelte fel a hangját. – Maguk szeretnének egy mondatot, amiből nyom lesz. Nekem nincs több mondatom.
+– Ez volt. – Welles nem emelte fel a hangját. Egy pillanatig a csészét nézte, aztán felemelte a szemét. – De mást is hallottunk, Marlene és én. Tegnap a szalonban valaki élesen beszívta a levegőt, a kör túloldalán. Marlene szerint ugyanaz a hang volt, mint az első éjszaka. Nem tudom, ki volt, és ő sem tudta. – A hangja halk maradt. – Marlenét elfelejtik, és vele azt is, amit tőle tudok. Jobb, ha most hallják tőlem.
+
+– Levegővétel – ismételte Hitchcock, mint aki egy szót kóstol. – Orson, a félelem is levegőt vesz. Ebben a házban minden második ember beszív egyet, ha megreccsen egy padló.
+
+– Két éjszaka ugyanaz? – kérdezte Taylor. – És ezt csak most mondja?
+
+– Tegnap még ketten tudtuk – felelte Welles.
 
 – Hagyják – mondta Hepburn halkan. – Nem látják, hogy elvesztett valakit?
 
@@ -276,7 +282,7 @@ Hepburn odalépett de Funèshez, és megfogta a karját. – Hagyják, kérem. M
 
 De Funès nem vonta el a karját. – Köszönöm, kisasszony – mondta halkan, és a keze még mindig remegett.
 
-– Lehet – mondta Hitchcock. – Egy baleset is ugyanolyan jól elejt egy vödröt.
+– Lehet – mondta Hitchcock. – Csak hát a vödör ugyanúgy leesik, akár baleset volt, akár szándékosan történt.
 
 A lépcsőn egy ideig csak a víz csorgott lefelé. Welles a medence mellett állt, a kancsó még a kezében, és nem szólt semmit. Aztán letette, nagyon óvatosan, mintha attól félne, hogy a rézfal visszhangot ad.
 
@@ -306,7 +312,7 @@ Egy ideig csak a lélegzetek hallatszottak. De Funès a szék szélén ült, a k
 
 – A betűrendet én javasoltam – mondta Neumann, és összefonta a kezét az asztalon. – Ha valakit az gyanúsít, hogy a lépcsőre került, azt én osztottam be. Nem mentegetőzöm, csak tisztázom: a hely nem választás volt, hanem ábécé.
 
-– Rend – mondta Hepburn halkan. – Azt mondtam, hogy az megnyugtat. – Nem nézett Neumannra, hanem de Funèsre. – Kérem, ne szavazzanak rá. Bármi történt a lépcsőn, ma ő a legkevésbé veszélyes ember ezen az asztalon.
+– Rend – mondta Hepburn halkan. – Azt mondtam, hogy az megnyugtat. – Nem nézett Neumannra, hanem de Funèsre. – Kérem, ne szavazzanak rá. Bármi történt a lépcsőn, ma ő a legkevésbé veszélyes ember ennél az asztalnál.
 
 – Javaslom – mondta Brando, és a kezére támasztotta a fejét –, hogy a lépcsőt szavazzuk ki.
 
