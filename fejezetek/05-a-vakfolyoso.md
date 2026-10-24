@@ -98,13 +98,13 @@ Welles nem szólt, csak bólintott.
 
 – Einstein – mondta Hofi.
 
-Einstein felemelte a fejét. – Halott mondata nem bizonyíték – mondta. – Különösen akkor nem, ha tegnap este tudta, hogy ezt mondja, és ma már nem érhet vissza hozzá senki.
+Einstein felemelte a fejét. – Egy halott mondata nem bizonyíték – mondta. – Őt már nem kérdezhetjük meg, mire gondolt, amikor kimondta.
 
 – Én csak annyit mondok – szólt Callas –, hogy engem ötből az egyik névre tettek, és ebből nem lesz sem érv, sem magyarázat. Én nem vagyok csendes. Én vagyok az, aki nem kiabál.
 
 – Ez a különbség nagyon finom – mondta Taylor.
 
-– A finomságot a hangszertől lehet megtanulni – felelte Callas.
+– Én a finom különbségekből élek – felelte Callas.
 
 Mercury nagy levegőt vett, és sorolni kezdte, mint minden reggel: – Louis, Louis, Kálmán, Agatha, Irén, Marlene... – Megállt. – Ferenc.
 
@@ -118,7 +118,7 @@ Mercury bólintott, és elhallgatott. A névsor most rövidebb volt, mint a tegn
 
 ## A Vakfolyosó
 
-A Nyugati Galéria a kastély leghosszabb terme volt, és a legsötétebb. A padlója fekete és fehér márványlapokból állt, felváltva, mint egy végtelenre nyújtott sakktábla, és a lapok között alig látszott a vonal. Az ablakokat nehéz bársony takarta. A falak mentén gyertyák égtek, de olyan ritkán, hogy a fényük nem érte el egymást, a terem végében pedig, ahol a folyosó kiszélesedett, egyetlen harang függött vastag kötélen. Mellette egy szék állt.
+A Nyugati Galéria a kastély leghosszabb terme volt, és a legsötétebb. A padlója fekete és fehér márványlapokból állt, szabálytalan mintában, mintha egy sakktáblát összekevertek volna, és a lapok között alig látszott a vonal. Az ablakokat nehéz bársony takarta. A falak mentén gyertyák égtek, de olyan ritkán, hogy a fényük nem érte el egymást, a terem végében pedig, ahol a folyosó kiszélesedett, egyetlen harang függött vastag kötélen. Mellette egy szék állt.
 
 A Játékmester az erkélyen várta őket, amely a terem hosszanti oldalán futott, és a korlát mögül mindent be lehetett látni.
 
@@ -134,11 +134,11 @@ Bud Spencer húzta a Hallgató cédulát. Megnézte, és szó nélkül felmutatt
 
 – Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, a fődíjé. De a fekete lapok tudnak valamit: aki fekete lapra lép, azt megszólaltatja a harang. Ilyenkor tízezer forint elvész.
 
-– Minden harang tízezer – ismételte Neumann. – Fehér lapon biztonságos, feketén nem. A fehér és fekete váltakozása szabályos?
+– Minden harang tízezer – ismételte Neumann. – Fehér lapon biztonságos, feketén nem. A fekete és a fehér elosztásában van szabályszerűség?
 
-– Szabályos – felelte a Játékmester. – A mintát tanulmányozhatják, amíg a többiek mennek. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
+– Nincs – felelte a Játékmester. – A mintát tanulmányozhatják, amíg a többiek mennek. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
 
-A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a Hangok.
+A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a hangok.
 
 Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, aztán megállt a küszöbön. Neumann felment az erkélyre, és a korlátra támaszkodott.
 
@@ -150,7 +150,7 @@ Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, azt�
 
 – Fél lappal én nem tudok mit kezdeni. A lábam egész lapokban gondolkodik.
 
-A lépcsőházban valaki felnevetett, aztán gyorsan elhallgatott. Az ajtón át hallani lehetett, ahogy Einstein óvatosan, kis lépésekkel megy, és Neumann hangja hangtalanul, számolva követi: – Négy. Öt. Hat. Kicsit jobbra. Most.
+A lépcsőházban valaki felnevetett, aztán gyorsan elhallgatott. Az ajtón át hallani lehetett, ahogy Einstein óvatosan, kis lépésekkel megy, és Neumann hangja egyenletesen, számolva követi: – Négy. Öt. Hat. Kicsit jobbra. Most.
 
 A harang egyszer megkondult. Mindenki a lépcsőházban megmerevedett.
 
@@ -158,7 +158,7 @@ A harang egyszer megkondult. Mindenki a lépcsőházban megmerevedett.
 
 – Három erszény, egy harang – jelentette ki Neumann a lépcsőházba, miután kijöttek, mintha jegyzőkönyvet vezetne. – Nyolcvanezer.
 
-Hofi és Zsazsa következett. Zsazsa kötötte be a szemét, két kézzel, nagy műgonddal, hogy a frizurája ne sérüljön, és a küszöbön megállt. – Drágám – mondta Hofinak, aki már az erkélyről nézett le rá –, én tizenkét éve vezettetem magam sötétben, de eddig mindig lámpával kísértek.
+Hofi és Zsazsa következett. Zsazsa kötötte be a szemét, két kézzel, nagy műgonddal, hogy a frizurája ne sérüljön, és a küszöbön megállt. – Drágám – mondta Hofinak, aki már az erkélyről nézett le rá –, én már követtem férfi hangját sötétben, de eddig mindig égett mellette egy lámpa.
 
 – Akkor most teljesen új élmény lesz, darling – mondta Hofi. – Három lépés előre. És balra tessék.
 
@@ -172,13 +172,13 @@ A harang megkondult.
 
 – Maga mondta, hogy balra!
 
-– Én azt mondtam, hogy balra. Maga jobbra ment, mert a női intuíció mindig a másik irányba húz.
+– Én azt mondtam, hogy balra. Maga jobbra ment, mert az ösztöne mindig a másik irányba húzza.
 
-Zsazsa kivett egy erszényt a lapok közül, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, ezt az ösztön.
+Zsazsa kivett egy erszényt a lapok közül, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, az ösztönöm.
 
 A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közben a legkomolyabb maradt, és ez volt benne a legjobb.
 
-Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, ahogy a kutyák állnak az ajtóban, mielőtt kinyitják. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
+Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, mint aki nem akar elsőnek megszólalni. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
 
 – Három lépés előre, Elizabeth – mondta. – Nem sietni.
 
@@ -188,11 +188,11 @@ A harang megkondult.
 
 – Biztos, hogy balra volt? – kérdezte Taylor, és az arca a kötés alatt megfeszült.
 
-– Azt hittem... – mondta Hepburn. – Bocsáss meg. Az erkélyről a fekete lap és a szürke ugyanolyan.
+– Azt hittem... – mondta Hepburn. – Bocsáss meg. Innen fentről, a gyertyafényben, alig látom, melyik fekete.
 
-– Nem szürke lap van – mondta Taylor. – Fekete és fehér.
+– Maga mondta, hogy balra – mondta Taylor.
 
-– A gyertyafény miatt...
+– Tudom. Bocsáss meg.
 
 A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenézett Callasszal.
 
@@ -200,13 +200,13 @@ A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenéze
 
 – Nem – mondta Taylor. – Csak azon gondolkodom, hogy ez most a maga hibája volt, vagy az enyém.
 
-Két erszényt vett fel, három harang. A lépcsőházban Hepburn egyenesen odament hozzá, és megfogta a karját. – Három lépést se tudtam jól mondani.
+Két erszényt vett fel, három harang. A lépcsőházban Hepburn odarohant hozzá, és megfogta a karját. – Nem tudtam jól mondani.
 
-– Harminc – mondta Neumann az ajtóból, a számolt tényt rögzítve. – Harmincezer.
+– Kettő és három – mondta Neumann az ajtóból. – Harmincezer.
 
 Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszasan állt, mintha a sötétben is látni akarna valamit. Hitchcock felment az erkélyre, és a korlátra tette mindkét kezét. A hangja olyan volt, mintha filmet vezényelne.
 
-– Két lépés előre – mondta. – Ne siessen. Egy hang az, amiből a félelem készül. Meg kell tanulni szeretni.
+– Két lépés előre – mondta. – Ne siessen. Egy hang az, amiből a félelem készül.
 
 – Miért jobbra? – kérdezte Brando. – Nem azt mondta, hogy előre?
 
@@ -224,9 +224,9 @@ Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszas
 
 – Ez nem lépés volt, hanem előadás – mondta Hitchcock.
 
-– Magánál tanultam – mondta Brando. – Nem tudom, hogy magánál-e, de valahol.
+– Jó rendezőtől tanultam – mondta Brando.
 
-A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és közben csak kétszer kondult a harang, mintha a hangja alatt maga a terem is megnyugodott volna.
+A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és a harang összesen csak kétszer kondult.
 
 Mercury és Dalí a következő pár volt. Dalí felemelt fejjel állt a küszöbön, és maga kötötte a szemére a kendőt.
 
@@ -240,17 +240,17 @@ Mercury az erkélyről nem szavakkal vezette, hanem hangokkal: egy mély hümmö
 
 Három erszény, egy harang. Nyolcvanezer.
 
-Callas és Welles jött hatodikként. Callas az erkélyről egyetlen mozdulattal elvezette a hangját, és ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett.
+Callas és Welles jött hatodikként. Callas az erkélyről nem beszélt, ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett.
 
 – Még egyszer az elejétől – mondta Callas fojtott hangon, amikor Welles túlságosan elsietett. Welles megállt, visszalépett, és újra elkezdte. A harang egyszer sem szólalt meg.
 
 Három erszény, nulla harang. Kilencvenezer.
 
-– Ritmus – mondta Welles, miután levette a kendőt, és Callasra nézett. – Maga a hangja mellett a ritmust is adta.
+– Ritmus – mondta Welles, miután levette a kendőt, és Callasra nézett. – Maga hang nélkül vezetett.
 
 – A hang csak a fele – felelte Callas. – A másik fele a csend a hangok között.
 
-Utoljára Puskás és Kabos ment. Kabos a küszöbön állt, és remegett, de nem a félelemtől. – Nem látok semmit – mondta. – Úgy kell, de akkor mégis sötét van.
+Utoljára Puskás és Kabos ment. Kabos a küszöbön állt, és remegett, de nem a félelemtől. – Nem látok semmit – mondta. – Persze, hogy nem, hiszen ez a lényeg, mégis sötét van.
 
 – Pont úgy – felelte Puskás az erkélyről. – Egy lépés, Gyula. Még egy. Mint a pályán, csak lassabban.
 
@@ -262,7 +262,7 @@ A harang egyszer sem szólalt meg. Négy erszény.
 
 A Játékmester levonult az erkélyről, és a Galéria közepén állt meg.
 
-– Huszonegy erszény – mondta. – Kilenc harang. A fődíjba ötszázharmincezer... – Neumann felemelte a fejét, és a Játékmester egy pillanatra elhallgatott. – Ötszáznegyvenezer forint kerül. A fődíj kétmillió-négyszáztízezer forint. A legtöbbet Puskás Ferenc és Kabos Gyula hozta. A pajzs az övék. Döntsék el, ki viseli.
+– Huszonegy erszény – mondta. – Kilenc harang. A fődíjba ötszáznegyvenezer forint kerül. A fődíj kétmillió-négyszáztízezer forint. A legtöbbet Puskás Ferenc és Kabos Gyula hozta. A pajzs az övék. Döntsék el, ki viseli.
 
 – Gyula kapja – mondta Puskás.
 
@@ -312,13 +312,13 @@ A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerin
 
 – Mi? – kérdezte Welles.
 
-– Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy tenyérnyi rést, amelyet a környező kötetek nem tudtak betölteni. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem könyv volt, vagy nem egy könyv. Valaki gyakran levette és visszatette.
+– Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy tenyérnyi rést, amelyet a környező kötetek nem tudtak betölteni. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem sok könyv, inkább egy. Valaki gyakran levette és visszatette.
 
 – Agatha helye – mondta Welles halkan.
 
 Mercury nem válaszolt. A tenyerére nézett, ahol már rég nem volt semmi, és a keze ökölbe szorult.
 
-– Ma még tudom a nevét – mondta. – Agatha. A többit már nem biztos.
+– Ma még tudom a nevét – mondta. – Agatha. A többiben már nem vagyok biztos.
 
 – A többi, hogy kicsoda volt?
 
@@ -338,23 +338,23 @@ A kandalló mellett Hofi és Zsazsa ültek, és ők sem hallgattak.
 
 – Én mindig jobbra megyek, ha a férfi balra mondja. Ez a tapasztalat.
 
-– Akkor a tapasztalat megölte a fődíjat.
+– Akkor a tapasztalat elvitte a fődíj egy részét.
 
-Zsazsa legyintett, de aztán halkabban folytatta, és előrehajolt. – Egyébként, drágám, ne mondja el senkinek, de valami furcsa történt ma. Hallottam, ahogy Audrey Callasszal beszél a hangosságról. Elizabeth hangosságáról.
+Zsazsa legyintett, de aztán halkabban folytatta, és előrehajolt. – Egyébként, drágám, ne mondja el senkinek, de valami furcsa történt ma. Hallottam, hogy a folyosón valaki a hangosságról beszélt. Elizabeth hangosságáról.
 
-– Hogy hangos? – kérdezte Hofi. – Hát hangos. A Galériában is nagy volt a szája, de azért az emberek hangosak.
+– Hogy hangos? – kérdezte Hofi. – Hát hangos. De az emberek hangosak.
 
-– Én is mondom, drágám, hogy hangos – bólintott Zsazsa. – A Galériában is, a Kútháznál is, a reggelinél is. Mindig mond valamit. Aki mindig mond valamit... – Elhallgatott, és ellenállhatatlanul elmosolyodott. – Mondja, drágám, maga is így látja?
+– Én is mondom, drágám, hogy hangos – bólintott Zsazsa. – A Galériában is, a Kútháznál is, a reggelinél is. Mindig mond valamit. Aki mindig mond valamit... – Elhallgatott. – Mondja, drágám, maga is így látja?
 
 – Én azt látom – felelte Hofi –, hogy mindenki hangos, aki fél. Csak vannak, akik halkan félnek.
 
-Ezt Zsazsa nem érte fel, és a kezét a gyöngysorára tette.
+Zsazsa ezt nem értette egészen, és a kezét a gyöngysorára tette.
 
-A könyvtár túlsó végén Einstein a vonalas térképet tanulmányozta, amelyet egy üvegvitrinben talált. Neumann mellette állt, és anélkül nézte a térképet, hogy valóban látná.
+A könyvtár túlsó végén Einstein egy régi térképet tanulmányozott, amelyet egy üvegvitrinben talált. Neumann mellette állt, és anélkül nézte a térképet, hogy valóban látná.
 
-– A Galériában sokat számoltam – mondta Einstein. – Az egyiptomiak a sötét fekete lapokat a halottak oldalának tartották. Ez a Galéria is így gondolkozott.
+– A Galériában sokat gondolkoztam – mondta Einstein. – Egy fekete-fehér padlón az ember azt hinné, hogy csak két lehetőség van. Az élet ritkán ilyen egyszerű.
 
-– Szép elmélet – mondta Neumann. – Sajnos nem bizonyítható.
+– Szép gondolat – mondta Neumann. – Sajnos nem bizonyítható.
 
 – Nem baj. Néha elég, ha szép.
 
@@ -386,15 +386,15 @@ A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén 
 
 – Huszonketten léptek be a kastély kapuján – mondta. – Most tizenöten vannak. Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, de aki ma kapta, az tudja, hogy itt nem védi. – Kabosra pillantott, aki a térdén tartotta a vasat. – Kérem, kezdjék.
 
-– Én kezdem – mondta Taylor. – Nem azért, mert ma én vagyok a legbátrabb, hanem mert aki hallgat, az hallgat. – Kihúzta magát, és a karperece megcsendült. – A Galériában három harang volt a nevemen. Ez tény. De hallgassák meg: három ember mondta ma nekem, hogy hangos vagyok. Tőlük hallottam, nem a Játékmestertől. Kérdezem: ki mondta ezt először?
+– Én kezdem – mondta Taylor. – Nem azért, mert bátor vagyok, hanem mert ha hallgatok, azzal is mondok valamit. – Kihúzta magát, és a karperece megcsendült. – A Galériában három harang volt a nevemen. Ez tény. De hallgassák meg: három ember mondta ma nekem, hogy hangos vagyok. Kérdezem: ki mondta ezt először?
 
-– Én nem mondtam – szólt Kabos azonnal. – Én csak azt mondtam, hogy az Audrey mondta. Vagyis... nem. Callas mondta. Vagy ön, Callas asszony?
+– Én nem mondtam – szólt Kabos azonnal. – Én csak visszhangoztam, mert valaki mondta. Vagy Callas asszony mondta? Vagy ön, Callas asszony?
 
 – Nem én kezdtem – felelte Callas. – Valaki mondta a könyvtárban.
 
 – Valaki – ismételte Taylor. – Három ember, ugyanaz a szó, ugyanarra a személyre, és senki sem tudja, honnan jött. Ez nem véletlen. Valaki elindított valamit.
 
-– Én aggódtam – szólalt meg Hepburn halkan, és a hangja kissé remegett. – Ennyi volt. Nem akartam bántani, nem akartam szavaztatni. Ha ezért engem vádolnak, vállalom, de nem vagyok boldog, hogy ezt meg kell tennem.
+– Én aggódtam – szólalt meg Hepburn halkan, és a hangja kissé remegett. – Ennyi volt. Nem akartam bántani, nem akartam szavaztatni. Ha ezért engem vádolnak, vállalom, de nem könnyű ezt itt kimondani.
 
 – Senki sem vádolja – mondta Einstein.
 
@@ -410,7 +410,7 @@ A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén 
 
 – Nem az – mondta Hitchcock. – Az csak mozgás.
 
-– Én azt javaslom – szólt Welles, és lassan felállt –, hogy mondjak valamit, amit be kell vallanom. Nem szeretem a tervet, de szükség van rá. – Nagy lélegzetet vett, mintha színpadra lépne. – Ha ma éjjel valami történik velem, akkor Marlon Brandót nézzék.
+– Én mondok valamit – szólt Welles, és lassan felállt –, amit nem szeretek kimondani. – Nagy lélegzetet vett, mintha színpadra lépne. – Ha ma éjjel valami történik velem, akkor Marlon Brandót nézzék.
 
 A teremben csend lett. Brando a kezéről felnézett.
 
@@ -424,7 +424,7 @@ A teremben csend lett. Brando a kezéről felnézett.
 
 – Én is.
 
-– Ki mondta először, hogy hangos? – kérdezte Hofi hirtelen a hallgatásba. – Én csak azt kérdezem, mert ha valamit hárman mondanak egyszerre, annak van egy első. Mindenki hallotta, mindenki mondja, de a szó senkié.
+– Én csak annyit mondok – szólt Hofi hirtelen a hallgatásba –, hogy ha valamit hárman mondanak egyszerre, annak van egy első. Mindenki hallotta, mindenki mondja, de a szó senkié.
 
 – Ez így van – mondta Neumann. – Az információ terjedése olyan, mint egy kémiai reakció: ha egyszer elindult, már nem lehet megmondani, melyik molekulával kezdődött.
 
@@ -498,7 +498,7 @@ A gyertya lángja egy pillanatra meghajolt, aztán újra kiegyenesedett. A Harma
 
 – Ez ma elég volt – felelte az Első.
 
-– Hála Istennek – mondta a Harmadik, és a hangja egy pillanatra elcsuklott, ahogy valaki kimondja azt, amit nem szeretne megismételni. – Nem szerettem volna még egyszer azt mondani, hogy aggódom.
+– Hála Istennek – mondta a Harmadik, és a hangja egy pillanatra elcsuklott. – Nem szerettem volna még egyszer azt mondani, hogy aggódom.
 
 Senki sem válaszolt. Egy ideig csak a kő hidegét lehetett érezni.
 

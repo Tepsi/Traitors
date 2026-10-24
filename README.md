@@ -16,6 +16,7 @@ Az oldal fejezetenként, a `site/menetrend.txt` dátumai szerint jelenik meg a G
 | 2 | Az üres szék | [fejezetek/02-az-ures-szek.md](fejezetek/02-az-ures-szek.md) |
 | 3 | A hallgatás | [fejezetek/03-a-hallgatas.md](fejezetek/03-a-hallgatas.md) |
 | 4 | A lánc | [fejezetek/04-a-lanc.md](fejezetek/04-a-lanc.md) |
+| 5 | A vakfolyosó | [fejezetek/05-a-vakfolyoso.md](fejezetek/05-a-vakfolyoso.md) |
 
 ## Háttéranyag
 

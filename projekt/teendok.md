@@ -5,6 +5,8 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 ## Következő lépések
 - [x] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
 - [ ] 4. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kútház-próbatétel, a Kerekasztal, a konklávé. (Z)
+- [ ] 5. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Vakfolyosó-próbatétel, a Kerekasztal, a konklávé. (Z)
+- [ ] 5. fejezet illusztrációinak promptjai, az átolvasás után. (C)
 - [ ] 4. fejezet illusztrációinak promptjai, az átolvasás után. (C)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
 - [ ] A bejárás szálai: Christie üres polcrése a könyvtárban, a festmények a Nagyterem felé néznek, a pincelépcső ajtaja zárva, a konklávé tölgyajtaja. Visszatérnek-e? (C+Z)
@@ -36,7 +38,10 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - Reggeli-szerkezet minden fejezetben: a játékosok kis csoportokban érkeznek, kibeszélhetik egymást, nyomozhatnak, ármánykodhatnak; örülnek a megérkezőknek; az árulók színlelnek; az utolsó vendég megérkezésekor derül ki, ki halt meg az éjjel. A 2. fejezetben kész. (Z, 10-17)
 - Az árulók a Játékmester szavaiból tudják, hogy 2–4-en vannak, tehát van társuk; az első konklávéig csak azt nem tudják, kik ők és hányan. Soha nem hihetik, hogy egyedül vannak. (Z, 10-17)
 
+- Negyedik próbatétel: a Vakfolyosó (párok, a Vak és a Hang, fekete lapokra lépve megkondul a harang). Eredmény: fődíj 2 410 000 Ft; pajzs: Kabos. (C, 5. fejezet)
+
 ## Kész
+- [x] 5. fejezet megírva: `fejezetek/05-a-vakfolyoso.md` (új próbatétel: a Vakfolyosó; fődíj 2 410 000 Ft; K5 Taylor; N5 név nélkül) (C, 10-24)
 - [x] 4. fejezet megírva: `fejezetek/04-a-lanc.md` (új próbatétel: a Kútház; fődíj 1 870 000 Ft; K4 de Funès; N4 név nélkül) (C, 10-21)
 - [x] 3. fejezet szerzői átolvasása és javítása (Z+C, 10-21)
 - [x] 3. fejezet megírva: `fejezetek/03-a-hallgatas.md` (új próbatétel: a Csend Szalonja; fődíj 1 220 000 Ft; K3 Psota; N3 név nélkül) (C, 10-18)
