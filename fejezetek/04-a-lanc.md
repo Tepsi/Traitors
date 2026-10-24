@@ -344,7 +344,7 @@ Bessenyei ekkor felállt. Eddig hallgatott, és a hangját napok óta úgy nyomt
 
 Szünetet tartott.
 
-– Hepburn kisasszony. – A nevet nem hangsúlyozta. – Neumann. Dalí. Callas. Hitchcock. Öt név. Nem vádolom őket, tudja a Jóisten, hogy nem vádolok senkit azzal, amit nem tudok. De én olyan társaságban nőttem fel, ahol aki sosem szólt bele a vitába, azt előbb-utóbb megkérdezték: és te mit gondolsz? Én most megkérdezem. És maguk, öten, mit gondolnak?
+– Bud Spencer. – A nevet nem hangsúlyozta. – Callas asszony. Dalí. Puskás Ferenc. Einstein professzor. Öt név. Nem vádolom őket, tudja a Jóisten, hogy nem vádolok senkit azzal, amit nem tudok. De én olyan társaságban nőttem fel, ahol aki sosem szólt bele a vitába, azt előbb-utóbb megkérdezték: és te mit gondolsz? Én most megkérdezem. És maguk, öten, mit gondolnak?
 
 – Öt a tizenhétből – mondta Neumann. – Majdnem harminc százalék. Egy társaságban a csendesek aránya ennyi körül szokott lenni. Ez nem tünet, csak eloszlás.
 
@@ -416,17 +416,15 @@ A gong háromszor kondult.
 
 A gyertya lángja nem remegett. Egy ideig csak a kő hidegét lehetett érezni, és azt, hogy mind a hárman a lángot nézik, és nem egymást.
 
-– Bessenyei listája – mondta az Első. – Öt név, és három közülük itt ül.
-
-– Véletlenül – mondta a Második.
-
-– Lehet. – Az Első halkan beszélt, mint aki számol. – De aki egyszer véletlenül három nevet eltalál, annak a következő listája már pontosabb lesz.
+– Három nap alatt kimondta, amit mások még csak éreznek – mondta az Első. – Ma öt nevet mondott, holnap talán egyet. Aki így figyel, annak előbb-utóbb a miénk is eszébe jut.
 
 – Ritka az ilyen jó megfigyelő – mondta a Második. – Kár, hogy hangosan figyel.
 
+– És az asztal hallgat rá – mondta az Első. – Reggelre mindenki a listát fogja olvasni, az öt nevet. Nem kell mást tennünk, mint hagyni, hogy olvassák.
+
 A Harmadik nem szólt. Hosszan nézte a gyertyát, és a csuklya alól csak a keze látszott, ahogy összefonva pihent az asztalon.
 
-– Aki listát ír, az már nyomoz – mondta végül az Első. – Nem kell kitalálnunk, hogy ki legyen ma éjjel.
+– Nem kell kitalálnunk, hogy ki legyen ma éjjel – mondta végül az Első.
 
 A Második kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Harmadik egy ideig még a lángot nézte, aztán ő is.
 
