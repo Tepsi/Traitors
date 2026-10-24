@@ -3,7 +3,7 @@
 Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, (C) = Claude. Ha kész egy elem, írd át `[ ]`-ról `[x]`-re, és vidd a „Kész" részbe.
 
 ## Következő lépések
-- [ ] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
+- [x] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
 - [ ] 4. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kútház-próbatétel, a Kerekasztal, a konklávé. (Z)
 - [ ] 4. fejezet illusztrációinak promptjai, az átolvasás után. (C)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
