@@ -115,3 +115,167 @@ Mercury nagy levegőt vett, és sorolni kezdte, mint minden reggel: – Louis, L
 – Aki nincs itt, az volt az első.
 
 Mercury bólintott, és elhallgatott. A névsor most rövidebb volt, mint a tegnapi, és nehezebb is, mert minden névnél kellett egy szünet.
+
+## A Vakfolyosó
+
+A Nyugati Galéria a kastély leghosszabb terme volt, és a legsötétebb. A padlója fekete és fehér márványlapokból állt, felváltva, mint egy végtelenre nyújtott sakktábla, és a lapok között alig látszott a vonal. Az ablakokat nehéz bársony takarta. A falak mentén gyertyák égtek, de olyan ritkán, hogy a fényük nem érte el egymást, a terem végében pedig, ahol a folyosó kiszélesedett, egyetlen harang függött vastag kötélen. Mellette egy szék állt.
+
+A Játékmester az erkélyen várta őket, amely a terem hosszanti oldalán futott, és a korlát mögül mindent be lehetett látni.
+
+– Tizenöt vendég, hét pár és egy Hallgató – mondta. – A sorsot az urna dönti el.
+
+A szolgálatos inas ezüsttálcán hozta az urnát, és sorban húzatott velük pecsétes cédulákat. Neumann kérte, hogy előbb ellenőrizhesse, nincs-e kettős cédula vagy üres, és a Játékmester egy intéssel megengedte. Neumann végigkereste az urna alját, kiszámolta a cédulákat, aztán bólintott. – Tizenöt. Rendben.
+
+Bud Spencer húzta a Hallgató cédulát. Megnézte, és szó nélkül felmutatta.
+
+– Maga a harangnál ül – mondta a Játékmester. – Nem szólhat, és nem mozdulhat. Ez a dolga.
+
+– Értem – mondta Bud Spencer. Nem kérdezett semmit, és ez tényleg ő volt: odament a székhez, leült, és az ölébe tette a kezét.
+
+– Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, a fődíjé. De a fekete lapok tudnak valamit: aki fekete lapra lép, azt megszólaltatja a harang. Ilyenkor tízezer forint elvész.
+
+– Minden harang tízezer – ismételte Neumann. – Fehér lapon biztonságos, feketén nem. A fehér és fekete váltakozása szabályos?
+
+– Szabályos – felelte a Játékmester. – A mintát tanulmányozhatják, amíg a többiek mennek. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
+
+A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a Hangok.
+
+Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, aztán megállt a küszöbön. Neumann felment az erkélyre, és a korlátra támaszkodott.
+
+– Három lépés előre – mondta. – Fehér, fehér, fehér. Utána egy kicsit balra.
+
+– Mennyi az a kicsi? – kérdezte Einstein.
+
+– Fél lap.
+
+– Fél lappal én nem tudok mit kezdeni. A lábam egész lapokban gondolkodik.
+
+A lépcsőházban valaki felnevetett, aztán gyorsan elhallgatott. Az ajtón át hallani lehetett, ahogy Einstein óvatosan, kis lépésekkel megy, és Neumann hangja hangtalanul, számolva követi: – Négy. Öt. Hat. Kicsit jobbra. Most.
+
+A harang egyszer megkondult. Mindenki a lépcsőházban megmerevedett.
+
+– Ez az enyém volt – hallatszott Einstein hangja. – Mondtam, hogy egész lapokban gondolkodom.
+
+– Három erszény, egy harang – jelentette ki Neumann a lépcsőházba, miután kijöttek, mintha jegyzőkönyvet vezetne. – Nyolcvanezer.
+
+Hofi és Zsazsa következett. Zsazsa kötötte be a szemét, két kézzel, nagy műgonddal, hogy a frizurája ne sérüljön, és a küszöbön megállt. – Drágám – mondta Hofinak, aki már az erkélyről nézett le rá –, én tizenkét éve vezettetem magam sötétben, de eddig mindig lámpával kísértek.
+
+– Akkor most teljesen új élmény lesz, darling – mondta Hofi. – Három lépés előre. És balra tessék.
+
+– Balra?
+
+– Balra. A másik balra.
+
+A harang megkondult.
+
+– Ez nem én voltam – mondta Hofi komolyan. – Ez a harang kezdeményezett.
+
+– Maga mondta, hogy balra!
+
+– Én azt mondtam, hogy balra. Maga jobbra ment, mert a női intuíció mindig a másik irányba húz.
+
+Zsazsa kivett egy erszényt a lapok közül, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, ezt az ösztön.
+
+A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közben a legkomolyabb maradt, és ez volt benne a legjobb.
+
+Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, ahogy a kutyák állnak az ajtóban, mielőtt kinyitják. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
+
+– Három lépés előre, Elizabeth – mondta. – Nem sietni.
+
+Taylor elindult. Az első kettő jól sikerült, aztán Hepburn hangja megtört, mintha a gondosságtól bizonytalanodna el. – Most balra. Egy lapot.
+
+A harang megkondult.
+
+– Biztos, hogy balra volt? – kérdezte Taylor, és az arca a kötés alatt megfeszült.
+
+– Azt hittem... – mondta Hepburn. – Bocsáss meg. Az erkélyről a fekete lap és a szürke ugyanolyan.
+
+– Nem szürke lap van – mondta Taylor. – Fekete és fehér.
+
+– A gyertyafény miatt...
+
+A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenézett Callasszal.
+
+– Elizabeth – mondta Hepburn, és a hangja most egészen elfúlt –, olyan szörnyű vagyok. Az egész az én hibám.
+
+– Nem – mondta Taylor. – Csak azon gondolkodom, hogy ez most a maga hibája volt, vagy az enyém.
+
+Két erszényt vett fel, három harang. A lépcsőházban Hepburn egyenesen odament hozzá, és megfogta a karját. – Három lépést se tudtam jól mondani.
+
+– Harminc – mondta Neumann az ajtóból, a számolt tényt rögzítve. – Harmincezer.
+
+Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszasan állt, mintha a sötétben is látni akarna valamit. Hitchcock felment az erkélyre, és a korlátra tette mindkét kezét. A hangja olyan volt, mintha filmet vezényelne.
+
+– Két lépés előre – mondta. – Ne siessen. Egy hang az, amiből a félelem készül. Meg kell tanulni szeretni.
+
+– Miért jobbra? – kérdezte Brando. – Nem azt mondta, hogy előre?
+
+– Előre. Aztán jobbra.
+
+– Miért jobbra?
+
+– Mert ott van a pénz.
+
+– Honnan tudja, hogy ott van?
+
+– Mert én látom.
+
+– Akkor menjen maga – mondta Brando. Aztán egy pillanatig habozott, és olyan nagyot lépett, hogy a harang azonnal megkondult. – Hoppá.
+
+– Ez nem lépés volt, hanem előadás – mondta Hitchcock.
+
+– Magánál tanultam – mondta Brando. – Nem tudom, hogy magánál-e, de valahol.
+
+A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és közben csak kétszer kondult a harang, mintha a hangja alatt maga a terem is megnyugodott volna.
+
+Mercury és Dalí a következő pár volt. Dalí felemelt fejjel állt a küszöbön, és maga kötötte a szemére a kendőt.
+
+– Dalí nem téved el – mondta. – Dalí a sötétben is látja a saját bajuszát.
+
+Mercury az erkélyről nem szavakkal vezette, hanem hangokkal: egy mély hümmögéssel, ha egyenesen kellett mennie, egy magasabbal, ha jobbra, és szaggatott kettővel, ha meg kellett állnia. Dalí elindult, és a lépéseiben nem volt semmi bizonytalanság, mintha ismerné a padlót. A harang egyszer szólalt meg, akkor, amikor Dalí egy pillanatra megállt, és hangosan ezt mondta: – Itt a gondolat balra tér.
+
+– Jobbra – hümmögte Mercury.
+
+– A gondolat jobbra tér – javította ki Dalí, és tovább lépett.
+
+Három erszény, egy harang. Nyolcvanezer.
+
+Callas és Welles jött hatodikként. Callas az erkélyről egyetlen mozdulattal elvezette a hangját, és ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett.
+
+– Még egyszer az elejétől – mondta Callas fojtott hangon, amikor Welles túlságosan elsietett. Welles megállt, visszalépett, és újra elkezdte. A harang egyszer sem szólalt meg.
+
+Három erszény, nulla harang. Kilencvenezer.
+
+– Ritmus – mondta Welles, miután levette a kendőt, és Callasra nézett. – Maga a hangja mellett a ritmust is adta.
+
+– A hang csak a fele – felelte Callas. – A másik fele a csend a hangok között.
+
+Utoljára Puskás és Kabos ment. Kabos a küszöbön állt, és remegett, de nem a félelemtől. – Nem látok semmit – mondta. – Úgy kell, de akkor mégis sötét van.
+
+– Pont úgy – felelte Puskás az erkélyről. – Egy lépés, Gyula. Még egy. Mint a pályán, csak lassabban.
+
+Kabos elindult, és minden lépését hangosan elmondta magának, hogy el ne felejtse. Puskás nem sietett. Mindig csak egy lépést mondott, a legközelebbit, és megvárta, amíg Kabos megteszi. Ahol Kabos megállt és vissza akart fordulni, Puskás annyit mondott: – Jól csinálod.
+
+A harang egyszer sem szólalt meg. Négy erszény.
+
+– Százhúszezer – mondta Neumann, és most először nem a számra nézett, hanem Kabosra.
+
+A Játékmester levonult az erkélyről, és a Galéria közepén állt meg.
+
+– Huszonegy erszény – mondta. – Kilenc harang. A fődíjba ötszázharmincezer... – Neumann felemelte a fejét, és a Játékmester egy pillanatra elhallgatott. – Ötszáznegyvenezer forint kerül. A fődíj kétmillió-négyszáztízezer forint. A legtöbbet Puskás Ferenc és Kabos Gyula hozta. A pajzs az övék. Döntsék el, ki viseli.
+
+– Gyula kapja – mondta Puskás.
+
+– Én? – Kabos hátralépett. – Én nem, nekem csak elejtem. Mindent elejtek. Tegnap a kanalat is.
+
+– Akkor majd én fogom – mondta Puskás, és megveregette a vállát. – Te csak viseld.
+
+– De hát... – Kabos körülnézett, a szeme végigment az arcokon, mintha segítséget keresne. Hepburn mosolygott rá. – Jó. Jó, ha muszáj. De ha elveszítem, ne haragudjanak.
+
+– Nem fogod elveszíteni – mondta Puskás.
+
+A Játékmester kezében megjelent a pajzs: szürke vas, kis holdsarlóval. Kabos két kézzel vette át, mint egy tálcát.
+
+Bud Spencer mozdulatlanul ült a harang mellett, az ölében összekulcsolt kézzel. Amikor a Játékmester intett, felállt.
+
+– Hallgattam – mondta. – Ez volt a dolgom.
