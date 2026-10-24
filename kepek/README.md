@@ -46,3 +46,6 @@ Tippek az egységességhez:
 | `03-01-a-csend-szalonja` | „A terem közepén hatalmas álló óra állt…" | |
 | `03-02-mercury-tenyere` | „A ceruzával írt név már nem látszott…" | |
 | `03-03-psota-iren-a-pajzzsal` | „…mintha kígyót fogna." | |
+| `04-01-a-lanc` | „Így állt fel a lánc." | |
+| `04-02-a-lepcson` | „A lába megcsúszott." | |
+| `04-03-bessenyei-felall` | „Engedjék meg, hogy beszéljek." | |

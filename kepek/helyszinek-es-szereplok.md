@@ -19,6 +19,9 @@ A bare round stone chamber at the top of the north tower. Rough stone walls, one
 **A Holdvári-labirintus (hedge maze)**
 A maze of dark green yew hedge three meters high, a hundred years old, the branches so densely woven that nothing is visible behind the wall but fog resting among the leaves. The entrance is a weathered stone arch set into the hedge wall. In the center of the maze is a round grass clearing with a stone column; on top of the column is mounted a black iron shield with a crescent moon on it, and beside it a bronze bell hangs from an iron bracket.
 
+**A Kútház (well house) és a lépcső**
+The back courtyard of the castle, wet grey flagstones, always in fog. A small well house of grey stone with a heavy timber beam roof, open at the front, on the higher ground at the left; inside, a stone well rim with a pulley and a rope; twenty wooden buckets in a row along the wall. Forty paces away, on the lower ground at the right, a wide copper basin beside a wrought-iron garden gate. Between them seven narrow wet moss-covered stone steps descending from the well toward the basin.
+
 **A kastély (castle)**
 Lásd: `01-01-holdvari-kastely.md`. Szimmetrikus Tudor-kastély a dombtetőn, két kerek kőtoronnyal, két félfás szárnnyal, sötét ablakokkal.
 
@@ -45,3 +48,9 @@ Lásd: `01-01-holdvari-kastely.md`. Szimmetrikus Tudor-kastély a dombtetőn, k�
 - **Albert Einstein:** a rumpled cardigan, untidy white hair.
 - **Neumann János:** a precise dark business suit.
 - **Louis Armstrong:** a light 1950s suit.
+- **Louis de Funès:** a rumpled dark 1960s suit with a loosened tie, very expressive eyebrows.
+- **Ferenc Bessenyei:** a broad imposing man with silver hair in a dark formal suit.
+- **Gábor Zsazsa:** a glamorous 1950s gown, many bracelets.
+- **Hofi Géza:** a dark suit.
+- **Puskás Ferenc:** a dark 1950s suit.
+- **Orson Welles:** a heavy build, a long dark coat.
