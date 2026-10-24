@@ -464,7 +464,7 @@ A Játékmester bólintott. Aztán maga is végignézett az asztalon, lassan, mi
 
 – Elizabeth Taylor ártatlan volt.
 
-Tizenöt ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott.
+Tizennégy ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott.
 
 A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult.
 
@@ -486,7 +486,7 @@ A gong háromszor kondult.
 
 – Tudtuk – mondta az Első. – De ma legalább nem kellett kitalálnunk senkit. Az asztal maga döntött.
 
-– Én Brandóra írtam – mondta a Második. – Kellett egy másik név a számba. Négyen írták rá, és egyik sem volt rossz szándékú.
+– Én Brandóra írtam – mondta a Második. – Kellett egy másik név a számba. Négyen írták rá, és az egyik az enyém volt.
 
 – Brando ma sokat hallgatott – mondta az Első.
 
@@ -506,7 +506,7 @@ Senki sem válaszolt. Egy ideig csak a kő hidegét lehetett érezni.
 
 – Nem is rá gondoltunk – felelte az Első.
 
-– Welles ma magát is megnevezte – folytatta a Második. – Brandóra mutatott. Ha ma éjjel valami történik vele, reggel lesz, aki erre gondol.
+– Welles ma Brandót nevezte meg – folytatta a Második. Ha ma éjjel valami történik vele, reggel lesz, aki erre gondol.
 
 – Pontosan ezért – mondta az Első. – Két éjszakán hallotta. A harmadikon ismerné.
 
