@@ -279,3 +279,103 @@ A Játékmester kezében megjelent a pajzs: szürke vas, kis holdsarlóval. Kabo
 Bud Spencer mozdulatlanul ült a harang mellett, az ölében összekulcsolt kézzel. Amikor a Játékmester intett, felállt.
 
 – Hallgattam – mondta. – Ez volt a dolgom.
+
+## A könyvtár
+
+A délután lassan telt. A Galéria után mindenki szétszéledt, és a kastély egy-egy sarkában kis csoportok gyűltek össze, ahol a hangok nem jutottak el a többiekhez. A könyvtár volt a legnépesebb: nehéz tölgypolcok, bőrkötések, ablakok, amelyeken át a ködös kert látszott. A fal mentén fotelek álltak, és minden fotelben ült valaki.
+
+Hepburn Kabos mellett foglalt helyet az ablaknál. Kabos a térdén tartotta a pajzsot, mintha tányér volna, és közben állandóan igazgatta, nehogy leessen.
+
+– Ne féljen tőle, Gyula – mondta Hepburn halkan. – Nem harap.
+
+– Nem a pajzstól félek – felelte Kabos. – A felelősségtől. Tudja, kérem, én egész életemben úgy éltem, hogy sosem bíztak rám semmit, ami kitörhet. Most meg kapok egy vaskarikát, hogy ez vigyázzon rám. Nem tudom, ki kire vigyáz.
+
+– Mi mind vigyázunk egymásra.
+
+Callas leült a másik fotelbe. Ölébe vett egy könyvet, de nem nyitotta ki. Hepburn a kezét összekulcsolta, és egy ideig a kertet nézte.
+
+– Aggódom Elizabethért – mondta aztán, és olyan halkan, hogy Kabosnak közelebb kellett hajolnia. – Nem tudom, észrevették-e. A Galériában, a ma reggeli beszélgetésnél, és tegnap a Kútháznál is... Nem furcsa, hogy ennyire hangos?
+
+– Hangos? – kérdezte Callas.
+
+– Ne értse félre. Nagyon szeretem. Csak úgy érzem, hogy aki ennyire fél hallgatni, az valamitől fél. – Hepburn lesütötte a szemét. – Lehet, hogy tévedek. Remélem, hogy tévedek.
+
+Callas ujja végigfutott a könyv gerincén. – Valóban nem hallgat soha – mondta.
+
+– Mindig mond valamit – bólogatott Kabos. – Én is mindig mondok valamit, de nekem nincs mit rejtegetnem. Én csak félek.
+
+Hepburn rámosolygott, és az ujjai finoman megszorították a karját.
+
+A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerinceket, ujjával követve a feliratokat, és időnként félhangosan mondott egy szót, mintha kóstolgatná. Welles a távolabbi falnál állt, és a szemközti ablakot nézte.
+
+– Itt valami nincs a helyén – mondta Mercury egyszer csak.
+
+– Mi? – kérdezte Welles.
+
+– Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy tenyérnyi rést, amelyet a környező kötetek nem tudtak betölteni. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem könyv volt, vagy nem egy könyv. Valaki gyakran levette és visszatette.
+
+– Agatha helye – mondta Welles halkan.
+
+Mercury nem válaszolt. A tenyerére nézett, ahol már rég nem volt semmi, és a keze ökölbe szorult.
+
+– Ma még tudom a nevét – mondta. – Agatha. A többit már nem biztos.
+
+– A többi, hogy kicsoda volt?
+
+– Hogy mit szeretett – felelte Mercury. – Azt gondolom, szerette ezt a polcot.
+
+Welles hosszan állt mellette. – Ha valaki a rést elfelejti, a polc marad – mondta végül. – A polc tovább emlékszik.
+
+– Ez vigasz?
+
+– Nem. Csak tény.
+
+A kandalló mellett Hofi és Zsazsa ültek, és ők sem hallgattak.
+
+– Maga a Galériában nem vezetett jól – jelentette ki Zsazsa. – Minden harang a maga lelkén szárad.
+
+– Maga jobbra ment, drágám.
+
+– Én mindig jobbra megyek, ha a férfi balra mondja. Ez a tapasztalat.
+
+– Akkor a tapasztalat megölte a fődíjat.
+
+Zsazsa legyintett, de aztán halkabban folytatta, és előrehajolt. – Egyébként, drágám, ne mondja el senkinek, de valami furcsa történt ma. Hallottam, ahogy Audrey Callasszal beszél a hangosságról. Elizabeth hangosságáról.
+
+– Hogy hangos? – kérdezte Hofi. – Hát hangos. A Galériában is nagy volt a szája, de azért az emberek hangosak.
+
+– Én is mondom, drágám, hogy hangos – bólintott Zsazsa. – A Galériában is, a Kútháznál is, a reggelinél is. Mindig mond valamit. Aki mindig mond valamit... – Elhallgatott, és ellenállhatatlanul elmosolyodott. – Mondja, drágám, maga is így látja?
+
+– Én azt látom – felelte Hofi –, hogy mindenki hangos, aki fél. Csak vannak, akik halkan félnek.
+
+Ezt Zsazsa nem érte fel, és a kezét a gyöngysorára tette.
+
+A könyvtár túlsó végén Einstein a vonalas térképet tanulmányozta, amelyet egy üvegvitrinben talált. Neumann mellette állt, és anélkül nézte a térképet, hogy valóban látná.
+
+– A Galériában sokat számoltam – mondta Einstein. – Az egyiptomiak a sötét fekete lapokat a halottak oldalának tartották. Ez a Galéria is így gondolkozott.
+
+– Szép elmélet – mondta Neumann. – Sajnos nem bizonyítható.
+
+– Nem baj. Néha elég, ha szép.
+
+Neumann a háta mögött összekulcsolta a kezét. – Az a baj – mondta –, hogy ma már mindenki ugyanazt mondja Taylor asszonyról.
+
+– Mit mondanak?
+
+– Hogy hangos. Hárman is. – Neumann a térképre nézett. – Három ember, ugyanaz a szó, ugyanarra az emberre, egy délután. Statisztikailag ez nem véletlen.
+
+– Vagy egyszerűen tényleg hangos – mondta Einstein.
+
+– Vagy az – ismerte be Neumann. Az ajkai mozdultak, aztán elhallgatott.
+
+A gong négy óra előtt szólalt meg, és a könyvtár ürült. A lépcsőn lefelé menet Brando megállt Callas mellett, és halkan megkérdezte: – Maga hallotta, ki mondta ki először?
+
+– Mit?
+
+– Hogy hangos.
+
+Callas hosszan gondolkodott. – Valaki mondta – felelte aztán.
+
+– Valaki – ismételte Brando. – Mindig valaki.
+
+Továbbment, és nem nézett vissza.
