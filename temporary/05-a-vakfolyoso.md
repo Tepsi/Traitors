@@ -379,3 +379,99 @@ Callas hosszan gondolkodott. – Valaki mondta – felelte aztán.
 – Valaki – ismételte Brando. – Mindig valaki.
 
 Továbbment, és nem nézett vissza.
+
+## A Kerekasztal
+
+A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén pislákoltak, és a fekete ajtó ezüst kerete ugyanolyan mozdulatlan volt, mint tegnap. A Játékmester a magasabb székben ült, a keze az asztalon pihent.
+
+– Huszonketten léptek be a kastély kapuján – mondta. – Most tizenöten vannak. Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, de aki ma kapta, az tudja, hogy itt nem védi. – Kabosra pillantott, aki a térdén tartotta a vasat. – Kérem, kezdjék.
+
+– Én kezdem – mondta Taylor. – Nem azért, mert ma én vagyok a legbátrabb, hanem mert aki hallgat, az hallgat. – Kihúzta magát, és a karperece megcsendült. – A Galériában három harang volt a nevemen. Ez tény. De hallgassák meg: három ember mondta ma nekem, hogy hangos vagyok. Tőlük hallottam, nem a Játékmestertől. Kérdezem: ki mondta ezt először?
+
+– Én nem mondtam – szólt Kabos azonnal. – Én csak azt mondtam, hogy az Audrey mondta. Vagyis... nem. Callas mondta. Vagy ön, Callas asszony?
+
+– Nem én kezdtem – felelte Callas. – Valaki mondta a könyvtárban.
+
+– Valaki – ismételte Taylor. – Három ember, ugyanaz a szó, ugyanarra a személyre, és senki sem tudja, honnan jött. Ez nem véletlen. Valaki elindított valamit.
+
+– Én aggódtam – szólalt meg Hepburn halkan, és a hangja kissé remegett. – Ennyi volt. Nem akartam bántani, nem akartam szavaztatni. Ha ezért engem vádolnak, vállalom, de nem vagyok boldog, hogy ezt meg kell tennem.
+
+– Senki sem vádolja – mondta Einstein.
+
+– Én igen – mondta Taylor, de nem emelte fel a hangját. – Nem azért, mert szeretnék. Hanem mert kérdezek, és ma az a veszélyes, aki kérdez.
+
+– Maga ma mindenkire rákérdezett – mondta Hitchcock kedvesen. – A reggelinél Hepburn kisasszonyra, a Galériában ugyanarra, most megint. Én nem állítom, hogy ez gyanús. Csak azt mondom, hogy aki sokat kérdez, az sokat figyeli, ki hogyan válaszol. Egy kérdező arra jó, hogy a kérdezettek elbújjanak mögötte.
+
+– Vagy arra, hogy a kérdezés kiderítsen valamit – felelte Taylor.
+
+– Marlon is kérdez – tette hozzá Hitchcock, és a tekintete lassan átsiklott Brandóra. – Csak ő nem válaszol. Én ezt rosszabbnak tartom.
+
+– Én kérdéssel válaszolok – mondta Brando. – Az is válasz.
+
+– Nem az – mondta Hitchcock. – Az csak mozgás.
+
+– Én azt javaslom – szólt Welles, és lassan felállt –, hogy mondjak valamit, amit be kell vallanom. Nem szeretem a tervet, de szükség van rá. – Nagy lélegzetet vett, mintha színpadra lépne. – Ha ma éjjel valami történik velem, akkor Marlon Brandót nézzék.
+
+A teremben csend lett. Brando a kezéről felnézett.
+
+– Miért engem? – kérdezte.
+
+– Mert az első két éjszakán maga volt az, aki... – Welles elhallgatott, és az ujjával megmozdult a levegőben, mintha keresne valamit. – Nem tudom pontosan. Egy érzés. Nem szeretem a szót, de másik nincs.
+
+– Ez a legegyszerűbb mód, hogy valakit megbélyegezzenek – mondta Brando halkan, anélkül, hogy a hangja elvesztette volna a nyugalmát. – Orson, maga épp a legjobbat tette, amit lehet: egy névvel hagyta ránk a halálát. – Egy pillanatra elhallgatott. – De ha éjjel semmi sem történik magával, akkor ez a mondat szalad majd rajtam.
+
+– Akkor remélem, semmi sem történik – mondta Welles.
+
+– Én is.
+
+– Ki mondta először, hogy hangos? – kérdezte Hofi hirtelen a hallgatásba. – Én csak azt kérdezem, mert ha valamit hárman mondanak egyszerre, annak van egy első. Mindenki hallotta, mindenki mondja, de a szó senkié.
+
+– Ez így van – mondta Neumann. – Az információ terjedése olyan, mint egy kémiai reakció: ha egyszer elindult, már nem lehet megmondani, melyik molekulával kezdődött.
+
+– Maga mindent molekulával magyaráz – mondta Zsazsa. – Én drágám, két szóból megértem: valaki mondta.
+
+– Pontosan – felelte Neumann. – Valaki.
+
+Taylor elfordult tőle, és körbenézett az asztalon, lassan, ahogy az ember a szobát mustrálja, mielőtt otthagyja.
+
+– Hét ember szavazott tegnap Funès úrra – mondta. – Én nem tudom, kik, és nem is akarom megtudni. De azt tudom, hogy hárman közülük ma is úgy ülnek itt, mintha ez nem róluk szólna. Ne engem nézzenek. Egymást.
+
+– Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
+
+Kréta koccant a palatáblákon. Tizenöt ember írt, és az arcokról megint semmit sem lehetett leolvasni. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna, és közben egyszer Taylorra pillantott. Taylor észrevette, és nem fordította el a fejét.
+
+A Játékmester sorban felfordította a táblákat. Taylor neve sokáig egyedül állt az asztalon, aztán Brandóé következett, aztán újra Taylor.
+
+– Nyolc szavazat Elizabeth Taylorra – mondta a Játékmester. – Négy Marlon Brandóra. Egy Maria Callasra. Egy Orson Wellesre. Egy Hofi Gézára.
+
+Taylor nem mozdult. Egy pillanatig csak ült, aztán lassan letette a krétát.
+
+– Elizabeth Taylor – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
+
+Taylor felállt. A karperece megcsendült, és ahogy körülnézett, mindenki arcán megállt a tekintete egy pillanatra, mintha megjegyezni akarná őket.
+
+– Nem szeretek veszíteni – mondta. – De ennél rosszabbul is lehetett volna. – Egy pillanatra elhallgatott. – Tudják, mit szeretnék? Amikor kimondom, ki vagyok, ne engem nézzenek. Egymást.
+
+– Ez kérés? – kérdezte a Játékmester.
+
+– Ez kérés – mondta Taylor.
+
+A Játékmester bólintott. Aztán maga is végignézett az asztalon, lassan, mint aki az arcokat olvassa.
+
+– Elizabeth Taylor – mondta –, mondja ki, ki volt.
+
+– Ártatlan vagyok – mondta Taylor. – Remélem, valaki ezt is tudni fogja, ha már én nem.
+
+– Elizabeth Taylor ártatlan volt.
+
+Tizenöt ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott.
+
+A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult.
+
+– Vigyázzanak egymásra – mondta. – De ne mindig ugyanarra.
+
+Belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Mercury halkan mondta: – Elizabeth. – Aztán a tenyerére nézett, ahol már rég nem volt semmi.
+
+– A játék folytatódik – mondta a Játékmester. – Tizennégyen vannak. Reggelre kevesebben lesznek.
+
+A gong háromszor kondult.
