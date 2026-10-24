@@ -46,7 +46,7 @@ A harmadik csoportot Neumann vezette. A bejáratnál megállt, végignézett a t
 
 – Maga reggeli előtt is számol – mondta Hofi. – Én reggeli előtt még azt sem tudom, milyen nap van.
 
-Senki sem nevetett, de Callas szájának sarka megrándult, aztán újra komor lett.
+Callas szájának sarka megrándult, aztán újra komor lett.
 
 – Valaki a folyosón járt éjjel – mondta. – Lassan. Kétszer megállt az ajtóm előtt.
 
@@ -268,7 +268,7 @@ Az inas a kút pereméről felvett valamit, amit addig senki sem látott ott, eg
 
 – Elég jó volt, amíg tartott – mondta Brando. A hangja a kút falán visszhangzott, és ettől kétszer annyi embernek tűnt. – Egész idő alatt a kúthoz beszéltem. Szép visszhangja van.
 
-– Én nem csúsztam – mondta de Funès. Halkan mondta, és ez volt a legrosszabb. – A lépcső csúszott. Pardon. Pardon, de a lépcső...
+– Nem az én hibám – mondta de Funès. Halkan mondta, és ez volt a legrosszabb. – A lépcső csúszott. Pardon. Pardon, de a lépcső...
 
 – Mindenki tudta, hogy csúszik – mondta Taylor. Nem volt kegyetlen, csak pontos. – Maga is. Ezt mondta Einstein úr is.
 
@@ -322,7 +322,7 @@ Egy ideig csak a lélegzetek hallatszottak. De Funès a szék szélén ült, a k
 
 – Én aláírom – mondta Hofi.
 
-Senki sem nevetett, de de Funès arcán egy pillanatra átfutott valami, ami majdnem mosoly volt.
+De Funès arcán egy pillanatra átfutott valami, ami majdnem mosoly volt.
 
 – Maga vállalta a kutat, Marlon – mondta Taylor. – Egyedül, senki sem kérte.
 
@@ -344,9 +344,17 @@ Senki sem nevetett, de de Funès arcán egy pillanatra átfutott valami, ami maj
 
 – Akkor figyelhette volna azt is, hogy ki nincs itt. – Welles nem emelte fel a hangját. – Én azt nézem.
 
+– Orson reggel mondott valamit, amiről azóta senki sem beszélt – szólalt meg Einstein. – A levegővételt. Két éjszakán ugyanazt a hangot.
+
+– Egy hangból nem lesz név – mondta Taylor. – Meghallani valamit és tudni, kitől jött, két külön dolog.
+
+– Éppen ezért mondtam el – felelte Welles. – Nem vádolok vele senkit. Csak azt szeretném, hogy más is figyeljen rá. Ha legközelebb meghallják, tudják majd, hogy nem először.
+
+Hofi a tányérja fölé hajolt. – Én lélegzem – mondta. – Ha ez valakit zavar, szóljon.
+
 Bessenyei ekkor felállt. Eddig hallgatott, és a hangját napok óta úgy nyomta le magában, hogy a felállása is többet hallatszott, mint a szava.
 
-– Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom ezt az asztalt. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem kockáztatott meg egy gyanút.
+– Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom önöket ennél az asztalnál. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem kockáztatott meg egy gyanút.
 
 Szünetet tartott.
 
@@ -382,7 +390,7 @@ Az utolsó tábla de Funèsé volt.
 
 De Funès felállt. Az arca, amely mindig mozgott, most megállt, és ettől idegennek látszott, mintha valaki más arcát viselné.
 
-– Nem csúsztam – mondta. – Ezt már mondtam. – Körülnézett az asztalon, lassan, és ahogy az embereken végigment, a harag, amelyet az egész napon át szorongatott, egyszerre elfogyott belőle. – Tudják, mit tanul az ember a rózsák mellett? Hogy nem mindig attól fagy el a bokor, hogy valaki rosszat akart neki. Néha csak hideg az éjszaka. – Egy pillanatra elhallgatott. – Önök ma mind hidegek. Én nem haragszom. Nagyon nem szeretnék haragudni.
+– Nem az én hibám volt – mondta. – Ezt már mondtam. – Körülnézett az asztalon, lassan, és ahogy az embereken végigment, a harag, amelyet az egész napon át szorongatott, egyszerre elfogyott belőle. – Tudják, mit tanul az ember a rózsák mellett? Hogy nem mindig attól fagy el a bokor, hogy valaki rosszat akart neki. Néha csak hideg az éjszaka. – Egy pillanatra elhallgatott. – Önök ma mind hidegek. Én nem haragszom. Nagyon nem szeretnék haragudni.
 
 – Funès úr – mondta Einstein. Felállt, és kezet nyújtott neki. – Azt mondtam, vigyázzon. Nem azt, hogy ejtse el. Bocsásson meg, ha ez másképp hangzott.
 
@@ -412,7 +420,7 @@ A gong háromszor kondult.
 
 ## A negyedik konklávé
 
-Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három lépéssor hallatszott. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
 
 – Hét szavazat – mondta az Első. – Hárman voltunk a hétben. A másik négy magától jött.
 

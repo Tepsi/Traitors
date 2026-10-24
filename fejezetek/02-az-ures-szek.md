@@ -328,7 +328,7 @@ Egy ideig senki sem szólalt meg. Aztán de Funès felpattant.
 
 – Kálmán nem hazudik – mondta Puskás, és az asztalon át megveregette Latabár karját. – Hangosan nevet, az igaz. De amit mond, az úgy van.
 
-A vita olyan kerek volt, mint az asztal: körbejárt, és mindig ugyanoda ért vissza. Hofi egyszer megkérdezte, hogy nem akarja-e valaki inkább saját magát feljelenteni, mert az gyorsabb volna, és mindenkinek jobb. Senki sem nevetett.
+A vita olyan kerek volt, mint az asztal: körbejárt, és mindig ugyanoda ért vissza. Hofi egyszer megkérdezte, hogy nem akarja-e valaki inkább saját magát feljelenteni, mert az gyorsabb volna, és mindenkinek jobb.
 
 – Az elszólás bizonyító ereje gyenge – mondta Neumann. – De a szavazás nem bizonyítás, hanem döntés. A döntéshez pedig ez az egyetlen kézzelfogható adat áll rendelkezésünkre.
 

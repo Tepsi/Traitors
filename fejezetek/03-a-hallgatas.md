@@ -328,7 +328,7 @@ Kínos csend lett. Brando, aki eddig a kezére támasztotta a fejét, lassan kin
 
 – Tudom – mondta Brando. – Azért javasoltam.
 
-Senki sem nevetett. Hofi elmosolyodott, aztán észrevette, hogy a mosolya rossz helyen van, és letörölte.
+Hofi elmosolyodott, aztán észrevette, hogy a mosolya rossz helyen van, és letörölte.
 
 – Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
 
@@ -386,7 +386,7 @@ A gong háromszor kondult.
 
 ## A harmadik konklávé
 
-Éjfélkor a tölgyajtó ismét magától kinyílt, és a lépcsőn egymás után három lépéssor hallatszott. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
+Éjfélkor a tölgyajtó ismét magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
 
 – Tíz szavazat – mondta az Első. – Hárman voltunk a tízben. Kellett a tíz.
 
