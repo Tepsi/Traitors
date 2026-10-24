@@ -18,7 +18,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - [ ] „Ki nem szavazott rá?" lista egy lebukás után mint fair play eszköz. (C)
 
 ## Ellenőrizendő
-- [ ] A „Holdvári-labirintus" (2. fejezet): a pajzs paradoxona érthető-e, a Játékmester szabályai tiszták-e. (Z)
+- [x] A „Holdvári-labirintus" (2. fejezet): a pajzs paradoxona érthető-e, a Játékmester szabályai tiszták-e. (Z)
 - [ ] Brando és Callas modora: ha még jellegtelennek tűnnek, jelezd. (Z+C)
 
 ## Eldöntve
