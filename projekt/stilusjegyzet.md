@@ -8,13 +8,22 @@ Forrás: négy kutatási kör, jórészt másodlagos források (blogok, Wikipedi
 - Soha ne legyen vicc: a szereplők halálának oka, betegsége, tragédiája, üldöztetése, hozzátartozóinak sorsa, kora, súlya, külseje.
 - Hofi-szerkezet: közvetlen, haveri megszólítás, rövid felvezetés, váratlan csattanó, hűvös arc. Politikai poénok nincsenek.
 
+## Szólítás: tegezés és magázás (döntés, 2026-10-25)
+- Alapszabály: a szereplők magázzák egymást, mert idegenek, és a korszakuk is ezt kívánta. Ez az árulókra a konklávén is érvényes (nem tegeződnek, így a szólítás sem árul el semmit).
+- A szólítás mindig kölcsönös: ha A tegezi B-t, B is tegezi A-t. Egy szereplő nem tegezhet valakit, akit a másik magáz.
+- Kivétel (tegeződő pár): Puskás és Kabos („Ülj le, Gyula", „Te megvagy"). Puskás közvetlen, protekcionista alkat, és a játékban ő vigyáz Kabosra. Ha Kabos közvetlenül megszólítja Puskást, ő is tegezi.
+- Keresztnévvel való szólítás is magázás: „Gyula, maga négyet kapott", „Elizabeth, ne siessen", „Orson, maga épp a legjobbat tette". A „drágám" és a „barátom" szintén magázással jár.
+- Hofi „Gyilkos vagy?" kérdése is magázó: „Maga gyilkos?".
+- Többes szám: „önök" (nem „ti"), a Játékmester is „önöket" mond. Idézett régi mondatban (például Bessenyei „és te mit gondolsz?") maradhat tegezés, ha a szövegkörnyezetből látszik, hogy idézet.
+- Új szereplőpár tegezéséhez külön döntés kell, és ide fel kell venni.
+
 ## Magyarok
 - **Kabos Gyula:** hadarós, elakadós, dadogós, pergő; naiv, jóhiszemű "kisember"-hang, önironikus, a saját bajait is tréfásan meséli. Szeretetre méltó, ijedős. Kerülni: adósság, származás, emigráció.
 - **Latabár Kálmán:** méltatlankodó, panaszos hanglejtés, játékos, gyerekesen kedves humor, nem bánt másokat. Fizikai poén: megbotlik, majd a társát nézi, mintha az tehetne róla. Rögtönöz. Kerülni: bujkálás, betegség.
 - **Hofi Géza:** haveri, szájhős, kemény logikájú abszurd; a csattanó mindig a felvezetés ellentéte; kimondottan komoly arccal mond sötét dolgot; szóvicc, kifordított szólás.
 - **Psota Irén:** harsány, erős, hangos; "az egész testem kiabál" típusú intenzitás; fanyar önirónia, önelfogadás. Gesztusról nincs forrás: a hangerő és az energia a lényeg. Kerülni: múlt, betegség, kor.
 - **Puskás Ferenc:** rövid, közvetlen, gyors, csípős mondatok; derűs, nem csinál semmiből problémát; a beceneve Öcsi, így hívják mások (Spanyolországban Pancho, idős korában Öcsi bácsi), ő nem szólít így senkit; a labda a kabalája; megveregeti a beszélgetőtársat. Nem szól rosszat másról.
-- **Bessenyei Ferenc:** mély, öblös, "nagyharang" hang; hahotázó, bohém, közvetlen, tegez; sokáig tűr, aztán kitör; patetikus szerepek, de tud tömören tréfálni. Legyintések, szemvillanás. Kerülni: 1956 és a propaganda-szerepek.
+- **Bessenyei Ferenc:** mély, öblös, "nagyharang" hang; hahotázó, bohém, közvetlen (a könyvben őt is magázzák, és ő is magáz); sokáig tűr, aztán kitör; patetikus szerepek, de tud tömören tréfálni. Legyintések, szemvillanás. Kerülni: 1956 és a propaganda-szerepek.
 - **Neumann János:** tréfás, élvezi a vitát; éles, koraérett, komolyan látszó, de gúnyos kérdések; anekdotagyűjtő; gondolkodás közben a sarokba néz és motyog, sokáig mozdulatlan; többnyelvű, fejszámoló. Kerülni: betegség, atomfegyver-kérdés mint tréfa.
 - **Gábor Zsazsa:** elnyújtott "darling" (magyaros akcentus), mindenkit "drágámnak" hív; szellemes, pajzán, öniróniás; férjek, pénz, ékszer, szépség a téma; kicsit színpadias, a figyelem közepén. Kerülni: kor, lánya, balesete, betegsége.
 

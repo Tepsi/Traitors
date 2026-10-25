@@ -28,7 +28,7 @@ Az ajtóban zaj támadt: Hofi, Psota Irén, de Funès és Dietrich érkezett egy
 
 – Ne mondja még! – kiáltotta Psota Irén olyan hangosan, hogy a poharak megcsörrentek. – Még csak nyolcan vagyunk!
 
-– Nyolc a huszonkettőből – mondta Hofi. A székek közé lépett, és ünnepélyesen megkérdezte Bessenyeitől: – Gyilkos vagy?
+– Nyolc a huszonkettőből – mondta Hofi. A székek közé lépett, és ünnepélyesen megkérdezte Bessenyeitől: – Maga gyilkos?
 
 – Nem – mondta Bessenyei.
 
@@ -50,7 +50,7 @@ Kabos a kezében forgatta a nem létező kalapját. – Kedves... kedves baráta
 
 Mögöttük, kissé lemaradva, Hepburn lépett be. A keze összekulcsolva a mellén, az arca sápadt, a szeme fényes. Amikor meglátta Kabost, felsóhajtott, és megfogta mindkét kezét.
 
-– Ó, hála Istennek – mondta halkan. – Mind itt vagytok. Azt hittem... nem tudom, mit hittem. Egész éjjel nem aludtam.
+– Ó, hála Istennek – mondta halkan. – Mind itt vannak. Azt hittem... nem tudom, mit hittem. Egész éjjel nem aludtam.
 
 – Maga is megvan – mondta Kabos meghatottan. – Maga is, kedves barátom.
 
@@ -212,7 +212,7 @@ Egy sövényfal tövében Brando ült, a hátát a leveleknek támasztva, és k�
 
 – Mert a pénz...
 
-– Honnan tudod, hogy nem találtam már?
+– Honnan tudja, hogy nem találtam már?
 
 Puskás egy pillanatig nézte, aztán megveregette a vállát, és továbbment. Rosszat nem szólt róla, de a következő fordulónál még egyszer visszanézett.
 
@@ -284,9 +284,9 @@ A Játékmester felemelte a kezét, és mindenki elhallgatott.
 
 A délután hosszabb volt, mint a reggel. A játék utáni csend olyan, mint a vihar utáni: tele van apró zörejekkel, amelyekből mindenki következtetni akar.
 
-Hofi komoly arccal körbement, és mindenkit megkérdezett: – Gyilkos vagy?
+Hofi komoly arccal körbement, és mindenkit megkérdezett: – Maga gyilkos?
 
-Kabos tiltakozott, Zsazsa kacagott, Mercury azt mondta: – Drágám, ha az volnék, nem mondanám meg, ha meg nem, akkor sem hinnél nekem. – Dalí azt felelte, hogy Dalí nem gyilkol, Dalí csak megfest, és az néha még rosszabb. Brando fel sem nézett.
+Kabos tiltakozott, Zsazsa kacagott, Mercury azt mondta: – Drágám, ha az volnék, nem mondanám meg, ha meg nem, akkor sem hinne nekem. – Dalí azt felelte, hogy Dalí nem gyilkol, Dalí csak megfest, és az néha még rosszabb. Brando fel sem nézett.
 
 – Maga az? – kérdezte Hofi.
 
@@ -374,15 +374,15 @@ Csend lett.
 
 Latabár felállt, megigazította a nyakkendőjét, és körülnézett az asztalon. Senki sem nézett vissza rá, kivéve Puskást. Akkor meghajolt, mélyen, ahogy színpadon szokás, és csak utána szólalt meg, panaszos, ünnepélyes hangon, mintha díjat venne át.
 
-– Tisztelt Kerekasztal! Kilenc szavazat. Kilenc! Ilyen sikerem nem volt egy szezonban sem, és most mind itt ültök, és úgy néztek a palatáblátokra, mintha nem ti írtátok volna rá. Ráadásul milyen pontosan! Dalíra egyetlen szavazat jutott, és az is az enyém. Ezt a szabályt még a Játékmester sem ismeri: aki hozzám hasonlóan rosszul céloz, az legalább nem bántott senkit.
+– Tisztelt Kerekasztal! Kilenc szavazat. Kilenc! Ilyen sikerem nem volt egy szezonban sem, és most mind itt ülnek, és úgy néznek a palatáblájukra, mintha nem önök írták volna rá. Ráadásul milyen pontosan! Dalíra egyetlen szavazat jutott, és az is az enyém. Ezt a szabályt még a Játékmester sem ismeri: aki hozzám hasonlóan rosszul céloz, az legalább nem bántott senkit.
 
 Kabos felé fordult, és sértődötten felemelte az ujját.
 
-– Gyula, te négyet kaptál. Négyet! Nem tudom, mit csináltál, de ez tisztességtelen verseny.
+– Gyula, maga négyet kapott. Négyet! Nem tudom, mit csinált, de ez tisztességtelen verseny.
 
 Kabos tehetetlenül széttárta a karját. Brando a plafont nézte. Latabár hangja ekkor lassan lejjebb ment, és már nem a közönségnek szólt.
 
-– Egész nap azt hallgattam, hogy hangosan nevetek. Hát nevettem. Én úgy szoktam félni, a többiek meg csendben. Egyvalamit kérek, mielőtt kimegyek: aki közületek ma este mégis nyugodtan alszik, az tapsoljon magának. Vastapsot érdemel. Ilyen előadást én sem láttam. – Egy pillanatra elhallgatott, aztán felvonta a vállát. – És hogy a nagyjelenetnek is meglegyen a vége: ártatlan vagyok. Tessék. Ennyit tudtam kihozni a szerepből.
+– Egész nap azt hallgattam, hogy hangosan nevetek. Hát nevettem. Én úgy szoktam félni, a többiek meg csendben. Egyvalamit kérek, mielőtt kimegyek: aki önök közül ma este mégis nyugodtan alszik, az tapsoljon magának. Vastapsot érdemel. Ilyen előadást én sem láttam. – Egy pillanatra elhallgatott, aztán felvonta a vállát. – És hogy a nagyjelenetnek is meglegyen a vége: ártatlan vagyok. Tessék. Ennyit tudtam kihozni a szerepből.
 
 – Latabár Kálmán ártatlan volt – mondta a Játékmester.
 

@@ -16,7 +16,7 @@ Mercury némán mozgatta az ajkát, és magában sorolta a neveket. – Ma már 
 
 A második csoport egyben érkezett. Hitchcock jött elöl, Dalí mellette, mögöttük Kabos és Puskás. Kabos Puskás karjába kapaszkodott, és közben hangtalanul mozgott a szája.
 
-– Ne számoljon, Gyula – mondta Puskás, és kihúzta neki a széket. – Üljön le, a többit úgyis meglátjuk.
+– Ne számolj, Gyula – mondta Puskás, és kihúzta neki a széket. – Ülj le, a többit úgyis meglátjuk.
 
 – De ha nem számolok, nem tudom, hányan vagyunk.
 
@@ -102,6 +102,18 @@ Welles nem szólt, csak bólintott.
 
 Einstein felemelte a fejét. – Egy halott mondata nem bizonyíték – mondta. – Őt már nem kérdezhetjük meg, mire gondolt, amikor kimondta.
 
+– Csakhogy ő nincs itt, a listája viszont igen – mondta Hofi. – És két lehetőség van, mindkettő rossz. Ha azért ölték meg, mert gyilkos volt a listán, akkor a listán gyilkos ül. Ha azért, mert nem volt rajta gyilkos, akkor a gyilkosok azt akarják, hogy a listát nézzük, és a listán ülők legyenek a gyanúsak.
+
+– És melyik igaz? – kérdezte Taylor.
+
+– Ha tudnám, nem itt ülnék, hanem ott. – Hofi a Játékmester felé intett a fejével.
+
+– Mindkét feltevés ugyanazt az adatot magyarázza – mondta Neumann. – Ami két ellentétes magyarázatot is elbír, az egyiket sem bizonyítja.
+
+– Dalí a listán van – jelentette ki Dalí. – Dalí tudomásul veszi, hogy akár így, akár úgy, rá fognak nézni.
+
+– A lista kérdés, nem válasz – mondta Einstein. – Ezt tegnap is mondták, és ma is igaz.
+
 – Én csak annyit mondok – szólt Callas –, hogy engem Bessenyei az öt név közé sorolt, és ebből nem lehet sem érvet, sem bizonyítékot csinálni. Én nem vagyok csendes. Én vagyok az, aki nem kiabál.
 
 – Ez a különbség nagyon finom – mondta Taylor.
@@ -134,11 +146,11 @@ Bud Spencer húzta a Hallgató cédulát. Megnézte, és szó nélkül felmutatt
 
 – Értem – mondta Bud Spencer. Nem kérdezett semmit, és ez tényleg ő volt: odament a székhez, leült, és az ölébe tette a kezét.
 
-– Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, a fődíjé. De a fekete márvány tud valamit: aki fekete lapra lép, azt megszólaltatja a harang. Ilyenkor tízezer forint elvész.
+– Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, az a fődíjba kerül. De a fekete márvány tud valamit: aki fekete lapra lép, annál megkondul a harang. Ilyenkor tízezer forint elvész.
 
 – Minden harang tízezer – ismételte Neumann. – Fehér márványon biztonságos, feketén nem. A fekete és a fehér elosztásában van szabályszerűség?
 
-– Nincs – felelte a Játékmester. – A mintát tanulmányozhatják, amíg a többiek mennek. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
+– Nincs – felelte a Játékmester. – A többiek a lépcsőházban várnak, senki sem látja előre a másik útját. Így mindenki ugyanazokkal az esélyekkel indul. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
 
 A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a hangok.
 
@@ -170,7 +182,7 @@ Hofi és Zsazsa következett. Zsazsa kötötte be a szemét, két kézzel, nagy 
 
 A harang megkondult.
 
-– Ez nem én voltam – mondta Hofi komolyan. – Ez a harang kezdeményezett.
+– Ez nem én voltam – mondta Hofi komolyan. – A harang a saját szakállára kondult meg.
 
 – Maga mondta, hogy balra!
 
@@ -182,7 +194,7 @@ A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közb
 
 Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, mint aki nem akar elsőnek megszólalni. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
 
-– Három lépés előre, Elizabeth – mondta. – Nem sietni.
+– Három lépés előre, Elizabeth – mondta. – Ne siessen.
 
 Taylor elindult. Az első kettő jól sikerült, aztán Hepburn hangja megtört, mintha a gondosságtól bizonytalanodna el. – Most balra. Egy lépést.
 
@@ -190,11 +202,11 @@ A harang megkondult.
 
 – Biztos, hogy balra volt? – kérdezte Taylor, és az arca a kötés alatt megfeszült.
 
-– Azt hittem... – mondta Hepburn. – Bocsáss meg. Innen fentről, a gyertyafényben, alig látom, melyik fekete.
+– Azt hittem... – mondta Hepburn. – Bocsásson meg. Innen fentről, a gyertyafényben, alig látom, melyik fekete.
 
 – Maga mondta, hogy balra – mondta Taylor.
 
-– Tudom. Bocsáss meg.
+– Tudom. Bocsásson meg.
 
 A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenézett Callasszal.
 
@@ -202,7 +214,7 @@ A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenéze
 
 – Nem – mondta Taylor. – Csak azon gondolkodom, hogy ez most a maga hibája volt, vagy az enyém.
 
-Két erszényt vett fel, három harang. A lépcsőházban Hepburn odarohant hozzá, és megfogta a karját. – Nem tudtam jól mondani.
+Két erszényt vett fel, három harang. A lépcsőházban Hepburn odarohant hozzá, és megfogta a karját. – Nem tudtam jól vezetni.
 
 – Kettő és három – mondta Neumann az ajtóból. – Harmincezer.
 

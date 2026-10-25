@@ -48,7 +48,7 @@ Aztán jött a harmadik csoport, és Einstein már az ajtóból körbenézett a 
 
 A negyedik csoport zajosan érkezett, mert Hofi és de Funès már a lépcsőn vitatkozott. Welles és Psota Irén követte őket, Welles hosszan fújta ki a levegőt, Psota Irén a lépcső korlátját szorította.
 
-– Jó reggelt, Welles úr – mondta Hofi, és megállt vele szemben. Szertartásosan megkérdezte: – Gyilkos vagy?
+– Jó reggelt, Welles úr – mondta Hofi, és megállt vele szemben. Szertartásosan megkérdezte: – Maga gyilkos?
 
 – Ma még a kávémat sem ittam meg – felelte Welles. – Előbb a kávé, aztán a gyilkosság. Ez a rend.
 
@@ -126,7 +126,7 @@ Bud Spencer nem mozdult. – Értem – mondta csak.
 
 Hátralépett, és a fény a háta mögött elfogyott. A tizenkilenc vendég egy ideig nem mozdult. Aztán Hofi felemelte a villát, és megkérdezte a levegőtől:
 
-– Gyilkos vagy?
+– Maga gyilkos?
 
 Senki sem nevetett, és ő sem.
 

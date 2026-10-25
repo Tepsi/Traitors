@@ -46,7 +46,7 @@ Louis de Funès a kapuban azonnal felháborodott. – Ez botrány! – kiáltott
 
 – Igen, uram – felelte az inas nyugodtan. – Itt mindenki tudja.
 
-Louis Armstrong széles mosollyal köszönt mindenkit. – Sziasztok, kedveseim! Valaki tudja, hol a zenekar?
+Louis Armstrong széles mosollyal köszönt mindenkit. – Üdv mindenkinek, kedveseim! Valaki tudja, hol a zenekar?
 
 Orson Welles megkérdezte, mikor lesz vacsora, és hogy utána is lesz-e étkezés. A kabátja közben lecsúszott a válláról, de ő észre sem vette.
 
@@ -334,9 +334,9 @@ Az Első megállt a kőasztalnál, ahol egyetlen gyertya égett, és vállat hú
 
 Egy pillanatig egyikük sem mozdult. Aztán mindketten lehajtották a csuklyájukat. Ez a krónika az arcokról semmit sem árul el.
 
-– Te?! – suttogta az egyik, és a hangjában több volt az öröm, mint a meglepetés.
+– Maga?! – suttogta az egyik, és a hangjában több volt az öröm, mint a meglepetés.
 
-– Te is?! – felelte a másik, és halkan, megkönnyebbülten felnevetett. – Egész este azt találgattam, ki lehet a társam. Téged is végignéztelek, és semmit sem vettem észre rajtad.
+– Maga is?! – felelte a másik, és halkan, megkönnyebbülten felnevetett. – Egész este azt találgattam, ki lehet a társam. Magát is végignéztem, és semmit sem vettem észre magán.
 
 – Én is! Ültem a vacsoránál, és közben azt vártam, hogy végre éjfél legyen...
 
