@@ -1,7 +1,7 @@
 # Megjelenési menetrend: fájlnév;dátum (ÉÉÉÉ-HH-NN). Az oldal csak az elérkezett dátumú fejezeteket mutatja.
 # Új fejezetnél vegyél fel egy sort. A dátum előtti napokon a fejezet nem látszik az oldalon.
-01-erkezes.md;2026-11-01
-02-az-ures-szek.md;2026-11-08
-03-a-hallgatas.md;2026-11-15
-04-a-lanc.md;2026-11-22
-05-a-vakfolyoso.md;2026-11-29
+01-erkezes.md;2026-10-25
+02-az-ures-szek.md;2026-11-01
+03-a-hallgatas.md;2026-11-08
+04-a-lanc.md;2026-11-15
+05-a-vakfolyoso.md;2026-11-22
