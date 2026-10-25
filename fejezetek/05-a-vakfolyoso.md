@@ -8,11 +8,11 @@ A gong hétkor szólalt meg, és a Nagyterem előtt már állt valaki. Bud Spenc
 
 – Még senki – felelte Bud Spencer. – Mi vagyunk az elsők.
 
-– Az elsőnek lenni sosem jó – mondta Zsazsa. – Aki elsőnek érkezik, az látja a hiányt, mielőtt még a többiek megtanulnának nem nézni rá.
+– Az elsőnek lenni sosem jó – mondta Zsazsa. – Aki elsőnek érkezik, az még nem tudja, hányan fognak megérkezni.
 
-Bementek. A Nagyteremben a gyertyák még égtek, pedig odakint már világos volt. A terítékeken a névtáblák sorban álltak, és az egyiken nem volt semmi: nem fehér kesztyű, nem szürke betű, csak a tányér és mellette a szék, amely egy fokkal hátrébb állt a többinél, mintha valaki épp most kelt volna fel belőle.
+Bementek. A Nagyteremben a gyertyák még égtek, pedig odakint már világos volt. A hosszú asztalon a terítékek sorban álltak, a névtáblák a tányérok előtt, és senki sem akarta megszámolni őket.
 
-– Ferenc – mondta Mercury. A tenyerére pillantott, de ott már semmi sem volt, és ujjait gyorsan összezárta. – Ma már csak fejből.
+Mercury a tenyerére pillantott, de ott már semmi sem volt, és ujjait gyorsan összezárta. – Ma már csak fejből – mondta.
 
 A második csoport egyben érkezett. Hitchcock jött elöl, Dalí mellette, mögöttük Kabos és Puskás. Kabos Puskás karjába kapaszkodott, és közben hangtalanul mozgott a szája.
 
@@ -22,15 +22,15 @@ A második csoport egyben érkezett. Hitchcock jött elöl, Dalí mellette, mög
 
 – Akkor is annyian vagyunk, mint ha számolna.
 
-Hitchcock megállt a szék mögött, és végignézett az asztalon. – Tizenhat teríték – mondta. – Tizenöt ember és egy üres szék. Az üres székeket mindig könnyebb megszámolni.
+Hitchcock megállt a szék mögött, és az ajtó felé fordult. – Reggel mindig az ajtót kell nézni – mondta. – A szék nem mond semmit. Az ajtó előbb-utóbb mond.
 
 – Maga ezt miért mondja? – kérdezte Dalí.
 
-– Mert az üres szék az egyetlen, amelyik nem hazudik – felelte Hitchcock, és leült.
+– Mert az ajtón át az érkezik, akit várunk. Vagy nem érkezik – felelte Hitchcock, és leült.
 
 Neumann a harmadik csoporttal érkezett, Brandóval és Callasszal. A küszöbön megállt, és az ajka mozdult. Aztán beljebb lépett, és a terítőjét simította.
 
-– Tizenöt – mondta. – Egyet kivontunk a tizenhatból. A kivonás lassan elvesz minden izgalmat az emberből.
+– Tízen vagyunk – mondta. – Tizenhatan feküdtünk le, tizenöten ülünk majd az asztalnál. Egyet kivontunk, csak még nem tudjuk, kit. A kivonás lassan elvesz minden izgalmat az emberből.
 
 – Magából? – kérdezte Callas.
 
@@ -46,11 +46,11 @@ Callas szája sarka megrándult, aztán újra komor lett.
 
 A negyedik csoport hosszabb ideig késett, mint az előzőek. Hepburn jött elöl, mögötte Welles, Taylor és Einstein. Hepburn az ajtóban megállt, és végigfuttatta a szemét a székeken, ahogy a gyerek számolja a testvéreit, mielőtt elalszik. Aztán fellélegzett.
 
-– Mind itt vannak – mondta. – Nem is tudom, miért remegek még mindig.
+– Maguk is itt vannak – mondta. – Nem is tudom, miért remegek még mindig.
 
 – Mert mi mind remegünk – felelte Einstein halkan. – Csak nem mindenki mutatja.
 
-Welles nem szólt. Leült a helyére, a karjait az asztalra tette, és az üres széket nézte, amely az ő jobbján állt. Taylor mellé ült, és a karperecét forgatta, de nem a tányért nézte, hanem Hepburnt.
+Welles nem szólt. Leült a helyére, a karjait az asztalra tette, és az ajtót nézte. Taylor mellé ült, és a karperecét forgatta, de nem a tányért nézte, hanem Hepburnt.
 
 Hofi érkezett utolsónak, és egyedül. A küszöbön megállt, mintha nem bízna a saját lábában, és csendben végigszámolta a székeket. Az ajka sem mozdult, csak a szeme ugrált szék és szék között.
 
@@ -60,7 +60,9 @@ Hofi érkezett utolsónak, és egyedül. A küszöbön megállt, mintha nem bíz
 
 – Tegnap még nem voltam ilyen jó benne.
 
-Leült, és az asztal közepére nézett, ahol a kancsó állt.
+Leült, és az asztal közepére nézett, ahol a kancsó állt. Ekkor vették észre mindannyian, hogy az asztal végén egy teríték érintetlen maradt: a tányér mellett nem állt névtábla, és a szék egy fokkal hátrébb volt tolva a többinél, mintha valaki épp most kelt volna fel belőle.
+
+– Ferenc – mondta Mercury halkan.
 
 A Játékmester a kandalló mellett állt, mintha mindvégig ott lett volna. A szürke ruhája csak egy árnyalattal volt sötétebb a falnál, és a hangja halkan indult, mint mindig.
 
