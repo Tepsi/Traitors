@@ -90,11 +90,11 @@ toc = "".join(
 intro = (ROOT / "site" / "bevezeto.html").read_text(encoding="utf-8")
 legal = (ROOT / "site" / "jogi.html").read_text(encoding="utf-8")
 (OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"{intro}<hr><h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul>", True), encoding="utf-8")
-first = f'<a class="btn" href="{chapters[0]["slug"]}/index.html">Olvasás</a> ' if chapters else ""
+first = '<a class="btn" href="fejezetek.html">Olvasás</a>'
 cover = f"""<div class="cover"><img src="borito.png" alt="A Holdvári-kastély sziluettje a telihold előtt">
 <h1>Árulók<br><span>Halálos kastély</span></h1>
 <p class="tag">Huszonkét híresség. Egy kastély. Minden éjjel egy üres szék.</p>
-<p>{first}<a class="btn alt" href="fejezetek.html">Fejezetek</a></p></div>
+<p>{first}</p></div>
 <section class="legal">{legal}</section>"""
 (OUT / "index.html").write_text(page(TITLE, cover, True), encoding="utf-8")
 print(f"{len(chapters)} fejezet kész ({today})")
