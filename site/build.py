@@ -65,7 +65,7 @@ def page(title, body, is_index=False):
 OUT.mkdir(exist_ok=True)
 if (ROOT / "kepek").exists():
     shutil.copytree(ROOT / "kepek", OUT / "kepek", ignore=shutil.ignore_patterns("*.md", "*.svg", "*.png"), dirs_exist_ok=True)
-shutil.copy(ROOT / "site" / "borito.svg", OUT / "borito.svg")
+shutil.copy(ROOT / "site" / "borito.png", OUT / "borito.png")
 (OUT / "style.css").write_text(CSS, encoding="utf-8")
 
 md = markdown.Markdown(extensions=["smarty"], extension_configs={"smarty": {"smart_dashes": False}})
@@ -88,7 +88,7 @@ intro = (ROOT / "site" / "bevezeto.html").read_text(encoding="utf-8")
 legal = (ROOT / "site" / "jogi.html").read_text(encoding="utf-8")
 (OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"<h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul><hr>{intro}", True), encoding="utf-8")
 first = f'<a class="btn" href="{chapters[0]["slug"]}/index.html">Olvasás</a> ' if chapters else ""
-cover = f"""<div class="cover"><img src="borito.svg" alt="A Holdvári-kastély sziluettje a telihold előtt">
+cover = f"""<div class="cover"><img src="borito.png" alt="A Holdvári-kastély sziluettje a telihold előtt">
 <h1>Árulók<br><span>Halálos kastély</span></h1>
 <p class="tag">Huszonkét híresség. Egy kastély. Minden éjjel egy üres szék.</p>
 <p>{first}<a class="btn alt" href="fejezetek.html">Fejezetek</a></p></div>
