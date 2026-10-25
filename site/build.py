@@ -89,7 +89,7 @@ toc = "".join(
     for c in chapters)
 intro = (ROOT / "site" / "bevezeto.html").read_text(encoding="utf-8")
 legal = (ROOT / "site" / "jogi.html").read_text(encoding="utf-8")
-(OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"<h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul><hr>{intro}", True), encoding="utf-8")
+(OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"{intro}<hr><h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul>", True), encoding="utf-8")
 first = f'<a class="btn" href="{chapters[0]["slug"]}/index.html">Olvasás</a> ' if chapters else ""
 cover = f"""<div class="cover"><img src="borito.png" alt="A Holdvári-kastély sziluettje a telihold előtt">
 <h1>Árulók<br><span>Halálos kastély</span></h1>
