@@ -8,15 +8,15 @@ A gong hétkor szólalt meg, és a Nagyterem előtt már állt valaki. Bud Spenc
 
 – Még senki – felelte Bud Spencer. – Mi vagyunk az elsők.
 
-– Az elsőnek lenni sosem jó – mondta Zsazsa. – Aki elsőnek érkezik, az még nem tudja, hányan fognak megérkezni.
+– Az elsőnek lenni sosem jó – mondta Zsazsa. – Aki elsőnek érkezik, annak kell végignéznie, kik jönnek be az ajtón, és kik nem.
 
 Bementek. A Nagyteremben a gyertyák még égtek, pedig odakint már világos volt. A hosszú asztalon a terítékek sorban álltak, a névtáblák a tányérok előtt, és senki sem akarta megszámolni őket.
 
-Mercury a tenyerére pillantott, de ott már semmi sem volt, és ujjait gyorsan összezárta. – Ma már csak fejből – mondta.
+Mercury némán mozgatta az ajkát, és magában sorolta a neveket. – Ma már csak fejből – mondta.
 
 A második csoport egyben érkezett. Hitchcock jött elöl, Dalí mellette, mögöttük Kabos és Puskás. Kabos Puskás karjába kapaszkodott, és közben hangtalanul mozgott a szája.
 
-– Ne számoljon, Gyula – mondta Puskás, és kihúzta neki a széket. – Ma ülünk, és kész.
+– Ne számoljon, Gyula – mondta Puskás, és kihúzta neki a széket. – Üljön le, a többit úgyis meglátjuk.
 
 – De ha nem számolok, nem tudom, hányan vagyunk.
 
@@ -80,7 +80,7 @@ Senki sem nyúlt az ételhez. Neumann akkor szólalt meg, amikor a gyertyák lá
 
 – Hat-hét. Ez a szám nem sok és nem kevés. – Neumann a kezén kezdte számolni. – Kabos úr, Puskás úr, Brando úr, Callas asszony, Dalí. Öten. A hatodik...
 
-– Én is ott ültem, Gyula mellett – szólt Hepburn halkan, mielőtt Neumann folytathatta volna. – Jobban szeretném, ha ezt maguktól hallanák, mint hogy azon tűnődjenek, miért nem mondom.
+– Én is ott ültem, Gyula mellett – szólt Hepburn halkan, mielőtt Neumann folytathatta volna. – Jobban szeretném, ha ezt tőlem hallanák, mint hogy azon tűnődjenek, miért nem mondom.
 
 – Köszönöm – mondta Neumann. – Ez hasznos.
 
@@ -96,13 +96,13 @@ Neumann a hüvelykujjával megkocogtatta az asztal szélét. – A levegővétel
 
 Welles nem szólt, csak bólintott.
 
-– És ott a lista – szólt közbe Mercury. Szétnyitotta az ujjait, mintha a tenyerén keresné. – Bessenyei listája. Bud Spencer, Callas, Dalí, Puskás... – Elakadt.
+– És ott a lista – szólt közbe Mercury. – Bessenyei listája. Bud Spencer, Callas, Dalí, Puskás... – Elakadt.
 
 – Einstein – mondta Hofi.
 
 Einstein felemelte a fejét. – Egy halott mondata nem bizonyíték – mondta. – Őt már nem kérdezhetjük meg, mire gondolt, amikor kimondta.
 
-– Én csak annyit mondok – szólt Callas –, hogy engem ötből az egyik névre tettek, és ebből nem lesz sem érv, sem magyarázat. Én nem vagyok csendes. Én vagyok az, aki nem kiabál.
+– Én csak annyit mondok – szólt Callas –, hogy engem Bessenyei az öt név közé sorolt, és ebből nem lehet sem érvet, sem bizonyítékot csinálni. Én nem vagyok csendes. Én vagyok az, aki nem kiabál.
 
 – Ez a különbség nagyon finom – mondta Taylor.
 
@@ -116,7 +116,7 @@ Mercury nagy levegőt vett, és sorolni kezdte, mint minden reggel: – Louis, L
 
 – Aki nincs itt, az volt az első.
 
-Mercury bólintott, és elhallgatott. A névsor most rövidebb volt, mint a tegnapi, és nehezebb is, mert minden névnél kellett egy szünet.
+Mercury bólintott, és elhallgatott. A névsor most hosszabb volt, mint tegnap, és minden név után hosszabb csend következett.
 
 ## A Vakfolyosó
 
@@ -134,9 +134,9 @@ Bud Spencer húzta a Hallgató cédulát. Megnézte, és szó nélkül felmutatt
 
 – Értem – mondta Bud Spencer. Nem kérdezett semmit, és ez tényleg ő volt: odament a székhez, leült, és az ölébe tette a kezét.
 
-– Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, a fődíjé. De a fekete lapok tudnak valamit: aki fekete lapra lép, azt megszólaltatja a harang. Ilyenkor tízezer forint elvész.
+– Minden pár egyik tagja a Vak – folytatta a Játékmester. – Bekötik a szemét, és végigmegy a folyosón a harangig. A másik a Hang. Az erkélyről lát mindent, és csak a szavával segíthet. A padlón erszények vannak, egyenként harmincezer forint. Amit a Vak megtalál és felvesz, a fődíjé. De a fekete márvány tud valamit: aki fekete lapra lép, azt megszólaltatja a harang. Ilyenkor tízezer forint elvész.
 
-– Minden harang tízezer – ismételte Neumann. – Fehér lapon biztonságos, feketén nem. A fekete és a fehér elosztásában van szabályszerűség?
+– Minden harang tízezer – ismételte Neumann. – Fehér márványon biztonságos, feketén nem. A fekete és a fehér elosztásában van szabályszerűség?
 
 – Nincs – felelte a Játékmester. – A mintát tanulmányozhatják, amíg a többiek mennek. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
 
@@ -148,15 +148,15 @@ Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, azt�
 
 – Mennyi az a kicsi? – kérdezte Einstein.
 
-– Fél lap.
+– Fél lépés.
 
-– Fél lappal én nem tudok mit kezdeni. A lábam egész lapokban gondolkodik.
+– Fél lépéssel én nem tudok mit kezdeni. A lábam egész lépésekben gondolkodik.
 
 A lépcsőházban valaki felnevetett, aztán gyorsan elhallgatott. Az ajtón át hallani lehetett, ahogy Einstein óvatosan, kis lépésekkel megy, és Neumann hangja egyenletesen, számolva követi: – Négy. Öt. Hat. Kicsit jobbra. Most.
 
 A harang egyszer megkondult. Mindenki a lépcsőházban megmerevedett.
 
-– Ez az enyém volt – hallatszott Einstein hangja. – Mondtam, hogy egész lapokban gondolkodom.
+– Ez az enyém volt – hallatszott Einstein hangja. – Mondtam, hogy egész lépésekben gondolkodom.
 
 – Három erszény, egy harang – jelentette ki Neumann a lépcsőházba, miután kijöttek, mintha jegyzőkönyvet vezetne. – Nyolcvanezer.
 
@@ -176,7 +176,7 @@ A harang megkondult.
 
 – Én azt mondtam, hogy balra. Maga jobbra ment, mert az ösztöne mindig a másik irányba húzza.
 
-Zsazsa kivett egy erszényt a lapok közül, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, az ösztönöm.
+Zsazsa kivett egy erszényt a padlóról, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, az ösztönöm.
 
 A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közben a legkomolyabb maradt, és ez volt benne a legjobb.
 
@@ -184,7 +184,7 @@ Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótla
 
 – Három lépés előre, Elizabeth – mondta. – Nem sietni.
 
-Taylor elindult. Az első kettő jól sikerült, aztán Hepburn hangja megtört, mintha a gondosságtól bizonytalanodna el. – Most balra. Egy lapot.
+Taylor elindult. Az első kettő jól sikerült, aztán Hepburn hangja megtört, mintha a gondosságtól bizonytalanodna el. – Most balra. Egy lépést.
 
 A harang megkondult.
 
@@ -318,7 +318,7 @@ A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerin
 
 – Agatha helye – mondta Welles halkan.
 
-Mercury nem válaszolt. A tenyerére nézett, ahol már rég nem volt semmi, és a keze ökölbe szorult.
+Mercury nem válaszolt. Hosszan nézte a rést, és a keze ökölbe szorult.
 
 – Ma még tudom a nevét – mondta. – Agatha. A többiben már nem vagyok biztos.
 
@@ -472,7 +472,7 @@ A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd v
 
 – Vigyázzanak egymásra – mondta. – De ne mindig ugyanarra.
 
-Belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Mercury halkan mondta: – Elizabeth. – Aztán a tenyerére nézett, ahol már rég nem volt semmi.
+Belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Mercury halkan mondta: – Elizabeth. – Aztán elhallgatott.
 
 – A játék folytatódik – mondta a Játékmester. – Tizennégyen vannak. Reggelre kevesebben lesznek.
 
@@ -514,4 +514,4 @@ Senki sem válaszolt. Egy ideig csak a kő hidegét lehetett érezni.
 
 A Harmadik nem szólt. Összefonta a kezét az asztalon, és a gyertyát nézte, amíg a láng egészen elcsendesedett. Aztán kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Második egy ideig még a lángot nézte, aztán ő is.
 
-Lent, a szobákban tizenegy ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Galériában a harang magától megmozdult, egyszer, halkan, bár fehér lap volt a padlón, és senki sem lépett rá.
+Lent, a szobákban tizenegy ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Galériában a harang magától megmozdult, egyszer, halkan, bár fehér márvány volt a padlón, és senki sem lépett rá.
