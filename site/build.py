@@ -60,7 +60,10 @@ def page(title, body, is_index=False):
 <link rel="stylesheet" href="{'' if is_index else '../'}style.css">
 </head><body>
 <header class="site"><a href="{'' if is_index else '../'}index.html">{TITLE}</a></header>
-<main>{body}</main></body></html>"""
+<main>{body}</main>
+<script data-goatcounter="https://tepsi.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+</body></html>"""
 
 OUT.mkdir(exist_ok=True)
 if (ROOT / "kepek").exists():
