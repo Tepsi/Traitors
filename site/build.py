@@ -53,11 +53,17 @@ img{max-width:100%;height:auto;display:block;margin:1.5rem auto;border-radius:2p
 """
 
 def page(title, body, is_index=False):
+    R = "" if is_index else "../"
     return f"""<!doctype html>
 <html lang="hu"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
-<link rel="stylesheet" href="{'' if is_index else '../'}style.css">
+<link rel="icon" href="{R}favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{R}favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="{R}icon-192.png">
+<link rel="apple-touch-icon" href="{R}apple-touch-icon.png">
+<meta name="theme-color" content="#5a0f14">
+<link rel="stylesheet" href="{R}style.css">
 </head><body>
 <header class="site"><a href="{'' if is_index else '../'}index.html">{TITLE}</a></header>
 <main>{body}</main>
@@ -68,7 +74,8 @@ def page(title, body, is_index=False):
 OUT.mkdir(exist_ok=True)
 if (ROOT / "kepek").exists():
     shutil.copytree(ROOT / "kepek", OUT / "kepek", ignore=shutil.ignore_patterns("*.md", "*.svg", "*.png"), dirs_exist_ok=True)
-shutil.copy(ROOT / "site" / "borito.png", OUT / "borito.png")
+for f in ("borito.png", "favicon.ico", "favicon-32.png", "icon-192.png", "icon-512.png", "apple-touch-icon.png"):
+    shutil.copy(ROOT / "site" / f, OUT / f)
 (OUT / "style.css").write_text(CSS, encoding="utf-8")
 
 md = markdown.Markdown(extensions=["smarty"], extension_configs={"smarty": {"smart_dashes": False}})
