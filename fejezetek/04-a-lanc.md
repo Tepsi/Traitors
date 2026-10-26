@@ -42,7 +42,7 @@ A harmadik csoportot Neumann vezette. A bejáratnál megállt, végignézett a t
 
 – Ezt honnan tudja? – kérdezte Hofi.
 
-– Tizennyolcan maradtunk a Kerekasztal után, és a szabály szerint reggelre valaki hiányzik. – Leült, és a terítőjét simította. – Ez nem jóslás. Ez kivonás.
+– Tizennyolcan maradtunk a Kerekasztal után, és a szabály szerint reggelre valaki hiányzik. – Leült, és a szalvétáját simította. – Ez nem jóslás. Ez kivonás.
 
 – Maga reggeli előtt is számol – mondta Hofi. – Én reggeli előtt még azt sem tudom, milyen nap van.
 

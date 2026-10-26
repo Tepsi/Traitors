@@ -20,7 +20,7 @@ A második csoport egyben érkezett. Hitchcock jött elöl, Dalí mellette, mög
 
 – De ha nem számolok, nem tudom, hányan vagyunk.
 
-– Akkor is annyian vagyunk, mint ha számolna.
+– Akkor is annyian vagyunk, mintha számolnál.
 
 Hitchcock megállt a szék mögött, és az ajtó felé fordult. – Reggel mindig az ajtót kell nézni – mondta. – A szék nem mond semmit. Az ajtó előbb-utóbb mond.
 
@@ -28,7 +28,7 @@ Hitchcock megállt a szék mögött, és az ajtó felé fordult. – Reggel mind
 
 – Mert az ajtón át az érkezik, akit várunk. Vagy nem érkezik – felelte Hitchcock, és leült.
 
-Neumann a harmadik csoporttal érkezett, Brandóval és Callasszal. A küszöbön megállt, és az ajka mozdult. Aztán beljebb lépett, és a terítőjét simította.
+Neumann a harmadik csoporttal érkezett, Brandóval és Callasszal. A küszöbön megállt, és az ajka mozdult. Aztán beljebb lépett, és a szalvétáját simította.
 
 – Tízen vagyunk – mondta. – Tizenhatan feküdtünk le, tizenöten ülünk majd az asztalnál. Egyet kivontunk, csak még nem tudjuk, kit. A kivonás lassan elvesz minden izgalmat az emberből.
 
