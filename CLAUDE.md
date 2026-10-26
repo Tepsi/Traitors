@@ -32,7 +32,17 @@ A titkos terv, a vázlatok és a feliratok jegyzetei a claude.ai Projectben vann
 A felhasználó kérése: új fejezetet csak akkor kezdj el, ha ő kéri, és ne kérdezgesd, hogy jöhet-e a következő. Ha egy fejezet már folyamatban van, ne kérdezd meg minden lépés után, hogy mehet-e tovább: haladj a lépéseken. A döntéseket (például új szereplő sorsa, a titkos terv módosítása) magad hozod meg, és csak akkor állj meg, ha a fejezet elkészült.
 
 ### Illusztrációk
-A `kepek/` mappában vannak az illusztrációk promptjai (`FF-SS-cim.md`) és a kész képek. A felhasználó a képeket külső AI-val készíti. Minden kép egy konkrét mondathoz kapcsolódik, a promptfájl ezt idézi. Új fejezetnél a szöveg elkészülte és a szerzői átolvasás (5. lépés) után javasolj és írj 2–4 promptot ugyanebben a formában, és vedd fel a `kepek/README.md` táblázatába. A képeket a fejezet szövegébe csak a lezáráskor szerkesszük bele, a kapcsolódó mondat alá.
+A `kepek/` mappában vannak az illusztrációk promptjai (`FF-SS-cim.md`) és a kész képek. A felhasználó a képeket külső AI-val készíti. Minden kép egy konkrét mondathoz kapcsolódik, a promptfájl ezt idézi. Új fejezetnél a szöveg elkészülte és a szerzői átolvasás (5. lépés) után javasolj és írj 2–4 promptot ugyanebben a formában, és vedd fel a `kepek/README.md` táblázatába. A képeket a fejezet szövegébe nem a lezáráskor, hanem a 6. lépésben szerkesztjük bele (lásd alább).
+
+### 6. lépés: a kész képek beillesztése
+Ha Zoli feltöltötte a képeket a `kepek/` mappába (a fájlnév `FF-SS-cim` alapú, a kiterjesztés lehet `.jfif` vagy más), ezt kell tenni:
+1. `git pull`, majd nézd meg a `git status` és a `ls kepek` kimenetét, hogy mely képek érkeztek.
+2. Nevezd át őket `.jpg`-re (`git mv`; a `.jfif` valódi JPEG, a build `.png` fájlt nem másol ki, `.md`-t és `.svg`-t sem), hogy egységesek legyenek a korábbi képekkel.
+3. Nézd meg a képeket (Read): rendben vannak-e, illenek-e a kapcsolódó mondathoz. Ha nem, szólj Zolinak, és ne szerkeszd be.
+4. Szerkeszd be a képeket a `fejezetek/NN-cim.md` fájlba, a promptfájl „Kapcsolódó mondat" sorában idézett mondatot tartalmazó bekezdés alá (`![Rövid leírás](../kepek/FF-SS-cim.jpg)`, előtte és utána üres sor). A mondatnak szó szerint meg kell lennie a fejezetben.
+5. A `kepek/README.md` táblázatában a „Kész" oszlopba írd: „kész, beszerkesztve". A `projekt/teendok.md` illusztrációs sorát pipáld ki.
+6. Futtasd le a `python3 site/build.py` parancsot (a `_site/` mappa git által figyelmen kívül hagyott), ellenőrizd, hogy a képek a `_site/kepek/` alatt ott vannak, majd commit és push.
+Zoli kérte: ez a lépés a szerzői átolvasás és az illusztrációk promptjai után jön; akkor kezdd el, amikor a képek megérkeztek, és ne kérdezd meg, hogy jöhet-e.
 
 ### Commit
 Minden commit üzenete a `Co-Authored-By` és a `Claude-Session` sorokkal végződik, ahogy a környezet előírja. Commit előtt nézd meg a `git status` kimenetét, `privat/` vagy jegyzet ne kerüljön bele.

@@ -7,7 +7,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - [ ] 4. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kútház-próbatétel, a Kerekasztal, a konklávé. (Z)
 - [ ] 5. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Vakfolyosó-próbatétel, a Kerekasztal, a konklávé. (Z)
 - [ ] 5. fejezet illusztrációinak promptjai, az átolvasás után. (C)
-- [ ] 4. fejezet illusztrációinak promptjai, az átolvasás után. (C)
+- [x] 4. fejezet illusztrációi: promptok megvoltak, a képek `.jpg`-re átnevezve és beszerkesztve. (C)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
 - [ ] A bejárás szálai: Christie üres polcrése a könyvtárban, a festmények a Nagyterem felé néznek, a pincelépcső ajtaja zárva, a konklávé tölgyajtaja. Visszatérnek-e? (C+Z)
 - [ ] A titkos terv karbantartása: minden új fejezetnél ellenőrzés, a nyomok és a kiesések naplózása. Zoli nem akarja tudni, csak Claude használja. (C)

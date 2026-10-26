@@ -188,6 +188,8 @@ Taylor nem felelt, de a szeme végigfutott rajta, a keze mozdulatán, a vállán
 
 Így állt fel a lánc. Bessenyei az első helyen, mellette Callas, utána Dalí, Einstein, de Funès. A lépcső az ötödik embernél kezdődött, ott, ahol a kő a legnedvesebb volt, és de Funès, aki az első fokra került, egy pillanatra a falnak támaszkodott, mielőtt megállt. Mögötte Zsazsa állt, aztán Hepburn, Hitchcock, Hofi, Kabos, Mercury, Neumann, Puskás, Bud Spencer, Taylor, és a lánc végén, a medencénél Welles. Ő a kezében tartotta az öntőkancsót, és nem nézett senkire.
 
+![A lánc](../kepek/04-01-a-lanc.jpg)
+
 – Kezdjék – mondta a Játékmester.
 
 Brando leeresztette az első vödröt. A csiga nyikorgott, a kötél lassan peregett, aztán víz csobbant valahol a mélyben, és Brando felhúzta. Átadta Bessenyeinek, és a vödör elindult.
@@ -253,6 +255,8 @@ A tizenhatodik vödör ép volt, és ép is maradt a medencéig. Welles beleönt
 A tizenhetedik vödröt Brando eresztette le. A csiga megnyikordult, a kötél megfeszült, és amikor Brando felhúzta, a vödör oldalából vékony fonalban folyt a víz. Bessenyei átvette, Callas, Dalí, Einstein, és Einstein átnyújtotta de Funèsnek.
 
 De Funès elvette. A lépcsőfok, amelyen állt, tele volt vízzel, és a vödör, amely félig üres volt, váratlanul könnyebbnek érződött, mint amire a keze számított. A lába megcsúszott.
+
+![A lépcsőn](../kepek/04-02-a-lepcson.jpg)
 
 Nem kiáltott. A vödör kiesett a kezéből, végigkopogott a lépcsőn, a víz szétfröccsent a köveken, és a vödör a medence lábánál állt meg.
 
@@ -355,6 +359,8 @@ Hofi a tányérja fölé hajolt. – Én lélegzem – mondta. – Ha ez valakit
 Bessenyei ekkor felállt. Eddig hallgatott, és a hangját napok óta úgy nyomta le magában, hogy a felállása is többet hallatszott, mint a szava.
 
 – Engedjék meg, hogy beszéljek – mondta, és a hangja, amelyet addig lefojtott, most kiszabadult, mély volt és öblös, mint egy harang. – Három napja hallgatom önöket ennél az asztalnál. Kiabál Latabár, kiabál Irén, kiabál Funès úr, és mi mind a kiabálót nézzük, mert az hallatszik. – Az asztalra tette az öklét, de óvatosan. – Irén azt mondta tegnap: a csendeset megfigyelni kell, ahhoz fej kell. Hát én megfigyeltem. Három napig figyeltem, ki az, aki egyszer sem vitatkozott, egyszer sem emelte fel a hangját, és egyszer sem kockáztatott meg egy gyanút.
+
+![Bessenyei feláll](../kepek/04-03-bessenyei-felall.jpg)
 
 Szünetet tartott.
 
