@@ -46,6 +46,9 @@ img{max-width:100%;height:auto;display:block;margin:1.5rem auto;border-radius:2p
 .cover h1 span{display:block;font-size:1.4rem;font-weight:normal;color:var(--mut);letter-spacing:.2em;text-transform:uppercase;margin-top:.4rem}
 .tag{color:var(--mut);font-style:italic}
 .btn{display:inline-block;padding:.6rem 1.6rem;margin:.3rem;background:var(--acc);color:#fff;text-decoration:none;border-radius:2px;font-size:1rem}
+details.intro{margin:1rem 0 0;border-bottom:1px solid var(--line);padding-bottom:.6rem}
+details.intro summary{cursor:pointer;color:var(--acc);font-size:1rem;padding:.3rem 0}
+details.intro[open] summary{margin-bottom:.8rem}
 .btn.alt{background:transparent;color:var(--acc);border:1px solid var(--acc)}
 .legal{margin-top:3rem;padding-top:1.2rem;border-top:1px solid var(--line);font-size:.8rem;line-height:1.55;color:var(--mut)}
 .legal h2{font-size:.9rem;text-transform:uppercase;letter-spacing:.1em;margin:0 0 .6rem}
@@ -96,8 +99,10 @@ toc = "".join(
     for c in chapters)
 intro = (ROOT / "site" / "bevezeto.html").read_text(encoding="utf-8")
 legal = (ROOT / "site" / "jogi.html").read_text(encoding="utf-8")
-(OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"{intro}<hr><h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul>", True), encoding="utf-8")
-first = '<a class="btn" href="fejezetek.html">Olvasás</a>'
+(OUT / "fejezetek.html").write_text(page("Fejezetek – " + TITLE, f"<details class=\"intro\"><summary>A műről</summary>{intro}</details><h1>Fejezetek</h1><ul class=\"toc\">{toc}</ul>", True), encoding="utf-8")
+latest = chapters[-1] if chapters else None
+first = '<a class="btn alt" href="fejezetek.html">Tartalomjegyzék</a>' + (
+    f'<a class="btn" href="{latest["slug"]}/index.html">Legfrissebb fejezet</a>' if latest else "")
 cover = f"""<div class="cover"><img src="borito.png" alt="A Holdvári-kastély sziluettje a telihold előtt">
 <h1>Árulók<br><span>Halálos kastély</span></h1>
 <p class="tag">Huszonkét híresség. Egy kastély. Minden éjjel egy üres szék.</p>
