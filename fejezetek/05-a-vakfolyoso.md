@@ -134,6 +134,8 @@ Mercury bólintott, és elhallgatott. A névsor most hosszabb volt, mint tegnap,
 
 A Nyugati Galéria a kastély leghosszabb terme volt, és a legsötétebb. A padlója fekete és fehér márványlapokból állt, szabálytalan mintában, mintha egy sakktáblát összekevertek volna, és a lapok között alig látszott a vonal. Az ablakokat nehéz bársony takarta. A falak mentén gyertyák égtek, de olyan ritkán, hogy a fényük nem érte el egymást, a terem végében pedig, ahol a folyosó kiszélesedett, egyetlen harang függött vastag kötélen. Mellette egy szék állt.
 
+![A Nyugati Galéria: Einstein bekötött szemmel halad a márványon, az erkélyről Neumann vezeti](../kepek/05-01-a-nyugati-galeria.jpg)
+
 A Játékmester az erkélyen várta őket, amely a terem hosszanti oldalán futott, és a korlát mögül mindent be lehetett látni.
 
 – Tizenöt vendég, hét pár és egy Hallgató – mondta. – A sorsot az urna dönti el.
@@ -219,6 +221,8 @@ Két erszényt vett fel, három harang. A lépcsőházban Hepburn odarohant hozz
 – Kettő és három – mondta Neumann az ajtóból. – Harmincezer.
 
 Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszasan állt, mintha a sötétben is látni akarna valamit. Hitchcock felment az erkélyre, és a korlátra tette mindkét kezét. A hangja olyan volt, mintha filmet vezényelne.
+
+![Brando bekötött szemmel áll a Galéria közepén, az erkélyen Hitchcock](../kepek/05-02-brando-a-vakon.jpg)
 
 – Két lépés előre – mondta. – Ne siessen. Egy hang az, amiből a félelem készül.
 
@@ -333,6 +337,8 @@ A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerin
 – Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy karhossznyi rést, amelyet a szomszédos kötetek nem fedtek el. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem egy könyv, hanem sok, szorosan egymás mellett. Valaki gyakran levett közülük egyet, és visszatette.
 
 – Agatha helye – mondta Welles halkan.
+
+![Mercury és Welles a könyvtári polc üres rése előtt](../kepek/05-03-agatha-helye.jpg)
 
 Mercury nem válaszolt. Hosszan nézte a rést, és a keze ökölbe szorult.
 
@@ -485,6 +491,8 @@ A Játékmester bólintott. Aztán maga is végignézett az asztalon, lassan, mi
 Tizennégy ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott.
 
 A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult.
+
+![Taylor a Feledés Kapujának küszöbén visszafordul a Kerekasztalhoz](../kepek/05-04-taylor-a-kuszoben.jpg)
 
 – Vigyázzanak egymásra – mondta. – De ne mindig ugyanarra.
 

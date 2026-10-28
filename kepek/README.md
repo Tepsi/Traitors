@@ -49,7 +49,7 @@ Tippek az egységességhez:
 | `04-01-a-lanc` | „Így állt fel a lánc." | kész, beszerkesztve |
 | `04-02-a-lepcson` | „A lába megcsúszott." | kész, beszerkesztve |
 | `04-03-bessenyei-felall` | „Engedjék meg, hogy beszéljek." | kész, beszerkesztve |
-| `05-01-a-nyugati-galeria` | „A padlója fekete és fehér márványlapokból állt, szabálytalan mintában…" | |
-| `05-02-brando-a-vakon` | „Brando kötötte be a szemét, aztán hosszasan állt…" | |
-| `05-03-agatha-helye` | „– Agatha helye – mondta Welles halkan." | |
-| `05-04-taylor-a-kuszoben` | „Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult." | |
+| `05-01-a-nyugati-galeria` | „A padlója fekete és fehér márványlapokból állt, szabálytalan mintában…" | kész, beszerkesztve |
+| `05-02-brando-a-vakon` | „Brando kötötte be a szemét, aztán hosszasan állt…" | kész, beszerkesztve |
+| `05-03-agatha-helye` | „– Agatha helye – mondta Welles halkan." | kész, beszerkesztve |
+| `05-04-taylor-a-kuszoben` | „Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult." | kész, beszerkesztve |
