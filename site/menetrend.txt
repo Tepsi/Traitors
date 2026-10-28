@@ -5,3 +5,4 @@
 03-a-hallgatas.md;2026-11-08
 04-a-lanc.md;2026-11-15
 05-a-vakfolyoso.md;2026-11-22
+06-a-merleg.md;2026-11-29
