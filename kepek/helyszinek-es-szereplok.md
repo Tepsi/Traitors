@@ -22,6 +22,12 @@ A maze of dark green yew hedge three meters high, a hundred years old, the branc
 **A Kútház (well house) és a lépcső**
 The back courtyard of the castle, wet grey flagstones, always in fog. A small well house of grey stone with a heavy timber beam roof, open at the front, on the higher ground at the left; inside, a stone well rim with a pulley and a rope; twenty wooden buckets in a row along the wall. Forty paces away, on the lower ground at the right, a wide copper basin beside a wrought-iron garden gate. Between them seven narrow wet moss-covered stone steps descending from the well toward the basin.
 
+**A Nyugati Galéria (West Gallery)**
+A very long, narrow, dark gallery, the longest room of the castle. The floor is black and white marble tiles in an irregular scattered pattern, as if a chessboard had been shuffled, the lines between the tiles barely visible. Heavy dark velvet curtains cover the tall windows along one long wall. Along the opposite long wall, high above the floor at first-floor height, runs a narrow stone balcony with a stone balustrade, from which the whole floor can be overlooked. Tall candles in iron holders stand along the walls, so far apart that their light never touches. At the far end, a single bronze bell hangs from a thick rope, with a plain wooden chair beside it.
+
+**A könyvtár (library)**
+A library with heavy oak bookshelves from floor to ceiling, packed with leather-bound volumes. Tall windows in one wall let in grey fog light from the garden. Upholstered armchairs along the walls, an anonymous guest in each. In one shelf, an arm's length gap of lighter, cleaner wood where a long row of books once stood.
+
 **A kastély (castle)**
 Lásd: `01-01-holdvari-kastely.md`. Szimmetrikus Tudor-kastély a dombtetőn, két kerek kőtoronnyal, két félfás szárnnyal, sötét ablakokkal.
 
