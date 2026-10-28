@@ -200,11 +200,11 @@ Senki sem mozdult.
 
 – Ketten nem bíztak önökben – mondta a Játékmester, halkan, és szinte kedvesen. – Vagy nem bíztak egymásban. Ez a két mondat nem ugyanaz, de ma mégis ugyanazt jelenti.
 
-– Én voltam az egyik – mondta Brando hirtelen. Mindenki felé fordult. – Nem. Nem. – Felemelte a kezét. – Nem mondom meg. Csak azt akartam tudni, milyen érzés, ha valaki kimondja.
+– Ha most valaki azt mondja, hogy én voltam – mondta Brando hirtelen, és mindenki felé fordult –, akkor azt szeretném előre tudni, hogy mit kell válaszolnom.
 
-– Milyen? – kérdezte Callas.
+– Mit akar válaszolni? – kérdezte Callas.
 
-– Rossz – mondta Brando. – Ahogy gondoltam.
+– Azt, hogy kérdés. Mindig kérdés. – Felemelte a kezét, aztán leengedte. – De most nem megy.
 
 – Ha ez a szó most valakit megnyugtat – mondta Hitchcock a terem végéből –, nekem is megvan a magamé. Van két kő a Vasban. A két kőnek két gazdája van. Egyiküknek tegnap óta félnie kell, a másiknak mindig. Én nem tudom, melyik melyik. Én csak mosolygok.
 
@@ -217,3 +217,73 @@ Bud Spencer a kövek felé lépett, felvette az egyiket az Aranyból, megvizsgá
 – Tizenegyen bíztak – mondta. – Ez jobb, mint amit vártam.
 
 Callas ránézett, és megrázta a fejét. – Önök mind a számokat szeretik. Én a kettőt nézem.
+
+## A délután
+
+Délután a kastély üres volt. A folyosókon nem voltak lépések, a Nagyterem ajtaja nyitva állt, de senki sem ment be. A tizenhárom ember kis csoportokban húzódott meg a kastély sarkaiban, és aki egyedül maradt, az is úgy tett, mintha nem lenne egyedül.
+
+A könyvtár egyik ablakmélyedésében Zsazsa ült a füzettel. A tolla kétszer is a papír fölött maradt, aztán áthúzott valamit, és újraírta. Callas az asztalnál állt, kezében egy könyv, amelyet nem olvasott.
+
+– Maga újra átnézi? – kérdezte.
+
+– Hatodszor – mondta Zsazsa. – Tudja, mi az ijesztő? Hogy ha egyszer félrenézek, elfelejtem, amit tegnap tudtam. A neveket, a mondatokat. Mintha valaki a fejemben is dolgozna a kopással.
+
+– Akkor ne nézzen félre.
+
+– Maga ezt egyszerűen mondja, drágám, mert maga nem fél.
+
+– Dehogynem – mondta Callas. – Csak én nem engedem, hogy lássák.
+
+Zsazsa letette a tollat, és hosszan nézte. – Látta ma reggel, ahogy Marlon leült? – kérdezte. – Az a hallgatás nem az ártatlan hallgatása volt. De nem is a másiké. Valami harmadik.
+
+– Egy ember, akit mindenki néz – mondta Callas. – Az ilyen arc nem hazudik, mert nincs mit hazudnia. Csak elfárad.
+
+– Akkor nem Marlonról beszélek – mondta Zsazsa, és megint kinyitotta a füzetet. – Ő csak a kérdés. A válasz másutt van.
+
+Callas leült vele szemben. – Valamit láttam – mondta halkan. – Ma délelőtt, a Mérlegterem után. Dalít az északi folyosón, a torony felé fordulva. Egy darabig csak állt, és rajzolt.
+
+– Rajzolt?
+
+– A boltozatot, azt hiszem. Szerintem a boltozatot rajzolta.
+
+– Hát persze – mondta Zsazsa. – Dalí a boltozatot rajzolja. Egy másik meg a gyertyát. Kedves, hogy még ennyire normálisak vagyunk.
+
+Az északi folyosón, a torony ajtajával szemben, valóban Dalí állt, kezében a vázlatfüzettel. Éppen akkor ért oda Bud Spencer.
+
+– Maga mit csinál? – kérdezte Bud Spencer.
+
+– A boltozat engem néz – mondta Dalí. – Dalí tehát visszanéz.
+
+– Értem.
+
+– Maga nem érti.
+
+– Nem. – Bud Spencer továbbment, a keze a zsebében, és a folyosó végén megállt egy pillanatra, mintha mégis hallani szeretne valamit. Aztán lement a lépcsőn.
+
+Kabos a Nagyterem előtt ült egy padon, a kezét az ölében tartotta, és az ujjai ritmust vertek a térdén. Puskás mellé ült.
+
+– Gyula – mondta. – Látod ezt a követ? – Kinyújtotta a tenyerét. Üres volt. – Nincs. Tudod, miért mutatom? Mert egyikünk sem tudja, hogy kinél van, és neked sem kell tudnod.
+
+– De én... én szeretném tudni, hogy ki.
+
+– Mindenki szeretné. – Puskás a vállát nyomta. – Ma este lesz egy Kerekasztal, és lesz egy név. Majd meglátjuk, igaza van-e annak, aki írta.
+
+– És ha nem?
+
+– Akkor holnap megint.
+
+Mercury a Nagyteremben ült, a zongora mellett, de nem nyúlt a billentyűkhöz. A két kezét összekulcsolta, és a hüvelykujja ritmust vert egy ismeretlen dallamra. Amikor Hofi leült mellé, nem mozdult.
+
+– Maga ma nagyon halkan tréfál – mondta Hofi.
+
+– Én nem is tréfálok.
+
+– Hát ez az. – Hofi a zongora fedelére könyökölt. – Én tudom, mi a baj magával. Maga azt hiszi, hogy a tréfa elviszi a félelmet. Pedig a tréfa csak a félelemnek a díszlete.
+
+– Mindig így beszél?
+
+– Csak amikor nem nevet senki.
+
+Az ajtóban Hepburn állt, a kezében egy csésze tea, amelyet senkinek sem vitt. Neumann a sarokban a térképet nézte, és az ajka mozgott, ahogy számolt. Hitchcock egy fotelben ült, hátradőlve, csukott szemmel, és olyan arccal, mint aki nagyon jót aludt.
+
+A gong ötkor szólalt meg. Tizenhárom ember indult el a Kerekasztal-terem felé, és mindegyikük másfelé nézett.
