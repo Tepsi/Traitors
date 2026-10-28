@@ -287,3 +287,163 @@ Mercury a Nagyteremben ült, a zongora mellett, de nem nyúlt a billentyűkhöz.
 Az ajtóban Hepburn állt, a kezében egy csésze tea, amelyet senkinek sem vitt. Neumann a sarokban a térképet nézte, és az ajka mozgott, ahogy számolt. Hitchcock egy fotelben ült, hátradőlve, csukott szemmel, és olyan arccal, mint aki nagyon jót aludt.
 
 A gong ötkor szólalt meg. Tizenhárom ember indult el a Kerekasztal-terem felé, és mindegyikük másfelé nézett.
+
+## A Kerekasztal
+
+A Kerekasztal körül tizenhárom szék állt. A kupola csillagai ma tisztábban ragyogtak, mint az előző napokon, vagy talán csak az arcok voltak sápadtabbak. A fekete ajtó ezüst kerete mozdulatlan volt. A Játékmester a magasabb székben ült, a keze az asztalon pihent.
+
+– Huszonketten léptek be a kastély kapuján – mondta. – Most tizenhármán vannak. Egy óra vita. Aztán mindenki felír egy nevet. A pajzs elveszett, de a Kerekasztalnál amúgy sem védett volna. Kérem, kezdjék.
+
+Egy pillanatig senki sem szólalt meg. Aztán Zsazsa felállt. A füzetet a tenyerén tartotta, a lapokat nem nézte.
+
+– Én kezdem – mondta. – Ha megengedik. Négy napja ülök itt, és négyszer néztem végig, ahogy egy ártatlant kikísérnek az ajtón. Ma nem akarom, hogy az ötödik legyen. – Mély levegőt vett. – Alfred Hitchcockról fogok beszélni.
+
+Hitchcock nem mozdult. Kezét a hasán összekulcsolta, és az arca kifejezéstelen maradt.
+
+– Az első, amit mondok, a második napról való – folytatta Zsazsa. – Armstrong halála után reggel azt mondta: „Nagyon tiszta munka. Aki ezt csinálta, az nem sietett." Ezt egy ártatlan is mondhatja, igaz. De utána hozzátette: „A szakmát csodálom, az embert nem." Aki így beszél, az nem a halottat siratja. Az a munkát nézi.
+
+– Én filmes vagyok – mondta Hitchcock. – Én mindent a munka felől nézek.
+
+– Ezt várom magától. – Zsazsa kicsit megemelte a füzetet. – A második: „Kitűnően aludtam." Három éjszaka. Taylor asszony azt mondta neki akkor, hogy akinek jó az alvása, annak nincs lelkiismerete. Az ember erre nevet. Én nem nevettem. Én leírtam.
+
+– Valaki jól alszik – mondta Hitchcock. – Ez nem bűn.
+
+– A harmadik – folytatta Zsazsa, mintha nem hallotta volna. – A negyedik napon, a reggelinél, amikor Orson elmondta, hogy valaki a szalonban élesen beszívta a levegőt, maga azt felelte: „A félelem is levegőt vesz. Minden második ember beszív egyet, ha megreccsen egy padló." Maga terelt, Alfred. Egy ártatlan ilyenkor elkezd gondolkodni. Maga elkezdett magyarázni.
+
+– Én mindig magyarázok. Ez a szokásom.
+
+– Pontosan – mondta Zsazsa. – A negyedik. Tegnap, az ötödik napon: „Egy kérdező arra jó, hogy a kérdezettek elbújjanak mögötte." Taylor asszony kérdezett. Taylor asszony ma már nincs közöttünk. Maga nevezte meg először Marlont. – Az ujjával az asztalra mutatott. – Tegnap előtt senki sem mondta, hogy Marlon gyanús. Maga mondta ki, hogy ő nem válaszol, és ez rosszabb. Aztán Orson mondta ki a nevét, a halála előtt, és maga ezt egyszer sem cáfolta. Mintha valaki jegyzetelt volna.
+
+– Én nem cáfoltam, mert nem volt mit – mondta Hitchcock. – Welles úr érzést mondott. Az érzést nem lehet cáfolni.
+
+– Az ötödik érv – folytatta Zsazsa, és a hangja egy pillanatra elcsuklott –, hogy ez nem a mai, hanem a harmadik napi. Maga elsőként érkezett a Csend Szalonja előtt, és nem a bejáratot nézte, hanem a székeket. Én nem tudom, miért. De én azt akarom tudni.
+
+– A székeket néztem – mondta Hitchcock. – A székek mindig többet mondanak.
+
+– Végül – mondta Zsazsa, és előrébb lépett. – A hatodik, és az ezt a hangot, amit a Kútházban hallottam: „Négy vödör van hátra... Kivonás." Kivonás. Én ezt a szót nem szeretem. Nem azért, mert gyanús, hanem mert valaki más is mondott ilyet.
+
+– Azt a szót én is használtam – szólalt meg Neumann tárgyilagosan. – Többször is, és nem szégyellem. A kivonás matematikai fogalom. A játékban pedig minden nap kivonunk valakit. Nem érdemes ezt egy emberre ráhúzni.
+
+– Nem húzom rá senkire – mondta Zsazsa. – Én csak hallom. – Ismét Hitchcock felé fordult, és a hangja egyszerre kemény lett és remegő. – Tudja, mit tettem, Alfred? Hajnalban leültem, és minden mondatát felírtam, amit maga mondott. Négy oldal lett. És a négy oldalon egyetlen mondat sincs, amit egy ártatlan ne mondhatott volna. Egyetlen egy. – Elhallgatott. – De egy ártatlan ilyen mondatokból nem épít négy oldalt. Az ártatlan néha elszólja magát. Maga soha.
+
+A teremben csend lett.
+
+– Köszönöm, Zsazsa – mondta Hitchcock lassan. – Szépen megírta. Én is elolvastam volna.
+
+Felállt, nem sietve, és a szék háttámlájára tette a kezét.
+
+– Önök azt mondják, hogy négy oldalnyi mondatom van, amelyekben nincs semmi hiba. Ez igaz. Én azt mondom, hogy aki négy napig él együtt tizenhat idegennel, az vagy ostoba, vagy nagyon óvatos, és én sosem voltam ostoba. Bármit mondok most, védekezésnek hat. Ezt tudom, és tudom, hogy önök is tudják. A fal ott áll, és én a fal mögött vagyok. – Körülnézett. – Annyit mondok: ha ma engem választanak, akkor egy jó forgatókönyvet olvastak. Én sem írtam volna jobbat. De ha tévednek, akkor az ötödik ártatlan a lelkükön van.
+
+– Maga ezt miért mondja ilyen nyugodtan? – kérdezte Callas.
+
+– Mert nem tudok másképp – felelte Hitchcock. – Ez volt a szakmám.
+
+– Én még hozzátennék valamit – szólalt meg Hepburn halkan. Az arca sápadt volt, a hangja kissé remegett. – Nem akarok senkit védeni. Csak nem tudom... nem tudom, hogy azért gyanakszom-e Alfredra, mert tényleg gyanús, vagy mert a többiek mind gyanakszanak. A félelem is így működik. – Elhallgatott. – Én nem fogok szólni többet.
+
+– Maga mindig azt mondja, hogy nem fog szólni – mondta Brando –, aztán mond valamit, amit mindenki megjegyez.
+
+– Elnézést.
+
+– Nem baj. Csak az igazságtalan, hogy nekem hisznek, hogy kérdezek, magának meg azt, hogy aggódik.
+
+– Marlon! – mondta Einstein szelíden.
+
+– Jó. Befejeztem.
+
+– Ennyi elég – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
+
+Kréta koccant a palatáblákon. Tizenhárom ember írt. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna. Dalí egyetlen mozdulattal, nevetve. Mercury kétszer is letette a krétát, felvette, letette, és Hofi a térdére tette a kezét, mire Mercury leírta, amit akart. Neumann egy pillanat alatt végzett, és a táblát lefordította, mintha számlát zárt volna le.
+
+A Játékmester sorban felfordította a táblákat.
+
+– Hitchcock – mondta. – Hitchcock. Brando. Hitchcock. Hitchcock. – A hangja egyforma volt, mint a harangé. – Hitchcock. Zsazsa. Hitchcock. Brando. Hitchcock. Hitchcock. Dalí. Brando.
+
+Egy pillanatig mindenki számolt.
+
+– Nyolc szavazat Alfred Hitchcockra – mondta a Játékmester. – Három Marlon Brandóra. Egy Gábor Zsazsára. Egy Salvador Dalíra.
+
+– Dalí önmagára szavazott – mondta Dalí. – Ez az egyetlen szavazat, amelyért Dalí felelni hajlandó.
+
+Senki sem figyelt rá.
+
+– Alfred Hitchcock – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
+
+Hitchcock felállt. A székét óvatosan betolta az asztalhoz, mintha vendég lenne. Végignézett a termen, aztán a Játékmesterre.
+
+– Alfred Hitchcock – mondta a Játékmester –, mondja ki, ki volt.
+
+A csend olyan mély volt, hogy hallatszott a kupola alatt a csillagfoltok halk zümmögése.
+
+– Áruló vagyok – mondta Hitchcock.
+
+– Alfred Hitchcock áruló volt – mondta a Játékmester.
+
+Egy pillanatig senki sem lélegzett. Aztán Zsazsa a szájára szorította a kezét, és kiadott magából egy hangot, amely sírás volt és nevetés is. Callas fölemelkedett a székéből, és megint leült. Kabos hangosan zokogni kezdett, olyan gyermekesen, hogy Puskás átkarolta, és a hátát paskolta, miközben ő is nyelt egyet. Mercury felugrott, és Hofit ölelte át, aki először nem tudta, mit csináljon a karjával, aztán viszonozta. Einstein elmosolyodott, és a szeme könnyes lett. Bud Spencer lassan, nagyot bólintott, mintha valami nagy súlyt tett volna le.
+
+– Megvan! – kiáltotta Zsazsa. – Megvan! Négy nap, négy ártatlan, és most...
+
+Elfulladt. Callas mellé lépett, és szó nélkül megfogta a karját, mire Callas a vállára hajtotta a homlokát, és hosszan, hangtalanul sírt.
+
+Neumann tapsolni kezdett, kicsit a többiek után, hűvösen és pontosan. Hepburn szeme könnyes lett, a kezét a mellére szorította. – Hála Istennek – mondta. – Hála Istennek, hogy végre...
+
+Dalí nem mozdult. A bajusza sem rezdült. Úgy ült, mint aki már régen tudta, hogy így lesz, és most csak megvárta a nap végét.
+
+– Kérdezzem meg – mondta Zsazsa, és hirtelen a Játékmester felé fordult, nedves arccal, remegő hangon –, ki a társa? Alfred, ki a társa? Kik a többiek?
+
+– Aki elfelejtetett, csak a saját nevéről és szerepéről beszélhet – mondta a Játékmester halkan. – A többit a Kapu mögé viszi, és ott is hagyja. Ezt tudják, és tudta ő is.
+
+Hitchcock Zsazsára nézett.
+
+– Szép beszéd volt, drága hölgyem – mondta. – Négy oldal. Ha valaha elfelejtem, hogy hány volt, kérem, emlékeztessen rá. – Elmosolyodott, és abban a mosolyban nem volt semmi, ami gúny lett volna. – Önök most boldogok. Ez jól áll önöknek. Egy jó közönség tudja, mikor kell tapsolni. És azt is, mikor kell tovább nézni.
+
+– Ez kinek szól? – kérdezte Zsazsa.
+
+– A teremnek – mondta Hitchcock. – Vagy nekem. Ezt majd maguk döntsék el.
+
+A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Hitchcock a küszöbön megállt, és hátranézett. A tekintete végigsiklott az asztalon, és nem állt meg egyetlen arcon sem, mintha mindegyiket ugyanannyira megjegyezné.
+
+Aztán belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak.
+
+A teremben néhány percig senki sem szólt. Aztán Hofi halkan megszólalt: – Nyolcan voltunk. Ki volt a nyolc?
+
+– Én – mondta Einstein azonnal.
+
+– Én is – mondta Neumann.
+
+– Én is – mondta Hofi. – Meg Kabos, Puskás, Zsazsa, Callas, Mercury. – Egyenként ránézett mindegyikre, és mindegyik bólintott. – Ez nyolc. Akkor hárman Marlonra, ketten magukra meg Zsazsára. Ki az a négy, aki nem?
+
+Senki sem felelt azonnal. Hepburn emelte fel a fejét elsőként.
+
+– Én Marlonra írtam – mondta halkan. – Orson mondata nem hagyott nyugodni. Alfredra... nem tudtam. Nem tudom, miért.
+
+– Én Marlonra – mondta Bud Spencer.
+
+– Dalí Dalíra – mondta Dalí. – Dalí nem ítél el senkit, akiről nem álmodott.
+
+– Zsazsára – mondta Brando.
+
+– Rám? – kérdezte Zsazsa.
+
+– Önre. – Brando a kezét nézte. – Aki ennyire biztos, annak legyen alkalma kimondani, hogy tévedett. Ha tévedett volna.
+
+– Nem tévedtem.
+
+– Nem. – Brando felemelte a fejét. – Szerencsére.
+
+Neumann ránézett Hepburnre, aztán elfordult. Callas ránézett Dalíra, aztán Bud Spencerre, és a tekintete egy pillanatra megállt.
+
+– Négy – mondta Hofi. – Négy, aki nem. Nem mondom, hogy ez nyom. Csak jó, hogy tudjuk.
+
+– Ez most ünnep – mondta Mercury hangosan, és a hangja remegett, mintha magát próbálná meggyőzni. – Ma ünnep van. Holnap majd számolunk.
+
+– Ma ünnep van – mondta a Játékmester. – Ezt az egyet megengedem önöknek.
+
+Felállt. A terem elcsendesedett.
+
+– Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt senki sem fogja önöknek megmondani.
+
+Egyetlen pillanatra végigtekintett az asztalon. A hangja ugyanolyan halk volt, mint mindig.
+
+– A hetedik nap másképp kezdődik, mint az eddigiek. Jó éjszakát kívánok.
+
+A gong háromszor kondult.
