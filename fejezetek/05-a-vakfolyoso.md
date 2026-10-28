@@ -182,7 +182,7 @@ Hofi és Zsazsa következett. Zsazsa kötötte be a szemét, két kézzel, nagy 
 
 A harang megkondult.
 
-– Ez nem én voltam – mondta Hofi komolyan. – A harang a saját szakállára kondult meg.
+– Ez nem én voltam – mondta Hofi komolyan. – A harang csak megállapította, hová lépett.
 
 – Maga mondta, hogy balra!
 
@@ -212,7 +212,7 @@ A harang másodszor kondult. Harmadszor is. A lépcsőházban Zsazsa összenéze
 
 – Elizabeth – mondta Hepburn, és a hangja most egészen elfúlt –, olyan szörnyű vagyok. Az egész az én hibám.
 
-– Nem – mondta Taylor. – Csak azon gondolkodom, hogy ez most a maga hibája volt, vagy az enyém.
+– Nem tudom – mondta Taylor. – Éppen azon gondolkodom, hogy ez most a maga hibája volt, vagy az enyém.
 
 Két erszényt vett fel, három harang. A lépcsőházban Hepburn odarohant hozzá, és megfogta a karját. – Nem tudtam jól vezetni.
 
@@ -222,9 +222,13 @@ Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszas
 
 – Két lépés előre – mondta. – Ne siessen. Egy hang az, amiből a félelem készül.
 
-– Miért jobbra? – kérdezte Brando. – Nem azt mondta, hogy előre?
+Brando megtette a két lépést, és megállt.
 
-– Előre. Aztán jobbra.
+– Most jobbra – mondta Hitchcock.
+
+– Miért jobbra? – kérdezte Brando. – Az előbb még előre volt.
+
+– Előre volt. Most jobbra.
 
 – Miért jobbra?
 
@@ -238,7 +242,7 @@ Hitchcock és Brando következett. Brando kötötte be a szemét, aztán hosszas
 
 – Ez nem lépés volt, hanem előadás – mondta Hitchcock.
 
-– Jó rendezőtől tanultam – mondta Brando.
+– A jó rendező instruál – mondta Brando. – Maga csak annyit mondott: jobbra.
 
 A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és a harang összesen csak kétszer kondult.
 
@@ -256,7 +260,7 @@ Három erszény, egy harang. Nyolcvanezer.
 
 Callas és Welles jött hatodikként. Callas az erkélyről nem beszélt, ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett.
 
-– Még egyszer az elejétől – mondta Callas fojtott hangon, amikor Welles túlságosan elsietett. Welles megállt, visszalépett, és újra elkezdte. A harang egyszer sem szólalt meg.
+Amikor Welles megelőzte az ütemet, Callas két ütés után elhallgatott. A csend megállította Wellest: visszalépett, és újrakezdte. A harang egyszer sem szólalt meg.
 
 Három erszény, nulla harang. Kilencvenezer.
 
@@ -272,15 +276,15 @@ Kabos elindult, és minden lépését hangosan elmondta magának, hogy el ne fel
 
 A harang egyszer sem szólalt meg. Négy erszény.
 
-– Százhúszezer – mondta Neumann, és most először nem a számra nézett, hanem Kabosra.
+– Százhúszezer – mondta Neumann, és most először nem az összeget nézte, hanem Kabost.
 
 A Játékmester levonult az erkélyről, és a Galéria közepén állt meg.
 
-– Huszonegy erszény – mondta. – Kilenc harang. A fődíjba ötszáznegyvenezer forint kerül. A fődíj kétmillió-négyszáztízezer forint. A legtöbbet Puskás Ferenc és Kabos Gyula hozta. A pajzs az övék. Döntsék el, ki viseli.
+– Huszonegy erszény – mondta. – Kilenc harang. A fődíjba ötszáznegyvenezer forint kerül. A fődíj kétmillió-négyszáztízezer forint. A legtöbbet Puskás Ferenc és Kabos Gyula hozta. A pajzs az övék. Döntsék el itt, mindenki előtt, ki viseli.
 
 – Gyula kapja – mondta Puskás.
 
-– Én? – Kabos hátralépett. – Én nem, nekem csak elejtem. Mindent elejtek. Tegnap a kanalat is.
+– Én? – Kabos hátralépett. – Hiszen én mindent elejtek, kérem. Tegnap a kanalat is.
 
 – Akkor majd én fogom – mondta Puskás, és megveregette a vállát. – Te csak viseld.
 
@@ -302,7 +306,7 @@ Hepburn Kabos mellett foglalt helyet az ablaknál. Kabos a térdén tartotta a p
 
 – Ne féljen tőle, Gyula – mondta Hepburn halkan. – Nem harap.
 
-– Nem a pajzstól félek – felelte Kabos. – A felelősségtől. Tudja, kérem, én egész életemben úgy éltem, hogy sosem bíztak rám semmit, ami kitörhet. Most meg kapok egy vaskarikát, hogy ez vigyázzon rám. Nem tudom, ki kire vigyáz.
+– Nem a pajzstól félek – felelte Kabos. – A felelősségtől. Tudja, kérem, én egész életemben úgy éltem, hogy sosem bíztak rám semmit, ami eltörhet. Most meg kapok egy vastányért, hogy az vigyázzon rám. Nem tudom, ki kire vigyáz.
 
 – Mi mind vigyázunk egymásra.
 
@@ -326,7 +330,7 @@ A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerin
 
 – Mi? – kérdezte Welles.
 
-– Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy tenyérnyi rést, amelyet a környező kötetek nem tudtak betölteni. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem sok könyv, inkább egy. Valaki gyakran levette és visszatette.
+– Itt. – Mercury egy polc közepére mutatott, ahol a könyvek szorosan álltak, kivéve egy helyet: egy karhossznyi rést, amelyet a szomszédos kötetek nem fedtek el. A fa a résen belül világosabb volt, mint a többi. – Itt valami mindig állt. Nem egy könyv, hanem sok, szorosan egymás mellett. Valaki gyakran levett közülük egyet, és visszatette.
 
 – Agatha helye – mondta Welles halkan.
 
@@ -350,7 +354,7 @@ A kandalló mellett Hofi és Zsazsa ültek, és ők sem hallgattak.
 
 – Maga jobbra ment, drágám.
 
-– Én mindig jobbra megyek, ha a férfi balra mondja. Ez a tapasztalat.
+– Én, drágám, a férfiaknak nem hiszek elsőre. Ez hosszú tapasztalat.
 
 – Akkor a tapasztalat elvitte a fődíj egy részét.
 
@@ -398,9 +402,9 @@ Továbbment, és nem nézett vissza.
 
 A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén pislákoltak, és a fekete ajtó ezüst kerete ugyanolyan mozdulatlan volt, mint tegnap. A Játékmester a magasabb székben ült, a keze az asztalon pihent.
 
-– Huszonketten léptek be a kastély kapuján – mondta. – Most tizenöten vannak. Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, de aki ma kapta, az tudja, hogy itt nem védi. – Kabosra pillantott, aki a térdén tartotta a vasat. – Kérem, kezdjék.
+– Huszonketten léptek be a kastély kapuján – mondta. – Most tizenöten vannak. Egy óra vita. Aztán mindenki felír egy nevet. A pajzs az éjszakára véd, a Kerekasztalnál nem. Aki ma kapta, az tudja, hogy itt nem védi. – Kabosra pillantott, aki a térdén tartotta a vasat. – Kérem, kezdjék.
 
-– Én kezdem – mondta Taylor. – Nem azért, mert bátor vagyok, hanem mert ha hallgatok, azzal is mondok valamit. – Kihúzta magát, és a karperece megcsendült. – A Galériában három harang volt a nevemen. Ez tény. De hallgassák meg: három ember mondta ma nekem, hogy hangos vagyok. Kérdezem: ki mondta ezt először?
+– Én kezdem – mondta Taylor. – Nem azért, mert bátor vagyok, hanem mert ha hallgatok, azzal is mondok valamit. – Kihúzta magát, és a karperece megcsendült. – A Galériában három harang szólt miattam. Ez tény. De ide figyeljenek: három ember mondta ma nekem, hogy hangos vagyok. Kérdezem: ki mondta ezt először?
 
 – Én nem mondtam – szólt Kabos azonnal. – Én csak visszhangoztam, mert valaki mondta. Vagy Callas asszony mondta? Vagy ön, Callas asszony?
 
@@ -408,11 +412,11 @@ A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén 
 
 – Valaki – ismételte Taylor. – Három ember, ugyanaz a szó, ugyanarra a személyre, és senki sem tudja, honnan jött. Ez nem véletlen. Valaki elindított valamit.
 
-– Én aggódtam – szólalt meg Hepburn halkan, és a hangja kissé remegett. – Ennyi volt. Nem akartam bántani, nem akartam szavaztatni. Ha ezért engem vádolnak, vállalom, de nem könnyű ezt itt kimondani.
+– Én aggódtam – szólalt meg Hepburn halkan, és a hangja kissé remegett. – Ennyi volt. Nem akartam bántani, nem akartam senkit kiszavaztatni. Ha ezért engem vádolnak, vállalom. Csak nehéz erről ennyi ember előtt beszélni.
 
 – Senki sem vádolja – mondta Einstein.
 
-– Én igen – mondta Taylor, de nem emelte fel a hangját. – Nem azért, mert szeretnék. Hanem mert kérdezek, és ma az a veszélyes, aki kérdez.
+– Én igen – mondta Taylor, de nem emelte fel a hangját. – Nem vád ez, csak kérdés. De ma az a veszélyes, aki kérdez.
 
 – Maga ma mindenkire rákérdezett – mondta Hitchcock kedvesen. – A reggelinél Hepburn kisasszonyra, a Galériában ugyanarra, most megint. Én nem állítom, hogy ez gyanús. Csak azt mondom, hogy aki sokat kérdez, az sokat figyeli, ki hogyan válaszol. Egy kérdező arra jó, hogy a kérdezettek elbújjanak mögötte.
 
@@ -422,9 +426,9 @@ A Kerekasztal körül tizenöt szék állt. A kupola csillagfoltjai ma gyengén 
 
 – Én kérdéssel válaszolok – mondta Brando. – Az is válasz.
 
-– Nem az – mondta Hitchcock. – Az csak mozgás.
+– Nem az – mondta Hitchcock. – Az csak kitérés.
 
-– Én mondok valamit – szólt Welles, és lassan felállt –, amit nem szeretek kimondani. – Nagy lélegzetet vett, mintha színpadra lépne. – Ha ma éjjel valami történik velem, akkor Marlon Brandót nézzék.
+– Én mondok valamit – szólt Welles, és lassan felállt –, amit nem szeretek kimondani. – Nagy lélegzetet vett, mintha színpadra lépne. – Ha ma éjjel valami történik velem, akkor Marlon Brandóra figyeljenek.
 
 A teremben csend lett. Brando a kezéről felnézett.
 
@@ -438,7 +442,7 @@ A teremben csend lett. Brando a kezéről felnézett.
 
 – Én is.
 
-– Én csak annyit mondok – szólt Hofi hirtelen a hallgatásba –, hogy ha valamit hárman mondanak egyszerre, annak van egy első. Mindenki hallotta, mindenki mondja, de a szó senkié.
+– Én csak annyit mondok – szólalt meg Hofi a csendben –, hogy ha valamit már hárman is ismételnek, annak van egy első kimondója. Mindenki hallotta valakitől, mindenki továbbmondja, de senki sem emlékszik, kitől.
 
 – Ez így van – mondta Neumann. – Az információ terjedése olyan, mint egy kémiai reakció: ha egyszer elindult, már nem lehet megmondani, melyik molekulával kezdődött.
 
@@ -474,7 +478,7 @@ A Játékmester bólintott. Aztán maga is végignézett az asztalon, lassan, mi
 
 – Elizabeth Taylor – mondta –, mondja ki, ki volt.
 
-– Ártatlan vagyok – mondta Taylor. – Remélem, valaki ezt is tudni fogja, ha már én nem.
+– Ártatlan vagyok – mondta Taylor. – Remélem, valaki emlékezni fog erre, ha engem már elfelejtettek.
 
 – Elizabeth Taylor ártatlan volt.
 
@@ -494,13 +498,9 @@ A gong háromszor kondult.
 
 Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és a csuklya alatt ezúttal sem látszott semmi.
 
-– Nyolc szavazat – mondta az Első. – Ketten voltunk köztük.
+– Nyolc szavazat – mondta az Első. – Ketten voltunk köztük. Ma legalább nem kellett kitalálnunk senkit: az asztal maga döntött.
 
-– Taylor ártatlan volt – mondta a Második. – Ezt is tudtuk.
-
-– Tudtuk – mondta az Első. – De ma legalább nem kellett kitalálnunk senkit. Az asztal maga döntött.
-
-– Én Brandóra írtam – mondta a Második. – Kellett egy másik név a számba. Négyen írták rá, és az egyik az enyém volt.
+– Brandóra szavaztam – mondta a Második. – Egy másik névre is szükség volt, különben mindhárman ugyanazt írtuk volna. Négyen szavaztak rá, köztük én.
 
 – Brando ma sokat hallgatott – mondta az Első.
 
@@ -522,8 +522,8 @@ Senki sem válaszolt. Egy ideig csak a kő hidegét lehetett érezni.
 
 – Welles ma Brandót nevezte meg – folytatta a Második. Ha ma éjjel valami történik vele, reggel lesz, aki erre gondol.
 
-– Pontosan ezért – mondta az Első. – Két éjszakán hallotta. A harmadikon ismerné.
+– Pontosan ezért – mondta az Első. – Kétszer hallotta, harmadszorra felismerné.
 
 A Harmadik nem szólt. Összefonta a kezét az asztalon, és a gyertyát nézte, amíg a láng egészen elcsendesedett. Aztán kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett vissza. Az Első bólintott, a Második egy ideig még a lángot nézte, aztán ő is.
 
-Lent, a szobákban tizenegy ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Galériában a harang magától megmozdult, egyszer, halkan, bár fehér márvány volt a padlón, és senki sem lépett rá.
+Lent, a szobákban tizenegy ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Galériában a harang magától megmozdult, egyszer, halkan, bár a fekete-fehér márványpadlón senki sem járt.
