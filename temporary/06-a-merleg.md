@@ -447,3 +447,95 @@ Egyetlen pillanatra végigtekintett az asztalon. A hangja ugyanolyan halk volt, 
 – A hetedik nap másképp kezdődik, mint az eddigiek. Jó éjszakát kívánok.
 
 A gong háromszor kondult.
+
+## A hatodik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után két ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és három szék állt körülötte. Az egyik üres volt. A csuklya alatt ezúttal sem látszott semmi.
+
+Az asztalon két lap feküdt. Az egyik fekete volt, ezüst pecséttel, és csak egy üres sor állt rajta. A másik hosszabb volt, szürke, és fölül szabályosan, gondos kézzel egy mondat állt: A hetedik napon négy nevet kell írniuk.
+
+– Nyolc szavazat – mondta az Első. – Én is köztük voltam. Hitchcock tudta, hogy ma ő a következő, mielőtt a Játékmester kiolvasta volna. Láttam az arcán, amikor Zsazsa a negyedik oldalig eljutott.
+
+– Én láttam, amikor felállt – mondta a Harmadik halkan. – Úgy tolta be a székét, mintha vendég lenne.
+
+– Vendég volt. – Az Első az asztalra tette a kezét, ujjait szétnyitva. – Szép volt, tisztességes volt, és vége van. Ha ezt a gyertyát hosszabb ideig nézi, el fogja felejteni, hogy hányan ültünk ide tegnap.
+
+– Nem felejtem el – mondta a Harmadik.
+
+– Tudom. – Az Első egy pillanatra a harmadik székre nézett. – Ezért mondom.
+
+Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfalon át nem járt levegő.
+
+– Nézzük a hibákat – mondta az Első, és a hangja kimérten hideg lett. – Hitchcock nem szólt idejében, amikor Zsazsa elkezdte a füzetet írni. A Galériában a Brandóra terelés kevés volt, a Welles-hagyatékot nem tudtuk időben a saját javunkra fordítani. Rossz csapatba került a Kútházban, és a Mérlegteremben két követ tett a Vasba, amikor tudnia kellett volna, hogy mindenki látni akarja, kik azok a ketten.
+
+– Ez nem hiba volt – mondta a Harmadik. – Ez félelem volt.
+
+– Ez ugyanaz.
+
+– Nem.
+
+Az Első hallgatott. Aztán a fekete lapra mutatott. – Most erről.
+
+A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán még egy. Végül felvette a tollat, amely az asztalon feküdt, és az üres sorba egy nevet írt, lassan, gondosan, mint aki levelet ír valakinek, akit szeret.
+
+Az Első kinyújtotta a kezét, és elolvasta. Az arca nem mozdult.
+
+– Egy szavazat az enyém volt – mondta. – Nem kérdezte.
+
+– Tudom.
+
+– Akkor miért?
+
+– Mert ha megkérdeztem volna, nemet mond – felelte a Harmadik. – És mert ha ő nem fogadja el, akkor ártatlan marad, és nincs baj. De ha nem hívunk senkit, ketten maradunk, és a Kerekasztal minden héten egyre közelebb jön. Én nem szeretnék kettőn maradni.
+
+– Kétmillió-kilencszázhatvanezer forint – mondta az Első. – Kettő felé egymillió-négyszáznyolcvanezer. Három felé kilencszáznyolcvanhatezer-hatszázhatvanhat. Ez a különbség, amit ma éjjel aláír.
+
+– A biztonság többet ér egy részesedésnél.
+
+– Ez érzelem.
+
+– Igen.
+
+– A fődíj számokból áll – mondta az Első. – Nem érzelemből.
+
+– Maga ma szavazott Hitchcockra – mondta a Harmadik hirtelen. Nem emelte fel a hangját, de a szavak élesen estek le az asztalra. – Egy szavazat a magáé volt. Az enyém nem.
+
+– Én védtem magunkat. Ha mind nem szavazunk rá, azt ők is észreveszik.
+
+– Nem szavaztam – mondta a Harmadik. – Nem tudtam.
+
+– Nem tudni nem luxus.
+
+– Akkor kérem, ne is beszéljen róla.
+
+Az Első hátradőlt, és sokáig nézte a lángot. Amikor megszólalt, a hangja halkabb volt, és kevésbé volt benne hideg.
+
+– Tegyük el ezt – mondta. – A lap itt van. Maga írta, én tudom. Ha elfogadja, jó. Ha nem, akkor ártatlan marad, és holnap is ugyanúgy nyomozni fog, mint ma. Nem veszítünk semmit, csak egy éjszakát.
+
+– Egy éjszaka nagy dolog – mondta a Harmadik.
+
+– Egy éjszaka mindig nagy dolog.
+
+A szürke lapot az Első húzta maga elé. Hosszan nézte, és a tollat a Harmadik felé tolta. – Írjuk meg együtt. Négy név. Maga nézi a csendeseket, én a nyomozókat.
+
+– Két gyanús, egy csendes, egy tiszta – mondta a Harmadik. – Így oszlik szét a gyanú.
+
+– Ne szóljon bele a saját munkámba.
+
+– Nem szólok bele. Csak így gondolom.
+
+Egy darabig csak a toll sercegése hallatszott. Az Első írt, aztán a Harmadik, aztán újra az Első, és ahogy a lap megtelt, mindketten egyre kevesebbet beszéltek. A negyedik név után a Harmadik letette a tollat, és az Első a lapot összehajtotta. Nem mondták ki hangosan, kik az áldozatok.
+
+– Egyetlen dolgot kérek – mondta a Harmadik, amikor az Első már felállt. – Hogy ne felejtsük el, hogy hárman voltunk.
+
+– Ha elfelejtjük – felelte az Első –, azt a kastély fogja megtenni helyettünk.
+
+A gyertya lángja meghajolt, aztán újra kiegyenesedett. Az Első elindult a lépcső felé, a Harmadik még egy pillanatig ott maradt a harmadik szék mellett, és a hideg kőre helyezte a tenyerét. Aztán követte.
+
+Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben.
+
+Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. Nem égett el. Az éjszaka közepén a levél még mindig ott volt a kezében, és a szobából nem hallatszott semmi.
+
+Hajnalra a küszöb alól eltűnt a válasz. Hogy mi állt benne, azt a kastély tudta, és ő nem mondta meg senkinek.
+
+Lent, a szobákban tizenketten feküdtek le, és mindegyikük tudta, hogy reggelre valaki hiányozni fog. Vagy az sem.
