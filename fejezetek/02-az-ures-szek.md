@@ -2,9 +2,7 @@
 
 ## A reggeli
 
-A gong reggel hétkor szólalt meg, ugyanazzal a mély, lassú hanggal, mint előző este. Senki sem aludt jól, és mindenki úgy tett, mintha igen.
-
-Az ajtók nem egyszerre nyíltak. Aki bátrabb volt, vagy aki nem bírta tovább az ágyon fekvést, már a gong elmúltával lent volt. Mások sokáig hallgatóztak a résnél, mielőtt kimerészkedtek a folyosóra, és csak akkor indultak el, amikor a szomszédjuk lépteit meghallották. A Nagyterem hosszú asztalánál huszonkét teríték várta őket, mindegyik mellett aranyozott névtábla. A székek még üresek voltak.
+A gong reggel hétkor szólalt meg, ugyanazzal a mély, lassú hanggal, mint előző este. Senki sem aludt jól, és mindenki úgy tett, mintha igen. Az ajtók nem egyszerre nyíltak. Aki bátrabb volt, vagy aki nem bírta tovább az ágyon fekvést, már a gong elmúltával lent volt. Mások sokáig hallgatóztak a résnél, mielőtt kimerészkedtek a folyosóra, és csak akkor indultak el, amikor a szomszédjuk lépteit meghallották. A Nagyterem hosszú asztalánál huszonkét teríték várta őket, mindegyik mellett aranyozott névtábla. A székek még üresek voltak.
 
 Elsőként Einstein érkezett, kócosan, mosolyogva, mintha csak egy szokatlanul hosszú éjszakai gondolkodásból ébredt volna. Utána Christie jött a noteszével, majd Bessenyei, aztán Neumann, pontosan, mintha menetrend szerint. Négyen álltak az asztal körül, és mind a négyen ugyanazt számolták, csak senki sem mondta ki hangosan.
 
@@ -56,9 +54,7 @@ Mögöttük, kissé lemaradva, Hepburn lépett be. A keze összekulcsolva a mell
 
 – Meg – felelte Hepburn, és mosolygott. – Megvagyunk.
 
-Neumann a háttérben figyelte az egész jelenetet. Christie ceruzája megállt egy pillanatra, aztán tovább írt.
-
-Tizenketten voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött elsőként, kényelmes, lassú léptekkel, mint aki sehová sem siet. Mögötte Welles, Taylor és Zsazsa, aki félig suttogva magyarázott valamit Taylornak, és közben a haját igazgatta.
+Neumann a háttérben figyelte az egész jelenetet. Christie ceruzája megállt egy pillanatra, aztán tovább írt. Tizenketten voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött elsőként, kényelmes, lassú léptekkel, mint aki sehová sem siet. Mögötte Welles, Taylor és Zsazsa, aki félig suttogva magyarázott valamit Taylornak, és közben a haját igazgatta.
 
 – Jó reggelt – mondta Hitchcock. – Kitűnően aludtam. – Körülnézett. – Meglepő, nem?
 
@@ -68,9 +64,7 @@ Tizenketten voltak, amikor a negyedik csoport is megérkezett. Hitchcock jött e
 
 – Vagy altatáshoz – mondta Welles mély, élvezetes hangon. – Mi, többiek, akik nem aludtunk jól, csak azért vagyunk itt, hogy a maga nyugalma még jobban feltűnjön.
 
-Hitchcock biccentett, mintha ez bók lett volna. Leült a székére, és a bejáratot nézte.
-
-Már tizenhatan voltak. Az ötödik csoport érkezett: Callas, Dalí, Bud Spencer és Mercury. Mercury még az ajtóban megállt, végignézett az asztalon, és a keze önkéntelenül a nyakához nyúlt.
+Hitchcock biccentett, mintha ez bók lett volna. Leült a székére, és a bejáratot nézte. Már tizenhatan voltak. Az ötödik csoport érkezett: Callas, Dalí, Bud Spencer és Mercury. Mercury még az ajtóban megállt, végignézett az asztalon, és a keze önkéntelenül a nyakához nyúlt.
 
 – Velünk húsz – mondta csendesen. – Marad kettő, és...
 
@@ -80,15 +74,9 @@ Nem fejezte be.
 
 Callas megállt az asztal végén, és lassan körbepillantott. – Minden ajtó mögül hallottam valamit az éjjel – mondta. – Lépéseket. Suttogást. Egyszer azt hittem, valaki a folyosón sír.
 
-Senki sem válaszolt.
+Senki sem válaszolt. Húszan ültek az asztalnál. A teremben most már csak a gyertyák ropogtak. Mindenki a kijárat felé nézett, és mindenki számolt, és mindenki más-más nevet keresett a fejében. Hepburn a keze fejét nézte. Bud Spencer a kenyeret törte, és közben az ajtót figyelte. Neumann a gyertyák lángját nézte, mintha ott lenne a válasz.
 
-Húszan ültek az asztalnál. A teremben most már csak a gyertyák ropogtak. Mindenki a kijárat felé nézett, és mindenki számolt, és mindenki más-más nevet keresett a fejében. Hepburn a keze fejét nézte. Bud Spencer a kenyeret törte, és közben az ajtót figyelte. Neumann a gyertyák lángját nézte, mintha ott lenne a válasz.
-
-Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik Brandoé, akik még nem érkeztek meg. Aki utolsónak jön, az mindig gyanús: vagy lusta, vagy túl nyugodt, vagy oka van elkésni.
-
-Aztán a lépcsőn lassú, nehéz léptek hallatszottak.
-
-Brando az ajtóban megállt, a keze a zsebében, az arca álmos. Végignézett a termen, és megvonta a vállát.
+Amikor a huszadik is leült, még senki sem szólt, de már mindenki tudta: két hely üres. Az egyik Armstrongé volt, a másik Brandoé, akik még nem érkeztek meg. Aki utolsónak jön, az mindig gyanús: vagy lusta, vagy túl nyugodt, vagy oka van elkésni. Aztán a lépcsőn lassú, nehéz léptek hallatszottak. Brando az ajtóban megállt, a keze a zsebében, az arca álmos. Végignézett a termen, és megvonta a vállát.
 
 – Mi van? – kérdezte. – Aludtam.
 
@@ -96,9 +84,7 @@ Brando az ajtóban megállt, a keze a zsebében, az arca álmos. Végignézett a
 
 – Aki az utolsó, az kényelmes – mormolta Brando. – Aki az első, az ideges.
 
-Odament az asztalhoz, és leült. Huszonegy ember ült a huszonkét székből. A huszonkettedik üres volt.
-
-Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég soha meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
+Odament az asztalhoz, és leült. Huszonegy ember ült a huszonkét székből. A huszonkettedik üres volt. Louis Armstrong széke Bud Spencer és Mercury között állt. A teríték érintetlen maradt, a szalvéta összehajtva feküdt a tányér mellett, mintha a vendég soha meg sem érkezett volna. A névtáblán még látszott a név, de a betűk már nem csillogtak. Ahogy nézték, a betűk szélei elporladtak, és egyenként a terítőre peregtek. Néhány pillanat múlva a tábla üres volt, és semmi sem utalt rá, hogy valaha is állt rajta valami.
 
 ![Az elporladt névtábla](../kepek/02-01-az-elporladt-nevtabla.jpg)
 
@@ -148,9 +134,7 @@ Felállt, és mielőtt bárki pislogott volna, már nem volt ott.
 
 ## A Holdvári-labirintus
 
-A kert a kastély mögött terült el, a dombtetőről lefelé lejtett, a közepén pedig egy sötétzöld tömb állt, magasabb, mint két egymásra állított ember. A tiszafák ágai olyan sűrűn fonódtak egymásba, hogy a fal mögött nem látszott semmi, csak a köd, amely a levelek között ült, mintha ott lakna.
-
-A bejáratnál kőív állt, alatta a Játékmester, mellette az inas egy üres ezüsttálcával.
+A kert a kastély mögött terült el, a dombtetőről lefelé lejtett, a közepén pedig egy sötétzöld tömb állt, magasabb, mint két egymásra állított ember. A tiszafák ágai olyan sűrűn fonódtak egymásba, hogy a fal mögött nem látszott semmi, csak a köd, amely a levelek között ült, mintha ott lakna. A bejáratnál kőív állt, alatta a Játékmester, mellette az inas egy üres ezüsttálcával.
 
 ![A labirintus bejárata](../kepek/02-02-a-labirintus-bejarata.jpg)
 
@@ -188,9 +172,7 @@ Neumann fejben számolta a kanyarokat: két jobbra, egy balra, megint két balra
 
 – Akkor sétálunk egy kicsit – felelte Einstein. – A séta még senkinek sem ártott.
 
-Egy zsákutca végén Neumann megállt, a sarokba nézett, és sokáig nem mozdult. Az ajka mozgott, számokat mormolt, vagy talán neveket. Einstein tisztelettel megvárta, mintha templomban lenne.
-
-Latabár megbotlott egy gyökérben, aztán Kabosra nézett, mintha az tehetne róla.
+Egy zsákutca végén Neumann megállt, a sarokba nézett, és sokáig nem mozdult. Az ajka mozgott, számokat mormolt, vagy talán neveket. Einstein tisztelettel megvárta, mintha templomban lenne. Latabár megbotlott egy gyökérben, aztán Kabosra nézett, mintha az tehetne róla.
 
 – Maga volt az, Gyula – mondta méltatlankodva. – Maga állt úgy, hogy a gyökér odaérjen.
 
@@ -214,9 +196,7 @@ Egy sövényfal tövében Brando ült, a hátát a leveleknek támasztva, és k�
 
 – Honnan tudja, hogy nem találtam már?
 
-Puskás egy pillanatig nézte, aztán megveregette a vállát, és továbbment. Rosszat nem szólt róla, de a következő fordulónál még egyszer visszanézett.
-
-A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
+Puskás egy pillanatig nézte, aztán megveregette a vállát, és továbbment. Rosszat nem szólt róla, de a következő fordulónál még egyszer visszanézett. A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
 
 – Maga ment elöl! – kiáltotta de Funès.
 
@@ -226,9 +206,7 @@ A következő zsákutcában de Funès és Psota Irén egymásnak ütközött.
 
 – Akkor miért fordult mégis balra?!
 
-Egy erszény közben közvetlenül a fejük fölött lógott, és egyikük sem vette észre. Később Hepburn találta meg, aki épp arra járt, és szó nélkül leemelte.
-
-Kabos időközben elveszett. Egyszerűen megfordult, és a falak bezárultak mögötte.
+Egy erszény közben közvetlenül a fejük fölött lógott, és egyikük sem vette észre. Később Hepburn találta meg, aki épp arra járt, és szó nélkül leemelte. Kabos időközben elveszett. Egyszerűen megfordult, és a falak bezárultak mögötte.
 
 – Kedves... kedves barátom? Valaki?
 
@@ -238,17 +216,13 @@ Hepburn a hangja felé fordult. Az egyik kezében erszényt tartott, a másikkal
 
 Kabos két fordulóval később a karjába ütközött. Hepburn a kezébe nyomta az erszényt, mint aki ajándékot ad. – Vigyázzon rá – mondta. – És ne menjen el mellőlem.
 
-Valahol a ködben Callas egyetlen hosszú hangot küldött a sövény fölé, tisztán, mint egy kihúzott vonalat. Aki hallotta, tudta, merre van a labirintus nyugati széle, és aki nem hallotta, annak a többiek segítettek. Mercury dúdolva ment, és közben néha megállt, mintha várna valamire. Nem jött válasz.
-
-A torony órája kétszer ütött. A hangja átjött a ködön, és mindenki megtorpant, aki hallotta: az idő fele eltelt, és senki sem tudta, ki merre van.
+Valahol a ködben Callas egyetlen hosszú hangot küldött a sövény fölé, tisztán, mint egy kihúzott vonalat. Aki hallotta, tudta, merre van a labirintus nyugati széle, és aki nem hallotta, annak a többiek segítettek. Mercury dúdolva ment, és közben néha megállt, mintha várna valamire. Nem jött válasz. A torony órája kétszer ütött. A hangja átjött a ködön, és mindenki megtorpant, aki hallotta: az idő fele eltelt, és senki sem tudta, ki merre van.
 
 Bud Spencer addig a labirintus keleti oldalán állt, karját lógatva, és hallgatta az ütéseket. A második ütés után megindult. Nem fordult balra, nem fordult jobbra. A legrövidebb út két pont között az egyenes, és ő ezt komolyan vette. A tiszafa először nem engedett, aztán mégis. Négy falon ment át, és a negyedik után már a harang alatt állt.
 
 ![Bud Spencer átmegy a sövényfalon](../kepek/02-03-bud-spencer-atmegy-a-soveny-falon.jpg)
 
-A recsegést és ropogást mindenhol hallották, utána pedig a harang mély, lassú hangját. Egyszer kondult. Mindenki tudta, hogy vége.
-
-A játékosok a sövénybe vágott résen át gyűltek a közép felé. Az oszlop mellett Bud Spencer állt, kezében a fekete vaspajzzsal, amelyen holdsarló díszelgett, olyan nyugodtan, mintha a bevásárlást hozta volna haza. A Játékmester már ott volt, mintha mindvégig ott állt volna.
+A recsegést és ropogást mindenhol hallották, utána pedig a harang mély, lassú hangját. Egyszer kondult. Mindenki tudta, hogy vége. A játékosok a sövénybe vágott résen át gyűltek a közép felé. Az oszlop mellett Bud Spencer állt, kezében a fekete vaspajzzsal, amelyen holdsarló díszelgett, olyan nyugodtan, mintha a bevásárlást hozta volna haza. A Játékmester már ott volt, mintha mindvégig ott állt volna.
 
 – A játéknak vége – mondta. – Tizenhét erszény. Nyolcszázötvenezer forint. A fődíj mostantól ennyi. A másik tizenhárom a labirintusban marad.
 
@@ -310,9 +284,7 @@ Mercury elővett egy ceruzát, és a nevet a tenyerébe írta, apró betűkkel. 
 
 ## A Kerekasztal
 
-A Kerekasztal a keleti szárny kupolatermében várta őket. A terem kerek volt, a mennyezete boltozatos, a boltozaton valamikor csillagok lehettek, mert most csak halvány arany foltok látszottak rajta. Az asztal fekete tölgyből készült, olyan széles, hogy a túlsó oldalán ülőnek kiabálnia kellett. Huszonegy szék állt körülötte, mindegyik előtt egy palatábla és egy darab kréta. A terem végében magas, fekete ajtó állt ezüst kerettel, kilincs nélkül. Mindenki tudta, hogy ez a Feledés Kapuja, és senki sem nézett oda.
-
-A Játékmester a többinél magasabb székben ült.
+A Kerekasztal a keleti szárny kupolatermében várta őket. A terem kerek volt, a mennyezete boltozatos, a boltozaton valamikor csillagok lehettek, mert most csak halvány arany foltok látszottak rajta. Az asztal fekete tölgyből készült, olyan széles, hogy a túlsó oldalán ülőnek kiabálnia kellett. Huszonegy szék állt körülötte, mindegyik előtt egy palatábla és egy darab kréta. A terem végében magas, fekete ajtó állt ezüst kerettel, kilincs nélkül. Mindenki tudta, hogy ez a Feledés Kapuja, és senki sem nézett oda. A Játékmester a többinél magasabb székben ült.
 
 – Egy óra vita – mondta. – Aztán mindenki felír egy nevet. Akire a legtöbb szavazat jut, az nem azon az ajtón távozik, amelyiken bejött. Mielőtt elmegy, felfedi, hogy áruló volt-e vagy ártatlan. A pajzs itt semmit sem ér. Kérem, kezdjék.
 
@@ -350,9 +322,7 @@ Dalí a mennyezet arany foltjait nézte, és kijelentette, hogy Dalí csillagoka
 
 – Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
 
-Kréta koccant a palatáblákon. Huszonegy ember írt, és mindenki más-más arcot vágott közben. Hepburn ujja remegett. Neumann gyorsan írt, aztán fel sem nézett. Brando alig nézett a tábla felé.
-
-A Játékmester sorban körbement, és minden játékos felfordította a palatáblát. A neveket hangosan olvasta, egyiket a másik után, lassan.
+Kréta koccant a palatáblákon. Huszonegy ember írt, és mindenki más-más arcot vágott közben. Hepburn ujja remegett. Neumann gyorsan írt, aztán fel sem nézett. Brando alig nézett a tábla felé. A Játékmester sorban körbement, és minden játékos felfordította a palatáblát. A neveket hangosan olvasta, egyiket a másik után, lassan.
 
 – Kálmán Dalíra szavazott – jegyezte meg egy ponton.
 
@@ -386,9 +356,7 @@ Kabos tehetetlenül széttárta a karját. Brando a plafont nézte. Latabár han
 
 – Latabár Kálmán ártatlan volt – mondta a Játékmester.
 
-Kilenc ember a saját palatábláját nézte.
-
-Einstein kinyújtotta a nyelvét, gyermeki, szívből jövő nyelvöltéssel, hogy megvigasztalja. Latabár elnevette magát, ezúttal halkan, és biccentett.
+Kilenc ember a saját palatábláját nézte. Einstein kinyújtotta a nyelvét, gyermeki, szívből jövő nyelvöltéssel, hogy megvigasztalja. Latabár elnevette magát, ezúttal halkan, és biccentett.
 
 A fekete ajtó ezüst kerete megkondult, és az ajtó magától kinyílt. Mögötte köd volt, nem a kinti, hanem valami szelídebb, mintha a világ széle lett volna. Latabár odalépett. A küszöbön megbotlott, aztán hátrafordult, és Kabosra nézett, mintha az tehetne róla.
 
@@ -396,23 +364,17 @@ A fekete ajtó ezüst kerete megkondult, és az ajtó magától kinyílt. Mögö
 
 – Régi trükk – mondta, és a hangjában volt valami, amit nem lehetett nevetésnek nevezni. – De most legalább van közönség.
 
-Aztán belépett a ködbe. Az ajtó becsukódott mögötte.
-
-A székén álló névtáblán a betűk kifakultak és lehulltak. Az asztalnál valaki halkan kimondta a nevét. Aztán más is. Mintha így lehetett volna megtartani.
+Aztán belépett a ködbe. Az ajtó becsukódott mögötte. A székén álló névtáblán a betűk kifakultak és lehulltak. Az asztalnál valaki halkan kimondta a nevét. Aztán más is. Mintha így lehetett volna megtartani.
 
 – A játék folytatódik – mondta a Játékmester. – Az árulók ma éjjel is dolgoznak. Spencer urat pajzsa védi. A többieket senki.
 
 Az ajtó felé menet Neumann halkan odaszólt Einsteinnek: – A vita tisztességes eredményt hozott. Kilenc Latabárra, négy Kabosra, Brandóra öt. A közömbös viselkedés iránti bizalmatlanság nem múlt el.
 
-Christie ceruzája megállt a lap fölött. Nem szólt semmit. Aztán beírt valamit apró betűkkel, és gyorsan becsukta a noteszt.
-
-A gong háromszor kondult. Ezúttal senki sem húzta az időt.
+Christie ceruzája megállt a lap fölött. Nem szólt semmit. Aztán beírt valamit apró betűkkel, és gyorsan becsukta a noteszt. A gong háromszor kondult. Ezúttal senki sem húzta az időt.
 
 ## A második konklávé
 
-Éjfélkor a tölgyajtó, amely nappal zárva állt, ismét magától kinyílt. Ezúttal egyikük sem lepődött meg rajta.
-
-Hárman ültek a kőasztalnál, csuklyával, mint előző éjszaka, és az egyetlen gyertya fénye megint remegett. Az arcukról ez a krónika most sem árul el semmit.
+Éjfélkor a tölgyajtó, amely nappal zárva állt, ismét magától kinyílt. Ezúttal egyikük sem lepődött meg rajta. Hárman ültek a kőasztalnál, csuklyával, mint előző éjszaka, és az egyetlen gyertya fénye megint remegett. Az arcukról ez a krónika most sem árul el semmit.
 
 – Kilenc szavazat – mondta az Első. – Ebből három a miénk.
 
@@ -438,9 +400,7 @@ Sokáig nem szólt senki. A gyertya lángja egyszer megremegett.
 
 – Az egyikük nem fogja tudni elmondani, amit észrevett.
 
-Nem tették hozzá, kire gondolnak. Nem is kellett. Mindhárman tudták, hogy a nevek nem a szavakban vannak, hanem a hallgatásokban.
-
-A Második kimondott egy nevet. Nem emelte fel a hangját. Az Első bólintott. A Harmadik egy ideig a gyertyát nézte, aztán ő is.
+Nem tették hozzá, kire gondolnak. Nem is kellett. Mindhárman tudták, hogy a nevek nem a szavakban vannak, hanem a hallgatásokban. A Második kimondott egy nevet. Nem emelte fel a hangját. Az Első bólintott. A Harmadik egy ideig a gyertyát nézte, aztán ő is.
 
 – Tudják, mi történik velük? – kérdezte a Harmadik.
 
