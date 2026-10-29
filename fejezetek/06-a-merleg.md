@@ -340,9 +340,13 @@ Egy pillanatig mindenki számolt. – Nyolc szavazat Alfred Hitchcockra – mond
 
 Hitchcock felállt. A székét óvatosan betolta az asztalhoz, mintha vendég lenne. Végignézett a termen, aztán a Játékmesterre.
 
-– Alfred Hitchcock – mondta a Játékmester –, mondja ki, ki volt. A csend olyan mély volt, hogy a kupola alatt hallani lehetett a saját lélegzetüket.
+– Alfred Hitchcock – mondta a Játékmester –, még beszélhet. De ha kimondja, mi volt a szerepe, többet nem szólhat, legfeljebb elköszönhet. Kérem, jól válassza meg a sorrendet. A csend olyan mély volt, hogy a kupola alatt hallani lehetett a saját lélegzetüket.
 
-– Áruló vagyok – mondta Hitchcock.
+– Köszönöm – mondta Hitchcock. – A sorrend mindig is az erősségem volt. – Zsazsára nézett. – Szép beszéd volt, drága hölgyem. Négy oldal. Ha valaha elfelejtem, hogy hány volt, kérem, emlékeztessen rá. – Elmosolyodott, és abban a mosolyban nem volt semmi, ami gúny lett volna. – Egész életemben azt tanultam, hogy a közönség addig a legboldogabb, amíg azt hiszi, tudja, mi következik. Önök most boldogok. Ez jól áll önöknek. Egy jó közönség tudja, mikor kell tapsolni. És azt is, mikor kell tovább nézni.
+
+– Ez kinek szól? – kérdezte Zsazsa.
+
+– A teremnek – mondta Hitchcock. – Vagy nekem. Ezt majd maguk döntsék el. – Összekulcsolta a kezét a hasán, és lassan végigment a tekintetével az asztalon, arcról arcra, mint aki a szereposztást ellenőrzi. – A jó film titka, hogy a legfontosabb dolgot az utolsó jelenetben mondják ki, és addig mindenki mást gyanúsít. Önök ma kitűnően dolgoztak: hat érv, négy oldal, és egy szavazás, amelyen nem fogtak ki rajtam. Egy dolgot kérek tőlük, ha majd hazafelé gondolnak rám: hogy a legjobb szerep az, amelyet senki sem néz meg kétszer. Hölgyeim és uraim: áruló vagyok.
 
 – Alfred Hitchcock áruló volt – mondta a Játékmester.
 
@@ -350,21 +354,15 @@ Egy pillanatig senki sem lélegzett. Aztán Zsazsa a szájára szorította a kez
 
 – Megvan! – kiáltotta Zsazsa. – Megvan! Négy nap, négy ártatlan, és most...
 
-Elfulladt. Callas mellé lépett, és szó nélkül megfogta a karját, mire Callas a vállára hajtotta a homlokát, és hosszan, hangtalanul sírt.
+Elfulladt. Callas mellé lépett, és szó nélkül megfogta a karját, mire Callas a vállára hajtotta a homlokát, és hosszan, hangtalanul sírt. Neumann tapsolni kezdett, kicsit a többiek után, hűvösen és pontosan. Hepburn szeme könnyes lett, a kezét a mellére szorította, és halkan, elcsukló hangon ismételte: „Hála Istennek." Dalí nem mozdult. A bajusza sem rezdült. Úgy ült, mint aki már régen tudta, hogy így lesz, és most csak megvárta a nap végét.
 
-Neumann tapsolni kezdett, kicsit a többiek után, hűvösen és pontosan. Hepburn szeme könnyes lett, a kezét a mellére szorította. – Hála Istennek – mondta. – Hála Istennek, hogy végre... Dalí nem mozdult. A bajusza sem rezdült. Úgy ült, mint aki már régen tudta, hogy így lesz, és most csak megvárta a nap végét.
+– Kérdezzem meg – mondta Zsazsa, és hirtelen Hitchcock felé fordult, nedves arccal, remegő hangon –, ki a társa? Alfred, ki a társa? Kik a többiek?
 
-– Kérdezzem meg – mondta Zsazsa, és hirtelen a Játékmester felé fordult, nedves arccal, remegő hangon –, ki a társa? Alfred, ki a társa? Kik a többiek?
+Hitchcock nem felelt. Kissé meghajolt Zsazsa felé, és az ajkához emelte az ujját, mint aki tudja, hogy a szabály már nem engedi tovább.
 
-– Aki elfelejtetett, csak a saját nevéről és szerepéről beszélhet – mondta a Játékmester halkan. – A többit a Kapu mögé viszi, és ott is hagyja. Ezt tudják, és tudta ő is.
+– Aki elfelejtetett, annak a szerepe volt az utolsó szava – mondta a Játékmester halkan. – A többit a Kapu mögé viszi, és ott is hagyja. Ezt tudták, és tudta ő is.
 
-Hitchcock Zsazsára nézett.
-
-– Szép beszéd volt, drága hölgyem – mondta. – Négy oldal. Ha valaha elfelejtem, hogy hány volt, kérem, emlékeztessen rá. – Elmosolyodott, és abban a mosolyban nem volt semmi, ami gúny lett volna. – Önök most boldogok. Ez jól áll önöknek. Egy jó közönség tudja, mikor kell tapsolni. És azt is, mikor kell tovább nézni.
-
-– Ez kinek szól? – kérdezte Zsazsa.
-
-– A teremnek – mondta Hitchcock. – Vagy nekem. Ezt majd maguk döntsék el.
+– Jó éjszakát – mondta Hitchcock, csak ennyit, és a hangja ugyanolyan hűvös és kimért volt, mint mindig.
 
 A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Hitchcock a küszöbön megállt, és hátranézett. A tekintete végigsiklott az asztalon, és nem állt meg egyetlen arcon sem, mintha mindegyiket ugyanannyira megjegyezné. Aztán belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak.
 

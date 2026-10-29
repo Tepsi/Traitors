@@ -31,3 +31,8 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 
 ## Titkos döntések a próbatételeken
 - Ha a próbatételen mindenki titokban dönt (kő, érme, szavazat), a díszletnek is gondoskodnia kell róla, hogy a következő játékos semmit se lásson, halljon vagy érezzen az előzőék döntéséből (zárt fedél, rögzített mérleg, bélelt aljzat). Csak a végén derül ki az eredmény.
+
+## A kiszavazott búcsúja
+- A Kerekasztalnál kiszavazott játékos előbb beszélhet, és ekkor mondhat, amit akar (hatásvadász vagy humoros beszéd, felvezetés, ahogy a személyiségéhez illik).
+- Amint kimondja, mi volt a szerepe (áruló vagy ártatlan), többet nem szólhat, legfeljebb elköszönhet (egy-két szó, gesztus). Ezért a szerep kimondása a búcsú csattanója, a beszéd végén áll.
+- A kiesett nem leplezhet le senkit, és nem beszélhet másról, csak a saját szerepéről.
