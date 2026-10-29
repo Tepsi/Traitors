@@ -42,17 +42,13 @@ Brando leült, és a kezére támasztotta a fejét. – Ma ki fog magyarázni ne
 
 – És erre kérdéssel felelek – mondta Brando. – Pontosan.
 
-Callas szája sarka megrándult, aztán újra komor lett.
-
-A negyedik csoport hosszabb ideig késett, mint az előzőek. Hepburn jött elöl, mögötte Welles, Taylor és Einstein. Hepburn az ajtóban megállt, és végigfuttatta a szemét a székeken, ahogy a gyerek számolja a testvéreit, mielőtt elalszik. Aztán fellélegzett.
+Callas szája sarka megrándult, aztán újra komor lett. A negyedik csoport hosszabb ideig késett, mint az előzőek. Hepburn jött elöl, mögötte Welles, Taylor és Einstein. Hepburn az ajtóban megállt, és végigfuttatta a szemét a székeken, ahogy a gyerek számolja a testvéreit, mielőtt elalszik. Aztán fellélegzett.
 
 – Maguk is itt vannak – mondta. – Nem is tudom, miért remegek még mindig.
 
 – Mert mi mind remegünk – felelte Einstein halkan. – Csak nem mindenki mutatja.
 
-Welles nem szólt. Leült a helyére, a karjait az asztalra tette, és az ajtót nézte. Taylor mellé ült, és a karperecét forgatta, de nem a tányért nézte, hanem Hepburnt.
-
-Hofi érkezett utolsónak, és egyedül. A küszöbön megállt, mintha nem bízna a saját lábában, és csendben végigszámolta a székeket. Az ajka sem mozdult, csak a szeme ugrált szék és szék között.
+Welles nem szólt. Leült a helyére, a karjait az asztalra tette, és az ajtót nézte. Taylor mellé ült, és a karperecét forgatta, de nem a tányért nézte, hanem Hepburnt. Hofi érkezett utolsónak, és egyedül. A küszöbön megállt, mintha nem bízna a saját lábában, és csendben végigszámolta a székeket. Az ajka sem mozdult, csak a szeme ugrált szék és szék között.
 
 – Tizenöt – mondta aztán a levegőnek. – Ennyi volt.
 
@@ -154,9 +150,7 @@ Bud Spencer húzta a Hallgató cédulát. Megnézte, és szó nélkül felmutatt
 
 – Nincs – felelte a Játékmester. – A többiek a lépcsőházban várnak, senki sem látja előre a másik útját. Így mindenki ugyanazokkal az esélyekkel indul. – Szünetet tartott. – A legtöbb nettót hozó pár pajzsot kap. Ők döntik el, ki viseli.
 
-A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a hangok.
-
-Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, aztán megállt a küszöbön. Neumann felment az erkélyre, és a korlátra támaszkodott.
+A többiek a lépcsőházban vártak, a Galéria ajtaja mögött. Ide csak a hangok szűrődtek át, a lépések, a harang és a hangok. Elsőnek Neumann és Einstein ment. Einstein kötötte be a saját szemét, aztán megállt a küszöbön. Neumann felment az erkélyre, és a korlátra támaszkodott.
 
 – Három lépés előre – mondta. – Fehér, fehér, fehér. Utána egy kicsit balra.
 
@@ -192,9 +186,7 @@ A harang megkondult.
 
 Zsazsa kivett egy erszényt a padlóról, felmutatta, és fennhangon folytatta: – Ezt nem a maga hangja találta meg, drágám, az ösztönöm.
 
-A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közben a legkomolyabb maradt, és ez volt benne a legjobb.
-
-Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, mint aki nem akar elsőnek megszólalni. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
+A harang még egyszer megkondult, tompán, mintha ő is nevetne. Hofi arca közben a legkomolyabb maradt, és ez volt benne a legjobb. Hepburn és Taylor ment harmadikként. Taylor bekötötte a szemét, és szótlanul állt a küszöbön, mint aki nem akar elsőnek megszólalni. Hepburn felment az erkélyre. Halkan beszélt, olyan halkan, hogy a lépcsőházban nem hallották, csak a ritmusát.
 
 – Három lépés előre, Elizabeth – mondta. – Ne siessen.
 
@@ -248,9 +240,7 @@ Brando megtette a két lépést, és megállt.
 
 – A jó rendező instruál – mondta Brando. – Maga csak annyit mondott: jobbra.
 
-A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és a harang összesen csak kétszer kondult.
-
-Mercury és Dalí a következő pár volt. Dalí felemelt fejjel állt a küszöbön, és maga kötötte a szemére a kendőt.
+A lépcsőházban még Taylor is elmosolyodott. Hitchcock végül három erszényhez vezette Brandót, és a harang összesen csak kétszer kondult. Mercury és Dalí a következő pár volt. Dalí felemelt fejjel állt a küszöbön, és maga kötötte a szemére a kendőt.
 
 – Dalí nem téved el – mondta. – Dalí a sötétben is látja a saját bajuszát.
 
@@ -260,13 +250,7 @@ Mercury az erkélyről nem szavakkal vezette, hanem hangokkal: egy mély hümmö
 
 – A gondolat jobbra tér – javította ki Dalí, és tovább lépett.
 
-Három erszény, egy harang. Nyolcvanezer.
-
-Callas és Welles jött hatodikként. Callas az erkélyről nem beszélt, ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett.
-
-Amikor Welles megelőzte az ütemet, Callas két ütés után elhallgatott. A csend megállította Wellest: visszalépett, és újrakezdte. A harang egyszer sem szólalt meg.
-
-Három erszény, nulla harang. Kilencvenezer.
+Három erszény, egy harang. Nyolcvanezer. Callas és Welles jött hatodikként. Callas az erkélyről nem beszélt, ritmust tartott: ujjhegyével finoman ütögette a korlátot, hármat, aztán egy szünetet. Welles nagy léptekkel indult, ahogy a színpadon szokás, és egyetlen szót sem szólt, csak a ritmusra lépett. Amikor Welles megelőzte az ütemet, Callas két ütés után elhallgatott. A csend megállította Wellest: visszalépett, és újrakezdte. A harang egyszer sem szólalt meg. Három erszény, nulla harang. Kilencvenezer.
 
 – Ritmus – mondta Welles, miután levette a kendőt, és Callasra nézett. – Maga hang nélkül vezetett.
 
@@ -296,17 +280,13 @@ A Játékmester levonult az erkélyről, és a Galéria közepén állt meg.
 
 – Nem fogod elveszíteni – mondta Puskás.
 
-A Játékmester kezében megjelent a pajzs: szürke vas, kis holdsarlóval. Kabos két kézzel vette át, mint egy tálcát.
-
-Bud Spencer mozdulatlanul ült a harang mellett, az ölében összekulcsolt kézzel. Amikor a Játékmester intett, felállt.
+A Játékmester kezében megjelent a pajzs: szürke vas, kis holdsarlóval. Kabos két kézzel vette át, mint egy tálcát. Bud Spencer mozdulatlanul ült a harang mellett, az ölében összekulcsolt kézzel. Amikor a Játékmester intett, felállt.
 
 – Hallgattam – mondta. – Ez volt a dolgom.
 
 ## A könyvtár
 
-A délután lassan telt. A Galéria után mindenki szétszéledt, és a kastély egy-egy sarkában kis csoportok gyűltek össze, ahol a hangok nem jutottak el a többiekhez. A könyvtár volt a legnépesebb: nehéz tölgypolcok, bőrkötések, ablakok, amelyeken át a ködös kert látszott. A fal mentén fotelek álltak, és minden fotelben ült valaki.
-
-Hepburn Kabos mellett foglalt helyet az ablaknál. Kabos a térdén tartotta a pajzsot, mintha tányér volna, és közben állandóan igazgatta, nehogy leessen.
+A délután lassan telt. A Galéria után mindenki szétszéledt, és a kastély egy-egy sarkában kis csoportok gyűltek össze, ahol a hangok nem jutottak el a többiekhez. A könyvtár volt a legnépesebb: nehéz tölgypolcok, bőrkötések, ablakok, amelyeken át a ködös kert látszott. A fal mentén fotelek álltak, és minden fotelben ült valaki. Hepburn Kabos mellett foglalt helyet az ablaknál. Kabos a térdén tartotta a pajzsot, mintha tányér volna, és közben állandóan igazgatta, nehogy leessen.
 
 – Ne féljen tőle, Gyula – mondta Hepburn halkan. – Nem harap.
 
@@ -326,9 +306,7 @@ Callas ujja végigfutott a könyv gerincén. – Valóban nem hallgat soha – m
 
 – Mindig mond valamit – bólogatott Kabos. – Én is mindig mondok valamit, de nekem nincs mit rejtegetnem. Én csak félek.
 
-Hepburn rámosolygott, és az ujjai finoman megszorították a karját.
-
-A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerinceket, ujjával követve a feliratokat, és időnként félhangosan mondott egy szót, mintha kóstolgatná. Welles a távolabbi falnál állt, és a szemközti ablakot nézte.
+Hepburn rámosolygott, és az ujjai finoman megszorították a karját. A polcok között Mercury és Welles álltak. Mercury sorra végigjárta a gerinceket, ujjával követve a feliratokat, és időnként félhangosan mondott egy szót, mintha kóstolgatná. Welles a távolabbi falnál állt, és a szemközti ablakot nézte.
 
 – Itt valami nincs a helyén – mondta Mercury egyszer csak.
 
@@ -372,9 +350,7 @@ Zsazsa legyintett, de aztán halkabban folytatta, és előrehajolt. – Egyébk�
 
 – Én azt látom – felelte Hofi –, hogy mindenki hangos, aki fél. Csak vannak, akik halkan félnek.
 
-Zsazsa ezt nem értette egészen, és a kezét a gyöngysorára tette.
-
-A könyvtár túlsó végén Einstein egy régi térképet tanulmányozott, amelyet egy üvegvitrinben talált. Neumann mellette állt, és anélkül nézte a térképet, hogy valóban látná.
+Zsazsa ezt nem értette egészen, és a kezét a gyöngysorára tette. A könyvtár túlsó végén Einstein egy régi térképet tanulmányozott, amelyet egy üvegvitrinben talált. Neumann mellette állt, és anélkül nézte a térképet, hogy valóban látná.
 
 – A Galériában sokat gondolkoztam – mondta Einstein. – Egy fekete-fehér padlón az ember azt hinné, hogy csak két lehetőség van. Az élet ritkán ilyen egyszerű.
 
@@ -462,9 +438,7 @@ Taylor elfordult tőle, és körbenézett az asztalon, lassan, ahogy az ember a 
 
 – Elég volt – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
 
-Kréta koccant a palatáblákon. Tizenöt ember írt, és az arcokról megint semmit sem lehetett leolvasni. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna, és közben egyszer Taylorra pillantott. Taylor észrevette, és nem fordította el a fejét.
-
-A Játékmester sorban felfordította a táblákat. Taylor neve sokáig egyedül állt az asztalon, aztán Brandóé következett, aztán újra Taylor.
+Kréta koccant a palatáblákon. Tizenöt ember írt, és az arcokról megint semmit sem lehetett leolvasni. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna, és közben egyszer Taylorra pillantott. Taylor észrevette, és nem fordította el a fejét. A Játékmester sorban felfordította a táblákat. Taylor neve sokáig egyedül állt az asztalon, aztán Brandóé következett, aztán újra Taylor.
 
 – Nyolc szavazat Elizabeth Taylorra – mondta a Játékmester. – Négy Marlon Brandóra. Egy Maria Callasra. Egy Orson Wellesre. Egy Hofi Gézára.
 
@@ -488,9 +462,7 @@ A Játékmester bólintott. Aztán maga is végignézett az asztalon, lassan, mi
 
 – Elizabeth Taylor ártatlan volt.
 
-Tizennégy ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott.
-
-A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult.
+Tizennégy ember nézett egymásra. Hepburn szeme vörös lett, Neumann ajka mozdult, Hitchcock mosolygott, Einstein lehajtotta a fejét. Aki nem nézett senkire, az Brando volt: a kezét nézte, és a szája sarka egy pillanatra megvonaglott. A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult.
 
 ![Taylor a Feledés Kapujának küszöbén visszafordul a Kerekasztalhoz](../kepek/05-04-taylor-a-kuszoben.jpg)
 
