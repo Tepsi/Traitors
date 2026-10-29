@@ -28,7 +28,7 @@ A harmadik csoport három férfiból állt. Hofi ment elöl, kezét a zsebébe d
 
 – Tizenkettő – mondta. – Ketten hiányoznak.
 
-– Tizennégyen feküdtünk le – mondta Hepburn halkan. – Mind a tizennégyet láttam a folyosón.
+– Tizennégyen feküdtünk le – mondta Hepburn halkan. – A gong után még mind a tizennégyet láttam, ahogy a szobájába megy.
 
 – Akkor az egyikük meg fog érkezni – mondta Einstein, és a hangja szinte bocsánatot kért. – Az egyikük. Nem tudjuk, melyik.
 
