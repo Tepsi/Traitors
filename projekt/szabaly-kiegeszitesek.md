@@ -28,3 +28,6 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 - A vendégek kis csoportokban jönnek, és megszámolják az érkezőket. Ha már csak két ember hiányzik, tudják, hogy az egyikük nem jön, de azt nem, hogy melyik.
 - Az utolsó érkező belép, és csak ezután mondja ki a Játékmester a kiesett nevét; ekkor kopnak le a betűk a névtábláról.
 - Senki sem hivatkozhat a kiesettre, és nem mondhatja ki a nevét, amíg az utolsó vendég be nem lépett és a Játékmester be nem jelentette.
+
+## Titkos döntések a próbatételeken
+- Ha a próbatételen mindenki titokban dönt (kő, érme, szavazat), a díszletnek is gondoskodnia kell róla, hogy a következő játékos semmit se lásson, halljon vagy érezzen az előzőék döntéséből (zárt fedél, rögzített mérleg, bélelt aljzat). Csak a végén derül ki az eredmény.

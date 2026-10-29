@@ -104,7 +104,7 @@ A Játékmester már nem volt a kandalló mellett. Az asztalon a tányérok hide
 
 ## A Mérlegterem
 
-A Keleti Szárny Mérleg-terme hideg volt és magas, a mennyezetén sötét gerendák futottak keresztül. A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne. Az egyik serpenyő színe arany volt, a másiké fekete vas. A mérleg elé lakkozott paravánt állítottak, olyan magasat, hogy mögé senki se lásson be, amíg a másik oldalon áll.
+A Keleti Szárny Mérleg-terme hideg volt és magas, a mennyezetén sötét gerendák futottak keresztül. A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne. Az egyik serpenyő színe arany volt, a másiké fekete vas. Mindkettőt vastag sárgaréz fedél zárta, a fedélen egyetlen keskeny rés, éppen akkora, hogy egy kő átférjen rajta, alatta sötét. A mérleg rúdját vasszeg tartotta egyensúlyban. A mérleg elé lakkozott paravánt állítottak, olyan magasat, hogy mögé senki se lásson be, amíg a másik oldalon áll.
 
 A terem szélén, egy kis asztalon, tizenhárom sima szürke kő sorakozott.
 
@@ -112,7 +112,7 @@ A terem szélén, egy kis asztalon, tizenhárom sima szürke kő sorakozott.
 
 – Tehát aki pajzsot akar, az ötvenezret kockáztat – mondta Einstein.
 
-– Aki pajzsot akar, az mindannyiukat kockáztatja – felelte a Játékmester. – Egy kő a Vasban védelem. Kettő már gyanú. A serpenyők alját filccel béleltem ki, semmit sem hallanak abból, ami mögöttük történik. Az ajtót addig nem nyitom ki, amíg mindenki be nem fejezte. Egy órájuk van, hogy megbeszéljék.
+– Aki pajzsot akar, az mindannyiukat kockáztatja – felelte a Játékmester. – Egy kő a Vasban védelem. Kettő már gyanú. A serpenyők alját filccel béleltem ki, a mérleg karját vasszeg tartja, a fedél alatt nem látnak semmit. Ami a résen át bekerül, azt a következő már nem látja, és nem hallja, és nem érzi a súlyán. Csak én tudom, mi van bent. Az ajtót addig nem nyitom ki, amíg mindenki be nem fejezte. Egy órájuk van, hogy megbeszéljék.
 
 Szünetet tartott, és végignézett rajtuk.
 
@@ -176,7 +176,7 @@ Neumann a kőasztalhoz lépett, és megvizsgálta a köveket, egyiket a másik u
 
 – És a paraván? – kérdezte Bud Spencer. Ez volt az első mondata aznap.
 
-Neumann odalépett a paravánhoz, megkocogtatta, aztán végighúzta a kezét a serpenyők peremén, és bólintott. – A bélés valóban vastag. Nem hallani semmit.
+Neumann odalépett a paravánhoz, megkocogtatta, aztán megrázta a mérleg rúdját a vasszegnél, benézett a fedelek résén, és bólintott. – A szeg nem enged, a rés alatt sötét van, a bélés vastag. Nem hallani semmit, és a mérleg sem mozdul. Aki utolsónak lép be, annak ugyanannyit mutat, mint az elsőnek.
 
 – Akkor nincs mit megbeszélni – mondta Bud Spencer. – Mindenki azt tesz, amit akar.
 
@@ -204,9 +204,9 @@ Hepburn a tizenegyedik volt, Neumann a tizenkettedik, és az utolsó Dalí. Dal�
 
 – Dalí letette – mondta. – A kő többet tud, mint Dalí.
 
-A Játékmester a mérleg mellé lépett. Mindannyian körbeálltak, és ő egyetlen mozdulattal elhúzta a paravánt.
+A Játékmester a mérleg mellé lépett. Mindannyian körbeálltak, és ő egyetlen mozdulattal elhúzta a paravánt, kihúzta a vasszeget, és levette a két fedelet.
 
-Az Arany serpenyő mélyen lesüllyedt. Benne tizenegy kő feküdt, szorosan egymás mellett. A Vas serpenyő magasan állt, és két kő árválkodott benne a fekete fém közepén, egymás mellett, mintha nem akarnának megérinteni egymást.
+A rúd megbillent. Az Arany serpenyő mélyen lesüllyedt. Benne tizenegy kő feküdt, szorosan egymás mellett. A Vas serpenyő magasan állt, és két kő árválkodott benne a fekete fém közepén, egymás mellett, mintha nem akarnának megérinteni egymást.
 
 – Tizenegy az Aranyban – mondta a Játékmester. – Ötszázötvenezer forint a fődíjba. A fődíj kétmillió-kilencszázhatvanezer forint. – Szünetet tartott. – Két kő a Vasban. A pajzs elveszett.
 
