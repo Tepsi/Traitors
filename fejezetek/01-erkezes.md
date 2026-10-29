@@ -1,14 +1,10 @@
 # Árulók – Halálos kastély
 
-A Holdvári-kastélyban huszonkét régen elhunyt híresség játssza a halálos társasjátékot, és köztük árulók rejtőznek. A történet és a párbeszédek kitaláltak, a szereplők modorát ismert közszereplői vonásaik ihlették.
-
-A játékot Szerafin Barnabás, a kastély Játékmestere vezeti. Fekete köpenyt visel, lassan és ünnepélyesen beszél, olyan nyugalommal, amely rosszabb minden fenyegetésnél.
+A Holdvári-kastélyban huszonkét régen elhunyt híresség játssza a halálos társasjátékot, és köztük árulók rejtőznek. A történet és a párbeszédek kitaláltak, a szereplők modorát ismert közszereplői vonásaik ihlették. A játékot Szerafin Barnabás, a kastély Játékmestere vezeti. Fekete köpenyt visel, lassan és ünnepélyesen beszél, olyan nyugalommal, amely rosszabb minden fenyegetésnél.
 
 # 1. fejezet: Érkezés
 
-A köd már a bekötőúton felbukkant, és a kapuig kísérte az érkezőket. Hideg volt, nyirkos és furcsán csendes, mintha tudná, hogy aki erre jár, az nem marad sokáig.
-
-A Holdvári-kastély a dombtetőn állt, szürke kőből épült, tornyokkal és fekete gerendázatú szárnyakkal. Az ablakok mögött sehol sem látszott fény. A kapu előtt kovácsoltvas lámpás égett, mellette egy fekete egyenruhás inas várt, mozdulatlanul, akár egy szobor.
+A köd már a bekötőúton felbukkant, és a kapuig kísérte az érkezőket. Hideg volt, nyirkos és furcsán csendes, mintha tudná, hogy aki erre jár, az nem marad sokáig. A Holdvári-kastély a dombtetőn állt, szürke kőből épült, tornyokkal és fekete gerendázatú szárnyakkal. Az ablakok mögött sehol sem látszott fény. A kapu előtt kovácsoltvas lámpás égett, mellette egy fekete egyenruhás inas várt, mozdulatlanul, akár egy szobor.
 
 ![A Holdvári-kastély](../kepek/01-01-holdvari-kastely.jpg)
 
@@ -48,15 +44,11 @@ Louis de Funès a kapuban azonnal felháborodott. – Ez botrány! – kiáltott
 
 Louis Armstrong széles mosollyal köszönt mindenkit. – Üdv mindenkinek, kedveseim! Valaki tudja, hol a zenekar?
 
-Orson Welles megkérdezte, mikor lesz vacsora, és hogy utána is lesz-e étkezés. A kabátja közben lecsúszott a válláról, de ő észre sem vette.
-
-Elizabeth Taylor ékszereinek csillogása elnyomta a kapulámpás fényét.
+Orson Welles megkérdezte, mikor lesz vacsora, és hogy utána is lesz-e étkezés. A kabátja közben lecsúszott a válláról, de ő észre sem vette. Elizabeth Taylor ékszereinek csillogása elnyomta a kapulámpás fényét.
 
 Marlon Brando leült a küszöbre. – Fáradt vagyok – mormolta. – Nem érdekel, hová megyünk.
 
-Bud Spencer szó nélkül lépett be. Az ajtószárnyat úgy tolta odébb, mintha papírból lett volna, és mindenki hálásan elhallgatott.
-
-Maria Callas a küszöb előtt megállt, és várt. Az inas rájött, mit vár tőle, és megtapsolta. Callas ekkor lépett be.
+Bud Spencer szó nélkül lépett be. Az ajtószárnyat úgy tolta odébb, mintha papírból lett volna, és mindenki hálásan elhallgatott. Maria Callas a küszöb előtt megállt, és várt. Az inas rájött, mit vár tőle, és megtapsolta. Callas ekkor lépett be.
 
 Gábor Zsazsa körülnézett, és elmosolyodott. – Darling, ez nem a Ritz – mondta. – De legalább van benne egy kis dráma.
 
@@ -92,17 +84,13 @@ Callas az ajtó előtt, a lépcsőfordulóban megállt, és hosszan, tisztán ki
 
 Dietrich és Welles a lépcső mellett találkoztak. – Ön is a nyitható ajtókat keresi? – kérdezte Dietrich szárazon. – A zárt ajtókat – felelte Welles. – A zárt ajtókat mindig érdemes megnézni.
 
-Az egyik a pincelépcső vasajtaja volt, a másik az északi toronyba vezető tölgyajtó. Kabos és Latabár egymás után nyomták le a kilincset, aztán egymásra néztek, mintha a másik tehetne arról, hogy az ajtó nem nyílik. Később többen is megpróbálták: de Funès kétszer is megrángatta, Psota Irén hangosan megjegyezte, hogy ilyen ajtót nem zárnak be vendég elől. Az ajtó nem engedett.
-
-A folyosó végén megkondult egy kis gong. A hangja nem volt hangos, mégis mindenki meghallotta.
+Az egyik a pincelépcső vasajtaja volt, a másik az északi toronyba vezető tölgyajtó. Kabos és Latabár egymás után nyomták le a kilincset, aztán egymásra néztek, mintha a másik tehetne arról, hogy az ajtó nem nyílik. Később többen is megpróbálták: de Funès kétszer is megrángatta, Psota Irén hangosan megjegyezte, hogy ilyen ajtót nem zárnak be vendég elől. Az ajtó nem engedett. A folyosó végén megkondult egy kis gong. A hangja nem volt hangos, mégis mindenki meghallotta.
 
 – A vacsora tálalva – mondta az inas valahonnan a sötétből.
 
 ## A Nagyterem
 
-A Nagyterem hosszú asztala mellett huszonkét szék állt. Mindegyik előtt kis aranyozott névtábla volt, rajta egy vendég neve. Leültek, és egy ideig senki sem szólalt meg. Csak egy óra ketyegett valahol a falban, vagy talán a szívük, ha még lett volna.
-
-Egyszerre kialudtak a gyertyák. A terem végében, az erkélyen egyetlen fénysugár villant fel, és a fényben egy magas, fekete köpenyes férfi állt. Sokáig nem szólt, csak nézte őket.
+A Nagyterem hosszú asztala mellett huszonkét szék állt. Mindegyik előtt kis aranyozott névtábla volt, rajta egy vendég neve. Leültek, és egy ideig senki sem szólalt meg. Csak egy óra ketyegett valahol a falban, vagy talán a szívük, ha még lett volna. Egyszerre kialudtak a gyertyák. A terem végében, az erkélyen egyetlen fénysugár villant fel, és a fényben egy magas, fekete köpenyes férfi állt. Sokáig nem szólt, csak nézte őket.
 
 ![A Játékmester az erkélyen](../kepek/01-02-a-jatekmester-az-erkelyen.jpg)
 
@@ -146,11 +134,7 @@ Dalí résnyire kinyitotta az egyik szemét. Nem kukucskált, csak ellenőrizte,
 
 – Azt hiszi, nem látom, mester? – kérdezte a Játékmester, anélkül, hogy felé nézett volna. – A Feledés Előszobájában a fél szem is nyitott szem.
 
-Dalí gyorsan becsukta mindkettőt.
-
-A fénysugár eltűnt. A sötétben, a lehunyt szemhéjak mögött senki sem látott semmit, csak azt hallották, hogy valahol messze megkondul egy harang. Egyszer. Aztán még egyszer.
-
-Aztán megdobbantak a lépések.
+Dalí gyorsan becsukta mindkettőt. A fénysugár eltűnt. A sötétben, a lehunyt szemhéjak mögött senki sem látott semmit, csak azt hallották, hogy valahol messze megkondul egy harang. Egyszer. Aztán még egyszer. Aztán megdobbantak a lépések.
 
 Lassúak voltak, súlyosak és egyenletesek. A Játékmester körbejárta az asztalt, az egyik oldalon, aztán a másikon. Néha megállt, és a megállások hosszabbak voltak, mint kellett volna. Mindenki hallotta a köpeny suhogását, és mindenki érezte, ahogy a levegő megmozdul a háta mögött.
 
@@ -160,11 +144,7 @@ A léptek valaki mögött megálltak. Hosszan. Olyan hosszan, hogy az illető m�
 
 ![A hideg ujj](../kepek/01-03-a-hideg-ujj.jpg)
 
-Később megint megálltak. Aztán újra.
-
-Hogy hányszor, azt a vendégek közül senki sem tudta biztosan, mert aki számolt, az elvesztette a fonalat. Ez a krónika sem árulja el. Egyelőre.
-
-Végül a lépések visszatértek az asztalfőhöz, ahonnan elindultak. Olyan csend lett, hogy a fal túloldalán hallani lehetett, ahogy a köd mozog.
+Később megint megálltak. Aztán újra. Hogy hányszor, azt a vendégek közül senki sem tudta biztosan, mert aki számolt, az elvesztette a fonalat. Ez a krónika sem árulja el. Egyelőre. Végül a lépések visszatértek az asztalfőhöz, ahonnan elindultak. Olyan csend lett, hogy a fal túloldalán hallani lehetett, ahogy a köd mozog.
 
 – Nyissák ki a szemüket.
 
@@ -172,15 +152,11 @@ A gyertyák újra égtek, és a Játékmester az erkélyen állt, mintha el sem 
 
 – Megtörtént – mondta. – Az árulók már tudják, mi a dolguk. Egymást majd éjfélkor ismerik meg. Önök pedig most kezdenek félni. Jó étvágyat kívánok.
 
-Huszonkét ember nézett körül úgy, ahogy csak az néz, aki most tudta meg, hogy néhányan közülük hazudni fognak neki. Valaki közülük már tudta, hogy többé senkire sem fog őszintén nézni.
-
-A Játékmester addigra eltűnt a fényből. Welles mégis nekilátott a vacsorának, és kijelentette, hogy az étel az egyetlen, ami a halál után sem csalódás.
+Huszonkét ember nézett körül úgy, ahogy csak az néz, aki most tudta meg, hogy néhányan közülük hazudni fognak neki. Valaki közülük már tudta, hogy többé senkire sem fog őszintén nézni. A Játékmester addigra eltűnt a fényből. Welles mégis nekilátott a vacsorának, és kijelentette, hogy az étel az egyetlen, ami a halál után sem csalódás.
 
 ## Gyanú az asztalnál
 
-Egy ideig csak a kések és a villák kocogtak a tányérokon. Senki sem mert a szomszédjára nézni, mégis mindenki ezt tette, félszemmel, a pohara pereme fölött.
-
-Hofi törte meg a csendet. Letette a kanalát, végignézett az asztalon, és olyan komoly arccal szólalt meg, mintha ítéletet hirdetne.
+Egy ideig csak a kések és a villák kocogtak a tányérokon. Senki sem mert a szomszédjára nézni, mégis mindenki ezt tette, félszemmel, a pohara pereme fölött. Hofi törte meg a csendet. Letette a kanalát, végignézett az asztalon, és olyan komoly arccal szólalt meg, mintha ítéletet hirdetne.
 
 – Jó, akkor most jelentkezzen, aki a gyilkos. Ígérem, nem bántjuk. Csak a leves ne hűljön ki.
 
@@ -254,9 +230,7 @@ Mindenki Hepburn felé fordult. Ő zavartan elmosolyodott. – Elnézést, hogy 
 
 Dietrich hűvösen hozzátette: – Ön az előbb még ordított, most meg a levesre néz. Ez is megváltozott viselkedés.
 
-De Funès kinyitotta a száját, aztán becsukta, ami nála ritkán fordult elő.
-
-A következő elszólás Latabártól jött. Még mindig sértődötten ült a sarokban, és a kenyerét morzsolgatta.
+De Funès kinyitotta a száját, aztán becsukta, ami nála ritkán fordult elő. A következő elszólás Latabártól jött. Még mindig sértődötten ült a sarokban, és a kenyerét morzsolgatta.
 
 – Én ugyan nem látok semmit – mondta. – Mi hárman ültünk a sarokban, Kabos, Puskás meg én, és mi egyáltalán nem hallottunk semmit.
 
@@ -328,11 +302,7 @@ Egymás után csukódtak az ajtók, és kattantak a zárak. A kastélyra olyan c
 
 ## Az első konklávé
 
-Éjfélkor, amikor a folyosók gyertyái is kialudtak, az északi toronyba egymás után érkeztek az árulók. Csuklyát viseltek, és mindegyikük tudta, hogy van még legalább egy társa, csak azt nem, hogy ki az. Az egész estét azzal töltötték, hogy a többiek között hazudtak, és közben minden arcban a társukat keresték.
-
-Az Első megállt a kőasztalnál, ahol egyetlen gyertya égett, és vállat húzott a hidegben. Aztán lépések hallatszottak a lépcsőn. A Második belépett, és az ajtóban megtorpant.
-
-Egy pillanatig egyikük sem mozdult. Aztán mindketten lehajtották a csuklyájukat. Ez a krónika az arcokról semmit sem árul el.
+Éjfélkor, amikor a folyosók gyertyái is kialudtak, az északi toronyba egymás után érkeztek az árulók. Csuklyát viseltek, és mindegyikük tudta, hogy van még legalább egy társa, csak azt nem, hogy ki az. Az egész estét azzal töltötték, hogy a többiek között hazudtak, és közben minden arcban a társukat keresték. Az Első megállt a kőasztalnál, ahol egyetlen gyertya égett, és vállat húzott a hidegben. Aztán lépések hallatszottak a lépcsőn. A Második belépett, és az ajtóban megtorpant. Egy pillanatig egyikük sem mozdult. Aztán mindketten lehajtották a csuklyájukat. Ez a krónika az arcokról semmit sem árul el.
 
 – Maga?! – suttogta az egyik, és a hangjában több volt az öröm, mint a meglepetés.
 
