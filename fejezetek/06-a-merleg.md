@@ -24,9 +24,7 @@ A második csoport szinte egyszerre érkezett. Einstein jött elöl, mögötte K
 
 Zsazsa mindegyiküket külön üdvözölte, hangosan, kicsit túl hangosan, aztán Callas fülébe súgta: – Hét. Kell valaki, aki számol, különben megőrülök.
 
-A harmadik csoport három férfiból állt. Hofi ment elöl, kezét a zsebébe dugva, mögötte Bud Spencer lépett be, lassan, mint aki sosem siet, és utolsónak Hitchcock, aki az ajtófélfánál megállt, és egy pillanatra az ajtó kilincsét nézte. Aztán ő is leült. Hofi rövid pillantást váltott Bud Spencerrel, és a kettejük között olyan csend volt, ahogy két ember hallgat, akik ugyanazt gondolják, és egyikük sem akarja kimondani.
-
-Neumann és Hepburn jött utána, nem együtt, bár egy perc különbséggel, és az ajtóban kis ideig álltak egymás mellett, ahogy az ember a lépcsőn áll meg valaki mellett, akit alig ismer. Neumann végigjáratta a tekintetét az asztalon. Az ajka mozdult.
+A harmadik csoport három férfiból állt. Hofi ment elöl, kezét a zsebébe dugva, mögötte Bud Spencer lépett be, lassan, mint aki sosem siet, és utolsónak Hitchcock, aki az ajtófélfánál megállt, és egy pillanatra az ajtó kilincsét nézte. Aztán ő is leült. Hofi rövid pillantást váltott Bud Spencerrel, és a kettejük között olyan csend volt, ahogy két ember hallgat, akik ugyanazt gondolják, és egyikük sem akarja kimondani. Neumann és Hepburn jött utána, nem együtt, bár egy perc különbséggel, és az ajtóban kis ideig álltak egymás mellett, ahogy az ember a lépcsőn áll meg valaki mellett, akit alig ismer. Neumann végigjáratta a tekintetét az asztalon. Az ajka mozdult.
 
 – Tizenkettő – mondta. – Ketten hiányoznak.
 
@@ -38,11 +36,7 @@ Az asztal végén két szék állt üresen. Callas kimondta, amit mindenki gondo
 
 – Marlon és Orson.
 
-Senki sem felelt. Mindenki az ajtót nézte. Egy perc telt el, aztán még egy. Kabos az ujjait tördelte az asztal alatt, Puskás halkan, szinte hallhatatlanul szólt hozzá, Zsazsa a füzetén tartotta a kezét, mintha le akarná szorítani. Az ajtó előtt a folyosó üres volt.
-
-Aztán léptek hallatszottak.
-
-Brando érkezett utolsónak. Egyedül jött, lassan, mintha a küszöbön át a saját árnyékát is meg kellene várnia. A Nagyterem elcsendesedett. Két tucat gyertya égett, és mindegyik lángja Brando felé hajolt, vagy legalábbis az arcok így néztek rá.
+Senki sem felelt. Mindenki az ajtót nézte. Egy perc telt el, aztán még egy. Kabos az ujjait tördelte az asztal alatt, Puskás halkan, szinte hallhatatlanul szólt hozzá, Zsazsa a füzetén tartotta a kezét, mintha le akarná szorítani. Az ajtó előtt a folyosó üres volt. Aztán léptek hallatszottak, és Brando érkezett utolsónak. Egyedül jött, lassan, mintha a küszöbön át a saját árnyékát is meg kellene várnia. A Nagyterem elcsendesedett. Két tucat gyertya égett, és mindegyik lángja Brando felé hajolt, vagy legalábbis az arcok így néztek rá.
 
 – Szóval így néz ki – mondta Brando.
 
@@ -52,17 +46,11 @@ Brando érkezett utolsónak. Egyedül jött, lassan, mintha a küszöbön át a 
 
 – Tizenhárom – mondta Neumann csendesen.
 
-Ekkor a kandalló mellett ott állt a Játékmester, mintha mindvégig ott lett volna. A szürke ruhája egy árnyalattal sötétebb volt a falnál, és a hangja halkan indult, mint mindig.
+Ekkor a kandalló mellett ott állt a Játékmester, mintha mindvégig ott lett volna. A szürke ruhája egy árnyalattal sötétebb volt a falnál, és a hangja halkan indult, mint mindig. – Orson Welles ma éjjel elfelejtetett – mondta Szerafin Barnabás.
 
-– Orson Welles ma éjjel elfelejtetett – mondta Szerafin Barnabás.
+Az asztal végén, az egyik üres szék előtt a névtáblán a betűk egyenként kihunytak, mintha valaki lassan lehelné le őket, és a tábla üres lett. Callas lehunyta a szemét. Zsazsa a szájára tapasztotta a kezét. – A neve lekopott a névtábláról, és vele együtt elmúlik az is, amit magával vitt. A fődíj kétmillió-négyszáztízezer forint. Pajzsa senkinek sincs. Ma délelőtt tíz órakor a Keleti Szárny Mérleg-termében találkozunk.
 
-Az asztal végén, az egyik üres szék előtt a névtáblán a betűk egyenként kihunytak, mintha valaki lassan lehelné le őket, és a tábla üres lett. Callas lehunyta a szemét. Zsazsa a szájára tapasztotta a kezét.
-
-– A neve lekopott a névtábláról, és vele együtt elmúlik az is, amit magával vitt. A fődíj kétmillió-négyszáztízezer forint. Pajzsa senkinek sincs. Ma délelőtt tíz órakor a Keleti Szárny Mérleg-termében találkozunk.
-
-Szünetet tartott. Végigtekintett az asztalon, és az arcán nem látszott semmi.
-
-– Négy Kerekasztal, négy ártatlan – mondta. – Tisztelem a kitartásukat.
+Szünetet tartott. Végigtekintett az asztalon, és az arcán nem látszott semmi. – Négy Kerekasztal, négy ártatlan – mondta. – Tisztelem a kitartásukat.
 
 Egy pillanatra csend lett. Aztán Neumann halkan megszólalt: – Négy a négyből. Ez már nem statisztika, ez jellemzés.
 
@@ -104,21 +92,13 @@ A Játékmester már nem volt a kandalló mellett. Az asztalon a tányérok hide
 
 ## A Mérlegterem
 
-A Keleti Szárny Mérleg-terme hideg volt és magas, a mennyezetén sötét gerendák futottak keresztül. A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne. Az egyik serpenyő színe arany volt, a másiké fekete vas. Mindkettőt vastag sárgaréz fedél zárta, a fedélen egyetlen keskeny rés, éppen akkora, hogy egy kő átférjen rajta, alatta sötét. A mérleg rúdját vasszeg tartotta egyensúlyban. A mérleg elé lakkozott paravánt állítottak, olyan magasat, hogy mögé senki se lásson be, amíg a másik oldalon áll.
-
-A terem szélén, egy kis asztalon, tizenhárom sima szürke kő sorakozott.
+A Keleti Szárny Mérleg-terme hideg volt és magas, a mennyezetén sötét gerendák futottak keresztül. A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne. Az egyik serpenyő színe arany volt, a másiké fekete vas. Mindkettőt vastag sárgaréz fedél zárta, a fedélen egyetlen keskeny rés, éppen akkora, hogy egy kő átférjen rajta, alatta sötét. A mérleg rúdját vasszeg tartotta egyensúlyban. A mérleg elé lakkozott paravánt állítottak, olyan magasat, hogy mögé senki se lásson be, amíg a másik oldalon áll. A terem szélén, egy kis asztalon, tizenhárom sima szürke kő sorakozott.
 
 – Tizenhárman vannak – mondta a Játékmester, amikor mind beléptek. – Tizenhárom kő, mindegyikben egy kis jel az alján, amelyet csak én ismerek. Mindenki egyet kap. A paraván mögé egyenként lépnek, és a követ az egyik serpenyőbe teszik. Az Arany serpenyőbe tett kő ötvenezer forinttal növeli a fődíjat. A Vas serpenyőbe tett kő nem hoz pénzt, de ha a végén pontosan egy kő fekszik benne, a gazdája pajzsot kap. Ha kettő vagy több, a pajzs elvész, és ezek a kövek sem érnek semmit.
 
 – Tehát aki pajzsot akar, az ötvenezret kockáztat – mondta Einstein.
 
-– Aki pajzsot akar, az mindannyiukat kockáztatja – felelte a Játékmester. – Egy kő a Vasban védelem. Kettő már gyanú. A serpenyők alját filccel béleltem ki, a mérleg karját vasszeg tartja, a fedél alatt nem látnak semmit. Ami a résen át bekerül, azt a következő már nem látja, és nem hallja, és nem érzi a súlyán. Csak én tudom, mi van bent. Az ajtót addig nem nyitom ki, amíg mindenki be nem fejezte. Egy órájuk van, hogy megbeszéljék.
-
-Szünetet tartott, és végignézett rajtuk.
-
-– Beszélgessenek. Nem tilos hazudni.
-
-Aztán elhallgatott, és hátralépett az ajtó mellé.
+– Aki pajzsot akar, az mindannyiukat kockáztatja – felelte a Játékmester. – Egy kő a Vasban védelem. Kettő már gyanú. A serpenyők alját filccel béleltem ki, a mérleg karját vasszeg tartja, a fedél alatt nem látnak semmit. Ami a résen át bekerül, azt a következő már nem látja, és nem hallja, és nem érzi a súlyán. Csak én tudom, mi van bent. Az ajtót addig nem nyitom ki, amíg mindenki be nem fejezte. Egy órájuk van, hogy megbeszéljék. Szünetet tartott, és végignézett rajtuk. – Beszélgessenek. Nem tilos hazudni. Aztán elhallgatott, és hátralépett az ajtó mellé.
 
 Egy darabig senki sem szólalt meg. Mercury a mérleget nézte, a két serpenyő közti űrt, és közben a bajuszát simogatta.
 
@@ -140,9 +120,7 @@ Callas a terem szélén állt, kihúzott derékkal, és egyetlen mozdulattal sem
 
 – Maga mindent nagyon egyszerűen mond – felelte Zsazsa. – Aztán mi nyöszörgünk mellette.
 
-– Én kérem – mondta Brando.
-
-Mindenki Brando felé fordult. Ő a falnak támaszkodott, a karját összefonta, és nem kapta el a tekintetét.
+– Én kérem – mondta Brando. Mindenki Brando felé fordult. Ő a falnak támaszkodott, a karját összefonta, és nem kapta el a tekintetét.
 
 – Maga? – kérdezte Zsazsa. – Éppen maga?
 
@@ -194,25 +172,15 @@ Egy óra alatt nem sikerült megegyezniük. A javaslatok körbementek, és minde
 
 – Ezt mindenki mondja – szólt Brando –, aki már eldöntötte, hogy nem.
 
-Aztán az inas behozta az urnát, Neumann ellenőrizte a cédulákat, és a sorsolás után elkezdődött a mérés.
-
-Az első Mercury volt. Tíz másodpercig tartott. Utána Einstein, aki kicsit tovább maradt. Callas a harmadik, és olyan egyenes háttal lépett a paraván mögé, mint a színpadra, és ugyanúgy jött vissza. Kabos remegő kézzel ment be, és percekig nem jött ki, aztán Puskás szólt be neki: – Gyula, nem kell semmit bizonyítani. – Kabos kijött, és nem nézett senkire.
-
-Brando az ötödik volt. Két percig maradt bent, aztán egyenesen az ablakhoz lépett, és nem fordult vissza. Hitchcock a hetedik volt, és ő is tíz másodpercig. Kijövet megállt a paraván szélén, és a hüvelykujját még egyszer végighúzta a tenyerén, ahol az előbb a kő feküdt.
-
-Hepburn a tizenegyedik volt, Neumann a tizenkettedik, és az utolsó Dalí. Dalí bement, mintha egy színpadi függöny mögé lépne. Hallatszott, hogy valamit mormol, aztán néma csend, aztán kijött, és a bajuszán megállt a fény.
+Aztán az inas behozta az urnát, Neumann ellenőrizte a cédulákat, és a sorsolás után elkezdődött a mérés. Az első Mercury volt. Tíz másodpercig tartott. Utána Einstein, aki kicsit tovább maradt. Callas a harmadik, és olyan egyenes háttal lépett a paraván mögé, mint a színpadra, és ugyanúgy jött vissza. Kabos remegő kézzel ment be, és percekig nem jött ki, aztán Puskás szólt be neki: – Gyula, nem kell semmit bizonyítani. – Kabos kijött, és nem nézett senkire. Brando az ötödik volt. Két percig maradt bent, aztán egyenesen az ablakhoz lépett, és nem fordult vissza. Hitchcock a hetedik volt, és ő is tíz másodpercig. Kijövet megállt a paraván szélén, és a hüvelykujját még egyszer végighúzta a tenyerén, ahol az előbb a kő feküdt. Hepburn a tizenegyedik volt, Neumann a tizenkettedik, és az utolsó Dalí. Dalí bement, mintha egy színpadi függöny mögé lépne. Hallatszott, hogy valamit mormol, aztán néma csend, aztán kijött, és a bajuszán megállt a fény.
 
 – Dalí letette – mondta. – A kő többet tud, mint Dalí.
 
-A Játékmester a mérleg mellé lépett. Mindannyian körbeálltak, és ő egyetlen mozdulattal elhúzta a paravánt, kihúzta a vasszeget, és levette a két fedelet.
-
-A rúd megbillent. Az Arany serpenyő mélyen lesüllyedt. Benne tizenegy kő feküdt, szorosan egymás mellett. A Vas serpenyő magasan állt, és két kő árválkodott benne a fekete fém közepén, egymás mellett, mintha nem akarnának megérinteni egymást.
+A Játékmester a mérleg mellé lépett. Mindannyian körbeálltak, és ő egyetlen mozdulattal elhúzta a paravánt, kihúzta a vasszeget, és levette a két fedelet. A rúd megbillent. Az Arany serpenyő mélyen lesüllyedt. Benne tizenegy kő feküdt, szorosan egymás mellett. A Vas serpenyő magasan állt, és két kő árválkodott benne a fekete fém közepén, egymás mellett, mintha nem akarnának megérinteni egymást.
 
 – Tizenegy az Aranyban – mondta a Játékmester. – Ötszázötvenezer forint a fődíjba. A fődíj kétmillió-kilencszázhatvanezer forint. – Szünetet tartott. – Két kő a Vasban. A pajzs elveszett.
 
-Senki sem mozdult.
-
-– Kettő – mondta Zsazsa. A szeme végigfutott az arcokon, és megint a kezét szorította a füzetre. – Ketten. Egy órán át beszéltünk, és ketten mégis a maguk feje szerint tettek.
+Senki sem mozdult. – Kettő – mondta Zsazsa, és a szeme végigfutott az arcokon, a keze megint a füzetre szorult. – Ketten. Egy órán át beszéltünk, és ketten mégis a maguk feje szerint tettek.
 
 – Ketten nem bíztak önökben – mondta a Játékmester, halkan, és szinte kedvesen. – Vagy nem bíztak egymásban. Ez a két mondat nem ugyanaz, de ma mégis ugyanazt jelenti.
 
@@ -228,9 +196,7 @@ Senki sem mozdult.
 
 – Soha nem is mondtam, hogy segít.
 
-Bud Spencer a kövek felé lépett, felvette az egyiket az Aranyból, megvizsgálta, és visszatette.
-
-– Tizenegyen bíztak – mondta. – Ez jobb, mint amit vártam.
+Bud Spencer a kövek felé lépett, felvette az egyiket az Aranyból, megvizsgálta, és visszatette. – Tizenegyen bíztak – mondta. – Ez jobb, mint amit vártam.
 
 Callas ránézett, és megrázta a fejét. – Önök mind a számokat szeretik. Én a kettőt nézem.
 
@@ -300,9 +266,7 @@ Mercury a Nagyteremben ült, az ablak alatt, a két kezét összekulcsolta, és 
 
 – Csak amikor nem nevet senki.
 
-Az ajtóban Hepburn állt, a kezében egy csésze tea, amelyet senkinek sem vitt. Neumann a sarokban a térképet nézte, és az ajka mozgott, ahogy számolt. Hitchcock egy fotelben ült, hátradőlve, csukott szemmel, és olyan arccal, mint aki nagyon jót aludt.
-
-A gong ötkor szólalt meg. Tizenhárom ember indult el a Kerekasztal-terem felé, és mindegyikük másfelé nézett.
+Az ajtóban Hepburn állt, a kezében egy csésze tea, amelyet senkinek sem vitt. Neumann a sarokban a térképet nézte, és az ajka mozgott, ahogy számolt. Hitchcock egy fotelben ült, hátradőlve, csukott szemmel, és olyan arccal, mint aki nagyon jót aludt. A gong ötkor szólalt meg. Tizenhárom ember indult el a Kerekasztal-terem felé, és mindegyikük másfelé nézett.
 
 ## A Kerekasztal
 
@@ -342,11 +306,7 @@ Hitchcock nem mozdult. Kezét a hasán összekulcsolta, és az arca kifejezéste
 
 – Nem húzom rá senkire – mondta Zsazsa. – Én csak hallom. – Ismét Hitchcock felé fordult, és a hangja egyszerre lett kemény és remegő. – Tudja, mit tettem, Alfred? Hajnalban leültem, és felírtam minden mondatát, amit maga mondott. Négy oldal lett. És a négy oldalon egyetlen mondat sincs, amit egy ártatlan ne mondhatott volna. Egyetlen egy. – Elhallgatott. – De egy ártatlan ilyen mondatokból nem épít négy oldalt. Az ártatlan néha elszólja magát. Maga soha.
 
-A teremben csend lett.
-
-– Köszönöm, Zsazsa – mondta Hitchcock lassan. – Szépen megírta. Én is elolvastam volna.
-
-Felállt, nem sietve, és a szék háttámlájára tette a kezét.
+A teremben csend lett. – Köszönöm, Zsazsa – mondta Hitchcock lassan. – Szépen megírta. Én is elolvastam volna. Felállt, nem sietve, és a szék háttámlájára tette a kezét.
 
 – Önök azt mondják, hogy négy oldalnyi mondatom van, amelyekben nincs semmi hiba. Ez igaz. Én azt mondom, hogy aki hat napig él együtt idegenekkel, az vagy ostoba, vagy nagyon óvatos, és én sosem voltam ostoba. Bármit mondok most, védekezésnek hat. Ezt tudom, és tudom, hogy önök is tudják. A fal ott áll, és én a fal mögött vagyok. – Körülnézett. – Annyit mondok: ha ma engem választanak, akkor egy jó forgatókönyvet olvastak. Én sem írtam volna jobbat. De ha tévednek, akkor az ötödik ártatlan a lelkükön van.
 
@@ -368,27 +328,19 @@ Felállt, nem sietve, és a szék háttámlájára tette a kezét.
 
 – Ennyi elég – mondta a Játékmester. – Kérem, írják fel a nevet, és fordítsák lefelé a táblát.
 
-Kréta koccant a palatáblákon. Tizenhárom ember írt. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna. Dalí egyetlen mozdulattal, nevetve. Mercury kétszer is letette a krétát, felvette, letette, és Hofi a térdére tette a kezét, mire Mercury leírta, amit akart. Neumann egy pillanat alatt végzett, és a táblát lefordította, mintha számlát zárt volna le.
-
-A Játékmester sorban felfordította a táblákat.
+Kréta koccant a palatáblákon. Tizenhárom ember írt. Hepburn hosszan nézte a táblát, mielőtt az első betűt megírta volna. Dalí egyetlen mozdulattal, nevetve. Mercury kétszer is letette a krétát, felvette, letette, és Hofi a térdére tette a kezét, mire Mercury leírta, amit akart. Neumann egy pillanat alatt végzett, és a táblát lefordította, mintha számlát zárt volna le. A Játékmester sorban felfordította a táblákat.
 
 – Hitchcock – mondta. – Hitchcock. Brando. Hitchcock. Hitchcock. – A hangja egyenletes volt, mint a harangé. – Hitchcock. Zsazsa. Hitchcock. Brando. Hitchcock. Hitchcock. Dalí. Brando.
 
-Egy pillanatig mindenki számolt.
+Egy pillanatig mindenki számolt. – Nyolc szavazat Alfred Hitchcockra – mondta a Játékmester. – Három Marlon Brandóra. Egy Gábor Zsazsára. Egy Salvador Dalíra.
 
-– Nyolc szavazat Alfred Hitchcockra – mondta a Játékmester. – Három Marlon Brandóra. Egy Gábor Zsazsára. Egy Salvador Dalíra.
-
-– Dalí önmagára szavazott – mondta Dalí. – Ez az egyetlen szavazat, amelyért Dalí felelni hajlandó.
-
-Senki sem figyelt rá.
+– Dalí önmagára szavazott – mondta Dalí. – Ez az egyetlen szavazat, amelyért Dalí felelni hajlandó. Senki sem figyelt rá.
 
 – Alfred Hitchcock – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
 
 Hitchcock felállt. A székét óvatosan betolta az asztalhoz, mintha vendég lenne. Végignézett a termen, aztán a Játékmesterre.
 
-– Alfred Hitchcock – mondta a Játékmester –, mondja ki, ki volt.
-
-A csend olyan mély volt, hogy a kupola alatt hallani lehetett a saját lélegzetüket.
+– Alfred Hitchcock – mondta a Játékmester –, mondja ki, ki volt. A csend olyan mély volt, hogy a kupola alatt hallani lehetett a saját lélegzetüket.
 
 – Áruló vagyok – mondta Hitchcock.
 
@@ -400,9 +352,7 @@ Egy pillanatig senki sem lélegzett. Aztán Zsazsa a szájára szorította a kez
 
 Elfulladt. Callas mellé lépett, és szó nélkül megfogta a karját, mire Callas a vállára hajtotta a homlokát, és hosszan, hangtalanul sírt.
 
-Neumann tapsolni kezdett, kicsit a többiek után, hűvösen és pontosan. Hepburn szeme könnyes lett, a kezét a mellére szorította. – Hála Istennek – mondta. – Hála Istennek, hogy végre...
-
-Dalí nem mozdult. A bajusza sem rezdült. Úgy ült, mint aki már régen tudta, hogy így lesz, és most csak megvárta a nap végét.
+Neumann tapsolni kezdett, kicsit a többiek után, hűvösen és pontosan. Hepburn szeme könnyes lett, a kezét a mellére szorította. – Hála Istennek – mondta. – Hála Istennek, hogy végre... Dalí nem mozdult. A bajusza sem rezdült. Úgy ült, mint aki már régen tudta, hogy így lesz, és most csak megvárta a nap végét.
 
 – Kérdezzem meg – mondta Zsazsa, és hirtelen a Játékmester felé fordult, nedves arccal, remegő hangon –, ki a társa? Alfred, ki a társa? Kik a többiek?
 
@@ -416,9 +366,7 @@ Hitchcock Zsazsára nézett.
 
 – A teremnek – mondta Hitchcock. – Vagy nekem. Ezt majd maguk döntsék el.
 
-A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Hitchcock a küszöbön megállt, és hátranézett. A tekintete végigsiklott az asztalon, és nem állt meg egyetlen arcon sem, mintha mindegyiket ugyanannyira megjegyezné.
-
-Aztán belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak.
+A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. A köd szelíd volt, semmilyen. Hitchcock a küszöbön megállt, és hátranézett. A tekintete végigsiklott az asztalon, és nem állt meg egyetlen arcon sem, mintha mindegyiket ugyanannyira megjegyezné. Aztán belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak.
 
 A teremben néhány percig senki sem szólt. Aztán Hofi halkan megszólalt: – Nyolcan voltunk. Ki volt a nyolc?
 
@@ -454,21 +402,15 @@ Callas ránézett Dalíra, aztán Bud Spencerre, és a tekintete egy pillanatra 
 
 – Ma ünnep van – mondta a Játékmester. – Ezt az egyet megengedem önöknek.
 
-Felállt. A terem elcsendesedett.
-
-– Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt senki sem fogja önöknek megmondani.
+Felállt. A terem elcsendesedett. – Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt senki sem fogja önöknek megmondani.
 
 Egyetlen pillanatra végigtekintett az asztalon. A hangja ugyanolyan halk volt, mint mindig.
 
-– A hetedik nap másképp kezdődik, mint az eddigiek. Jó éjszakát kívánok.
-
-A gong háromszor kondult.
+– A hetedik nap másképp kezdődik, mint az eddigiek. Jó éjszakát kívánok. A gong háromszor kondult.
 
 ## A hatodik konklávé
 
-Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után két ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és három szék állt körülötte. Az egyik üres volt. A csuklya alatt ezúttal sem látszott semmi.
-
-Az asztalon két lap feküdt. Az egyik fekete volt, ezüst pecséttel, és csak egy üres sor állt rajta. A másik hosszabb volt, szürke, és fölül szabályosan, gondos kézzel egy mondat állt: A hetedik napon négy nevet kell írniuk.
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után két ember lépései hallatszottak. A kőasztalnál egyetlen gyertya égett, és három szék állt körülötte. Az egyik üres volt. A csuklya alatt ezúttal sem látszott semmi. Az asztalon két lap feküdt. Az egyik fekete volt, ezüst pecséttel, és csak egy üres sor állt rajta. A másik hosszabb volt, szürke, és fölül szabályosan, gondos kézzel egy mondat állt: A hetedik napon négy nevet kell írniuk.
 
 – Nyolc szavazat – mondta az Első. – Én is köztük voltam. Hitchcock tudta, hogy ma ő a következő, mielőtt a Játékmester kiolvasta volna. Láttam az arcán, amikor Zsazsa felemelte a füzetet.
 
@@ -480,9 +422,7 @@ Az asztalon két lap feküdt. Az egyik fekete volt, ezüst pecséttel, és csak 
 
 – Nem elvesztettük. Lebukott. Ez nem veszteség, hanem következmény.
 
-Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfalon át nem járt levegő.
-
-– Nézzük a hibákat – mondta az Első, és a hangja kimérten hideg lett. – Hitchcock nem szólt idejében, amikor Zsazsa elkezdte a füzetet írni. A Galériában a Brandóra terelés kevés volt, a Welles-hagyatékot nem tudtuk időben a saját javunkra fordítani. A Mérlegteremben a Vasba tett egy követ, amikor tudnia kellett volna, hogy kettő már gyanú.
+Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfalon át nem járt levegő. – Nézzük a hibákat – mondta az Első, és a hangja kimérten hideg lett. – Hitchcock nem szólt idejében, amikor Zsazsa elkezdte a füzetet írni. A Galériában a Brandóra terelés kevés volt, a Welles-hagyatékot nem tudtuk időben a saját javunkra fordítani. A Mérlegteremben a Vasba tett egy követ, amikor tudnia kellett volna, hogy kettő már gyanú.
 
 – Ez nem hiba volt – mondta a Harmadik. – Ez félelem volt.
 
@@ -492,9 +432,7 @@ Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfa
 
 Az Első hallgatott. Aztán a fekete lapra mutatott. – Most erről.
 
-A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán még egy. Végül felvette a tollat, amely az asztalon feküdt, és az üres sorba egy nevet írt, lassan, gondosan, mint aki levelet ír valakinek, akit szeret.
-
-Az Első kinyújtotta a kezét, és elolvasta. Az arca nem mozdult.
+A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán még egy. Végül felvette a tollat, amely az asztalon feküdt, és az üres sorba egy nevet írt, lassan, gondosan, mint aki levelet ír valakinek, akit szeret. Az Első kinyújtotta a kezét, és elolvasta. Az arca nem mozdult.
 
 – Egy szavazat az enyém volt – mondta. – Nem kérdezte.
 
@@ -548,10 +486,6 @@ Egy darabig csak a toll sercegése hallatszott. Az Első írt, aztán a Harmadik
 
 A gyertya lángja meghajolt, aztán újra kiegyenesedett. Az Első elindult a lépcső felé, a Harmadik még egy pillanatig ott maradt a harmadik szék mellett, és a hideg kőre helyezte a tenyerét. Aztán követte.
 
-Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben.
+Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. Nem égett el. Az éjszaka közepén a levél még mindig ott volt a kezében, és a szobából nem hallatszott semmi. Hajnalra a küszöb alól eltűnt a válasz. Hogy mi állt benne, azt a kastély tudta, és nem mondta meg senkinek.
 
-Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. Nem égett el. Az éjszaka közepén a levél még mindig ott volt a kezében, és a szobából nem hallatszott semmi.
-
-Hajnalra a küszöb alól eltűnt a válasz. Hogy mi állt benne, azt a kastély tudta, és nem mondta meg senkinek.
-
-Lent, a szobákban tizenketten feküdtek le, és mindegyikük azt várta, hogy reggelre valaki hiányozni fog. Vagy az sem.
+A szobákban tizenketten feküdtek le, és mindegyikük azt várta, hogy reggelre valaki hiányozni fog. Vagy az sem.
