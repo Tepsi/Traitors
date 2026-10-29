@@ -8,11 +8,11 @@ A gong hétkor szólalt meg, és Zsazsa már azelőtt a Nagyterem ajtajában ál
 
 – Aludtam, drágám. Négy órát. Ez nálam akkora luxus, hogy már szinte bűnnek érzem.
 
-Puskás volt a harmadik. Végignézett a székeken, aztán a névtáblákon, és csak akkor szólalt meg, amikor a szeme egy üres teríték előtt megállt.
+Puskás volt a harmadik. Végignézett az asztalon: tizennégy teríték, mindegyik előtt névtábla, és mindegyiken ép volt a név, az aranyló betűk élesek, mint az első napon. A névtáblák úgy működtek, ahogy a Játékmester a szabályokat elmondta: a betűk csak akkor kopnak le, ha ő kimondja a nevet.
 
-– Nincs tábla – mondta. – Itt ült Orson.
+– Addig nem tudjuk – mondta Puskás. – Hiába nézzük.
 
-Egyikük sem felelt. Zsazsa kinyitotta a füzetet, mintha az segíthetne, aztán becsukta.
+– Nem is nézzük – mondta Zsazsa, és kinyitotta a füzetet, aztán becsukta. – Számolom, hány embert látok bejönni. Ez más.
 
 A második csoport szinte egyszerre érkezett. Einstein jött elöl, mögötte Kabos, aki a bejáratnál megállt, és kétszer megtapogatta a zakója zsebét, mintha a kalapját keresné. Mercury és Dalí követte őket. Dalí a küszöbön megállt, végignézett a teremben, és olyan arcot vágott, mint aki a falakat köszönti.
 
@@ -22,17 +22,25 @@ A második csoport szinte egyszerre érkezett. Einstein jött elöl, mögötte K
 
 – Dalíhoz képest rengeteg.
 
-A harmadik csoport három férfiból állt. Hofi ment elöl, kezét a zsebébe dugva, mögötte Bud Spencer lépett be, lassan, mint aki sosem siet, és utolsónak Hitchcock, aki az ajtófélfánál megállt, és egy pillanatra az ajtó kilincsét nézte. Aztán ő is leült.
+Zsazsa mindegyiküket külön üdvözölte, hangosan, kicsit túl hangosan, aztán Callas fülébe súgta: – Hét. Kell valaki, aki számol, különben megőrülök.
+
+A harmadik csoport három férfiból állt. Hofi ment elöl, kezét a zsebébe dugva, mögötte Bud Spencer lépett be, lassan, mint aki sosem siet, és utolsónak Hitchcock, aki az ajtófélfánál megállt, és egy pillanatra az ajtó kilincsét nézte. Aztán ő is leült. Hofi rövid pillantást váltott Bud Spencerrel, és a kettejük között olyan csend volt, ahogy két ember hallgat, akik ugyanazt gondolják, és egyikük sem akarja kimondani.
 
 Neumann és Hepburn jött utána, nem együtt, bár egy perc különbséggel, és az ajtóban kis ideig álltak egymás mellett, ahogy az ember a lépcsőn áll meg valaki mellett, akit alig ismer. Neumann végigjáratta a tekintetét az asztalon. Az ajka mozdult.
 
-– Tizenkettő – mondta. – Tizenkettő, és még valaki hiányzik.
+– Tizenkettő – mondta. – Ketten hiányoznak.
 
 – Tizennégyen feküdtünk le – mondta Hepburn halkan. – Mind a tizennégyet láttam a folyosón.
 
-– Akkor most tizenhárman leszünk – mondta Einstein, és a hangja szinte bocsánatot kért. – Ha mindenki megérkezik.
+– Akkor az egyikük meg fog érkezni – mondta Einstein, és a hangja szinte bocsánatot kért. – Az egyikük. Nem tudjuk, melyik.
 
-Az asztal végén a tizenharmadik szék üresen állt. Mindenki ránézett, aztán mindenki a bejárat felé fordult, mert tudták, hogy valaki még hátravan.
+Az asztal végén két szék állt üresen. Callas kimondta, amit mindenki gondolt, olyan hangon, mintha egy névsort olvasna:
+
+– Marlon és Orson.
+
+Senki sem felelt. Mindenki az ajtót nézte. Egy perc telt el, aztán még egy. Kabos az ujjait tördelte az asztal alatt, Puskás halkan, szinte hallhatatlanul szólt hozzá, Zsazsa a füzetén tartotta a kezét, mintha le akarná szorítani. Az ajtó előtt a folyosó üres volt.
+
+Aztán léptek hallatszottak.
 
 Brando érkezett utolsónak. Egyedül jött, lassan, mintha a küszöbön át a saját árnyékát is meg kellene várnia. A Nagyterem elcsendesedett. Két tucat gyertya égett, és mindegyik lángja Brando felé hajolt, vagy legalábbis az arcok így néztek rá.
 
@@ -40,7 +48,25 @@ Brando érkezett utolsónak. Egyedül jött, lassan, mintha a küszöbön át a 
 
 – Hogy néz ki? – kérdezte Callas.
 
-– Amikor mindenki csak engem néz. – Leült, és a kezére támasztotta a homlokát. – Orson mondott valamit. Én most nem tudom megmondani, hogy ez megkönnyebbülés vagy rosszabb.
+– Amikor mindenki csak engem néz. – Leült, és a kezére támasztotta a homlokát.
+
+– Tizenhárom – mondta Neumann csendesen.
+
+Ekkor a kandalló mellett ott állt a Játékmester, mintha mindvégig ott lett volna. A szürke ruhája egy árnyalattal sötétebb volt a falnál, és a hangja halkan indult, mint mindig.
+
+– Orson Welles ma éjjel elfelejtetett – mondta Szerafin Barnabás.
+
+Az asztal végén, az egyik üres szék előtt a névtáblán a betűk egyenként kihunytak, mintha valaki lassan lehelné le őket, és a tábla üres lett. Callas lehunyta a szemét. Zsazsa a szájára tapasztotta a kezét.
+
+– A neve lekopott a névtábláról, és vele együtt elmúlik az is, amit magával vitt. A fődíj kétmillió-négyszáztízezer forint. Pajzsa senkinek sincs. Ma délelőtt tíz órakor a Keleti Szárny Mérleg-termében találkozunk.
+
+Szünetet tartott. Végigtekintett az asztalon, és az arcán nem látszott semmi.
+
+– Négy Kerekasztal, négy ártatlan – mondta. – Tisztelem a kitartásukat.
+
+Egy pillanatra csend lett. Aztán Neumann halkan megszólalt: – Négy a négyből. Ez már nem statisztika, ez jellemzés.
+
+– Orson mondott valamit – szólalt meg Brando a kezei mögül. – Én most nem tudom megmondani, hogy ez megkönnyebbülés vagy rosszabb.
 
 – Egy halott mondata nem bizonyíték – mondta Einstein. Halkan mondta, és kicsit szégyenlősen, mint aki nem szeretné, hogy a mondatból vita legyen.
 
@@ -63,16 +89,6 @@ Mercury ekkor halkan, szinte csak a száját mozgatva elkezdte mondani a neveket
 – Én vagyok a másik – mondta Puskás. – Csak még itt vagyok.
 
 – Akkor maga a másik – mondta Mercury, és egy pillanatra elmosolyodott, de csak a szája, a szeme nem.
-
-A kandalló mellett ott állt a Játékmester, mintha mindvégig ott lett volna. A szürke ruhája egy árnyalattal sötétebb volt a falnál, és a hangja halkan indult, mint mindig.
-
-– Orson Welles ma éjjel elfelejtetett – mondta Szerafin Barnabás. – A neve lekopott a névtábláról, és vele együtt elmúlik az is, amit magával vitt. A fődíj kétmillió-négyszáztízezer forint. Pajzsa senkinek sincs. Ma délelőtt tíz órakor a Keleti Szárny Mérleg-termében találkozunk.
-
-Szünetet tartott. Végigtekintett az asztalon, és az arcán nem látszott semmi.
-
-– Négy Kerekasztal, négy ártatlan – mondta. – Tisztelem a kitartásukat.
-
-Egy pillanatra csend lett. Aztán Neumann halkan megszólalt: – Négy a négyből. Ez már nem statisztika, ez jellemzés.
 
 Kabos lassan, remegő kézzel a szájához emelte az ujját, és olyan hangot adott ki, ami nevetésnek indult, aztán valami más lett belőle.
 

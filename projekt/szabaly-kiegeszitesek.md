@@ -22,3 +22,9 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 
 ### Közös
 - Az árulók számát az olvasó csak a lebukásokból tudja meg (az alapszabály változatlan): a toborzás miatt a számuk nőhet, vagy a lebukások után is fennmaradhat.
+
+## A reggeli: ki esett ki (minden fejezetben)
+- Amíg az utolsó vendég meg nem érkezik, senki sem tudja, ki esett ki az éjszaka. A névtáblák betűi addig épek, és az üres szék sem árul el semmit: a hiányzók neve csak abból derül ki, hogy ki nem érkezett meg.
+- A vendégek kis csoportokban jönnek, és megszámolják az érkezőket. Ha már csak két ember hiányzik, tudják, hogy az egyikük nem jön, de azt nem, hogy melyik.
+- Az utolsó érkező belép, és csak ezután mondja ki a Játékmester a kiesett nevét; ekkor kopnak le a betűk a névtábláról.
+- Senki sem hivatkozhat a kiesettre, és nem mondhatja ki a nevét, amíg az utolsó vendég be nem lépett és a Játékmester be nem jelentette.
