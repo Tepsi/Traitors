@@ -56,9 +56,7 @@ Callas szájának sarka megrándult, aztán újra komor lett.
 
 – Dalí mindenhol megáll, ahol szép az ajtó.
 
-Callas nem felelt, de a tekintete még egy ideig Dalín maradt.
-
-A negyedik csoport zajtalanabb volt, mint amit a lépcsőn várni lehetett. Bessenyei jött elöl, és a küszöbön hangosan köszönt.
+Callas nem felelt, de a tekintete még egy ideig Dalín maradt. A negyedik csoport zajtalanabb volt, mint amit a lépcsőn várni lehetett. Bessenyei jött elöl, és a küszöbön hangosan köszönt.
 
 – Jó reggelt, barátaim! – dörögte, aztán maga is megijedt a saját hangjától, és halkabban folytatta: – Jó reggelt.
 
@@ -98,9 +96,7 @@ Hofi Bud Spencer felé fordult. – Maga hallott valamit éjjel?
 
 – Aki nem alszik, az csak gondolkodik – mondta Bud Spencer. – A gondolkodásból pedig nem lesz jó.
 
-Egyedül Einstein hallgatott. A két névtáblát nézte, és úgy ült, mint aki tudja, hogy meg fogja ismerni a választ, és fél tőle.
-
-A lépcsőn lassú, nehéz lépések hallatszottak, és mindenki az ajtó felé fordult.
+Egyedül Einstein hallgatott. A két névtáblát nézte, és úgy ült, mint aki tudja, hogy meg fogja ismerni a választ, és fél tőle. A lépcsőn lassú, nehéz lépések hallatszottak, és mindenki az ajtó felé fordult.
 
 Welles lépett be. Utolsóként jött, és az ajtóban megállt. Nem a székeket nézte, hanem az asztal hosszát, mintha az egyik végétől a másikig meg akarná mérni, mi változott. Aztán a szeme megtalálta Dietrich üres székét.
 
@@ -108,17 +104,13 @@ Welles lépett be. Utolsóként jött, és az ajtóban megállt. Nem a székeket
 
 Hepburn felállt. Felemelte a második csészét, amelyhez addig senki sem nyúlt, és odavitte neki. – Üljön le, Orson. Meleg.
 
-Welles elvette a csészét, de nem ivott. Leült a saját székébe, a kezében a teával, és a tekintete nem mozdult a szomszéd szék üres támlájáról.
-
-Dietrich névtábláján a betűk elszürkültek, és egyenként a terítőre peregtek. A végén csak az aranyozott keret maradt. A tányér szélén egy pár fehér kesztyű feküdt, gondosan összehajtva.
+Welles elvette a csészét, de nem ivott. Leült a saját székébe, a kezében a teával, és a tekintete nem mozdult a szomszéd szék üres támlájáról. Dietrich névtábláján a betűk elszürkültek, és egyenként a terítőre peregtek. A végén csak az aranyozott keret maradt. A tányér szélén egy pár fehér kesztyű feküdt, gondosan összehajtva.
 
 – Nem látta senki, hogy hozta valaki – mondta Bessenyei halkan.
 
 – Dietrich asszony – mondta Einstein. – Marlene. – Kimondta, és mintha a nevet a szájában tartotta volna, mielőtt elengedi. – Ma még emlékszem rá.
 
-Mercury a tenyerére nézett, aztán a másik tenyerére, és nem szólt semmit.
-
-A Játékmester nem jött be, mégis ott állt Dietrich üres széke mögött, a kezét a támlán nyugtatva. A hangja nem volt hangosabb, mint tegnap.
+Mercury a tenyerére nézett, aztán a másik tenyerére, és nem szólt semmit. A Játékmester nem jött be, mégis ott állt Dietrich üres széke mögött, a kezét a támlán nyugtatva. A hangja nem volt hangosabb, mint tegnap.
 
 – Jó reggelt. Marlene Dietrich nincs közöttünk. Aki mindent látott, és keveset mondott, annak a nyomát elvitte a kastély. – Szünetet tartott. – Az éjszakán senkit sem védett pajzs. Önök közül nem is volt, aki viselte volna.
 
@@ -126,9 +118,7 @@ Végignézett az asztalon, lassan, mint aki leltárt készít, és senkit sem n�
 
 – A fődíj jelenleg egymillió-kétszázhúszezer forint. Egy óra múlva várom önöket a kastély hátsó udvarán, a Kútháznál. A pajzs ma is megszerezhető.
 
-Hátralépett, és a fény a háta mögött elfogyott.
-
-A tizenhét vendég egy ideig nem mozdult. Aztán Hitchcock letette a kanalát, és Wellesre nézett, nem szigorúan, inkább barátságosan.
+Hátralépett, és a fény a háta mögött elfogyott. A tizenhét vendég egy ideig nem mozdult. Aztán Hitchcock letette a kanalát, és Wellesre nézett, nem szigorúan, inkább barátságosan.
 
 – Maga ült mellette a szalonban, Orson. A kör túloldalán, egymás mellett.
 
@@ -156,9 +146,7 @@ Senki sem válaszolt. Kabos a kezét nézte, a másikat, amelyik még Hepburn ke
 
 ## A Kútház
 
-A Kútház a kastély hátsó udvarán állt, szürke kőből, a tetejét vastag gerendák tartották. A kút nyílása feketén tátongott a közepén, fölötte csiga és kötél, mellette húsz fa vödör sorakozott. Negyven lépésre onnan, a kertkapu mellett széles rézmedence állt, a falára gyűrűk voltak vésve, a legalsó alig kéznyi magasan. Köztük lépcsősor vezetett fel, hét nedves kőlépcső, amelyet moha és hideg tett simává.
-
-A Játékmester a kútház kapujában állt. Amikor a tizenhét vendég körbeállta, nem kellett felemelnie a hangját.
+A Kútház a kastély hátsó udvarán állt, szürke kőből, a tetejét vastag gerendák tartották. A kút nyílása feketén tátongott a közepén, fölötte csiga és kötél, mellette húsz fa vödör sorakozott. Negyven lépésre onnan, a kertkapu mellett széles rézmedence állt, a falára gyűrűk voltak vésve, a legalsó alig kéznyi magasan. Köztük lépcsősor vezetett fel, hét nedves kőlépcső, amelyet moha és hideg tett simává. A Játékmester a kútház kapujában állt. Amikor a tizenhét vendég körbeállta, nem kellett felemelnie a hangját.
 
 – Húsz vödör áll a kútnál. Tizenkettő ép, nyolc lyukas, és ez kívülről nem látszik. Az ép vödör ötvenezer forintot hoz a fődíjba. A lyukas, amely félig üresen ér fel, huszonötezret. – Szünetet tartott. – A lánc nem szakadhat meg. Ha egy vödör leesik, vagy egy kéz elengedi, a játék véget ér. Az addig felért pénz a fődíjé, a pajzs pedig elvész.
 
@@ -192,9 +180,7 @@ Taylor nem felelt, de a szeme végigfutott rajta, a keze mozdulatán, a vállán
 
 – Kezdjék – mondta a Játékmester.
 
-Brando leeresztette az első vödröt. A csiga nyikorgott, a kötél lassan peregett, aztán víz csobbant valahol a mélyben, és Brando felhúzta. Átadta Bessenyeinek, és a vödör elindult.
-
-Az első vödör negyvenöt másodperc alatt ért a medencéhez. A kezek puhán adták tovább, és senki sem szólt, csak a lépések csoszogtak a köveken.
+Brando leeresztette az első vödröt. A csiga nyikorgott, a kötél lassan peregett, aztán víz csobbant valahol a mélyben, és Brando felhúzta. Átadta Bessenyeinek, és a vödör elindult. Az első vödör negyvenöt másodperc alatt ért a medencéhez. A kezek puhán adták tovább, és senki sem szólt, csak a lépések csoszogtak a köveken.
 
 – Egy – számolta Kabos, és az ujjait nézte, aztán a vödröt. – Egy vödör. Egyet tudok számolni.
 
@@ -240,9 +226,7 @@ De Funès kezében a vödör egyre nehezebbnek tűnt. Az arca, amely máskor sos
 
 – Tudom – mondta de Funès. – Tudom, tudom. – Nem kiabált. – Pardon.
 
-Ez az utolsó szó, a halk pardon, ott maradt a levegőben. Taylor, aki a lánc vége felől látta, hallotta, és összeráncolta a homlokát.
-
-A tizenhatodik vödör ép volt, és ép is maradt a medencéig. Welles beleöntötte a vizet, és a rézfalon a víz a hetedik gyűrűig emelkedett.
+Ez az utolsó szó, a halk pardon, ott maradt a levegőben. Taylor, aki a lánc vége felől látta, hallotta, és összeráncolta a homlokát. A tizenhatodik vödör ép volt, és ép is maradt a medencéig. Welles beleöntötte a vizet, és a rézfalon a víz a hetedik gyűrűig emelkedett.
 
 – Tíz ép, hat lyukas – mondta Neumann, mielőtt bárki megkérdezte volna. – Hatszázötvenezer forint.
 
@@ -252,15 +236,11 @@ A tizenhatodik vödör ép volt, és ép is maradt a medencéig. Welles beleönt
 
 – Kivonás – felelte Hitchcock, és Neumannra pillantott, de nem mosolygott.
 
-A tizenhetedik vödröt Brando eresztette le. A csiga megnyikordult, a kötél megfeszült, és amikor Brando felhúzta, a vödör oldalából vékony fonalban folyt a víz. Bessenyei átvette, Callas, Dalí, Einstein, és Einstein átnyújtotta de Funèsnek.
-
-De Funès elvette. A lépcsőfok, amelyen állt, tele volt vízzel, és a vödör, amely félig üres volt, váratlanul könnyebbnek érződött, mint amire a keze számított. A lába megcsúszott.
+A tizenhetedik vödröt Brando eresztette le. A csiga megnyikordult, a kötél megfeszült, és amikor Brando felhúzta, a vödör oldalából vékony fonalban folyt a víz. Bessenyei átvette, Callas, Dalí, Einstein, és Einstein átnyújtotta de Funèsnek. De Funès elvette. A lépcsőfok, amelyen állt, tele volt vízzel, és a vödör, amely félig üres volt, váratlanul könnyebbnek érződött, mint amire a keze számított. A lába megcsúszott.
 
 ![A lépcsőn](../kepek/04-02-a-lepcson.jpg)
 
-Nem kiáltott. A vödör kiesett a kezéből, végigkopogott a lépcsőn, a víz szétfröccsent a köveken, és a vödör a medence lábánál állt meg.
-
-Egyetlen pillanatig senki sem mozdult.
+Nem kiáltott. A vödör kiesett a kezéből, végigkopogott a lépcsőn, a víz szétfröccsent a köveken, és a vödör a medence lábánál állt meg. Egyetlen pillanatig senki sem mozdult.
 
 – A lánc megszakadt – mondta a Játékmester.
 
@@ -288,15 +268,11 @@ De Funès nem vonta el a karját. – Köszönöm, kisasszony – mondta halkan,
 
 – Lehet – mondta Hitchcock. – Csak hát a vödör ugyanúgy leesik, akár baleset volt, akár szándékosan történt.
 
-A lépcsőn egy ideig csak a víz csorgott lefelé. Welles a medence mellett állt, a kancsó még a kezében, és nem szólt semmit. Aztán letette, nagyon óvatosan, mintha attól félne, hogy a rézfal visszhangot ad.
-
-Brando eleresztette a kötelet, és a kút mélyén a kötél végén lógó üres vödör a kőfalhoz koccant.
+A lépcsőn egy ideig csak a víz csorgott lefelé. Welles a medence mellett állt, a kancsó még a kezében, és nem szólt semmit. Aztán letette, nagyon óvatosan, mintha attól félne, hogy a rézfal visszhangot ad. Brando eleresztette a kötelet, és a kút mélyén a kötél végén lógó üres vödör a kőfalhoz koccant.
 
 ## A Kerekasztal
 
-A Kerekasztal körül tizenhét szék állt. A kupola csillagfoltjai tompábban ragyogtak, mint tegnap, és a fekete ajtó ezüst kerete mozdulatlan volt.
-
-A Játékmester a magasabb székben ült, és sokáig nem szólt.
+A Kerekasztal körül tizenhét szék állt. A kupola csillagfoltjai tompábban ragyogtak, mint tegnap, és a fekete ajtó ezüst kerete mozdulatlan volt. A Játékmester a magasabb székben ült, és sokáig nem szólt.
 
 – Huszonketten léptek be a kastély kapuján – mondta végül. – Most tizenheten vannak. – Szünetet tartott. – Egy óra vita. Aztán mindenki felír egy nevet. Pajzs nincs, és ha volna, itt akkor sem védene. Kérem, kezdjék.
 
@@ -384,9 +360,7 @@ Bessenyei leült. Az öklét még az asztalon tartotta, aztán lassan kiengedte,
 
 Kréta koccant a palatáblákon. Tizenhét ember írt, és az arcokról semmit sem lehetett leolvasni. De Funès sokáig nézte a táblát, aztán gyorsan írt valamit. Bessenyei nagy betűkkel írt, és az asztalra csapta a krétát. Hepburn gyorsan írt, és letette a krétát, mielőtt a többiek elkezdték volna.
 
-A Játékmester sorban felfordította a táblákat. Egy ideig de Funès és Brando neve váltakozott, mint két ember, aki egymás sarkát tapossa. Tizenhat tábla után hat-hat állt, és mindenki tudta, hogy az utolsó dönt.
-
-Az utolsó tábla de Funèsé volt.
+A Játékmester sorban felfordította a táblákat. Egy ideig de Funès és Brando neve váltakozott, mint két ember, aki egymás sarkát tapossa. Tizenhat tábla után hat-hat állt, és mindenki tudta, hogy az utolsó dönt. Az utolsó tábla de Funèsé volt.
 
 – Hét szavazat Louis de Funèsre – mondta a Játékmester. – Hat Marlon Brandóra. Kettő Orson Wellesre. Egy Elizabeth Taylorra. Egy Hofi Gézára.
 
@@ -408,11 +382,7 @@ Taylor nem felelt, de a szeme egy pillanatra lesiklott.
 
 – Louis de Funès ártatlan volt – mondta a Játékmester.
 
-Hét ember nézte a saját palatábláját.
-
-A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. Mögötte köd volt, szelíd, semmilyen. De Funès a küszöbön megállt, kihúzta magát, és megigazította a nyakkendőjét. Aztán belépett a ködbe, és az ajtó becsukódott mögötte.
-
-A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Az asztalnál valaki halkan kimondta a nevet: Louis. Mercury volt, aztán elakadt.
+Hét ember nézte a saját palatábláját. A fekete ajtó ezüst kerete megkondult, és az ajtó kinyílt. Mögötte köd volt, szelíd, semmilyen. De Funès a küszöbön megállt, kihúzta magát, és megigazította a nyakkendőjét. Aztán belépett a ködbe, és az ajtó becsukódott mögötte. A székén a névtábla betűi elszürkültek, és egyenként lehulltak. Az asztalnál valaki halkan kimondta a nevet: Louis. Mercury volt, aztán elakadt.
 
 – Melyik Louis? – kérdezte.
 
@@ -450,6 +420,4 @@ A Második kimondta a nevet. Nem emelte fel a hangját, és senki sem kérdezett
 
 – Megfogtam a karját – mondta a Harmadik halkan. – Remegett, és megköszönte.
 
-Senki sem válaszolt.
-
-Lent, a szobákban tizenhárom ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Kútházban a csiga lassan megmozdult a szélben, bár senki sem járt arra.
+Senki sem válaszolt. Lent, a szobákban tizenhárom ember feküdt le, és mindegyik tudta, hogy reggelre valaki hiányozni fog. A Kútházban a csiga lassan megmozdult a szélben, bár senki sem járt arra.
