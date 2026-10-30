@@ -33,7 +33,7 @@ header.site{max-width:40rem;margin:0 auto;padding:1.2rem 16px 0;font-size:.9rem}
 header.site a{color:var(--mut);text-decoration:none}
 a{color:var(--acc)}
 h1{font-size:1.9rem;line-height:1.25;margin:1.5rem 0 1rem}
-p{margin:0 0 1.1rem}
+p{margin:0 0 1.1rem;text-align:justify;-webkit-hyphens:auto;hyphens:auto}
 hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
 nav.pn{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);font-size:.95rem}
 ul.toc{list-style:none;padding:0}
@@ -41,6 +41,7 @@ ul.toc li{padding:.6rem 0;border-bottom:1px solid var(--line)}
 .date{color:var(--mut);font-size:.85rem;margin-left:.5rem}
 img{max-width:100%;height:auto;display:block;margin:1.5rem auto;border-radius:2px}
 .cover{text-align:center}
+.cover p{text-align:center}
 .cover img{max-width:28rem;width:100%;margin:0 auto 1rem}
 .cover h1{font-size:2.6rem;letter-spacing:.04em;margin:.5rem 0}
 .cover h1 span{display:block;font-size:1.4rem;font-weight:normal;color:var(--mut);letter-spacing:.2em;text-transform:uppercase;margin-top:.4rem}
