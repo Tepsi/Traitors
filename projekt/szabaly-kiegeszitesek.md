@@ -20,7 +20,11 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 - Az egyedül maradt áruló zsarol meg egy ártatlant: a megzsarolt, ha nem fogadja el, azonnal kiesik (elfelejtés). Ilyen eddig nem fordult elő.
 - Ha a megzsarolt nem fogadja el, az áruló egy másik ártatlant zsarol meg, és ez addig megy, amíg valaki el nem fogadja.
 
-### Közös
+### Közös (meghívásra és zsarolásra egyaránt)
+- A meghívott (megzsarolt) azonnal dönt: a Játékmester a lapot átadja, és a válaszra nem ad haladékot, nincs „hajnalra".
+- Ha elfogadja, még azon az éjszakán feljön a konklávéba, és teljes jogú tag: az árulók üdvözlik, és az újnak már aznap éjjel van beleszólása a közös döntésekbe (például a halállista neveinek kiválasztásába).
+- Így az árulók azonnal tudják a választ. Az újonnan jött nem lepődik meg az árulókon (sejtette, vagy tudta); az arcok az olvasó előtt továbbra is csuklya alatt maradnak, a név nem hangzik el.
+- Meghívásnál az ár az elmaradó gyilkosság; az árulók ezt a halállista közelségével is mérlegelhetik: ha a Játékmester listája úgyis halottat hoz, a lemondás olcsóbb.
 - Az árulók számát az olvasó csak a lebukásokból tudja meg (az alapszabály változatlan): a toborzás miatt a számuk nőhet, vagy a lebukások után is fennmaradhat.
 
 ## A reggeli: ki esett ki (minden fejezetben)
