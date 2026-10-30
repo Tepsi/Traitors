@@ -398,7 +398,7 @@ Callas ránézett Dalíra, aztán Bud Spencerre, és a tekintete egy pillanatra 
 
 – Most ünnepelünk – mondta Mercury hangosan, és a hangja remegett, mintha magát próbálná meggyőzni. – Ma ünnepelünk. Holnap majd számolunk.
 
-– Ma ünnepelhetnek – mondta a Játékmester. – Ezt az egyet megengedem önöknek.
+– Ünnepeljenek, amíg lehet – mondta a Játékmester.
 
 Felállt. A terem elcsendesedett. – Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt én nem fogom önöknek megmondani.
 
@@ -428,7 +428,11 @@ Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfa
 
 – Nem.
 
-Az Első hallgatott. Aztán a fekete lapra mutatott. – Most erről.
+Az Első hallgatott. Aztán a szürke lapra mutatott. – Ezt is el kell olvasnunk. A hetedik napon négy nevet kell írnunk: halállista. Négy ember kerül rá, és a Játékmester nem a mi éjszakánkból veszi el a halált, hanem hozzáadja.
+
+– Vagyis holnap úgyis meghal valaki – mondta a Harmadik. – Ma éjjel megengedhetjük magunknak, hogy ne öljünk.
+
+– Ezért lehet most meghívni valakit. – Az Első a fekete lapra mutatott. – Most erről.
 
 A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán még egy. Végül felvette a tollat, amely az asztalon feküdt, és az üres sorba egy nevet írt, lassan, gondosan, mint aki levelet ír valakinek, akit szeret. Az Első kinyújtotta a kezét, és elolvasta. Az arca nem mozdult.
 
@@ -462,13 +466,27 @@ A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán m�
 
 Az Első hátradőlt, és sokáig nézte a lángot. Amikor megszólalt, a hangja halkabb volt, és kevésbé volt benne hideg.
 
-– Tegyük el ezt – mondta. – A lap itt van. Maga írta, én tudom. Ha elfogadja, jó. Ha nem, akkor ártatlan marad, és holnap is ugyanúgy nyomozni fog, mint ma. Nem veszítünk semmit, csak egy éjszakát.
+– Tegyük el ezt – mondta. – A lap kész, a Játékmester mindjárt viszi, és a meghívott még az éjjel dönt. Ha elfogadja, feljön ide, és az üres szék nem marad üres. Ha nem, ártatlan marad, és holnap is ugyanúgy nyomozni fog, mint ma. Nem veszítünk semmit, csak egy éjszakát.
 
 – Egy éjszaka nagy dolog – mondta a Harmadik.
 
 – Egy éjszaka mindig nagy dolog.
 
-A szürke lapot az Első húzta maga elé. Hosszan nézte, és a tollat a Harmadik felé tolta. – Írjuk meg együtt. Négy név. Maga figyeli a csendeseket, én a nyomozókat.
+Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. A szürke alak a küszöbön várt, mert a meghívottnak nem adtak időt: a választ azonnal meg kellett adnia.
+
+Fent az Első és a Harmadik nem szólt egymáshoz. A gyertya a felére égett, mire a lépcsőn lépések hallatszottak. A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal. A szürke alak a küszöbön maradt, aztán eltűnt.
+
+– Elfogadtam – mondta az újonnan jött. A hangja nyugodt volt.
+
+Az Első felállt. – Üdvözöljük – mondta, hűvösen és szabatosan, mint aki szerződést ír alá. – Foglaljon helyet. Itt már nem kell színlelnie.
+
+– Örülök, hogy eljött – mondta a Harmadik halkan, és megfogta az újonnan jött kezét. – Hála Istennek.
+
+– Nem lepett meg, hogy önök azok – mondta az Új, és leült az üres székbe. – Egy ideje sejtettem. Csak azt nem tudtam, hányan vannak.
+
+– Hárman voltunk – mondta az Első. – Most újra hárman vagyunk.
+
+A gyertya lángja meghajolt. Az Első a szürke lapot az Új elé tolta. – A halállista. Négy név kell. Ma éjjel nem ölünk, de a lista holnap hoz egy halottat. Ez már az ön lapja is. Maga a csendeseket figyeli – fordult a Harmadikhoz –, én a nyomozókat. Az új tag válasszon egy tisztát.
 
 – Két gyanús, egy csendes, egy tiszta – mondta a Harmadik. – Így oszlik szét a gyanú.
 
@@ -476,14 +494,12 @@ A szürke lapot az Első húzta maga elé. Hosszan nézte, és a tollat a Harmad
 
 – Nem szólok bele. Csak így gondolom.
 
-Egy darabig csak a toll sercegése hallatszott. Az Első írt, aztán a Harmadik, aztán újra az Első, és ahogy a lap megtelt, mindketten egyre kevesebbet beszéltek. A negyedik név után a Harmadik letette a tollat, és az Első a lapot összehajtotta. Hogy kik kerültek fel a lapra, azt egyikük sem mondta ki hangosan.
+Egy darabig csak a toll sercegése hallatszott. Az Első írt, aztán a Harmadik, aztán az Új, és ahogy a lap megtelt, mindhárman egyre kevesebbet beszéltek. A negyedik név után az Új letette a tollat, és az Első a lapot összehajtotta. Hogy kik kerültek fel a lapra, azt egyikük sem mondta ki hangosan.
 
 – Egyetlen dolgot kérek – mondta a Harmadik, amikor az Első már felállt. – Hogy ne felejtsük el, hogy hárman voltunk.
 
 – Ha elfelejtjük – felelte az Első –, azt a kastély fogja megtenni helyettünk.
 
-A gyertya lángja meghajolt, aztán újra kiegyenesedett. Az Első elindult a lépcső felé, a Harmadik még egy pillanatig ott maradt a harmadik szék mellett, és a hideg kőre helyezte a tenyerét. Aztán követte.
-
-Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. Nem égett el. Az éjszaka közepén a levél még mindig ott volt a kezében, és a szobából nem hallatszott semmi. Hajnalra a küszöb alól eltűnt a válasz. Hogy mi állt benne, azt a kastély tudta, és nem mondta meg senkinek.
+A gyertya lángja meghajolt, aztán újra kiegyenesedett. Az Első elindult a lépcső felé, a Harmadik és az Új még egy pillanatig ott maradtak az asztal mellett. Aztán követték.
 
 A szobákban tizenketten feküdtek le, és mindegyikük azt várta, hogy reggelre valaki hiányozni fog. Vagy az sem.
