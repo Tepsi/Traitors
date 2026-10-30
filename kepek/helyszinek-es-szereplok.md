@@ -28,6 +28,9 @@ A very long, narrow, dark gallery, the longest room of the castle. The floor is 
 **A könyvtár (library)**
 A library with heavy oak bookshelves from floor to ceiling, packed with leather-bound volumes. Tall windows in one wall let in grey fog light from the garden. Upholstered armchairs along the walls, an anonymous guest in each. In one shelf, an arm's length gap of lighter, cleaner wood where a long row of books once stood.
 
+**A Mérlegterem (Hall of the Scale)**
+A cold, tall, bare hall in the east wing, dark timber beams across a high ceiling, rough grey stone walls, dark flagstone floor, one tall narrow window letting in pale fog light, a heavy oak door with iron straps. In the center an enormous brass scale on a brass column, so large that a man could stand in one pan: the left pan gilded gold, the right pan black iron, each closed by a thick brass lid with one narrow slot, the beam held level by an iron pin. In front of it, between door and scale, a tall black lacquered folding screen. On a small table at the wall thirteen plain grey stones.
+
 **A kastély (castle)**
 Lásd: `01-01-holdvari-kastely.md`. Szimmetrikus Tudor-kastély a dombtetőn, két kerek kőtoronnyal, két félfás szárnnyal, sötét ablakokkal.
 

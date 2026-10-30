@@ -53,3 +53,6 @@ Tippek az egységességhez:
 | `05-02-brando-a-vakon` | „Brando kötötte be a szemét, aztán hosszasan állt…" | kész, beszerkesztve |
 | `05-03-agatha-helye` | „– Agatha helye – mondta Welles halkan." | kész, beszerkesztve |
 | `05-04-taylor-a-kuszoben` | „Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult." | kész, beszerkesztve |
+| `06-01-a-merleg` | „A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne." | |
+| `06-02-hitchcock-bucsuja` | „Hölgyeim és uraim: áruló vagyok." | |
+| `06-03-a-fekete-lap` | „A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal." | |
