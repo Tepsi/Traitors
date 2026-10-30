@@ -428,7 +428,7 @@ Hosszú ideig nem szóltak. A gyertya lángja egyszer megremegett, pedig a kőfa
 
 – Nem.
 
-Az Első hallgatott. Aztán a szürke lapra mutatott. – Ezt is el kell olvasnunk. A hetedik napon négy nevet kell írnunk: halállista. Négy ember kerül rá, és a Játékmester nem a mi éjszakánkból veszi el a halált, hanem hozzáadja.
+Az Első hallgatott. Aztán a szürke lapra mutatott. – Ezt is el kell olvasnunk. A hetedik napon négy nevet kell írnunk: halállista. Négy ember kerül rá, és közülük az egyik meghal, akkor is, ha mi nem ölünk.
 
 – Vagyis holnap úgyis meghal valaki – mondta a Harmadik. – Ma éjjel megengedhetjük magunknak, hogy ne öljünk.
 
@@ -442,7 +442,7 @@ A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán m�
 
 – Akkor miért?
 
-– Mert ha megkérdezem, maga nemet mond – felelte a Harmadik. – És mert ha ő nem fogadja el, akkor ártatlan marad, és nincs baj. De ha nem hívunk senkit, ketten maradunk, és a Kerekasztal minden nap egyre közelebb jön. Én nem szeretnék kettőn maradni.
+– Mert ha megkérdezem, maga nemet mond – felelte a Harmadik. – És mert ha ő nem fogadja el, akkor ártatlan marad, és nincs baj. De ha nem hívunk senkit, ketten maradunk, és a Kerekasztal minden nap egyre közelebb jön. Én nem szeretnék ketten maradni.
 
 – Kétmillió-kilencszázhatvanezer forint – mondta az Első. – Kettő felé egymillió-négyszáznyolcvanezer. Három felé kilencszáznyolcvanhatezer-hatszázhatvanhat. Ez a különbség, amit ma éjjel aláír.
 
@@ -456,11 +456,11 @@ A Harmadik a lapra nézett, és nem mozdult. Egy hosszú perc telt el, aztán m�
 
 – Maga ma Hitchcockra szavazott – mondta a Harmadik hirtelen. Nem emelte fel a hangját, de a szavak élesen estek le az asztalra. – Én nem.
 
-– Én védtem magunkat. Ha mind nem szavazunk rá, azt ők is észreveszik.
+– Én védtem magunkat. Ha egyikünk sem szavaz rá, azt ők is észreveszik.
 
-– Nem szavaztam – mondta a Harmadik. – Nem tudtam.
+– Nem rá szavaztam – mondta a Harmadik. – Nem tudtam.
 
-– Nem tudni luxus. Nekünk nem áll módunkban.
+– A habozás luxus. Mi ezt nem engedhetjük meg magunknak.
 
 – Akkor kérem, ne is beszéljen róla.
 
@@ -472,7 +472,7 @@ Az Első hátradőlt, és sokáig nézte a lángot. Amikor megszólalt, a hangja
 
 – Egy éjszaka mindig nagy dolog.
 
-Lent, a folyosón, egy szürke alak lépett végig a gyertyafényben. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. A szürke alak a küszöbön várt, mert a meghívottnak nem adtak időt: a választ azonnal meg kellett adnia.
+Amíg odafent a gyertya égett, egy szürke alak lement a lépcsőn, és végigment a folyosón. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. A szürke alak a küszöbön várt, mert a meghívottnak nem adtak időt: a választ azonnal meg kellett adnia.
 
 Fent az Első és a Harmadik nem szólt egymáshoz. A gyertya a felére égett, mire a lépcsőn lépések hallatszottak. A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal. A szürke alak a küszöbön maradt, aztán eltűnt.
 
@@ -486,11 +486,11 @@ Az Első felállt. – Üdvözöljük – mondta, hűvösen és szabatosan, mint
 
 – Hárman voltunk – mondta az Első. – Most újra hárman vagyunk.
 
-A gyertya lángja meghajolt. Az Első a szürke lapot az Új elé tolta. – A halállista. Négy név kell. Ma éjjel nem ölünk, de a lista holnap hoz egy halottat. Ez már az ön lapja is. Maga a csendeseket figyeli – fordult a Harmadikhoz –, én a nyomozókat. Az új tag válasszon egy tisztát.
+A gyertya lángja meghajolt. Az Első a szürke lapot az Új elé tolta. – A halállista. Négy név kell. Ma éjjel nem ölünk, de a lista miatt holnap úgyis meghal valaki. Ez már az ön lapja is. Maga a csendesek közül válasszon – fordult a Harmadikhoz –, én a nyomozók közül. Az új tag válasszon egy tisztát.
 
 – Két gyanús, egy csendes, egy tiszta – mondta a Harmadik. – Így oszlik szét a gyanú.
 
-– Ne szóljon bele a saját munkámba.
+– Ne szóljon bele abba, amit én választok.
 
 – Nem szólok bele. Csak így gondolom.
 
@@ -498,8 +498,8 @@ Egy darabig csak a toll sercegése hallatszott. Az Első írt, aztán a Harmadik
 
 – Egyetlen dolgot kérek – mondta a Harmadik, amikor az Első már felállt. – Hogy ne felejtsük el, hogy hárman voltunk.
 
-– Ha elfelejtjük – felelte az Első –, azt a kastély fogja megtenni helyettünk.
+– Ha mi nem felejtjük el – felelte az Első –, a kastély majd elfelejteti velünk.
 
 A gyertya lángja meghajolt, aztán újra kiegyenesedett. Az Első elindult a lépcső felé, a Harmadik és az Új még egy pillanatig ott maradtak az asztal mellett. Aztán követték.
 
-A szobákban tizenketten feküdtek le, és mindegyikük azt várta, hogy reggelre valaki hiányozni fog. Vagy az sem.
+A szobákban tizenketten feküdtek le, és mindegyikük azt kérdezte magától, hogy reggel hiányozni fog-e valaki.
