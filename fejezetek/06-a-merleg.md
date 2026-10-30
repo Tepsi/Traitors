@@ -396,11 +396,11 @@ Callas ránézett Dalíra, aztán Bud Spencerre, és a tekintete egy pillanatra 
 
 – Négy – mondta Hofi. – Négy, aki nem. Nem mondom, hogy ez nyom. Csak jó, hogy tudjuk.
 
-– Ez most ünnep – mondta Mercury hangosan, és a hangja remegett, mintha magát próbálná meggyőzni. – Ma ünnep van. Holnap majd számolunk.
+– Most ünnepelünk – mondta Mercury hangosan, és a hangja remegett, mintha magát próbálná meggyőzni. – Ma ünnepelünk. Holnap majd számolunk.
 
-– Ma ünnep van – mondta a Játékmester. – Ezt az egyet megengedem önöknek.
+– Ma ünnepelhetnek – mondta a Játékmester. – Ezt az egyet megengedem önöknek.
 
-Felállt. A terem elcsendesedett. – Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt senki sem fogja önöknek megmondani.
+Felállt. A terem elcsendesedett. – Tizenketten vannak – mondta. – Egy áruló kiesett, és ezzel a játék új szakaszba lép. Ha a Kerekasztal árulót ad a Kapunak, az árulók azon az éjszakán kétféleképpen dönthetnek: vagy áldozatot választanak, vagy új tagot hívnak maguk közé. A meghívott ártatlan szabadon dönt, és ha nem fogadja el, ártatlan marad. Ha reggel egyetlen szék sem marad üresen, akkor a meghívás megtörtént. Hogy elfogadták-e, azt én nem fogom önöknek megmondani.
 
 Egyetlen pillanatra végigtekintett az asztalon. A hangja ugyanolyan halk volt, mint mindig.
 
