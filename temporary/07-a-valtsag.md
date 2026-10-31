@@ -123,3 +123,61 @@ Zsazsa lassan felállt. Becsukta a füzetet, és a hóna alá vette.
 – Két gyanús, egy csendes, egy tiszta – mondta a teremnek, tárgyilagosan, mint aki egy másik ember jegyzetét olvassa fel. – Ez az, amit az ember lát, ha négy nevet kell választania úgy, hogy a gyanú szétoszoljon. Ha valakinek van kedve kitalálni, melyik vagyok én, nem sietek. – Megrázta a haját. – Én ma ráérek.
 
 Callas már felállt. Nem szólt semmit. Egyenesen az ajtó felé fordult, és a lépéseit úgy mérte, mintha az ajtó volt volna a színpad másik vége. Kabos elindult utánuk, kisfiús, bizonytalan léptekkel, és az ajtóban megállt, visszafordult, és kiáltott a teremnek valamit, amit senki sem értett, mert a hangja elcsuklott. Puskás átkarolta a vállát, és kivezette.
+
+## A Kápolna
+
+A Kápolna a kert végében állt, ott, ahol a sövénylabirintus sötét fala véget ért, és a kastély téglái helyett szürke, érdes kő kezdődött. Négy pad volt benne, szorosan egymás mellett, egy keskeny, magas ablak, amelyen át a tél színtelen fénye csak egyetlen sávban érte el a padlót, és egy vaskos oltárasztal, amelyen négy vastag gyertya égett, mindegyik ugyanolyan magasságú. A szürke alak az ajtóban várt rájuk, a Játékmester ünnepélyes csendjével, és csak akkor mozdult, amikor a negyedik is belépett. Az ajtó nem csapódott be. Lassan, súlyosan csukódott, és kívülről egy vasrúd csúszott a helyére, olyan hangon, ami nem csikorgott és nem csattant, csak végleges volt.
+
+Egy ideig senki sem ült le. Kabos a keskeny ablak előtt állt, és ujjai az ablakpárkányon kopogtak egy olyan ritmusban, amit csak ő ismert, aztán abbahagyta, megfordult, és szétnyitotta a karját, mint aki egy vásári mutatványt akar bejelenteni. – Hát ez... ez aztán a... – mondta, és a hangja elcsuklott. – Tessék mondani, miért pont én? Én soha életemben senkit... én még a légyet sem... – A mondat elhalt. Puskás odalépett hozzá, és a vállára tette a kezét.
+
+– Ülj le, Gyula. Nem megy el innen senki, amíg nem engedik.
+
+– Hát ez az, hogy nem is mehetünk el. – Kabos leült az első padra, a térdén összekulcsolta a kezét, aztán szétbontotta. – Én csak azt mondom, hogy ha az árulók írták a listát, akkor az árulók engem... ismernek. Én pedig őket nem. Ez nem... ez nem tisztességes.
+
+– A játék nem tisztességes – mondta Callas. Az oltárasztalnál állt, a lángok közelében, és az arca nem látszott a sötét ruha és a gyertyák fénye között. – Ezt tudták, amikor belépett a kastélyba.
+
+– Én nem tudtam semmit! – tiltakozott Kabos, és az orrát törölte. – Engem senki nem kérdezett.
+
+Zsazsa a harmadik padra ült, a füzetet az ölébe tette, és kinyitotta. Nem a szokásos lendülettel írt, hanem lassan, mint aki először próbál egy új tollal. Aztán letette. – Gondolkodjunk – mondta. – Négy név van. Két gyanús, egy csendes, egy tiszta. Ezt én mondtam odafent, és bevallom, hogy közben azon tűnődtem, melyik vagyok én. Az árulók nem hülyék. Ha engem tesznek fel, az azt jelenti, hogy vagy azt akarják, hogy gyanús legyek, vagy azt, hogy kiessek, vagy azt, hogy a gyanú szétszóródjon, hogy ne rám nézzenek. – Összehúzta a szemét. – A legrosszabb az, hogy mindhárom lehetőség ugyanarra az eredményre vezet. Hogy ma meghalok, vagy nem, és ebből semmit sem lehet kiolvasni.
+
+– Maga nem hal meg – mondta Puskás.
+
+– Honnan tudja, kedves?
+
+– Nem tudom. – Puskás vállat vont, és leült Kabos mellé. – Azt tudom, hogy aki fél, az rosszul passzol. Én nem akarok rosszul passzolni. – Olyan derűvel mondta, hogy Kabos hirtelen felnevetett.
+
+– Rosszul passzol – ismételte. – Jó. Hát az.
+
+– Egyszerű az egész – mondta Puskás, és hátradőlt a padon. – Én ártatlan vagyok, önök is azok, legalábbis egy részük. A többit majd este kiderítik. Én nem fogok könyörögni, nem fogok sírni, és nem fogok magyarázkodni. Kimondom, hogy ártatlan vagyok. Ennyi. Ha valaki ezt nem hiszi el, annak a fejében van a baj, nem az enyémben.
+
+– Ez a beszédem – mondta Callas az oltár mellől, hidegen. – Ugyanez. Nem fogok könyörögni.
+
+– Hát én fogok! – kiáltotta Kabos. – Én igenis fogok! Én... én rögtön elmondom, ha kell, térdre is... – Elakadt, és zavartan körülnézett, mintha attól tartana, hogy valaki komolyan veszi. – Persze csak ha ez használ. Nem tudom, használ-e. Mi a... mi a legjobb taktika?
+
+Zsazsa kinyitotta a füzetet, és rövid, tárgyilagos hangon elkezdett beszélni. Ez nem a nagy színpadi hangja volt, hanem a másik, amellyel tegnap a Kerekasztalnál négy oldalon át érvelt, tömör, szinte hideg. Azt mondta, hogy az első szabály: ne érzelmeket mondjon, hanem tényeket, két-három érvet, amelyek mindegyike önmagában is megáll. A második: ne védekezzen, hanem kérdezzen, mert aki kérdez, az nem védekezik. A harmadik: a Kerekasztalnál mindenki fél, és aki ezt megérti, az nyugodtabb, mint a többiek. Kabos bólogatott, a szája mozgott, és mondta utána, hibásan, megszakítva, újra kezdve. Egyszer annyira belegabalyodott, hogy Puskás is felnevetett, és Zsazsa türelmetlenül legyintett, aztán maga is elmosolyodott, mert Kabos akkor egy olyan tökéletes, elakadós, rossz mondatot mondott, hogy az már szinte magától értetődő volt.
+
+Fél tizenkettő felé a sáv a padlón elhalványult, és a gyertyák lángja mintha nyugodtabban égett volna. Callas egy ideje a padra ült, de nem Zsazsa és nem a többiek mellé, hanem a legtávolabbi sarokba, és a keze az ölében hevert, nyitott tenyérrel, mint aki imádkozna, csak nem akar. Kabos az orrát fújta. Puskás a plafont nézte. Zsazsa a füzetét lapozta, és már harmadszor olvasta ugyanazt az oldalt.
+
+– Ha az árulók ezt a négy nevet írták – mondta hirtelen Zsazsa, hangosan, a csendbe –, akkor vagy az a céljuk, hogy közülünk valakit elvegyenek, vagy az, hogy valaki mást megvédjenek a figyelemtől. Én az utóbbit szeretném. – Rövid csend. – De nem fogom elhinni.
+
+Callas felemelte a fejét, de nem szólt.
+
+Délben – a gyertyák aljára festett vékony arany vonal mutatta, hogy az idő elérkezett – a vasrúd megmozdult, és az ajtó kinyílt. A szürke alak állt a küszöbön, a háta mögött a nap fehér fénye vágta ki az alakját, mint egy kartonfigurát.
+
+– Maria Callas – mondta.
+
+Callas egy ideig nem mozdult. Aztán lassan felállt, kisimította a ruháját, és ahogy odaért a küszöbhöz, megtorpant.
+
+– Nem tudom, miért – mondta halkan. – Ha ez valami... – elhallgatott. – Nem tudom, miért.
+
+A szürke alak nem felelt. Callas kilépett a napfénybe, és az ajtó ismét becsukódott mögötte, a vasrúd a helyére csúszott, és ugyanaz a végleges hang visszhangzott a falakon. Egy darabig hárman ültek a pad mellett, anélkül, hogy bármelyikük megmozdult volna.
+
+– Valaki kiváltotta – mondta Zsazsa halkan.
+
+– Mit? – kérdezte Kabos.
+
+– Őt. Valaki odafent fizetett érte. Vagy tett valamit. – Összecsukta a füzetet. – A Játékmester azt mondta, hogy a többiek döntenek rólunk. Ez a döntés volt. – Nem folytatta. Nem kellett: a három megmaradt név, a három gyertya, a három ember a négy pad mellett, mindez magától érthető volt.
+
+– Akkor ő nem jár úgy, mint... – mondta Kabos. A hangja remegett, és nem lehetett tudni, hogy megkönnyebbülés vagy félelem. – A Callas asszony... ő már biztonságban van, ugye?
+
+– Ő nem – mondta Puskás. Rövid szünetet tartott. – De mi hárman még itt vagyunk.
