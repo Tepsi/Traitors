@@ -181,3 +181,71 @@ A szürke alak nem felelt. Callas kilépett a napfénybe, és az ajtó ismét be
 – Akkor ő nem jár úgy, mint... – mondta Kabos. A hangja remegett, és nem lehetett tudni, hogy megkönnyebbülés vagy félelem. – A Callas asszony... ő már biztonságban van, ugye?
 
 – Ő nem – mondta Puskás. Rövid szünetet tartott. – De mi hárman még itt vagyunk.
+
+## A váltságdíj
+
+Tizenegy órakor a Játékmester a Nagyterembe hívta a nyolc kint maradót, és a hangja ugyanolyan halk volt, mint reggel, de most mintha messzebbről szólt volna. Az asztalt félretolták. A terem végén, a falon, négy keskeny, fehér tábla függött egymás mellett, és mindegyiken fekete betűkkel egy-egy név állt: Kabos Gyula, Puskás Ferenc, Maria Callas, Gábor Zsazsa. Alattuk egy kis faasztalon vékony, fekete könyv hevert, mellette toll és egy üveg tinta. A nyolc ember félkörben állt, szorosan, ahogy a fázós emberek állnak, és senki sem akart az első sorba kerülni.
+
+– A négy ember a Kápolnában ül – mondta a Játékmester. – Életük ma a maguk kezében van, de nem úgy, ahogy elképzelik. Nem szavaznak, nem sorsolnak. Egyetlen dolgot tehetnek: kiválthatnak egy nevet. – Egy pillanatra elhallgatott. – A váltság ára százötvenezer forint, és a fődíjból fizetendő. Kiválthat bárki, de legfeljebb egy nevet, és csak hangosan, mindenki előtt. A kiváltott lekerül a listáról, és kint töltheti a napot. A halál ma éjjel ugyanannyi marad. A nevek lesznek kevesebbek.
+
+Neumann szája mozdult, és a szeme a táblák felé fordult. A többiek ugyanabban a pillanatban értették meg. Mercury volt az, aki hangosan kimondta.
+
+– Vagyis ha kiváltok valakit – mondta lassan –, akkor a többi háromnak nő az esélye.
+
+– Önök számolnak – mondta a Játékmester. – Én csak közlöm a szabályt. A sorrendet az urna dönti el.
+
+Neumann a kezébe vette az urnát, kétszer is megnézte a belsejét, megrázta, és egy gondosan összehajtogatott papírt sem hagyott a fenekén. A kisorsolt sorrend: Hofi, Bud Spencer, Dalí, Hepburn, Brando, Einstein, Neumann, és legvégül Mercury. Mercury hallotta a saját nevét, és az arca egy pillanatra kifejezéstelen lett.
+
+– Nyolcadiknak maradni – mondta halkan. – Ez nem szerencse.
+
+Hofi lépett előre elsőnek. Zsebre dugta a kezét, ahogy szokta, és végignézett a fehér táblákon, aztán a többieken, aztán megint a táblákon. – Én az első vagyok – mondta. – Az első mindig rosszul jár. Ha kiváltok valakit, hős vagyok, de a másik három helyett. Ha nem váltok ki, akkor nem vagyok hős, de legalább nem én tettem rosszabbá egy ember helyzetét. – Megvonta a vállát. – Passz. És ne nézzenek úgy, mintha valami szégyent mondtam volna. Ez nem szégyen. Ez egy kérdés, amire nincs jó válasz.
+
+– Passz – mondta Bud Spencer, mielőtt a Játékmester felé fordult volna. A hangja mély volt, lassú, minden szót külön tett le, mint egy-egy követ. – Nem tudok választani. Ha egyet kiváltok, a másik háromnak rosszabb. Nem akarom ezt csinálni. – Aztán, kisebb szünet után: – De ha a végén kiderül, hogy lehetett volna, akkor ezt nem felejtem el.
+
+Dalí a harmadik volt. Megigazította a sétabotját, felemelte az állát, és végigjáratta a tekintetét a négy néven, mint aki egy festményt vizsgál, amelyik nem tetszik neki. – Dalí nem alkuszik életekkel – mondta. – Az élet nem tárgy, hanem látomás. Aki árat szab rá, elveszíti a látomást, és ott marad a tárggyal. – Rövid szünetet tartott, és a bajusza megrezzent. – Passz.
+
+– Ez nem válasz – mondta Brando mormogva.
+
+– Brando a negyedik – felelt Dalí. – Majd Brando válaszol.
+
+Nem Brando következett, hanem Hepburn. Lassan lépett elő, a kezei összekulcsolva a derekánál, és mielőtt megszólalt, hosszan nézte a négy táblát, mint aki valamelyikükön a saját nevét keresi. A szeme nedves volt. – Nem tudok – mondta végül, halkan. – Ne haragudjanak. Nem tudok választani köztük. Minden nevet ismerek. Ha egyet kiváltok, a másik hármat otthagyom, és ezt nem tudom... – A hangja megremegett, és elhallgatott. – Passz. Bocsássanak meg nekem.
+
+Senki sem szólt rá. Mindenki látta, hogy Hepburn reggel óta Kabost vezette a karjánál, és hogy a könnyei most neki szólnak, és mégis passzolt, és ezt senki sem tudta ellentmondásnak érezni, inkább azt, hogy az ő szíve is tehetetlen. Hofi a plafont nézte. Einstein finoman megrázta a fejét, nem rosszallásból, hanem mint aki egy hosszú matematikai levezetést olvas, és rájön, hogy a megoldás nem lehet szép.
+
+Brando lépett elő. Hosszan hallgatott, a kezét nézte, aztán halkan elmondta, hogy ő nem akar jó lenni. – Később úgyis számon kérik – mondta. – Aki ma fizet, az holnap azt hallja, hogy miért pont őt. Aki ma passzol, az holnap azt hallja, hogy miért nem őt. Mindkét esetben meg kell magyarázni. – Felemelte a fejét. – Passz. De ha valaki kérdezi, ezt a kérdést mondom.
+
+Einstein hozzá lépett. – Nem tudom, kit – mondta egyszerűen, zavartan, mint egy diák, aki a táblánál áll, és nem tudja a levezetést. – Ezért nem teszek semmit. Ez nem erény. Ez csak az, hogy nem találtam jobbat. – Kinyújtotta a kezét, mintha valamit meg akarna érinteni, aztán leengedte. – Passz.
+
+Neumann hetedikként állt a táblák elé, és ő volt az, aki hangosan számolni kezdett. – A lista négy nevet tartalmaz – mondta. – Ha a halál egyenletesen oszlik, bármelyikük kockázata egynegyed. Ha valaki kilép, a maradék háromé egyharmad. Az, aki kivált, minden egyes megmaradtnak nyolc százalékponttal növeli a halálát. – Megállt. – Százötvenezer forint tizenkét felé osztva tizenháromezer-hatszáz.
+
+– Tizenkétezer-ötszáz – mondta Hofi.
+
+Neumann ajka egy pillanatra elfehéredett. – Elszólás – mondta. – Nem aludtam. – Az ujját az államára tette, és lehunyta a szemét. – A lényegen ez nem változtat. Ha kiváltok valakit, nem a halált csökkentem, hanem a halál címzettjeit szűkítem. Ez nem jó cselekedet. Ez áthelyezés. Passz.
+
+– Hét passz – mondta Brando halkan. – Ki fizeti a számlát?
+
+A Játékmester nem szólt. Mercury lépett előre, utolsóként, és a terem elhallgatott. Mercury hosszan állt a táblák előtt, a kezét az ajkához emelte, aztán lassan leengedte, és a szeme a harmadik táblán állapodott meg. – Hét ember mondta ki ugyanazt – mondta halkan. – Mind a hét igazat mondott. – Megrázta a fejét, mintha egy dallamot próbálna elhessegetni. – És mégsem tudom kimondani azt, hogy passz.
+
+– Mercury – szólt rá Hofi.
+
+– Tudom. – Felemelte a fejét, és a hangja egy pillanatra sértetlen volt, a régi, fényes. – Tudom, hogy mit mondok. Tudom, hogy a másik három nem jár jól. Nekem kell. Egyvalaki úgyis megteszi, és én nem akarok az lenni, aki a hetedik passzt követi. Maria Callast váltom ki.
+
+A Játékmester a fekete könyvbe írt. A toll sercegése végigfutott a termen. – Százötvenezer forint – mondta. – Maria Callas lekerült a listáról. A fődíj kétmillió-nyolcszáztízezer forint. – Bud Spencerhez fordult, aztán Hofihoz, aztán mindenkihez egyszerre. – Önök, akik passzoltak, nem tettek rosszat. Önök, akik nem passzoltak, nem tettek jót. A halál ugyanannyi marad.
+
+Pár perc múlva a Nagyterem ajtaja kinyílt, és a szürke alak belépett, mögötte Callas. Fekete ruhája a napfényben szinte kékes volt, és a haja egyetlen szála sem mozdult a helyéről. Megállt a küszöbön, és végignézett a nyolc emberen. Mercury szeme találkozott az övével, és Mercury sütötte le elsőnek.
+
+– Én nem kértem – mondta Callas.
+
+Senki sem mozdult.
+
+– Nem kértem, hogy fizessen értem valaki. – A hangja halk volt, kimért, ugyanazzal a fegyelmezett pontossággal, mint amellyel egy hosszú mondatot lezárt. – Nem könyörögtem. Nem vártam. Most pedig a három közül, akik ott maradtak, valaki az én helyemen fog meghalni. Tudták, hogy ez így lesz, amikor fizettek? – Mercuryhez fordult. – Maga tudta. Ha engem kivesznek, a másik hármat benn hagyják, ezt kiszámolni nem nehéz. Maga ma délben egy halált választott. Nem az enyémet. Egy másikat.
+
+– Maria – mondta Mercury, és a hangja elcsuklott. – Én nem...
+
+– Ne mondja, hogy nem akarta. – Callas egy lépést tett előre, aztán megállt, és a keze az oldalához szorult. Egy pillanatra az arca, amely addig sima volt és kifejezéstelen, megrepedt, mint a jég, amikor alatta mozdul a víz. – Ne mondja – ismételte, sokkal halkabban. – Mert akkor még tartozom is.
+
+Senki sem tudta, mit feleljen. Callas elfordult, és az egyik ablak mellé lépett, háttal a teremnek. A válla egy pillanatra megremegett, aztán kiegyenesedett. Mercury a tenyerébe temette az arcát. Hofi rövid, keserű csendet tartott, aztán halkan azt mondta, hogy hét ember hagyta őket, és ő az első volt, és ezt még sokáig hordozni fogja. Neumann a fekete könyvre nézett, ahol a Játékmester tolla még nedvesen fénylett.
+
+– A passz nem bizonyíték – mondta halkan, szinte csak magának. – A passz döntés.
+
+– Mondja ezt Gyulának – felelte Brando, a szeme még mindig a kezén. – Este, a Kerekasztalnál.
