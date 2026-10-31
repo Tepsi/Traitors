@@ -337,3 +337,71 @@ Nem emelte fel a hangját. Csak annyit mondott, hogy elég, és a terem elcsende
 – Én sem – felelte Mercury.
 
 – Tizenegyen vannak – mondta a Játékmester. – A lista két tagja még él. A gong hamarosan szól. – Hangja halk volt, ünnepélyes, mint mindig. – Jó éjszakát kívánok.
+
+## A hetedik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál három szék állt, és mind a háromba leültek, a csuklyák árnyékában, a gyertya körül, amelynek lángja ma egyenesen égett, és nem hajolt meg senki lélegzetétől. Az asztalon egyetlen lap feküdt, a szürke, a halállista, amelyről két nevet vékony vonallal kihúztak.
+
+– Felemeltem a hangom – mondta az Első. Nem kérdés volt, és nem is bocsánatkérés. Csak közlés, mint amikor az ember egy számlát olvas fel.
+
+– A boltozatig hallatszott – mondta az Új. – Dalí szerette. Olyan volt, mint egy remegő harang.
+
+– Nem harang volt – mondta az Első. – Hiba volt. – A keze az asztalon feküdt, az ujjai szorosan egymásba kulcsolva. – A hangom emelkedett, és nem tudtam megállítani. Az a tizenkét ember most azt hiszi, hogy bennem valami megtört. Zsazsa kimondta. Einstein szemében láttam, hogy feljegyezte. Ez nem engedhető meg.
+
+– Remegett a keze – mondta a Harmadik halkan. – Mikor kezdett kiabálni. Én láttam.
+
+– A kezem nem remeg.
+
+– Akkor láttam rosszul.
+
+Az Első nem felelt. A lángra nézett, aztán a szürke lapra, és mintha ezzel lezárta volna a kérdést, hangosan, egyenletesen folytatta. – A lista két neve még él. A mai éjszaka halála csak ezek közül kerülhet ki. A díj kétmillió-nyolcszáztízezer. Kettő felé osztva egymillió-négyszázötezer, három felé kilencszázharminchatezer-hatszázhatvanhat. A váltságra elment százötvenezer, amit nem mi fizettünk, de a mi pénzünkből ment el. Az egyetlen szerencsénk, hogy a váltság egy olyan nevet vitt el a listáról, amelyiket nem akartunk.
+
+– A halál ugyanannyi maradt, a nevek kevesebbek – mondta a Harmadik. – Így mondta a Játékmester. Ma délben a fél kastély ezt számolta.
+
+– Ma délben mindenki rosszul számolt. – Az Első összefonta a karját. – Két név. Én az egyiket akarom. A füzetes. – A hangja újra hideg volt, tárgyilagos, és a hideg azt jelezte, hogy a nyugalom már visszatért. – Ő buktatta le a Másodikat. Négy oldal. Ma is egy füzettel ült a Kerekasztalnál, és mindent leírt, amit mondtam. Aki így figyel, az előbb-utóbb a mi nevünkhöz ér. Egy nyomozó, akit életben hagyunk, minden nap közelebb kerül hozzánk, és ezt nem tudjuk megállítani.
+
+– A másikat – mondta a Harmadik.
+
+Az Első felé fordult. A csuklya árnyékából is érezni lehetett a tekintetét. – A nyugtatót?
+
+– A nyugtatót. – A Harmadik hangja halk volt, és nem remegett. – Ma elvesztették az egyik embert, akit mindannyian védeni akartak, és még nem tudják, mit kezdjenek a gyásszal. Aki ott volt, és átkarolta, és azt mondta neki, hogy jól csinálta, az a másik. Ha ő is elmegy, nincs senki, aki megnyugtatná őket. A félelemből pánik lesz. A pánik hibákat szül, a hibák pedig a miénk. Nem gyönge, aki így gondolkodik. Csak más szempontból számol.
+
+– Magának is egy szempontja van – mondta az Első. – A kéz.
+
+– Ma is fogtam a kezét. – A Harmadik hangja elcsuklott, és ez volt az egyetlen pillanat, amikor a csuklya alatt valami látszott, hallatszott vagy érződött: egy halk, nyers rezdülés, olyan, mint amikor valaki egy lépcsőfokot rosszul lép. – Ma is fogtam. És ma ráírtam a nevét.
+
+– A kéz nem érv.
+
+– A kéz mindig az érv – mondta az Új. Mellette a gyertya egy pillanatra hunyorított. – Dalí három dolgot figyelt meg ma, és mind a hármat elmondja, mert a konklávé nem a hallgatás helye. Az első: Dalí ma délben passzolt. Dalí soha életében nem passzolt. Furcsa íze van. Olyan, mint egy pohár víz, amiben nincs semmi, mégis érződik, hogy kellene valami. Ezt megtanultam: a másik oldalon ülni fárasztó. – Egy pillanatra elhallgatott. – A második: a füzetes ma is tévedett. Brandóra szavazott, és Brando ártatlan. Aki tévedhet, annak élnie kell. Ha ma elvesszük, a holnapi Kerekasztalnál nem lesz, aki a tévedésével elnyeli a többiek figyelmét, és valaki okosabb fogja vezetni őket. Aki makacsul téved, az a mi szövetségesünk.
+
+– Ez a hasznos ostoba érve – mondta az Első.
+
+– Ez az idegesítő ember érve. Dalí tudja. Ma átéltem, milyen az, amikor az ember belül háborog egy olyan ember miatt, aki tökéletesen magabiztos, és még csak nem is igaza van. – Az Új közelebb hajolt a gyertyához. – A harmadik: a nyugtató azt mondta, hogy ártatlan vagyok, pont, és mindenki elhitte. A füzetes beszédét lehet cáfolni. Ezt nem lehet, mert nincs benne semmi, amit meg lehetne fogni. Aki ilyen egyszerűen hiteles, az a legveszélyesebb a Kerekasztalnál, mert a többiek hozzá igazodnak.
+
+Az Első hosszan hallgatott. A gyertya lángja egyenesen állt, és az árnyékok mozdulatlanul feküdtek a kövön.
+
+– Maguk ketten már egyetértenek – mondta végül. – Én számolok.
+
+– Nem a számolásról van szó – mondta a Harmadik.
+
+– Mindig a számolásról van szó. – Az Első a szürke lapra mutatott. – Tegnap éjjel az én megkérdezésem nélkül döntöttek, ma este megint. Két szavazat egy ellen. Ebből soha nem lesz olyan, hogy hárman. Ebből mindig az lesz, hogy ketten, és egy harmadik, aki alkalmazkodik. – Hangja halk volt. – Megjegyzem. Nem szándékosan, csak a számok miatt.
+
+– Én is megjegyzem – mondta az Új, és a szájában szinte látszott a mosoly. – Dalí nem alkalmazkodik. Dalí csak találkozik valakivel útközben.
+
+– Ez nem válasz.
+
+– Ez a legőszintébb válasz, amit Dalí hajnali egykor adhat.
+
+A Harmadik nem szólt. Megfogta az Új kezét az asztalon, aztán, mintha észrevette volna, hogy mit tett, óvatosan el akarta húzni, de az Új nem engedte el. Az Első ezt látta. A csuklya árnyékából nem lehetett kiolvasni semmit, és az Első tekintete még egy pillanatig a két összekulcsolt kézen maradt, aztán elfordult.
+
+– Legyen – mondta. – Mondja ki.
+
+A Harmadik kimondta a nevet. Halkan, olyan halkan, hogy a gyertya lángja sem mozdult, és az Új a másik kezével a nevet a szürke lapon aláhúzta, vékony, egyenes vonallal. Az Első összehajtotta a lapot, és az ujjai közt egy darabig tartotta, mintha nem tudná, hová tegye.
+
+– Hárman vagyunk – mondta. – Még mindig hárman.
+
+– Még mindig – mondta a Harmadik.
+
+– Dalí szereti ezt a számot – mondta az Új, de a hangja most halkabb volt, szinte hozzátartozott a gyertya fényéhez. – A harmadik mindig azt jelenti, hogy valaki figyel.
+
+A lépcsőn az Első indult el elsőnek. Aztán a Harmadik, aztán az Új, és egymás után, külön-külön hagyták el a tornyot, mint akik nem akarnak együtt látszani. A szobákban tizenegyen feküdtek le. Kilencen tudták, hogy a reggel nem értük jön. A másik kettő nem tudta, melyikük lesz az, és egyikük sem aludt.

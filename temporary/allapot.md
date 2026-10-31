@@ -1,5 +1,4 @@
 # Állapot (spoilermentes)
 
-7. fejezet (A váltság), írás folyamatban.
-- Kész: A reggeli, A Kápolna, A váltságdíj, A Kerekasztal.
-- Következik: A hetedik konklávé.
+7. fejezet (A váltság), a nyers szöveg kész (minden rész megírva).
+- Következik: átolvasás, lezárás.
