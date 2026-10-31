@@ -2,9 +2,10 @@
 
 Közös fájl, spoilert nem tartalmaz. A projekt-utasítások szabályait egészíti ki; ami itt van, az a későbbi fejezetekre vonatkozik, és nem kell az elejétől alkalmazni.
 
-## Halállista (később vezetjük be)
-- Későbbi fejezetekben a játékba bekerül a halállista (a 4.8-as rész mintájára: a Játékmester bejelentése szerint néhány játékos felkerül rá, és közülük valaki meghal, ha a nap próbatételén nem szabadulnak meg a listától).
-- Pontos időpont, létszám és a próbatétel még nincs eldöntve.
+## Halállista (a 7. napon indult)
+- A Játékmester a reggelinél kihirdeti a halállistát: négy nevet, amelyet az árulók írtak. A mai éjszaka halála a listáról kerül ki; az árulók nem mondhatnak le a gyilkosságról, csak azt dönthetik el, melyik névvel. Ha a Kerekasztal a lista egyik tagját kiszavazza, a halál akkor is a megmaradtak közül jön.
+- A listások a gongig a Kápolnában maradnak, kívülről zárt ajtó mögött. Délben a nyolc kint maradó dönt: a váltságdíj ára százötvenezer forint a fődíjból, legfeljebb egy nevet válthatnak ki, hangosan, mindenki előtt, sorsolt sorrendben (az urnát bárki ellenőrizheti). A kiváltott lekerül a listáról és kint töltheti a napot. A halál ugyanannyi marad, a nevek lesznek kevesebbek: a megmaradtak kockázata nő.
+- A lista tagjai a Kerekasztalnál is kiszavazhatók, és mindegyik kap egy percet a védőbeszédre.
 
 ## Toborzás: meghívás és zsarolás (a játék későbbi szakaszában)
 Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, azt az árulók száma dönti el.
