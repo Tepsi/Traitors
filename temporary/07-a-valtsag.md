@@ -249,3 +249,91 @@ Senki sem tudta, mit feleljen. Callas elfordult, és az egyik ablak mellé lépe
 – A passz nem bizonyíték – mondta halkan, szinte csak magának. – A passz döntés.
 
 – Mondja ezt Gyulának – felelte Brando, a szeme még mindig a kezén. – Este, a Kerekasztalnál.
+
+## A Kerekasztal
+
+Mikor a gong hatkor megszólalt, a Kápolna vasrúdja kicsúszott a helyéről, és a három listás visszatért a többiekhez. Kabos arca szürke volt, és a keze remegett, de a szemében volt valami új, szinte dacos elszántság, mintha a hosszú órák alatt a félelem már átfordult volna valami másba. Zsazsa magasan tartotta a fejét, a füzetet a mellére szorítva. Puskás ment a sor végén, és olyan nyugodtan lépett be a Kerekasztal termébe, mintha egy öltözőből jönne, ahol a mérkőzés előtt megbeszélték a taktikát.
+
+A Kerekasztal körül tizenkét szék állt. A kupola csillagai tompán, hidegen ragyogtak, és a fekete ajtó ezüst kerete mozdulatlan maradt. A Játékmester a magasabb székben ült, a keze az asztalon pihent. Mindenki lassan foglalt helyet, és senki sem a megszokott helyére ült: Callas az ajtótól legtávolabbi székre, Mercury Hofi mellé, Kabos pedig Puskás mellé, ahogy a Kápolnában.
+
+– Huszonketten léptek be a kastély kapuján – mondta a Játékmester. – Most tizenketten vannak. A fődíj kétmillió-nyolcszáztízezer forint. A lista három tagja ma a Kerekasztalnál is kiszavazható, és a lista ettől nem szűnik meg: a halál a megmaradtak közül jön, akárkit küld az asztal a Kapuhoz. – Végignézett a három listáson. – Egy-egy percet kapnak. Aztán egy óra vita, és mindenki felír egy nevet. Kérem, kezdjék.
+
+Kabos állt fel elsőnek. A székét nem tolta hátra, hanem úgy emelte fel, mintha attól félne, hogy hangot ad. Kinyitotta a száját, becsukta, megint kinyitotta, és a keze a levegőben fogódzót keresett.
+
+– Hölgyeim és uraim – mondta. – Én... én nem vagyok szónok. Mindig mondták, hogy nem. Mondta a... az igazgató úr is, hogy Gyula, maga nagyon jó, de beszélni ne beszéljen. – Egy kis, bizonytalan nevetés szaladt végig a termen, és Kabos felbátorodott. – Én csak annyit mondok, hogy ha én áruló lennék, akkor... akkor nem lennék ilyen rossz. Ez nem logika, tudom. De a rosszakat nem szokták gyanúsítani, mert azok nem tudnak titkot tartani. Én például minden titkot elmondok, mielőtt kiderülne, hogy az titok. Egyszer elmondtam egy ember meglepetésbulijának a helyét, még mielőtt megrendeltem volna a tortát. – A hangja megremegett. – Tessék. Ennyi. Ártatlan vagyok. Ezt... ezt is hiszik, hogy nem én mondom? Tessék, én mondom.
+
+Zsazsa egy darabig hallgatott, hogy a perc ne legyen sietős, aztán egyenes hangon, tárgyilagosan beszélt. – Három tény – mondta. – Egy: tegnap én vezettem a Kerekasztalt, és eltaláltam. Ha ma éjjel engem érne a halál, az nem a gyanú miatt lenne, hanem azért, mert valaki félt tőlem. Kettő: az árulók írták ezt a négy nevet, tehát nem véletlenül kerültem fel. Vagy azt akarták, hogy gyanús legyek, vagy azt, hogy rám szavazzanak. Három: aki elrejtőzne, az nem áll fel a Kerekasztalnál, és nem kér szót. Én itt vagyok, mindenki előtt. – Megrázta a haját. – Ennyi.
+
+Puskás felállt, és egy kicsit hátrébb húzta a székét. – Ártatlan vagyok – mondta. – Pont.
+
+Aztán leült. A szava nyomán a terem egy pillanatra elcsendesedett, és Bud Spencer, aki a szemközti oldalon ült, lassan, nagyot bólintott. Kabos csak annyit mondott halkan: – Ezt kellett volna nekem is.
+
+A vita megkezdődött. Eleinte csak óvatos mondatok hangzottak el, mint amikor kezdők próbálják a jeget. Einstein azt mondta, hogy a lista nem bizonyíték semmire: az árulók három dologra használhatják, és mindhárom hamis nyomot hagy. Hofi azt mondta, hogy a lista olyan, mint egy étlap: nem azt mutatja, mit szeretnének az árulók, hanem azt, hogy mit akarnak, hogy mi gondoljunk. Bud Spencer annyit mondott, hogy ő a listából nem csinál nyomot: aki rajta van, azt az árulók tették fel, és az ő érvük nem lesz az övé. Mercury hallgatott, a szemét lehunyta, a tenyerét szorosan az asztalra szorította. Callas a székében ült, mereven, és senki sem mert ránézni.
+
+– Én egy dolgot szeretnék mondani – mondta Neumann.
+
+A hangja halk volt, kimért, és ezért mindenki felé fordult. Összefűzte az ujjait az asztalon. – Kabos úr az első napokban elszólta magát. Azt mondta: »Mi, árulók.« Ezt mindannyian hallottuk. Azóta, ha valaki felhozza, magyarázkodik, és minden magyarázata újabb kérdést vet fel. Ezt nem tartom véletlennek.
+
+– Hiszen én azt úgy... úgy mondtam... – kezdte Kabos. – Én azt akartam mondani, hogy... mi, akik nem... mi, ártatlanok, de nem tudtam, hogyan... én nagyon izgultam, kérem szépen, és a nyelvem...
+
+– Ez a magyarázkodás – mondta Neumann. – Pontosan ezt jelentette.
+
+– Hagyja már abba! – szólt közbe Mercury, de Neumann nem hagyta abba. A hangja egy kicsit felemelkedett, aztán még egy kicsit.
+
+– Nem hagyom abba. Elég volt. Elég a mesékből, a nevetésből, a „nem tudom"-okból, az elszólásokból. Tegnap az egyik, ma a másik, és mindig van valaki, aki azt mondja, hogy szegény ember, nézzék meg, remeg. A remegés nem érv! – Az utolsó szót már kiabálta, és a tenyerét az asztalra csapta, olyan erővel, hogy a gyertyák lángja meghajolt. – Itt ül köztünk valaki, aki nem remeg! Nem azért nem látjuk, mert nincs, hanem mert nem akarjuk meglátni!
+
+Csend lett. Neumann a kezére nézett, mintha az nem az övé lenne, aztán lassan kihúzta magát a székben, és az arca megint kifejezéstelen lett. Hepburn finoman megérintette a karját.
+
+– János – mondta halkan. – Kérem.
+
+– Ön még soha nem emelte fel a hangját – mondta Zsazsa, élesen, a füzetét hátratolva. – Négy nap alatt egyszer sem. Nem tudom, hogy ez rosszat jelent-e. De tudom, hogy ma először történt.
+
+– Fáradt vagyok. – Neumann nem nézett fel. – Nem aludtam. Ez nem bűn.
+
+– Nem – mondta Einstein, szelíden, mint aki a hatalmas dolgokat is halkan mondja. – De érdekes. – Többet nem fűzött hozzá.
+
+A vita ezután már nem tért vissza a nyugodt mederbe. Zsazsa azt mondta, hogy ő Welles mondatát még mindig nem felejtette el, és hogy aki megúszta a tegnapi napot, annak nincs oka megkönnyebbülni. – Én semmit sem úsztam meg – felelte Brando. – Csak még itt vagyok. – Dalí a mennyezetet nézte, és azt mondta, hogy a Kerekasztal nem a szavazatokért van, hanem a szavazók ábrázatáért, és ő most mindenkit gondosan megfigyel. Callas egyszer kérdezte meg, hogy tud-e valaki ma olyat, amit tegnap nem tudott. Senki sem felelt.
+
+Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét ember írt. Hepburn lassan, hosszan, a szemét a táblán tartva. Mercury a kezét az arcára szorította. Neumann a táblát mereven maga elé fordította, mint aki most nem bízik a saját kezében. A Játékmester sorban felfordította a táblákat.
+
+– Kabos – mondta. – Brando. Kabos. Brando. Neumann. Kabos. Brando. Dalí. Kabos. Brando. Neumann. Kabos. – Egy pillanatig mindenki számolt. – Öt szavazat Kabos Gyulára. Négy Marlon Brandóra. Kettő Neumann Jánosra. Egy Salvador Dalíra.
+
+– Én voltam – mondta Callas hirtelen, hidegen, a szemét Dalín tartva. – Dalíra. Láttam, merre rajzolt, és senki sem kérdezte, miért. Nem kell kérdezni.
+
+– Én Neumannra írtam – mondta Brando, és a hangja a szokásosnál tisztább volt. – A számai miatt. Kétszer is elszámolta magát, és a kétszer már minta. – Neumann felé fordult. – Ez nem személyes.
+
+– Én is... én is őrá – mondta Kabos halkan, és szégyenkezve lesütötte a szemét. – Nem tudom, miért. Úgy éreztem, hogy valakire... valakire kell.
+
+– Én Gyulára – mondta Mercury, és a hangja elcsuklott. – Értem fizettem, és rá írtam. Nem tudom, mit hiszek. – A tenyerét az arcára szorította, és Hofi a vállára tette a kezét.
+
+– Kabos Gyula – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
+
+Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét. A teremben senki sem mozdult. Hepburn felé fordult, a szeme teli volt.
+
+– Ha ön ártatlan, Gyula – mondta halkan –, akkor nagyon sajnálom.
+
+Kabos ránézett. Valami átvillant az arcán, valami régi, derűs, ijedt dolog. – Maga nagyon kedves, Audrey kisasszony – mondta. – Mindig is nagyon kedves volt. – Aztán összeszedte magát, és a Játékmester felé fordult.
+
+– Kabos Gyula – mondta a Játékmester –, még beszélhet. De ha kimondja, mi volt a szerepe, többet nem szólhat, legfeljebb elköszönhet. Jól válassza meg a sorrendet.
+
+– Hát én... – mondta Kabos. – Én nem tudom a sorrendet. Én mindig elrontom. – Egy nagy levegőt vett, és kihúzta magát, és hirtelen olyan lett, mintha a színpad deszkáin állna, és a nézőtér fényei egyszerre hunytak volna ki. – Hölgyeim és uraim! A következő számban... – elakadt, aztán felnevetett, könnyes, kicsit idétlen nevetéssel. – Nem is tudom, hogy mi a következő szám. Nincs következő szám. – A keze a levegőben ívet rajzolt. – De egyet elmondok. Tudják, mi a legnehezebb szerep a világon? Az ártatlan. Ha gyilkost játszik az ember, mindenki tapsol. Ha ártatlant, mindenki gyanakszik. Egész életemben ártatlant játszottam, és mindig azt kérdezték, mit rejteget az az ember. – Körülnézett, és a tekintete Puskáson állapodott meg, aztán Hepburnön, aztán Mercuryn. – Én nem rejtegettem semmit. Csak nem tudtam, hova tegyem a kezem. – A hangja elcsuklott, és mosolygott, a könnyei folytak. – Hölgyeim és uraim: ártatlan vagyok.
+
+– Kabos Gyula ártatlan volt – mondta a Játékmester.
+
+Egy pillanatig csend volt. Aztán Zsazsa felhördült, mintha ütést kapott volna, és a kezét a szájára szorította. Mercury hangtalanul sírt. Bud Spencer előredőlt, a könyökét a térdére tette, és a földet nézte. Puskás átkarolta Kabost, szorosan, és a homlokát az övéhez érintette, miközben csak annyit mondott: – Jól csináltad. – Hepburn hátrafordította az arcát.
+
+– Köszönöm szépen – mondta Kabos a teremnek, és meghajolt, kicsit túl mélyen, ahogy az ember a nézőtér utolsó sorának is meghajol.
+
+A fekete ajtó ezüst kerete felizzott. Kabos lassan lépett át a küszöbön, és még egyszer visszanézett, de a szeme nem talált senkit, vagy talán mindenkit. Az ajtó becsukódott, és a betűk elporladtak a névtábláján, és a terem már nem emlékezett pontosan, hogyan hangzott az elakadó, remegő hang, amely annyiszor kezdte újra ugyanazt a mondatot.
+
+– Hat Kerekasztal – mondta a Játékmester halkan. – Öt ártatlan. A kitartásuk példás. A pontosságuk kevésbé.
+
+Senki sem felelt. Zsazsa felállt, a füzetét az asztalra dobta, a lapok szétnyíltak. – Maga kiabált – mondta Neumannra mutatva, és a hangja remegett. – Ön, aki mindent mér! Aki a levegőt is megszámolja! Maga ma érvek nélkül, ordítva hajszolta őt a Kapuhoz! – A szeme megtelt, és mérgesen, dühösen törölte meg. – És mi mind követtük! Én is! Mert hangos volt, mert magabiztos, mert nem mertük...
+
+– Elég – mondta Bud Spencer.
+
+Nem emelte fel a hangját. Csak annyit mondott, hogy elég, és a terem elcsendesedett. Zsazsa leült. Callas Mercuryre nézett, aztán lassan, szinte hallhatatlanul, annyit mondott neki: – Értem fizetett. Aztán ráírta a nevét. Nem tudom, mit gondoljak magáról.
+
+– Én sem – felelte Mercury.
+
+– Tizenegyen vannak – mondta a Játékmester. – A lista két tagja még él. A gong hamarosan szól. – Hangja halk volt, ünnepélyes, mint mindig. – Jó éjszakát kívánok.
