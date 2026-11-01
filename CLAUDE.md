@@ -57,6 +57,7 @@ Minden fejezethez (a képek beszerkesztése után, vagy ha nincsenek képek, a s
 - Nagyon enyhe spoiler vagy figyelemfelkeltő érdekesség lehet benne, de csak olyan, ami az olvasói szövegben látszik. Nem árulja el, ki esik ki, ki az áruló, és mi történik később. A titkos tervet nem használja.
 - Nem viccel a szereplők halálának okával, betegségével, koruk, súlyuk, külsejük miatt. Nem említi a tévéműsor nevét. A fejezet linkjével zárul: https://tepsi.github.io/Traitors/
 - A cél az, hogy vasárnap, az új fejezet megjelenésekor felhívja rá a figyelmet.
+- A poszthoz tartozik egy kép is: a `site/borito.png` tábla, amelyen az addig kiesettek vörös zsírkrétával ki vannak húzva. Készítsd el: `python3 ajanlas/kihuzas.py ajanlas/ajanlas-N.png Név1 Név2 ...` (vezetéknevek, lásd a szkript elejét). Csak azokat add meg, akik az **olvasói szöveg szerint** az N. fejezet végéig kiestek (az összes addigit, nem csak az újakat). Az első fejezet után még senki sem esett ki, ahhoz nem kell kép. Nézd meg az eredményt (Read), és commitold a poszttal együtt. Zolinak ne nevezd meg, kik vannak kihúzva az olvasói szövegen túl, és későbbi fejezetek kiesőit se olvasd előre a kép kedvéért.
 
 ### Commit
 Minden commit üzenete a `Co-Authored-By` és a `Claude-Session` sorokkal végződik, ahogy a környezet előírja. Commit előtt nézd meg a `git status` kimenetét, `privat/` vagy jegyzet ne kerüljön bele.
