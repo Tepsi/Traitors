@@ -3,9 +3,11 @@
 Közös fájl, spoilert nem tartalmaz. A projekt-utasítások szabályait egészíti ki; ami itt van, az a későbbi fejezetekre vonatkozik, és nem kell az elejétől alkalmazni.
 
 ## Halállista (a 7. napon indult)
-- A Játékmester a reggelinél kihirdeti a halállistát: négy nevet, amelyet az árulók írtak. A mai éjszaka halála a listáról kerül ki; az árulók nem mondhatnak le a gyilkosságról, csak azt dönthetik el, melyik névvel. Ha a Kerekasztal a lista egyik tagját kiszavazza, a halál akkor is a megmaradtak közül jön.
-- A listások a gongig a Kápolnában maradnak, kívülről zárt ajtó mögött. Délben a nyolc kint maradó dönt: a váltságdíj ára százötvenezer forint a fődíjból, legfeljebb egy nevet válthatnak ki, hangosan, mindenki előtt, sorsolt sorrendben (az urnát bárki ellenőrizheti). A kiváltott lekerül a listáról és kint töltheti a napot. A halál ugyanannyi marad, a nevek lesznek kevesebbek: a megmaradtak kockázata nő.
-- A lista tagjai a Kerekasztalnál is kiszavazhatók, és mindegyik kap egy percet a védőbeszédre.
+- A Játékmester a reggelinél kihirdeti a halállistát: négy nevet, amelyet az árulók írtak. A lista a Kerekasztalt szűkíti le: aznap este csak a listán szereplők közül lehet szavazni, más nevet nem lehet felírni. Az éjszakai gyilkosságot a lista nem köti: az árulók bárkit választhatnak, a listán kívülit is.
+- Ára van: aki listát ír, az azon az éjszakán nem gyilkolhat. Ezért ha reggel senki sem hiányzik, az nem bizonyítja a meghívást: lehetett csak lista is.
+- A listások a gongig a Kápolnában maradnak, kívülről zárt ajtó mögött. Délben a nyolc kint maradó dönt: a váltságdíj ára százötvenezer forint a fődíjból, legfeljebb egy nevet válthatnak ki, hangosan, mindenki előtt, sorsolt sorrendben (az urnát bárki ellenőrizheti). A kiváltott lekerül a listáról, ma este nem szavazhatnak rá, és kint töltheti a napot. A szavazatok száma ugyanannyi marad, a nevek lesznek kevesebbek: a megmaradtak kockázata nő.
+- A lista tagjai a Kerekasztalnál mindegyik kap egy percet a védőbeszédre. A listás a saját nevét is felírhatja.
+- Nyomozási következmény: aki a listán van, az nagy valószínűséggel ártatlan (egy áruló a saját életével játszana, mert a Kerekasztal dönt), hacsak egy áruló nem olyan merész, hogy mégis ráírja magát.
 
 ## Toborzás: meghívás és zsarolás (a játék későbbi szakaszában)
 Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, azt az árulók száma dönti el.
@@ -14,7 +16,7 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 - Az árulók a konklávén dönthetnek úgy, hogy meghívnak egy ártatlant, hogy ő is áruló legyen.
 - Ennek az ára, hogy azon az éjszakán lemondanak a gyilkosságról: reggel senki sem hiányzik.
 - A meghívott ártatlan szabadon dönt. Ha nem fogadja el, nem esik ki, ártatlan marad.
-- Nyomozási következmény: ha az ártatlanok árulót fognak, és másnap reggel senki sem tűnt el, sejthetik, hogy meghívás történt, és az ártatlanok egyike áruló lett. Ez új gyanúkört nyit.
+- Nyomozási következmény: ha az ártatlanok árulót fognak, és másnap reggel senki sem tűnt el, sejthetik, hogy meghívás történt, és az ártatlanok egyike áruló lett. Ez új gyanúkört nyit. (Ha aznap halállista is volt, a reggeli üres szék hiánya nem bizonyít semmit, lásd fent.)
 
 ### Zsarolás (ha már csak egy áruló maradt)
 - Ilyenkor a toborzás kötelező, és a meghívás helyett zsarolás történik.
@@ -25,7 +27,7 @@ Az árulók kétféleképpen szerezhetnek új társat. Hogy melyik érvényes, a
 - A meghívott (megzsarolt) azonnal dönt: a Játékmester a lapot átadja, és a válaszra nem ad haladékot, nincs „hajnalra".
 - Ha elfogadja, még azon az éjszakán feljön a konklávéba, és teljes jogú tag: az árulók üdvözlik, és az újnak már aznap éjjel van beleszólása a közös döntésekbe (például a halállista neveinek kiválasztásába).
 - Így az árulók azonnal tudják a választ. Az újonnan jött nem lepődik meg az árulókon (sejtette, vagy tudta); az arcok az olvasó előtt továbbra is csuklya alatt maradnak, a név nem hangzik el.
-- Meghívásnál az ár az elmaradó gyilkosság; az árulók ezt a halállista közelségével is mérlegelhetik: ha a Játékmester listája úgyis halottat hoz, a lemondás olcsóbb.
+- Meghívásnál az ár az elmaradó gyilkosság.
 - Az árulók számát az olvasó csak a lebukásokból tudja meg (az alapszabály változatlan): a toborzás miatt a számuk nőhet, vagy a lebukások után is fennmaradhat.
 
 ## A reggeli: ki esett ki (minden fejezetben)
