@@ -1,4 +1,4 @@
-# 7. fejezet: A váltság
+# 7. fejezet: A halállista
 
 ## A reggeli
 
@@ -106,9 +106,13 @@ A Játékmester várt, amíg csend lett. Aztán megszólalt, és a hangja halk v
 
 Egyetlen szék sem moccant, de a levegő megváltozott, mintha az ablakot valaki kinyitotta volna valamelyik szobában, és a huzat idáig ért.
 
-– A halállista négy nevet tartalmaz – folytatta a Játékmester. – A listát az árulók írták. Aki rajta van, annak a neve ott áll, és a mai éjszaka halála a listáról kerül ki. Ha a Kerekasztal este a lista egyik tagját elküldi, a halál akkor is a megmaradtak közül jön. Az árulók ma nem mondhatnak le a gyilkosságról, mert a lista a halált már kijelölte. Ők csak azt dönthetik el, hogy melyik névvel.
+– A halállista négy nevet tartalmaz – folytatta a Játékmester. – A listát az árulók írták, és ennek ára van: aki listát ír, az azon az éjszakán nem gyilkolhat. A lista a Kerekasztalt szűkíti le. Ma este csak a listán szereplők közül szavazhatnak, más nevet nem írhatnak fel. Az éjszakát viszont a lista nem köti: a gyilkosság bárkit elérhet, a listán kívülit is.
 
 Mercury ujjai megszorították a poharat. Hofi azt mondta halkan, hogy ez a szabály nem rossz, és hogy ő már hallott rosszabbat is, de nem fejezte be a mondatot.
+
+Einstein letette a kenyeret, amelyet addig a kezében tartott. – Egy pillanat – mondta. – Uram, ezt még egyszer, kérem. Aki listát ír, az aznap éjjel nem gyilkol. – A Játékmester bólintott. – Akkor az árulók tegnap éjjel már a lista miatt sem ölhettek. Ha reggel senki sem hiányzik, az még nem bizonyítja a meghívást, mert ugyanígy üres maradna a szék, ha csak listát írtak. – Szétnyitotta az ujjait. – Visszavonom, amit az előbb mondtam. Az egyetlen biztosat is. Lehetett meghívás, és lehetett csak lista.
+
+– Vagyis nem tudjuk, hányan vannak – mondta Zsazsa lassan. – Ketten vagy hárman. – A füzetét kinyitotta, aztán becsukta. – Tegnap este még azt hittem, tudom.
 
 – A négy név – mondta a Játékmester. – Kabos Gyula. Puskás Ferenc. Maria Callas. Gábor Zsazsa.
 
@@ -120,7 +124,7 @@ Egy pillanatig mindenki Kabosra nézett, aztán nem nézett rá senki. Kabos fel
 
 Zsazsa lassan felállt. Becsukta a füzetet, és a hóna alá vette.
 
-– Ha én írnék ilyen listát – mondta a teremnek, tárgyilagosan, mint aki egy másik ember jegyzetét olvassa fel –, két embert tennék rá, akit gyanúsítanak, egyet, aki hallgat, és egyet, akit senki sem gyanúsít. Így szóródik szét a gyanú. Ha valakinek van kedve kitalálni, melyik vagyok én, nem sietek. – Megrázta a haját. – Én ma ráérek.
+– Ha én írnék ilyen listát – mondta a teremnek, tárgyilagosan, mint aki egy másik ember jegyzetét olvassa fel –, két embert tennék rá, akit gyanúsítanak, egyet, aki hallgat, és egyet, akit senki sem gyanúsít. Így nem lehet kiolvasni belőle, kit akarok kiszavaztatni. Ha valakinek van kedve kitalálni, melyik vagyok én, nem sietek. – Megrázta a haját. – Én ma ráérek.
 
 Callas már felállt. Nem szólt semmit. Egyenesen az ajtó felé fordult, és a lépéseit úgy mérte, mintha az ajtó volt volna a színpad másik vége. Kabos elindult utánuk, kisfiús, bizonytalan léptekkel, és az ajtóban megállt, visszafordult, és kiáltott a teremnek valamit, amit senki sem értett, mert a hangja elcsuklott. Puskás átkarolta a vállát, és kivezette.
 
@@ -138,9 +142,9 @@ Egy ideig senki sem ült le. Kabos a keskeny ablak előtt állt, és ujjai az ab
 
 – Én nem tudtam semmit! – tiltakozott Kabos, és az orrát törölte. – Engem senki nem kérdezett.
 
-Zsazsa a harmadik padra ült, a füzetet az ölébe tette, és kinyitotta. Nem a szokásos lendülettel írt, hanem lassan, mint aki először próbál egy új tollal. Aztán letette. – Gondolkodjunk – mondta. – Négy név van. Azt mondtam odafent, hogy így szóródik szét a gyanú, és bevallom, hogy közben azon tűnődtem, melyik vagyok én. Az árulók nem hülyék. Ha engem tesznek fel, az azt jelenti, hogy vagy azt akarják, hogy gyanús legyek, vagy azt, hogy kiessek, vagy azt, hogy a gyanú szétszóródjon, hogy ne rám figyeljenek. – Összehúzta a szemét. – A legrosszabb az, hogy mindhárom lehetőség ugyanarra az eredményre vezet. Hogy ma meghalok, vagy nem, és ebből semmit sem lehet kiolvasni.
+Zsazsa a harmadik padra ült, a füzetet az ölébe tette, és kinyitotta. Nem a szokásos lendülettel írt, hanem lassan, mint aki először próbál egy új tollal. Aztán letette. – Gondolkodjunk – mondta. – Négy név van. Azt mondtam odafent, hogy így szóródik szét a gyanú, és bevallom, hogy közben azon tűnődtem, melyik vagyok én. Az árulók nem hülyék. Ha engem tesznek fel, az azt jelenti, hogy vagy azt akarják, hogy gyanús legyek, vagy azt, hogy kiessek, vagy azt, hogy a gyanú szétszóródjon, hogy ne rám figyeljenek. – Összehúzta a szemét. – A legrosszabb az, hogy mindhárom lehetőség ugyanarra az eredményre vezet. Hogy ma este engem szavaznak ki, vagy nem, és ebből semmit sem lehet kiolvasni.
 
-– Maga nem hal meg – mondta Puskás.
+– Magát nem szavazzák ki – mondta Puskás.
 
 – Honnan tudja, kedves?
 
@@ -158,7 +162,7 @@ Zsazsa kinyitotta a füzetet, és rövid, tárgyilagos hangon elkezdett beszéln
 
 Fél tizenkettő felé a sáv a padlón elhalványult, és a gyertyák lángja mintha nyugodtabban égett volna. Callas egy ideje a padra ült, de nem Zsazsa és nem a többiek mellé, hanem a legtávolabbi sarokba, és a keze az ölében hevert, nyitott tenyérrel, mint aki imádkozna, csak nem akar. Kabos az orrát fújta. Puskás a plafont nézte. Zsazsa a füzetét lapozta, és már harmadszor olvasta ugyanazt az oldalt.
 
-– Ha az árulók ezt a négy nevet írták – mondta hirtelen Zsazsa, hangosan, a csendbe –, akkor vagy az a céljuk, hogy közülünk valakit elvegyenek, vagy az, hogy valaki mást megvédjenek a figyelemtől. Én az utóbbit szeretném. – Rövid csend. – De nem fogom elhinni.
+– Ha az árulók ezt a négy nevet írták – mondta hirtelen Zsazsa, hangosan, a csendbe –, akkor vagy az a céljuk, hogy közülünk valakit a Kerekasztal elvigyen, vagy az, hogy valaki mást megvédjenek a figyelemtől. Én az utóbbit szeretném. – Rövid csend. – De nem fogom elhinni.
 
 Callas felemelte a fejét, de nem szólt.
 
@@ -180,13 +184,13 @@ A szürke alak nem felelt. Callas kilépett a napfénybe, és az ajtó ismét be
 
 – Akkor ő nem jár úgy, mint... – mondta Kabos. A hangja remegett, és nem lehetett tudni, hogy megkönnyebbülés vagy félelem. – A Callas asszony... ő már biztonságban van, ugye?
 
-– Ő nem – mondta Puskás. Rövid szünetet tartott. – De mi hárman még itt vagyunk.
+– Ő nem – mondta Puskás. – Itt senki sem az. – Rövid szünetet tartott. – De mi hárman még itt vagyunk.
 
 ## A váltságdíj
 
 Tizenegy órakor a Játékmester a Nagyterembe hívta a nyolc kint maradót, és a hangja ugyanolyan halk volt, mint reggel, de most mintha messzebbről szólt volna. Az asztalt félretolták. A terem végén, a falon, négy keskeny, fehér tábla függött egymás mellett, és mindegyiken fekete betűkkel egy-egy név állt: Kabos Gyula, Puskás Ferenc, Maria Callas, Gábor Zsazsa. Alattuk egy kis faasztalon vékony, fekete könyv hevert, mellette toll és egy üveg tinta. A nyolc ember félkörben állt, szorosan, ahogy a fázós emberek állnak, és senki sem akart az első sorba kerülni.
 
-– A négy ember a Kápolnában ül – mondta a Játékmester. – Életük ma az önök kezében van, de nem úgy, ahogy elképzelik. Szavazás nincs, sorsolás sincs. Egyetlen dolgot tehetnek: kiválthatnak egy nevet. – Egy pillanatra elhallgatott. – A váltság ára százötvenezer forint, és a fődíjból fizetendő. Kiválthat bárki, de legfeljebb egy nevet, és csak hangosan, mindenki előtt. A kiváltott lekerül a listáról, és kint töltheti a napot. A halál ma éjjel ugyanannyi marad. A nevek lesznek kevesebbek.
+– A négy ember a Kápolnában ül – mondta a Játékmester. – A sorsuk ma este a Kerekasztalnál dől el, de nem úgy, ahogy elképzelik. Szavazás nincs, sorsolás sincs. Egyetlen dolgot tehetnek: kiválthatnak egy nevet. – Egy pillanatra elhallgatott. – A váltság ára százötvenezer forint, és a fődíjból fizetendő. Kiválthat bárki, de legfeljebb egy nevet, és csak hangosan, mindenki előtt. A kiváltott lekerül a listáról, ma este nem szavazhatnak rá, és kint töltheti a napot. A szavazatok száma ugyanannyi marad. A nevek lesznek kevesebbek.
 
 Neumann szája mozdult, és a szeme a táblák felé fordult. A többiek ugyanabban a pillanatban értették meg. Mercury volt az, aki hangosan kimondta.
 
@@ -216,11 +220,11 @@ Brando lépett elő. Hosszan hallgatott, a kezét nézte, aztán halkan elmondta
 
 Einstein hozzá lépett. – Nem tudom, kit – mondta egyszerűen, zavartan, mint egy diák, aki a táblánál áll, és nem tudja a levezetést. – Ezért nem teszek semmit. Ez nem erény. Ez csak az, hogy nem találtam jobbat. – Kinyújtotta a kezét, mintha valamit meg akarna érinteni, aztán leengedte. – Passz.
 
-Neumann hetedikként állt a táblák elé, és ő volt az, aki hangosan számolni kezdett. – A lista négy nevet tartalmaz – mondta. – Ha a halál egyenletesen oszlik, bármelyikük kockázata egynegyed. Ha valaki kilép, a maradék háromé egyharmad. Az, aki kivált, minden egyes megmaradtnak nyolc százalékponttal növeli a halálát. – Megállt. – Százötvenezer forint tizenkét felé osztva tizenháromezer-hatszáz.
+Neumann hetedikként állt a táblák elé, és ő volt az, aki hangosan számolni kezdett. – A lista négy nevet tartalmaz – mondta. – Ha a szavazatok egyenletesen oszlanak, bármelyikük kockázata egynegyed. Ha valaki kilép, a maradék háromé egyharmad. Az, aki kivált, minden egyes megmaradtnak nyolc százalékponttal növeli a kockázatát. – Megállt. – Százötvenezer forint tizenkét felé osztva tizenháromezer-hatszáz.
 
 – Tizenkétezer-ötszáz – mondta Hofi.
 
-Neumann ajka egy pillanatra elfehéredett. – Elszólás – mondta. – Nem aludtam. – Az ujját az államára tette, és lehunyta a szemét. – A lényegen ez nem változtat. Ha kiváltok valakit, nem a halált csökkentem, hanem a halál címzettjeit szűkítem. Ez nem jó cselekedet. Ez áthelyezés. Passz.
+Neumann ajka egy pillanatra elfehéredett. – Elszólás – mondta. – Nem aludtam. – Az ujját az államára tette, és lehunyta a szemét. – A lényegen ez nem változtat. Ha kiváltok valakit, nem a kockázatot csökkentem, hanem a címzettjeit szűkítem. Ez nem jó cselekedet. Ez áthelyezés. Passz.
 
 – Hét passz – mondta Brando halkan. – Ki fizeti a számlát?
 
@@ -230,7 +234,7 @@ A Játékmester nem szólt. Mercury lépett előre utolsóként, és a terem elh
 
 – Tudom. – Felemelte a fejét, és a hangja egy pillanatra sértetlen volt, a régi, fényes. – Tudom, hogy mit mondok. Tudom, hogy a másik három nem jár jól. Valakinek meg kell tennie, és én nem akarok a nyolcadik passz lenni. Maria Callast váltom ki.
 
-A Játékmester a fekete könyvbe írt. A toll sercegése végigfutott a termen. – Százötvenezer forint – mondta. – Maria Callas lekerült a listáról. A fődíj kétmillió-nyolcszáztízezer forint. – Bud Spencerhez fordult, aztán Hofihoz, aztán mindenkihez egyszerre. – Önök, akik passzoltak, nem tettek rosszat. Önök, akik nem passzoltak, nem tettek jót. A halál ugyanannyi marad.
+A Játékmester a fekete könyvbe írt. A toll sercegése végigfutott a termen. – Százötvenezer forint – mondta. – Maria Callas lekerült a listáról. A fődíj kétmillió-nyolcszáztízezer forint. – Bud Spencerhez fordult, aztán Hofihoz, aztán mindenkihez egyszerre. – Önök, akik passzoltak, nem tettek rosszat. Önök, akik nem passzoltak, nem tettek jót. A szavazatok száma ugyanannyi marad.
 
 Pár perc múlva a Nagyterem ajtaja kinyílt, és a szürke alak belépett, mögötte Callas. Fekete ruhája a napfényben szinte kékes volt, és a haja egyetlen szála sem mozdult a helyéről. Megállt a küszöbön, és végignézett a nyolc emberen. Mercury szeme találkozott az övével, és Mercury sütötte le elsőnek.
 
@@ -238,7 +242,7 @@ Pár perc múlva a Nagyterem ajtaja kinyílt, és a szürke alak belépett, mög
 
 Senki sem mozdult.
 
-– Nem kértem, hogy fizessen értem valaki. – A hangja halk volt, kimért, ugyanazzal a fegyelmezett pontossággal, mint amellyel egy hosszú mondatot lezárt. – Nem könyörögtem. Nem vártam. Most pedig a három közül, akik ott maradtak, valaki az én helyemen fog meghalni. Tudták, hogy ez így lesz, amikor fizettek? – Mercuryhez fordult. – Maga tudta. Ha engem kivesznek, a másik hármat benn hagyják, ezt kiszámolni nem nehéz. Maga ma délben egy halált választott. Nem az enyémet. Egy másikat.
+– Nem kértem, hogy fizessen értem valaki. – A hangja halk volt, kimért, ugyanazzal a fegyelmezett pontossággal, mint amellyel egy hosszú mondatot lezárt. – Nem könyörögtem. Nem vártam. Most pedig a három közül, akik ott maradtak, valaki az én helyemen kerül ma este a Kapu elé. Tudták, hogy ez így lesz, amikor fizettek? – Mercuryhez fordult. – Maga tudta. Ha engem kivesznek, a másik hármat benn hagyják, és a szavazatok rájuk szakadnak, ezt kiszámolni nem nehéz. Maga ma délben egy halált választott. Nem az enyémet. Egy másikat.
 
 – Maria – mondta Mercury, és a hangja elcsuklott. – Én nem...
 
@@ -250,19 +254,29 @@ Senki sem tudta, mit feleljen. Callas elfordult, és az egyik ablak mellé lépe
 
 – Mondja ezt Gyulának – felelte Brando, a szeme még mindig a kezén. – Este, a Kerekasztalnál.
 
+Délután a nyolc ember a Nagyteremben maradt, kisebb csoportokban, és egy idő után mind ugyanarról beszéltek. Einstein mondta ki, amit a többiek csak sejtettek. – A lista nem a halált jelöli ki – mondta, a tenyerét az asztalra téve. – A Kerekasztalt szűkíti le. Ma este három névre lehet szavazni, és ezt az árulók tudták, amikor írták. – Megállt, mintha a következő mondatot előbb le akarná ellenőrizni. – Egy áruló, aki a saját nevét teszi erre a listára, a saját életével játszik, mert nem ő dönt, hanem mi. Elég egy rossz mondat, és a többség elküldi. Ezért aki a listán van, az nagy valószínűséggel ártatlan.
+
+– Nagy valószínűséggel – ismételte Hofi. – Ezt a két szót általában akkor mondják, amikor semmit sem tudnak.
+
+– Hacsak valamelyik áruló nem olyan merész, hogy mégis ráírja magát – mondta Brando, még mindig a kezét nézve. – Az volna a legnagyobb színjáték. Aki a listán ül, azt senki sem gyanúsítja, és ő ezt pontosan tudja.
+
+Neumann összefűzte az ujjait. – Ez lehetséges megfigyelés, és nem több. A lista nem bizonyítja az ártatlanságot, csak a valószínűségét növeli. Aki ezt ma este bizonyosságnak veszi, az az árulók kezére játszik.
+
+– Akkor ma este nagy valószínűséggel egy ártatlant fogunk elküldeni – mondta Einstein szelíden. – Csak azt nem értem, miért nem akadályoz meg minket ez benne.
+
 ## A Kerekasztal
 
 Mikor a gong hatkor megszólalt, a Kápolna vasrúdja kicsúszott a helyéről, és a három listás visszatért a többiekhez. Kabos arca szürke volt, és a keze remegett, de a szemében volt valami új, szinte dacos elszántság, mintha a hosszú órák alatt a félelem már átfordult volna valami másba. Zsazsa magasan tartotta a fejét, a füzetet a mellére szorítva. Puskás ment a sor végén, és olyan nyugodtan lépett be a Kerekasztal termébe, mintha egy öltözőből jönne, ahol a mérkőzés előtt megbeszélték a taktikát.
 
 A Kerekasztal körül tizenkét szék állt. A kupola csillagai tompán, hidegen ragyogtak, és a fekete ajtó ezüst kerete mozdulatlan maradt. A Játékmester a magasabb székben ült, a keze az asztalon pihent. Mindenki lassan foglalt helyet, és senki sem a megszokott helyére ült: Callas az ajtótól legtávolabbi székre, Mercury Hofi mellé, Kabos pedig Puskás mellé, ahogy a Kápolnában.
 
-– Huszonketten léptek be a kastély kapuján – mondta a Játékmester. – Most tizenketten vannak. A fődíj kétmillió-nyolcszáztízezer forint. A lista három tagja ma a Kerekasztalnál is kiszavazható, és a lista ettől nem szűnik meg: a halál a megmaradtak közül jön, akárkit küld az asztal a Kapuhoz. – Végignézett a három listáson. – Egy-egy percet kapnak. Aztán egy óra vita, és mindenki felír egy nevet. Kérem, kezdjék.
+– Huszonketten léptek be a kastély kapuján – mondta a Játékmester. – Most tizenketten vannak. A fődíj kétmillió-nyolcszáztízezer forint. A halállista ma este a Kerekasztalt szűkíti le: csak a listán szereplők nevét írhatják fel, mást nem. Kabos Gyula. Puskás Ferenc. Gábor Zsazsa. Maria Callas ma este védett. – Végignézett a három listáson. – Egy-egy percet kapnak. Aztán egy óra vita, és mindenki felír egy nevet a háromból. Kérem, kezdjék.
 
 Kabos állt fel elsőnek. A székét nem tolta hátra, hanem úgy emelte fel, mintha attól félne, hogy hangot ad. Kinyitotta a száját, becsukta, megint kinyitotta, és a keze a levegőben fogódzót keresett.
 
 – Hölgyeim és uraim – mondta. – Én... én nem vagyok szónok. Mindig mondták, hogy nem. Mondta a... az igazgató úr is, hogy Gyula, maga nagyon jó, de beszélni ne beszéljen. – Egy kis, bizonytalan nevetés szaladt végig a termen, és Kabos felbátorodott. – Én csak annyit mondok, hogy ha én áruló lennék, akkor... akkor nem lennék ilyen rossz. Ez nem logika, tudom. De a rosszakat nem szokták gyanúsítani, mert azok nem tudnak titkot tartani. Én például minden titkot elmondok, mielőtt kiderülne, hogy az titok. Egyszer elmondtam egy ember meglepetésbulijának a helyét, még mielőtt megrendeltem volna a tortát. – A hangja megremegett. – Tessék. Ennyi. Ártatlan vagyok. Nem hiszik el, mert én mondom? Hát ki mondja?
 
-Zsazsa egy darabig hallgatott, hogy a perc ne legyen sietős, aztán egyenes hangon, tárgyilagosan beszélt. – Három tény – mondta. – Egy: tegnap én vezettem a Kerekasztalt, és eltaláltam. Ha ma éjjel engem érne a halál, az nem a gyanú miatt lenne, hanem azért, mert valaki félt tőlem. Kettő: az árulók írták ezt a négy nevet, tehát nem véletlenül kerültem fel. Vagy azt akarták, hogy gyanús legyek, vagy azt, hogy rám szavazzanak. Három: aki elrejtőzne, az nem áll fel a Kerekasztalnál, és nem kér szót. Én itt vagyok, mindenki előtt. – Megrázta a haját. – Ennyi.
+Zsazsa egy darabig hallgatott, hogy a perc ne legyen sietős, aztán egyenes hangon, tárgyilagosan beszélt. – Három tény – mondta. – Egy: tegnap én vezettem a Kerekasztalt, és eltaláltam. Ha ma este engem szavaznának ki, az nem a gyanú miatt lenne, hanem azért, mert valaki félt tőlem. Kettő: az árulók írták ezt a négy nevet, tehát nem véletlenül kerültem fel. Vagy azt akarták, hogy gyanús legyek, vagy azt, hogy rám szavazzanak. Három: aki elrejtőzne, az nem áll fel a Kerekasztalnál, és nem kér szót. Én itt vagyok, mindenki előtt. – Megrázta a haját. – Ennyi.
 
 Puskás felállt, és egy kicsit hátrébb húzta a székét. – Ártatlan vagyok – mondta. – Pont.
 
@@ -292,31 +306,17 @@ Csend lett. Neumann a kezére nézett, mintha az nem az övé lenne, aztán lass
 
 – Nem – mondta Einstein, szelíden, mint aki a hatalmas dolgokat is halkan mondja. – De érdekes. – Többet nem fűzött hozzá.
 
-A vita ezután már nem tért vissza a nyugodt mederbe. Zsazsa azt mondta, hogy ő Welles mondatát még mindig nem felejtette el, és hogy aki megúszta a tegnapi napot, annak nincs oka megkönnyebbülni. – Én semmit sem úsztam meg – felelte Brando. – Csak még itt vagyok. – Dalí a mennyezetet nézte, és azt mondta, hogy a Kerekasztal nem a szavazatokért van, hanem a szavazók ábrázatáért, és ő most mindenkit gondosan megfigyel. Callas egyszer kérdezte meg, hogy tud-e valaki ma olyat, amit tegnap nem tudott. Senki sem felelt.
+A vita ezután már nem tért vissza a nyugodt mederbe. Zsazsa azt mondta, hogy ő Welles mondatát még mindig nem felejtette el, és hogy aki megúszta a tegnapi napot, annak nincs oka megkönnyebbülni, és hogy Marlont ma nem írhatja fel, az a lista egyetlen hibája. – Én semmit sem úsztam meg – felelte Brando. – Csak még itt vagyok. – Dalí a mennyezetet nézte, és azt mondta, hogy a Kerekasztal nem a szavazatokért van, hanem a szavazók ábrázatáért, és ő most mindenkit gondosan megfigyel. Callas egyszer kérdezte meg, hogy tud-e valaki ma olyat, amit tegnap nem tudott. Senki sem felelt.
 
-Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét ember szavazott. Hepburn lassan, hosszan, a szemét a táblán tartva. Mercury a kezét az arcára szorította. Neumann a táblát mereven maga elé fordította, mint aki most nem bízik a saját kezében. A Játékmester sorban felfordította a táblákat.
+Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét ember szavazott, de most csak három név közül. Hepburn lassan, hosszan, a szemét a táblán tartva. Mercury a kezét az arcára szorította. Neumann a táblát mereven maga elé fordította, mint aki most nem bízik a saját kezében. A Játékmester sorban felfordította a táblákat.
 
-– Kabos – mondta. – Brando. Kabos. Brando. Neumann. Kabos. Brando. Dalí. Kabos. Brando. Neumann. Kabos. – Egy pillanatig mindenki számolt. – Öt szavazat Kabos Gyulára. Négy Marlon Brandóra. Kettő Neumann Jánosra. Egy Salvador Dalíra.
+– Kabos. Zsazsa. Kabos. Zsazsa. Puskás. Kabos. Zsazsa. Puskás. Kabos. Zsazsa. Puskás. Kabos. – Egy pillanatig mindenki számolt. – Öt szavazat Kabos Gyulára. Négy Gábor Zsazsára. Három Puskás Ferencre. – Letette az utolsó táblát. – Kabos Gyula. A Kerekasztal döntött. Kérem, álljon fel.
 
-– Én voltam – mondta Callas hirtelen, hidegen, a szemét Dalín tartva. – Dalíra. Láttam, merre rajzolt, és senki sem kérdezte, miért. Nem kell kérdezni.
-
-– Én Neumannt írtam – mondta Brando, és a hangja a szokásosnál tisztább volt. – A számai miatt. Kétszer is elszámolta magát, és a kétszer már minta. – Neumann felé fordult. – Ez nem személyes.
-
-– Én is... én is őrá – mondta Kabos halkan, és szégyenkezve lesütötte a szemét. – Nem tudom, miért. Úgy éreztem, hogy valakire... valakire kell.
-
-– Én Gyulát – mondta Mercury, és a hangja elcsuklott. – Értem fizettem, és őt írtam. Nem tudom, mit hiszek. – A tenyerét az arcára szorította, és Hofi a vállára tette a kezét.
-
-– Kabos Gyula – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
-
-Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét. A teremben senki sem mozdult. Hepburn felé fordult, a szeme teli volt.
-
-– Ha ön ártatlan, Gyula – mondta halkan –, akkor nagyon sajnálom.
-
-Kabos ránézett. Valami átvillant az arcán, valami régi, derűs, ijedt dolog. – Maga nagyon kedves, Audrey kisasszony – mondta. – Mindig is nagyon kedves volt. – Aztán összeszedte magát, és a Játékmester felé fordult.
+Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét. A teremben senki sem mozdult.
 
 – Kabos Gyula – mondta a Játékmester –, még beszélhet. De ha kimondja, mi volt a szerepe, többet nem szólhat, legfeljebb elköszönhet. Jól válassza meg a sorrendet.
 
-– Hát én... – mondta Kabos. – Én nem tudom a sorrendet. Én mindig elrontom. – Egy nagy levegőt vett, és kihúzta magát, és hirtelen olyan lett, mintha a színpad deszkáin állna, és a nézőtér fényei egyszerre hunytak volna ki. – Hölgyeim és uraim! A következő számban... – elakadt, aztán felnevetett, könnyes, kicsit idétlen nevetéssel. – Nem is tudom, hogy mi a következő szám. Nincs következő szám. – A keze a levegőben ívet rajzolt. – De egyet elmondok. Tudják, mi a legnehezebb szerep a világon? Az ártatlan. Ha gyilkost játszik az ember, mindenki tapsol. Ha ártatlant, mindenki gyanakszik. Egész életemben ártatlant játszottam, és mindig azt kérdezték, mit rejteget az az ember. – Körülnézett, és a tekintete Puskáson állapodott meg, aztán Hepburnön, aztán Mercuryn. – Én nem rejtegettem semmit. Csak nem tudtam, hova tegyem a kezem. – A hangja elcsuklott, és mosolygott, a könnyei folytak. – Hölgyeim és uraim: ártatlan vagyok.
+– Hát én... – mondta Kabos. – Én nem tudom a sorrendet. Én mindig elrontom. – Egy nagy levegőt vett, és kihúzta magát, és hirtelen olyan lett, mintha a színpad deszkáin állna, és a nézőtér fényei egyszerre hunytak volna ki. – Hölgyeim és uraim! A következő számban... – elakadt, aztán felnevetett, könnyes, kicsit idétlen nevetéssel. – Nem is tudom, hogy mi a következő szám. Nincs következő szám. – A keze a levegőben ívet rajzolt. – De egyet elmondok. Tudják, mi a legnehezebb szerep a világon? Az ártatlan. Ha gyilkost játszik az ember, mindenki tapsol. Ha ártatlant, mindenki gyanakszik. Egész életemben ártatlant játszottam, és mindig azt kérdezték, mit rejteget az az ember. – Körülnézett, és a tekintete Puskáson állapodott meg, aztán Zsazsán, aztán Hepburnön. – Én Zsazsára írtam, asszonyom, kérem szépen, ne haragudjon. Valakire kellett, és ön az egyetlen, aki engem biztosan nem felejtene el. – Hepburnhöz fordult. – Maga pedig, Audrey kisasszony, egész nap fogta a kezem. Köszönöm. Ezt még tudom, és amíg tudom, el is mondom. – A hangja elcsuklott, és mosolygott, a könnyei folytak. – Én nem rejtegettem semmit. Csak nem tudtam, hova tegyem a kezem. Hölgyeim és uraim: ártatlan vagyok.
 
 – Kabos Gyula ártatlan volt – mondta a Játékmester.
 
@@ -332,7 +332,19 @@ Senki sem felelt. Zsazsa felállt, a füzetét az asztalra dobta, a lapok szétn
 
 – Elég – mondta Bud Spencer.
 
-Nem emelte fel a hangját. Csak annyit mondott, hogy elég, és a terem elcsendesedett. Zsazsa leült. Callas Mercuryre nézett, aztán lassan, szinte hallhatatlanul, annyit mondott neki: – Értem fizetett, aztán ráírta Gyula nevét. Nem tudom, mit gondoljak magáról.
+Nem emelte fel a hangját. Csak annyit mondott, hogy elég, és a terem elcsendesedett. Zsazsa leült. Aztán, mert a döntés már megszületett, és a vita csak az eredményről szólhatott, lassan megindult a szavazatok megbeszélése. Callas szólalt meg elsőnek, hidegen, a szemét Dalín tartva. – Puskás Ferencet írtam – mondta. – Dalít írtam volna. Láttam, merre rajzolt, és senki sem kérdezte, miért. De ő nincs a listán, és a szabály ez.
+
+– Én Zsazsát – mondta Brando, a tenyerébe támasztva az állát. – A háromból ő mutatna rám először. Ha lehetne, Neumannt írtam volna. Kétszer is elszámolta magát, és a kétszer már minta. Ez nem személyes.
+
+– Én Gyulát írtam – mondta Hepburn halkan, a szemét a kezén tartva. – Ha ártatlan volt, nagyon sajnálom.
+
+Senki sem felelt neki. Mercury a tenyerét az arcára szorította. – Én is Gyulát – mondta, és a hangja elcsuklott. – Értem fizettem, és őt írtam. Nem tudom, mit hiszek. – Hofi a vállára tette a kezét.
+
+– Én magamat – mondta Puskás, mint aki a cipőjéről beszél. – Valakit muszáj volt, és én bírom.
+
+– Aki a saját nevét írja – mondta Hofi csendesen –, az vagy nagyon ártatlan, vagy nagyon merész áruló. Én nem tudom, melyik, és ne is mondja meg.
+
+Callas Mercuryre nézett, aztán lassan, szinte hallhatatlanul, annyit mondott neki: – Értem fizetett, aztán ráírta Gyula nevét. Nem tudom, mit gondoljak magáról.
 
 – Én sem – felelte Mercury.
 
@@ -342,41 +354,31 @@ Nem emelte fel a hangját. Csak annyit mondott, hogy elég, és a terem elcsende
 
 Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn egymás után három ember lépései hallatszottak. A kőasztalnál három szék állt, és mind a háromba leültek, a csuklyák árnyékában, a gyertya körül, amelynek lángja ma egyenesen égett, és nem hajolt meg senki lélegzetétől. Az asztalon egyetlen lap feküdt, a szürke, a halállista, amelyről két nevet vékony vonallal kihúztak.
 
-– Felemeltem a hangom – mondta az Első. Nem kérdés volt, és nem is bocsánatkérés. Csak közlés, mint amikor az ember egy számlát olvas fel.
+– A lista elvégezte a dolgát – mondta az Első. Nem kérdés volt, és nem is megkönnyebbülés, csak közlés, mint amikor az ember egy számlát olvas fel. – Két név maradt rajta, de az éjszakát nem köti. Ma bárkit választhatunk.
 
-– A boltozatig hallatszott – mondta az Új. – Dalí szerette. Olyan volt, mint egy remegő harang.
+– A díj kétmillió-nyolcszáztízezer – folytatta, és a hangja egyenletes volt. – Kettő felé osztva egymillió-négyszázötezer, három felé kilencszázharminchatezer-hatszázhatvanhat. A váltságra elment százötvenezer, amit nem mi fizettünk, de a mi pénzünkből ment el.
 
-– Nem harang volt – mondta az Első. – Hiba volt. – A keze az asztalon feküdt, az ujjai szorosan egymásba kulcsolva. – A hangom emelkedett, és nem tudtam megállítani. Az a tizenkét ember most azt hiszi, hogy bennem valami megtört. Zsazsa kimondta. Einstein szemében láttam, hogy feljegyezte. Ez nem engedhető meg.
+– Délben mindenki azt számolta, hogy a nevek kevesebbek lettek – mondta a Harmadik. – Ma este pedig mind a hárman megtudtuk, milyen az, amikor a Kerekasztal egyetlen emberre szakad.
 
-– Remegett a keze – mondta a Harmadik halkan. – Mikor kezdett kiabálni. Én láttam.
+– Ezt hívják eredménynek – mondta az Első, és nem nézett fel. – Két fajta ember veszélyes számunkra: aki mindent figyel, és akire a többiek hallgatnak. Az elsőt akarom. Egy nyomozó, akit életben hagyunk, minden nap közelebb kerül hozzánk, és ezt nem tudjuk megállítani.
 
-– A kezem nem remeg.
+– A másodikat – mondta a Harmadik.
 
-– Akkor láttam rosszul.
+Az Első felé fordult. A csuklya árnyékából is érezni lehetett a tekintetét. – Akire hallgatnak?
 
-Az Első nem felelt. A lángra nézett, aztán a szürke lapra, és mintha ezzel lezárta volna a kérdést, hangosan, egyenletesen folytatta. – A lista két neve még él. A mai éjszaka halála csak ezek közül kerülhet ki. A díj kétmillió-nyolcszáztízezer. Kettő felé osztva egymillió-négyszázötezer, három felé kilencszázharminchatezer-hatszázhatvanhat. A váltságra elment százötvenezer, amit nem mi fizettünk, de a mi pénzünkből ment el. Az egyetlen szerencsénk, hogy a váltság egy olyan nevet vitt el a listáról, amelyiket nem akartunk.
+– Akire hallgatnak. – A Harmadik hangja halk volt, és nem remegett. – Ma elvesztettek egy embert, akit mindannyian védeni akartak, és még nem tudják, mit kezdjenek a gyásszal. Aki most nyugodt marad mellettük, azt követik. Ha őt vesszük el, nincs senki, aki megnyugtatná őket. A félelemből pánik lesz. A pánik hibákat szül, a hibák pedig a miénk. Nem gyönge, aki így gondolkodik. Csak más szempontból számol.
 
-– A halál ugyanannyi maradt, a nevek kevesebbek – mondta a Harmadik. – Így mondta a Játékmester. Ma délben a fél kastély ezt számolta.
+– Magának egy szempontja van – mondta az Első. – Az érzelem.
 
-– Ma délben mindenki rosszul számolt. – Az Első összefonta a karját. – Két név. Én az egyiket akarom. A füzetes. – A hangja újra hideg volt, tárgyilagos, és a hideg azt jelezte, hogy a nyugalom már visszatért. – Ő buktatta le a Másodikat. Négy oldal. Ma is egy füzettel ült a Kerekasztalnál, és mindent leírt, amit mondtam. Aki így figyel, az előbb-utóbb a mi nevünkhöz ér. Egy nyomozó, akit életben hagyunk, minden nap közelebb kerül hozzánk, és ezt nem tudjuk megállítani.
+– Igen. – A Harmadik hangja elcsuklott, és ez volt az egyetlen pillanat, amikor a csuklya alatt valami megrezzent: egy halk, nyers hang, mint amikor valaki rosszul lép egy lépcsőfokra. – Ma a Kapu elé küldtünk egy embert, és tudtam, hogy mi írtuk a nevét. Attól, hogy tudtam, miért, nem lett könnyebb.
 
-– A másikat – mondta a Harmadik.
+– Az érzelem nem érv.
 
-Az Első felé fordult. A csuklya árnyékából is érezni lehetett a tekintetét. – A nyugtatót?
-
-– A nyugtatót. – A Harmadik hangja halk volt, és nem remegett. – Ma elvesztették az egyik embert, akit mindannyian védeni akartak, és még nem tudják, mit kezdjenek a gyásszal. Aki ott volt, és átkarolta, és azt mondta neki, hogy jól csinálta, az a másik. Ha ő is elmegy, nincs senki, aki megnyugtatná őket. A félelemből pánik lesz. A pánik hibákat szül, a hibák pedig a miénk. Nem gyönge, aki így gondolkodik. Csak más szempontból számol.
-
-– Magának is egy szempontja van – mondta az Első. – A kéz.
-
-– Ma is fogtam a kezét. – A Harmadik hangja elcsuklott, és ez volt az egyetlen pillanat, amikor a csuklya alatt valami megrezzent: egy halk, nyers hang, mint amikor valaki rosszul lép egy lépcsőfokra. – Ma is fogtam. És ma ráírtam a nevét.
-
-– A kéz nem érv.
-
-– A kéz mindig az érv – mondta az Új. Mellette a gyertya egy pillanatra hunyorított. – Dalí három dolgot figyelt meg ma, és mind a hármat elmondja, mert a konklávé nem a hallgatás helye. Az első: Dalí ma délben passzolt. Dalí soha életében nem passzolt. Furcsa íze van. Olyan, mint egy pohár víz, amiben nincs semmi, mégis érződik, hogy kellene valami. Ezt megtanultam: a másik oldalon ülni fárasztó. – Egy pillanatra elhallgatott. – A második: a füzetes ma is tévedett. Brandóra szavazott, és Brando ártatlan. Aki tévedhet, annak élnie kell. Ha ma elvesszük, a holnapi Kerekasztalnál nem lesz, aki a tévedésével elnyeli a többiek figyelmét, és valaki okosabb fogja vezetni őket. Aki makacsul téved, az a mi szövetségesünk.
+– Az érzelem mindig érv – mondta az Új. Mellette a gyertya egy pillanatra hunyorított. – És két dolgot még meg kell nézni. Az első: aki ma tévedett, annak holnap is élnie kell. Ha elvesszük, a Kerekasztalnál nem lesz, aki a tévedésével elnyeli a többiek figyelmét, és valaki okosabb fogja vezetni őket. Aki makacsul téved, az a mi szövetségesünk.
 
 – Ez a hasznos ostoba érve – mondta az Első.
 
-– Ez a kellemetlen ember érve. Dalí tudja. Ma átéltem, milyen az, amikor az ember belül háborog egy olyan ember miatt, aki tökéletesen magabiztos, és még csak nem is igaza van. – Az Új közelebb hajolt a gyertyához. – A harmadik: a nyugtató azt mondta, hogy ártatlan vagyok, pont, és mindenki elhitte. A füzetes beszédét lehet cáfolni. Ezt nem lehet, mert nincs benne semmi, amit meg lehetne fogni. Aki ilyen egyszerűen hiteles, az a legveszélyesebb a Kerekasztalnál, mert a többiek hozzá igazodnak.
+– Ez a türelmes ember érve. – Az Új közelebb hajolt a gyertyához. – A második: aki egyszerűen hiteles, annak a beszédét nem lehet cáfolni, mert nincs benne semmi, amit meg lehetne fogni. Ő a legveszélyesebb a Kerekasztalnál, mert a többiek hozzá igazodnak.
 
 Az Első hosszan hallgatott. A gyertya lángja egyenesen állt, és az árnyékok mozdulatlanul feküdtek a kövön.
 
@@ -386,11 +388,7 @@ Az Első hosszan hallgatott. A gyertya lángja egyenesen állt, és az árnyéko
 
 – Mindig a számolásról van szó. – Az Első a szürke lapra mutatott. – Tegnap éjjel az én megkérdezésem nélkül döntöttek, ma este megint. Két szavazat egy ellen. Ebből soha nem lesz olyan, hogy hárman. Ebből mindig az lesz, hogy ketten, és egy harmadik, aki alkalmazkodik. – Hangja halk volt. – Megjegyzem. Nem szándékosan, csak a számok miatt.
 
-– Én is megjegyzem – mondta az Új, és a szájában szinte látszott a mosoly. – Dalí nem alkalmazkodik. Dalí csak találkozik valakivel útközben.
-
-– Ez nem válasz.
-
-– Ez a legőszintébb válasz, amit Dalí hajnali egykor adhat.
+– Én is megjegyzem – mondta az Új, és a hangjában szinte hallatszott a mosoly. – De én nem alkalmazkodom. Csak ma éjjel történt, hogy ugyanarra gondoltunk.
 
 A Harmadik nem szólt. Megfogta az Új kezét az asztalon, aztán, mintha észrevette volna, hogy mit tett, óvatosan el akarta húzni, de az Új nem engedte el. Az Első ezt látta. A csuklya árnyékából nem lehetett kiolvasni semmit, és az Első tekintete még egy pillanatig a két összekulcsolt kézen maradt, aztán elfordult.
 
@@ -402,6 +400,4 @@ A Harmadik kimondta a nevet. Halkan, olyan halkan, hogy a gyertya lángja sem mo
 
 – Még mindig – mondta a Harmadik.
 
-– Dalí szereti ezt a számot – mondta az Új, de a hangja most halkabb volt, szinte hozzátartozott a gyertya fényéhez. – A harmadik mindig azt jelenti, hogy valaki figyel.
-
-A lépcsőn az Első indult el elsőnek. Aztán a Harmadik, aztán az Új, és egymás után, külön-külön hagyták el a tornyot, mint akik nem akarnak együtt látszani. A szobákban tizenegyen feküdtek le. Kilencen tudták, hogy a reggel nem értük jön. A másik kettő nem tudta, melyikük lesz az, és egyikük sem aludt.
+A lépcsőn az Első indult el elsőnek. Aztán a Harmadik, aztán az Új, és egymás után, külön-külön hagyták el a tornyot, mint akik nem akarnak együtt látszani. A szobákban tizenegyen feküdtek le, és egyikük sem aludt jól.

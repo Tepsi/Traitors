@@ -6,4 +6,4 @@
 04-a-lanc.md;2026-11-15
 05-a-vakfolyoso.md;2026-11-22
 06-a-merleg.md;2026-11-29
-07-a-valtsag.md;2026-12-06
+07-a-halallista.md;2026-12-06

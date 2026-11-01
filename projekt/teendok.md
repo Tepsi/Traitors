@@ -47,7 +47,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - Hatodik próbatétel (a halállista napja): a Váltságdíj (a négy listást a Kápolnában tartják, a nyolc kint maradó hangosan dönt, kiváltja-e valamelyiküket százötvenezer forintért a fődíjból; legfeljebb egy név). Eredmény: fődíj 2 810 000 Ft. (C, 7. fejezet)
 
 ## Kész
-- [x] 7. fejezet megírva: `fejezetek/07-a-valtsag.md` (a halállista és a váltságdíj; fődíj 2 810 000 Ft; K7 és az éjszaka a szövegben) (C, 10-31)
+- [x] 7. fejezet megírva: `fejezetek/07-a-halallista.md` (a halállista és a váltságdíj; fődíj 2 810 000 Ft; K7 és az éjszaka a szövegben) (C, 10-31)
 - [x] 6. fejezet megírva: `fejezetek/06-a-merleg.md` (új próbatétel: a Mérleg; fődíj 2 960 000 Ft; K6 és a konklávé a szövegben) (C, 10-28)
 - [x] 5. fejezet megírva: `fejezetek/05-a-vakfolyoso.md` (új próbatétel: a Vakfolyosó; fődíj 2 410 000 Ft; K5 Taylor; N5 név nélkül) (C, 10-24)
 - [x] 4. fejezet megírva: `fejezetek/04-a-lanc.md` (új próbatétel: a Kútház; fődíj 1 870 000 Ft; K4 de Funès; N4 név nélkül) (C, 10-21)

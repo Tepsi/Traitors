@@ -23,3 +23,6 @@ Kerekasztal szavazása után először megbeszélik, hogy ki kire szavazott, és
 ## A konklávé spoilerei
 A konklávén olyan nyíltan beszélnek nevekkel, hogy biztosan kiderül, Neumann az Első és Dali az új. Ráadásul Dali "dalisan" beszél. Sokkal kevesebb spoilert adjál, ha mondanak is esetleg neveket, abból ne derüljön ki, hogy az illető ártatlan vagy áruló, de a legjobb, ha nem azosítják egyértelműen, hogy kiről beszélnek éppen.
 
+
+## Állapot
+KÉSZ (2026-11-01): mind a hét pont elvégezve a hetedik fejezetben (új cím: A halállista, fájl: fejezetek/07-a-halallista.md). Nincs teendő ebből a jegyzetből.
