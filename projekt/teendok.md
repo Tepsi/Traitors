@@ -3,18 +3,11 @@
 Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, (C) = Claude. Ha kész egy elem, írd át `[ ]`-ról `[x]`-re, és vidd a „Kész" részbe.
 
 ## Következő lépések
-- [x] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
-- [ ] 4. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kútház-próbatétel, a Kerekasztal, a konklávé. (Z)
-- [ ] 6. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Mérleg-próbatétel, a Kerekasztal, a konklávé. (Z)
-- [ ] 5. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Vakfolyosó-próbatétel, a Kerekasztal, a konklávé. (Z)
 - [ ] 7. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a halállista és a váltságdíj, a Kerekasztal, a konklávé. (Z)
-- [x] 5. fejezet illusztrációinak promptjai megírva (`kepek/05-01`–`05-04`). (C)
-- [x] 5. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
-- [x] 4. fejezet illusztrációi: promptok megvoltak, a képek `.jpg`-re átnevezve és beszerkesztve. (C)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
 - [ ] A bejárás szálai: Christie üres polcrése a könyvtárban, a festmények a Nagyterem felé néznek, a pincelépcső ajtaja zárva, a konklávé tölgyajtaja. Visszatérnek-e? (C+Z)
 - [ ] A titkos terv karbantartása: minden új fejezetnél ellenőrzés, a nyomok és a kiesések naplózása. Zoli nem akarja tudni, csak Claude használja. (C)
-- [ ] Új feliratok feldolgozása, ahogy Zoli feltölti őket. (C)
+
 
 ## Ötlettár (később)
 - [ ] Mártírkoporsós fordulat (5 jelölt, egy meghal, a gyilkosok választanak): később felhasználható. (C)
@@ -23,7 +16,6 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - [ ] „Ki nem szavazott rá?" lista egy lebukás után mint fair play eszköz. (C)
 
 ## Ellenőrizendő
-- [x] A „Holdvári-labirintus" (2. fejezet): a pajzs paradoxona érthető-e, a Játékmester szabályai tiszták-e. (Z)
 - [ ] Brando és Callas modora: ha még jellegtelennek tűnnek, jelezd. (Z+C)
 
 ## Eldöntve
@@ -69,3 +61,12 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - [x] Titkos terv frissítve a 2. fejezethez (C)
 - [x] Halállista és meghívás-szabály rögzítve (C)
 - [x] 1. fejezet, első konklávé: „azt hittem, egyedül vagyok" ellentmondás javítva (az árulók tudják, hogy 2–4-en vannak); konklávé-javítások (Első/Második/Harmadik, metakommentár törlése, csuklya) újra átvezetve (C, 10-17)
+- [x] 2. fejezet átolvasása és jelzés (új reggeli-nyitánnyal): hangnem, humor-határok, a labirintus-próbatétel, a Kerekasztal szavazás. (Z)
+- [x] 4. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kútház-próbatétel, a Kerekasztal, a konklávé. (Z)
+- [x] 6. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Mérleg-próbatétel, a Kerekasztal, a konklávé. (Z)
+- [x] 5. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Vakfolyosó-próbatétel, a Kerekasztal, a konklávé. (Z)
+- [x] 5. fejezet illusztrációinak promptjai megírva (`kepek/05-01`–`05-04`). (C)
+- [x] 5. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
+- [x] 4. fejezet illusztrációi: promptok megvoltak, a képek `.jpg`-re átnevezve és beszerkesztve. (C)
+- [x] Új feliratok feldolgozása, ahogy Zoli feltölti őket. (C)
+- [x] A „Holdvári-labirintus" (2. fejezet): a pajzs paradoxona érthető-e, a Játékmester szabályai tiszták-e. (Z)
