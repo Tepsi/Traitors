@@ -138,7 +138,7 @@ Egy ideig senki sem ült le. Kabos a keskeny ablak előtt állt, és ujjai az ab
 
 – Én nem tudtam semmit! – tiltakozott Kabos, és az orrát törölte. – Engem senki nem kérdezett.
 
-Zsazsa a harmadik padra ült, a füzetet az ölébe tette, és kinyitotta. Nem a szokásos lendülettel írt, hanem lassan, mint aki először próbál egy új tollal. Aztán letette. – Gondolkodjunk – mondta. – Négy név van. Azt mondtam odafent, hogy így szóródik szét a gyanú, és bevallom, hogy közben azon tűnődtem, melyik vagyok én. Az árulók nem hülyék. Ha engem tesznek fel, az azt jelenti, hogy vagy azt akarják, hogy gyanús legyek, vagy azt, hogy kiessek, vagy azt, hogy a gyanú szétszóródjon, hogy ne rám nézzenek. – Összehúzta a szemét. – A legrosszabb az, hogy mindhárom lehetőség ugyanarra az eredményre vezet. Hogy ma meghalok, vagy nem, és ebből semmit sem lehet kiolvasni.
+Zsazsa a harmadik padra ült, a füzetet az ölébe tette, és kinyitotta. Nem a szokásos lendülettel írt, hanem lassan, mint aki először próbál egy új tollal. Aztán letette. – Gondolkodjunk – mondta. – Négy név van. Azt mondtam odafent, hogy így szóródik szét a gyanú, és bevallom, hogy közben azon tűnődtem, melyik vagyok én. Az árulók nem hülyék. Ha engem tesznek fel, az azt jelenti, hogy vagy azt akarják, hogy gyanús legyek, vagy azt, hogy kiessek, vagy azt, hogy a gyanú szétszóródjon, hogy ne rám figyeljenek. – Összehúzta a szemét. – A legrosszabb az, hogy mindhárom lehetőség ugyanarra az eredményre vezet. Hogy ma meghalok, vagy nem, és ebből semmit sem lehet kiolvasni.
 
 – Maga nem hal meg – mondta Puskás.
 
@@ -294,17 +294,17 @@ Csend lett. Neumann a kezére nézett, mintha az nem az övé lenne, aztán lass
 
 A vita ezután már nem tért vissza a nyugodt mederbe. Zsazsa azt mondta, hogy ő Welles mondatát még mindig nem felejtette el, és hogy aki megúszta a tegnapi napot, annak nincs oka megkönnyebbülni. – Én semmit sem úsztam meg – felelte Brando. – Csak még itt vagyok. – Dalí a mennyezetet nézte, és azt mondta, hogy a Kerekasztal nem a szavazatokért van, hanem a szavazók ábrázatáért, és ő most mindenkit gondosan megfigyel. Callas egyszer kérdezte meg, hogy tud-e valaki ma olyat, amit tegnap nem tudott. Senki sem felelt.
 
-Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét ember írt. Hepburn lassan, hosszan, a szemét a táblán tartva. Mercury a kezét az arcára szorította. Neumann a táblát mereven maga elé fordította, mint aki most nem bízik a saját kezében. A Játékmester sorban felfordította a táblákat.
+Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét ember szavazott. Hepburn lassan, hosszan, a szemét a táblán tartva. Mercury a kezét az arcára szorította. Neumann a táblát mereven maga elé fordította, mint aki most nem bízik a saját kezében. A Játékmester sorban felfordította a táblákat.
 
 – Kabos – mondta. – Brando. Kabos. Brando. Neumann. Kabos. Brando. Dalí. Kabos. Brando. Neumann. Kabos. – Egy pillanatig mindenki számolt. – Öt szavazat Kabos Gyulára. Négy Marlon Brandóra. Kettő Neumann Jánosra. Egy Salvador Dalíra.
 
 – Én voltam – mondta Callas hirtelen, hidegen, a szemét Dalín tartva. – Dalíra. Láttam, merre rajzolt, és senki sem kérdezte, miért. Nem kell kérdezni.
 
-– Én Neumannra írtam – mondta Brando, és a hangja a szokásosnál tisztább volt. – A számai miatt. Kétszer is elszámolta magát, és a kétszer már minta. – Neumann felé fordult. – Ez nem személyes.
+– Én Neumannt írtam – mondta Brando, és a hangja a szokásosnál tisztább volt. – A számai miatt. Kétszer is elszámolta magát, és a kétszer már minta. – Neumann felé fordult. – Ez nem személyes.
 
 – Én is... én is őrá – mondta Kabos halkan, és szégyenkezve lesütötte a szemét. – Nem tudom, miért. Úgy éreztem, hogy valakire... valakire kell.
 
-– Én Gyulára – mondta Mercury, és a hangja elcsuklott. – Értem fizettem, és rá írtam. Nem tudom, mit hiszek. – A tenyerét az arcára szorította, és Hofi a vállára tette a kezét.
+– Én Gyulát – mondta Mercury, és a hangja elcsuklott. – Értem fizettem, és őt írtam. Nem tudom, mit hiszek. – A tenyerét az arcára szorította, és Hofi a vállára tette a kezét.
 
 – Kabos Gyula – mondta a Játékmester. – A Kerekasztal döntött. Kérem, álljon fel.
 
