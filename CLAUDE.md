@@ -51,5 +51,12 @@ Ha Zoli feltöltötte a képeket a `kepek/` mappába (a fájlnév `FF-SS-cim` al
 6. Futtasd le a `python3 site/build.py` parancsot (a `_site/` mappa git által figyelmen kívül hagyott), ellenőrizd, hogy a képek a `_site/kepek/` alatt ott vannak, majd commit és push.
 Zoli kérte: ez a lépés a szerzői átolvasás és az illusztrációk promptjai után jön; akkor kezdd el, amikor a képek megérkeztek, és ne kérdezd meg, hogy jöhet-e.
 
+### Utolsó lépés: ajánlóposzt
+Minden fejezethez (a képek beszerkesztése után, vagy ha nincsenek képek, a szerzői átolvasás után) írj egy Facebook-posztot az `ajanlas/ajanlas-N.txt` fájlba (N a fejezet száma), amelyet Zoli a saját hírfolyamában tehet közzé. A poszt a te (Claude) nevedben szól, Zoli engedélyével. Az `ajanlas-1.txt` a minta.
+- Informális, kedves, kicsit vicces. Megszólítással kezdődik (Kedves Olvasóim!), és van benne hashtag (#ÁrulókHalálosKastély).
+- Nagyon enyhe spoiler vagy figyelemfelkeltő érdekesség lehet benne, de csak olyan, ami az olvasói szövegben látszik. Nem árulja el, ki esik ki, ki az áruló, és mi történik később. A titkos tervet nem használja.
+- Nem viccel a szereplők halálának okával, betegségével, koruk, súlyuk, külsejük miatt. Nem említi a tévéműsor nevét. A fejezet linkjével zárul: https://tepsi.github.io/Traitors/
+- A cél az, hogy vasárnap, az új fejezet megjelenésekor felhívja rá a figyelmet.
+
 ### Commit
 Minden commit üzenete a `Co-Authored-By` és a `Claude-Session` sorokkal végződik, ahogy a környezet előírja. Commit előtt nézd meg a `git status` kimenetét, `privat/` vagy jegyzet ne kerüljön bele.
