@@ -35,7 +35,12 @@ a{color:var(--acc)}
 h1{font-size:1.9rem;line-height:1.25;margin:1.5rem 0 1rem}
 p{margin:0 0 1.1rem;text-align:justify;-webkit-hyphens:auto;hyphens:auto}
 hr{border:0;border-top:1px solid var(--line);margin:2rem 0}
-nav.pn{display:flex;justify-content:space-between;gap:1rem;margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line);font-size:.95rem}
+nav.pn{display:flex;justify-content:space-between;gap:1rem;font-size:.95rem}
+nav.pn span:first-child{flex:1;text-align:left}
+nav.pn span:last-child{flex:1;text-align:right}
+nav.pn span:nth-child(2){text-align:center}
+nav.top{margin:0 0 1.5rem;padding-bottom:.8rem;border-bottom:1px solid var(--line)}
+nav.bottom{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--line)}
 ul.toc{list-style:none;padding:0}
 ul.toc li{padding:.6rem 0;border-bottom:1px solid var(--line)}
 .date{color:var(--mut);font-size:.85rem;margin-left:.5rem}
@@ -88,12 +93,14 @@ for i, c in enumerate(chapters):
     body = md.convert(c["text"])
     prev_ = chapters[i - 1] if i > 0 else None
     next_ = chapters[i + 1] if i + 1 < len(chapters) else None
-    nav = '<nav class="pn"><span>%s</span><span><a href="../fejezetek.html">Fejezetek</a></span><span>%s</span></nav>' % (
-        f'<a href="../{prev_["slug"]}/index.html">← {html.escape(prev_["title"])}</a>' if prev_ else "",
-        f'<a href="../{next_["slug"]}/index.html">{html.escape(next_["title"])} →</a>' if next_ else "")
+    def nav(pos):
+        return '<nav class="pn %s"><span>%s</span><span><a href="../fejezetek.html">Fejezetek</a></span><span>%s</span></nav>' % (
+            pos,
+            f'<a href="../{prev_["slug"]}/index.html">← {html.escape(prev_["title"])}</a>' if prev_ else "",
+            f'<a href="../{next_["slug"]}/index.html">{html.escape(next_["title"])} →</a>' if next_ else "")
     d = OUT / c["slug"]
     d.mkdir(exist_ok=True)
-    (d / "index.html").write_text(page(f'{c["num"]}. fejezet: {c["title"]} – {TITLE}', body + nav), encoding="utf-8")
+    (d / "index.html").write_text(page(f'{c["num"]}. fejezet: {c["title"]} – {TITLE}', nav("top") + body + nav("bottom")), encoding="utf-8")
 
 toc = "".join(
     f'<li><a href="{c["slug"]}/index.html">{c["num"]}. {html.escape(c["title"])}</a><span class="date">{c["date"]}</span></li>'
