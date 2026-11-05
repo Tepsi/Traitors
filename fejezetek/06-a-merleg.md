@@ -94,6 +94,8 @@ A Játékmester már nem volt a kandalló mellett. Az asztalon a tányérok hide
 
 A Keleti Szárny Mérleg-terme hideg volt és magas, a mennyezetén sötét gerendák futottak keresztül. A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne. Az egyik serpenyő színe arany volt, a másiké fekete vas. Mindkettőt vastag sárgaréz fedél zárta, a fedélen egyetlen keskeny rés, éppen akkora, hogy egy kő átférjen rajta, alatta sötét. A mérleg rúdját vasszeg tartotta egyensúlyban. A mérleg elé lakkozott paravánt állítottak, olyan magasat, hogy mögé senki se lásson be, amíg a másik oldalon áll. A terem szélén, egy kis asztalon, tizenhárom sima szürke kő sorakozott.
 
+![A Mérlegterem: a sárgaréz mérleg két serpenyővel, előtte a lakkozott paraván](../kepek/06-01-a-merleg.jpg)
+
 – Tizenhárman vannak – mondta a Játékmester, amikor mind beléptek. – Tizenhárom kő, mindegyikben egy kis jel az alján, amelyet csak én ismerek. Mindenki egyet kap. A paraván mögé egyenként lépnek, és a követ az egyik serpenyőbe teszik. Az Arany serpenyőbe tett kő ötvenezer forinttal növeli a fődíjat. A Vas serpenyőbe tett kő nem hoz pénzt, de ha a végén pontosan egy kő fekszik benne, a gazdája pajzsot kap. Ha kettő vagy több, a pajzs elvész, és ezek a kövek sem érnek semmit.
 
 – Tehát aki pajzsot akar, az ötvenezret kockáztat – mondta Einstein.
@@ -348,6 +350,8 @@ Hitchcock felállt. A székét óvatosan betolta az asztalhoz, mintha vendég le
 
 – A teremnek – mondta Hitchcock. – Vagy nekem. Ezt majd maguk döntsék el. – Összekulcsolta a kezét a hasán, és lassan végigment a tekintetével az asztalon, arcról arcra, mint aki a szereposztást ellenőrzi. – A jó film titka, hogy a legfontosabb dolgot az utolsó jelenetben mondják ki, és addig mindenki mást gyanúsít. Önök ma kitűnően dolgoztak: hat érv, négy oldal, és egy szavazás, amelyen nem fogtak ki rajtam. Egy dolgot elárulok, mielőtt elmegyek: a legjobb szerep az, amelyről senki sem sejti, hogy szerep. Hölgyeim és uraim: áruló vagyok.
 
+![Hitchcock a Feledés Kapuja előtt, a Kerekasztalnál ülők mind őt figyelik](../kepek/06-02-hitchcock-bucsuja.jpg)
+
 – Alfred Hitchcock áruló volt – mondta a Játékmester.
 
 Egy pillanatig senki sem lélegzett. Aztán Zsazsa a szájára szorította a kezét, és kiadott magából egy hangot, amely sírás volt és nevetés is. Callas fölemelkedett a székéből, és megint leült. Kabos hangosan zokogni kezdett, olyan nyíltan, hogy Puskás átkarolta, és a hátát paskolta, miközben ő is nyelt egyet. Mercury felugrott, és Hofit ölelte át, aki először nem tudta, mit csináljon a karjával, aztán viszonozta. Einstein elmosolyodott, és a szeme könnyes lett. Bud Spencer lassan, nagyot bólintott, mintha valami nagy súlyt tett volna le.
@@ -475,6 +479,8 @@ Az Első hátradőlt, és sokáig nézte a lángot. Amikor megszólalt, a hangja
 Amíg odafent a gyertya égett, egy szürke alak lement a lépcsőn, és végigment a folyosón. Nem sietett. Az egyik ajtó előtt megállt, és a fekete lapot lassan becsúsztatta a küszöb alatt. A pecsét ezüstös volt, és halványan fénylett a sötétben. Az ajtó mögött valaki felvette a levelet. Hosszan olvasta, kétszer is. Aztán a gyertya fölé tartotta, és sokáig nézte a lángot, anélkül, hogy a papír hozzáért volna. A szürke alak a küszöbön várt, mert a meghívottnak nem adtak időt: a választ azonnal meg kellett adnia.
 
 Fent az Első és a Harmadik nem szólt egymáshoz. A gyertya a felére égett, mire a lépcsőn lépések hallatszottak. A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal. A szürke alak a küszöbön maradt, aztán eltűnt.
+
+![A konklávészoba ajtajában egy csuklyás alak áll a fekete lappal](../kepek/06-03-a-fekete-lap.jpg)
 
 – Elfogadtam – mondta az újonnan jött. A hangja nyugodt volt.
 

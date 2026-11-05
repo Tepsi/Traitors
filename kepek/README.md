@@ -53,9 +53,9 @@ Tippek az egységességhez:
 | `05-02-brando-a-vakon` | „Brando kötötte be a szemét, aztán hosszasan állt…" | kész, beszerkesztve |
 | `05-03-agatha-helye` | „– Agatha helye – mondta Welles halkan." | kész, beszerkesztve |
 | `05-04-taylor-a-kuszoben` | „Taylor megigazította a karperecét, a küszöbön megállt, és hátrafordult." | kész, beszerkesztve |
-| `06-01-a-merleg` | „A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne." | |
-| `06-02-hitchcock-bucsuja` | „Hölgyeim és uraim: áruló vagyok." | |
-| `06-03-a-fekete-lap` | „A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal." | |
+| `06-01-a-merleg` | „A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne." | kész, beszerkesztve |
+| `06-02-hitchcock-bucsuja` | „Hölgyeim és uraim: áruló vagyok." | kész, beszerkesztve |
+| `06-03-a-fekete-lap` | „A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal." | kész, beszerkesztve |
 | `07-01-a-kapolna` | „Négy pad volt benne, szorosan egymás mellett, egy keskeny, magas ablak, amelyen át a tél színtelen fénye csak egyetlen sávban érte el a padlót, és egy vaskos oltárasztal, amelyen négy vastag gyertya égett, mindegyik ugyanolyan magasságú." | |
 | `07-02-mercury-kivalt` | „Maria Callast váltom ki." | |
 | `07-03-callas-a-kuszoben` | „Nem kértem, hogy fizessen értem valaki." | |
