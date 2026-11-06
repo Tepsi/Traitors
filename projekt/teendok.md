@@ -41,6 +41,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 ## Kész
 - [x] 6. fejezet illusztrációi: promptok megírva (`kepek/06-01`–`06-03`), a képek `.jpg`-re átnevezve és beszerkesztve. (C, 11-05)
 - [x] 7. fejezet illusztrációinak promptjai megírva (`kepek/07-01`–`07-04`). (C)
+- [x] 7. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
 - [x] 7. fejezet megírva: `fejezetek/07-a-halallista.md` (a halállista és a váltságdíj; fődíj 2 810 000 Ft; K7 és az éjszaka a szövegben) (C, 10-31)
 - [x] 6. fejezet megírva: `fejezetek/06-a-merleg.md` (új próbatétel: a Mérleg; fődíj 2 960 000 Ft; K6 és a konklávé a szövegben) (C, 10-28)
 - [x] 5. fejezet megírva: `fejezetek/05-a-vakfolyoso.md` (új próbatétel: a Vakfolyosó; fődíj 2 410 000 Ft; K5 Taylor; N5 név nélkül) (C, 10-24)

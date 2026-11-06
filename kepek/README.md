@@ -56,7 +56,7 @@ Tippek az egységességhez:
 | `06-01-a-merleg` | „A terem közepén egy sárgaréz mérleg állt, két serpenyővel, akkora, hogy egy ember is elfért volna benne." | kész, beszerkesztve |
 | `06-02-hitchcock-bucsuja` | „Hölgyeim és uraim: áruló vagyok." | kész, beszerkesztve |
 | `06-03-a-fekete-lap` | „A tölgyajtó kinyílt, és egy csuklyás alak lépett a kőasztalhoz, a kezében a fekete lappal." | kész, beszerkesztve |
-| `07-01-a-kapolna` | „Négy pad volt benne, szorosan egymás mellett, egy keskeny, magas ablak, amelyen át a tél színtelen fénye csak egyetlen sávban érte el a padlót, és egy vaskos oltárasztal, amelyen négy vastag gyertya égett, mindegyik ugyanolyan magasságú." | |
-| `07-02-mercury-kivalt` | „Maria Callast váltom ki." | |
-| `07-03-callas-a-kuszoben` | „Nem kértem, hogy fizessen értem valaki." | |
-| `07-04-kabos-felall` | „Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét." | |
+| `07-01-a-kapolna` | „Négy pad volt benne, szorosan egymás mellett, egy keskeny, magas ablak, amelyen át a tél színtelen fénye csak egyetlen sávban érte el a padlót, és egy vaskos oltárasztal, amelyen négy vastag gyertya égett, mindegyik ugyanolyan magasságú." | kész, beszerkesztve |
+| `07-02-mercury-kivalt` | „Maria Callast váltom ki." | kész, beszerkesztve |
+| `07-03-callas-a-kuszoben` | „Nem kértem, hogy fizessen értem valaki." | kész, beszerkesztve |
+| `07-04-kabos-felall` | „Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét." | kész, beszerkesztve |

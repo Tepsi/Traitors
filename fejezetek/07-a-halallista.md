@@ -132,6 +132,8 @@ Callas már felállt. Nem szólt semmit. Egyenesen az ajtó felé fordult, és a
 
 A Kápolna a kert végében állt, ott, ahol a sövénylabirintus sötét fala véget ért, és a kastély téglái helyett szürke, érdes kő kezdődött. Négy pad volt benne, szorosan egymás mellett, egy keskeny, magas ablak, amelyen át a tél színtelen fénye csak egyetlen sávban érte el a padlót, és egy vaskos oltárasztal, amelyen négy vastag gyertya égett, mindegyik ugyanolyan magasságú. A szürke alak az ajtóban várt rájuk, a Játékmester ünnepélyes csendjével, és csak akkor mozdult, amikor a negyedik is belépett. Az ajtó nem csapódott be. Lassan, súlyosan csukódott, és kívülről egy vasrúd csúszott a helyére, olyan hangon, ami nem csikorgott és nem csattant, csak végleges volt.
 
+![A Kápolna: négy pad, négy gyertya, a keskeny ablakból beeső fénysáv](../kepek/07-01-a-kapolna.jpg)
+
 Egy ideig senki sem ült le. Kabos a keskeny ablak előtt állt, és ujjai az ablakpárkányon kopogtak egy olyan ritmusban, amit csak ő ismert, aztán abbahagyta, megfordult, és szétnyitotta a karját, mint aki egy vásári mutatványt akar bejelenteni. – Hát ez... ez aztán a... – mondta, és a hangja elcsuklott. – Tessék mondani, miért pont én? Én soha életemben senkit... én még a légyet sem... – A mondat elhalt. Puskás odalépett hozzá, és a vállára tette a kezét.
 
 – Ülj le, Gyula. Nem megy el innen senki, amíg nem engedik.
@@ -234,6 +236,8 @@ A Játékmester nem szólt. Mercury lépett előre utolsóként, és a terem elh
 
 – Tudom. – Felemelte a fejét, és a hangja egy pillanatra sértetlen volt, a régi, fényes. – Tudom, hogy mit mondok. Tudom, hogy a másik három nem jár jól. Valakinek meg kell tennie, és én nem akarok a nyolcadik passz lenni. Maria Callast váltom ki.
 
+![Mercury a fehér táblák előtt kimondja: Maria Callast váltom ki](../kepek/07-02-mercury-kivalt.jpg)
+
 A Játékmester a fekete könyvbe írt. A toll sercegése végigfutott a termen. – Százötvenezer forint – mondta. – Maria Callas lekerült a listáról. A fődíj kétmillió-nyolcszáztízezer forint. – Bud Spencerhez fordult, aztán Hofihoz, aztán mindenkihez egyszerre. – Önök, akik passzoltak, nem tettek rosszat. Ön, aki nem passzolt, nem tett jót. A szavazatok száma ugyanannyi marad.
 
 Pár perc múlva a Nagyterem ajtaja kinyílt, és a szürke alak belépett, mögötte Callas. Fekete ruhája a napfényben szinte kékes volt, és a haja egyetlen szála sem mozdult a helyéről. Megállt a küszöbön, és végignézett a nyolc emberen. Mercury szeme találkozott az övével, és Mercury sütötte le elsőnek.
@@ -245,6 +249,8 @@ Pár perc múlva a Nagyterem ajtaja kinyílt, és a szürke alak belépett, mög
 Senki sem mozdult.
 
 – Nem kértem, hogy fizessen értem valaki. – A hangja halk volt, kimért, ugyanazzal a fegyelmezett pontossággal, mint amellyel egy hosszú mondatot lezárt. – Nem könyörögtem. Nem vártam. Most pedig a három közül, akik ott maradtak, valaki helyettem kerül ma este a Kapu elé. Tudták, hogy ez így lesz, amikor fizettek? – Mercuryhez fordult. – Maga tudta. Ha engem kivesznek, a másik hármat benn hagyják, és a szavazatok rájuk szakadnak, ezt kiszámolni nem nehéz. Maga ma délben egy halált választott. Nem az enyémet. Egy másikat.
+
+![Callas a Nagyterem ajtajában](../kepek/07-03-callas-a-kuszoben.jpg)
 
 – Maria – mondta Mercury, és a hangja elcsuklott. – Én nem...
 
@@ -315,6 +321,8 @@ Egy óra múlva a Játékmester felemelte a kezét. Kréta koccant, tizenkét em
 – Kabos. Zsazsa. Kabos. Zsazsa. Puskás. Kabos. Zsazsa. Puskás. Kabos. Zsazsa. Puskás. Kabos. – Egy pillanatig mindenki számolt. – Öt szavazat Kabos Gyulára. Négy Gábor Zsazsára. Három Puskás Ferencre. – Letette az utolsó táblát. – Kabos Gyula. A Kerekasztal döntött. Kérem, álljon fel.
 
 Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét. A teremben senki sem mozdult.
+
+![Kabos feláll a Kerekasztalnál, Puskás megtartja a könyökét](../kepek/07-04-kabos-felall.jpg)
 
 – Kabos Gyula – mondta a Játékmester –, még beszélhet. De ha kimondja, mi volt a szerepe, többet nem szólhat, legfeljebb elköszönhet. Jól válassza meg a sorrendet.
 
