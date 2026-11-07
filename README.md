@@ -19,6 +19,7 @@ Az oldal fejezetenként, a `site/menetrend.txt` dátumai szerint jelenik meg a G
 | 5 | A vakfolyosó | [fejezetek/05-a-vakfolyoso.md](fejezetek/05-a-vakfolyoso.md) |
 | 6 | A mérleg | [fejezetek/06-a-merleg.md](fejezetek/06-a-merleg.md) |
 | 7 | A halállista | [fejezetek/07-a-halallista.md](fejezetek/07-a-halallista.md) |
+| 8 | Az emlékezet | [fejezetek/08-az-emlekezet.md](fejezetek/08-az-emlekezet.md) |
 
 ## Háttéranyag
 
