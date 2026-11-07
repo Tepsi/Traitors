@@ -137,3 +137,63 @@ Az ajtó akkorát csapódott mögötte, hogy a polcról egy könyv a padlóra es
 – Én is számolok – mondta Hofi halkan, és a hangjában benne volt az egész nap keserűsége. – Tízen vannak, és mind a tíz azt mondja, hogy valaki hazudik. Szerintem ez igaz.
 
 Neumann egy darabig mozdulatlan maradt. Aztán a kezét lassan lehúzta az ing mandzsettájáról, megigazította, és elfordult a polcoktól. – Elnézést kérek – mondta. – Nem a számokat akartam védeni. – Kiment a könyvtárból, és a léptei lassan, egyenletesen távolodtak a kőpadlón, és Brando még sokáig állt a küszöbön, mint aki nem tudja, hogy mit kezdjen azzal, amit éppen kimondott.
+
+## A Kerekasztal
+
+Este nyolckor a gong hangja a Kerekasztal-terem boltozatáig hatolt, és tízen ültek le a kerek asztalhoz, tizenkét székkel kevesebben, mint az első napokban, és mind a tíz arcon ott volt a nap minden órája. A palatáblák fordítva feküdtek előttük, mellettük a kréta, és a terem végében, a falba mélyedve, ott állt a Feledés Kapuja, a fekete ajtó ezüst kerettel, kilincs nélkül, mozdulatlanul. Zsazsa a szemét szándékosan nem emelte Neumannra, és Neumann ugyanilyen gonddal tartotta a szemét az asztal lapján. Brando a karját keresztbe fonta, mint aki elhatározta, hogy ma nem lesz hangja, és közben a gyomra tájékáról látszott rajta, hogy mégis lesz.
+
+– A nyolcadik Kerekasztal – mondta a Játékmester. – Aki szólni akar, szóljon. Aki vádol, vádoljon. A szavazás után a kiesett ugyanazon az ajtón megy át, amelyen a többiek.
+
+Einstein volt az, aki felállt. Ezt senki sem várta tőle, mert eddig mindig ülve beszélt, a kezét az asztalra téve, mint egy tanár, aki a vizsgáztatottal is egy magasságban akar maradni, és most a székét hátratolta, és úgy állt ott, kissé előregörnyedve, a kardigánját összehúzva. – Nem szívesen mondom ezt – kezdte. – Mert ha tévedek, akkor egy embert kárhoztatok, aki ártatlan, és ha nem tévedek, akkor egy embert, akit becsültem. Négy dolgot tudok mondani, egyik sem bizonyíték, de együtt olyan, mint egy rajz, amelyen a vonalak kiadnak valamit. – Neumann arcán nem mozdult semmi. – Az első: tegnap felemelte a hangját. Hat napig egyszer sem tette, és tegnap igen, és nem érvet mondott, hanem hangot. Kabos úrnak azt mondta, hogy „mi, árulók", és ez a mondat négy nappal korábban hangzott el, szinte elfelejtve, és ön szó szerint tudta, pedig más nem. Én ezt akkor lelkesedésnek hittem. Ma már csak annak tudom, ami: hévnek, amelynek nincs mögötte érve.
+
+– A második – folytatta Einstein, és a keze, mely az asztal szélén nyugodott, megrándult. – Ön háromszor számolt el. A második napon azt mondta, hogy öt szavazat jutott Brandóra, pedig négy volt. A negyedik napon a vödrök értékét száznyolcvanötezerre tette, pedig száznyolcvanöt helyett száznegyvenötezer volt... – Megállt, és a homlokát ráncolta. – Pardon. Száznyolcvanötezer helyett száznyolcvan... Nem, látják, én is... – A terem egy pillanatra elnevette magát, ideges, feszült nevetéssel, és Einstein kissé zavartan rázta a fejét. – Hetvenöt. Százhetvenötezer volt. Tegnap pedig tizenháromezer-hatszázat mondott, pedig tizenkétezer-ötszáz volt. Háromszor tévedett, kedves János. A pontos ember háromszor nem téved, és ami még furcsább, mind a háromszor többet mondott a valónál. Nem tudom, mit jelent ez. Azt tudom, hogy mind a háromszor ugyanabba az irányba.
+
+– A harmadik: az első napon azt mondta, hogy „egy a hétből". Ezt keretnek hívta, és mi elfogadtuk, mert elegáns volt, és ő vezette a szűkítést, és mindenki szeretett volna valakit, aki mindent tud a játékról. – Einstein lassan körbenézett. – Aki mindent tud a játékról... az a negyedik: Alfred Hitchcock lebukásakor ön szavazott rá. Nem szólt, nem védte meg, nem is vádolta, csak szavazott, mint a többiek, nyolc szavazat egyikeként. Ha valaki a társát akarja védeni, nem szavaz rá. Ha valaki a saját bőrét akarja menteni, igen. – Leült, lassan, és a szavai után hosszú csend maradt. – Lehet, hogy tévedek – tette hozzá. – Ezt sosem mondtam ki ilyen nehezen.
+
+Neumann felállt. A keze az asztal szélén nyugodott, a háta egyenes volt, és amikor beszélni kezdett, a hangja halk volt, pontos és hűvös, ahogy mindig. – A hang tegnap szó volt a Kabos úrról – mondta. – Elismerem, hogy túl hangosan szóltam, és hogy nem aludtam, és hogy az érv kevés volt. A három számolási hibát is elismerem, és nem tudom megmagyarázni, mert nem tudom, miért tévedtem. A „mi, árulók" mondat pedig az enyém volt, mert emlékeztem rá, és én mindenre emlékszem, ez nem bűn. A keret az enyém: a játékról beszélt a valaki, aki értette. Alfréd Hitchcockra pedig azért szavaztam, mert Zsazsa hat érve helyes volt, és önök is rá szavaztak. Ha ez bizonyíték, akkor nyolc ember ül itt, aki áruló. – Megállt, és a hangja egy pillanatra elvékonyodott. – Tudom, hogy bármit mondok, védekezésnek hangzik. Ezt hívják zárt rendszernek: belülről nincs kitörés. Egyetlen kérésem van. – A tekintete végigfutott a bal oldalon, ahol Hepburn, Dalí és Mercury ült, egymás mellett, és egy pillanatra megállt. – Kérem, hogy ne csak az érvet hallják, hanem azt is, hogy négy napja én számoltam azt, amit önök nem akartak.
+
+– Sajnálom, János – mondta Hepburn halkan, és a hangja finom volt, és a szeme a kezén maradt.
+
+– Maga azt mondta nekem délután, hogy én a hazug – szólalt meg Zsazsa, mereven, szinte elszántan. – A szemembe mondta. Én mondjam a magáét? – Nem várta meg a feleletet. – Én azért szavazok rá, mert elég volt a kimondott szavaiból és az elszámolt számaiból.
+
+– Én csak annyit mondok – Callas hangja hideg volt, mint a kő. – Háromszor tévedett, és ugyanabba az irányba. Én nem hiszek ennyi véletlenben.
+
+– Én az ilyen beszédet kétszer olvasom – mondta Hofi, és a szája sarka keserűen megrándult. – Ha egy beszéd ennyire jó, én már gyanakszom. Albert jó beszédet mondott, és hiszek neki, de nem szavazok Neumannra. Zsazsára. Nem azért, mert hangos. Hanem mert valakire szavazni kell, és én nem tudom, kire. – Bud Spencer a fejét ingatta, a tenyerét az asztalra téve, és annyit mondott: – Marlon.
+
+– Tisztelem a számait – mondta Brando, és a hangja hirtelen tiszta volt, minden mormolás nélkül. – Ma estére elég volt belőlük.
+
+Dalí csak annyit mondott, hogy ő a szavazók ábrázatát figyeli, mert az ábrázat az egyetlen valuta, amelyet nem lehet hamisítani. A többit nem bővítette. A kréta a Kerekasztal körül egyenként moccant, és mindenki a táblája fölé hajolt, mint aki egy titkot akar eltakarni a szomszéd elől. Mercury az utolsó volt. A tábláját sokáig nem érintette, és amikor a többiek már mind letették a krétát, még mindig mozdulatlanul ült, a szeme körbejárt az arcokon.
+
+– Még nem tudom – mondta halkan. – Nem tudom, ki mondott igazat. Ma már csak a nevek vannak meg, és azok sem mind. Megint elvettem valakit... – Hirtelen elhallgatott, és nem mondta tovább, mi az. A krétát a táblához szorította, és amikor írni kezdett, a kréta kettétört a kezében, a két fél a padlóra esett, kopogva, szinte hangosan a csendben. Mercury lehajolt, felvette a nagyobbik darabot, és a név, amit írt, elkenődött, aztán újra rányomta a krétát, és befejezte.
+
+– A táblákat – mondta a Játékmester. Felemelte a palatáblákat, egyenként, lassan, a hangja mindegyiknél ugyanolyan volt. – Neumann János. Neumann János. Gábor Zsazsa. Neumann János. Neumann János. Marlon Brando. – A teremben senki sem lélegzett. – Neumann János. Gábor Zsazsa. Neumann János. Neumann János. – Zsazsa a harmadik név után a kezét a szájához szorította, és a nyolcadiknál megint, aztán a két kéz egymást fogta az asztalon. Brando a hatodiknál a feje fölé nézett, mintha a boltozat mondaná, és a mellkasán átfutott egy hang, szinte nevetés. Hepburn és Dalí az asztal túloldalán ült, Mercury két oldalán, és amikor a Játékmester a hetediket kimondta, a tekintetük egy másodpercre összeért, aztán elváltak, mintha semmi sem történt volna.
+
+– Hét szavazat Neumann Jánosra – mondta a Játékmester. – Két szavazat Gábor Zsazsára, egy Marlon Brandóra. Neumann János kiesik.
+
+Neumann felállt. Azonnal, mint akinek nem kell bevárnia a csendet, a széke halkan a padlóhoz koccant, és ő egyenesen a terem közepére lépett, a Kapu elé. A keze nyugodt volt, az arca sápadt, és amikor beszélni kezdett, a hangja halk volt, tudományos, elegáns, mint egy előadás végén a kérdésre adott utolsó válasz.
+
+– Albert – mondta, Einsteinre nézve, és az ő tisztelete minden mondatában átsütött. – Háromszor kerestem a hibát az ön levezetésében, és háromszor azt találtam, hogy a hiba az én feltevésemben volt. Ez a legnagyobb dicséret, amit egy tudós egy másik tudósnak adhat. Hölgyeim és uraim, tisztelem a játékukat. Minden rendszernek megvan a maga zárt pontja, és én a magamét ma este találtam meg. – Egy pillanatra elhallgatott, és a szeme végigfutott a körön, a hangja pedig a legkisebb mértékben sem lett hangosabb. – Egy egyenlet csak akkor áll meg, ha mindenki ugyanazt számolja. Én azt hittem, hogy mindenki ugyanazt számolja. – Egyetlen hosszú lélegzetet vett. – Hölgyeim és uraim: áruló vagyok.
+
+– Neumann János áruló volt – mondta a Játékmester.
+
+Neumann a Kapu felé fordult. A fekete ajtó, melynek se kilincse, se zára nem volt, a közelében csendesen, magától nyílt. – Viszontlátásra – mondta, és bement rajta, és az ajtó becsukódott mögötte olyan finoman, mint egy könyv utolsó lapja.
+
+A terem egy másodpercig hallgatott, aztán Zsazsa sikoltott. Egyszerre sikoltott és sírt, felugrott, a széke hátraborult, és mind a két kezét az arcára szorítva a Kapu felé rohant, aztán megállt, és hirtelen visszafordult, mintha nem tudná, melyik irányba kell futnia. Brando lecsúszott a székről a padlóra, és ott ült a kőn, a tenyerét az arcán, és nevetett és sírt egyszerre, vállát rázva, egyetlen hang nélkül, majd hangosan, megkönnyebbülten, egyszerre mindhárom hangszínben. Callas hangtalanul sírt, és egy könnycsepp a nyakára gurult, de ő mozdulatlanul ült tovább. Mercury a feje fölé kapta a kezét, és zokogott és nevetett, a fél krétát még mindig szorongatta, és Hofi a vállára borult, kesernyésen, a hangján még így is átütött a csattanó: – Hát ez is megvolt. – Bud Spencer, aki az egész este alatt egy szót sem szólt, lassan felállt, és a két karját széttárta, aztán megölelte az első embert, aki az útjába került, és ez Einstein volt, aki fáradtan elmosolyodott, és hagyta. Hepburn könnyes arccal ült a helyén. – Hála Istennek – suttogta, és a kezét a szájához szorította. Dalí egyenesen állt, a botját a padlóhoz koppantva, és a tenyerét egymáshoz ütötte, színpadiasan, ritmikusan, mint egy előadás végén.
+
+– Két áruló – mondta valaki, Mercury, hangtalan zokogás közben. – Két áruló. Hány maradt?
+
+– Nem tudjuk – mondta Einstein. – Nem tudjuk, és ma este nem is kell tudnunk.
+
+– Hét Kerekasztal – mondta a Játékmester, és a hangja halk volt, és szinte kedves. – Két áruló. A kitartásuk végre jutalmat kapott. – Megvárta, hogy a hangok elcsendesedjenek. – Ma este Neumann János a nyolcadik. Mind a kilencüknek megköszönöm a türelmét.
+
+– Ki nem szavazott rá? – kérdezte Callas, amikor Zsazsa már visszaült, és a keze még remegett. – Hogy tudjuk.
+
+– Én nem – mondta Hofi. – Zsazsát írtam. Nem győzött meg.
+
+– Marlont – mondta Bud Spencer.
+
+– Ketten írtak engem – mondta Zsazsa lassan, és a szeme Hofira siklott. – Maga az egyik. És a másik... – Hirtelen elhallgatott, a szeme a Kapura tévedt, és az arca valami olyasmit mutatott, amit nem lehetett megnevezni. – Ő. János. Természetesen ő.
+
+– Mindannyian elszámolhatjuk magunkat – mondta Einstein szelíden. – Neumann János vagy nem szavazott magára, vagy igen, de ez ma már nem számít.
+
+– Kilencen vannak – mondta a Játékmester. – A gong hamarosan szól. – A hangja újra ünnepélyes volt, és halk, és a kerek asztal fölött a gyertyák lángjai egyszerre hajoltak meg. – Jó éjszakát kívánok.
