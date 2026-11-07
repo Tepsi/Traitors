@@ -197,3 +197,45 @@ A terem egy másodpercig hallgatott, aztán Zsazsa sikoltott. Egyszerre sikoltot
 – Mindannyian elszámolhatjuk magunkat – mondta Einstein szelíden. – Neumann János vagy nem szavazott magára, vagy igen, de ez ma már nem számít.
 
 – Kilencen vannak – mondta a Játékmester. – A gong hamarosan szól. – A hangja újra ünnepélyes volt, és halk, és a kerek asztal fölött a gyertyák lángjai egyszerre hajoltak meg. – Jó éjszakát kívánok.
+
+## A nyolcadik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn két ember lépései hallatszottak. A kőasztalnál három szék állt, és kettőbe ültek le a csuklyák árnyékában, a harmadik üresen maradt. A gyertya lángja, amely tegnap még egyenesen égett, most az üres szék felé hajlott, mintha a közelében keresne valakit, és az asztal lapján nem feküdt semmi, sem szürke lap, sem fekete, csak a viasz kis, kihűlt cseppjei, ahol tegnap még valaki az ujját tartotta.
+
+– Ketten maradtunk – mondta az Új. A hangja halk volt, és nyugodt, mint aki egy képet vizsgál, amelyen valami megváltozott. – Fele-fele. A díj hárommillió-kilencszáztízezer. Kettő felé osztva egymillió-kilencszázötvenötezer. Ez több, mint amit tegnap hármunkra számoltak, és kevesebb, mint amit holnap kettőnkre fognak.
+
+– Ezt most nem kell kiszámolni – mondta a Harmadik.
+
+– Valakinek mindig ki kell számolnia. – Az Új a gyertyára nézett. – Két kéz volt a hétből. Mi voltunk. Ma este megtanultuk, mennyibe kerül egy szavazat.
+
+A Harmadik sokáig hallgatott. A lángocska megrezzent, a két csuklya árnyéka egymásba olvadt a falon, aztán szétvált. – Ma este nem szólt – mondta a Harmadik. – Nem védte meg. Sem a hangjával, sem a hallgatásával.
+
+– Ön sem.
+
+– Nem. – A Harmadik hangja egy pillanatra elhalkult. – Ezért kérdezem.
+
+– Mert aki szól, az magára vonja a figyelmet. – Az Új közelebb hajolt az asztalhoz. – És ha ön ma szólt volna, én is szóltam volna. Nem hűségből. Számításból. Ezt tudja, és én is tudom, és ez az, ami az ilyen asztalnál sosem hagy aludni.
+
+– Ha holnap nem szavaz rám – mondta a Harmadik lassan –, én sem szavazok önre.
+
+– Ezt nem lehet megígérni.
+
+– Tudom. – A Harmadik keze az asztalon feküdt, mozdulatlanul, és a gyertya fénye az ujjakon remegett. – De nem is kell. Elég, ha kimondjuk, hogy kimondtuk.
+
+Az Új nem felelt azonnal. A csuklya alatt egy hang hallatszott, rövid, halk, mintha valaki nevetne, és nem tudna, mit. – Szóval ez a másik oldal – mondta végül. – Azt hittem, hogy hideg. Meleg. Csak éppen mindenki ugyanúgy gyanakszik mindenkire.
+
+– Az éjszaka számára kell valaki.
+
+– Kell. – Az Új hangja újra tárgyilagos lett. – Ma ketten is közel jártak az igazsághoz. Az egyik hangosan, a másik halkan. A halkabb a veszélyesebb, mert őt nem gyanúsítja senki, és ő nem kiabál addig, amíg valaki le nem lép előle. Nem hibázott. Csak éppen közel járt.
+
+– A másik is veszélyes – mondta a Harmadik. – A hangos. Aki félelemből vádol.
+
+– Aki hangosan téved, az szövetséges. A halkan igazat mondó nem az. – Az Új egy pillanatra elhallgatott. – Ön nem tudja kimondani, ugye?
+
+A Harmadik nem válaszolt. A gyertya meghajlott az üres szék felé, a hallgatás olyan hosszú lett, hogy a láng szinte kialudt, aztán újra feléledt. Az Új megfogta a másik kezét az asztalon. Nem szorította meg, csak megfogta, mintha ellenőrizné, hogy meleg-e, aztán kimondta a nevet. Halkan, olyan halkan, hogy a gyertya lángja sem mozdult, és a Harmadik az ujját a lapra tette, ahol a nevet nem lehetett látni.
+
+– Ketten vagyunk – mondta a Harmadik.
+
+– Ketten – mondta az Új. Fölállt, és nem várta meg, hogy a másik is felálljon, a lépcső felé indult, és a lépéseit lassan elnyelte a torony. A Harmadik még egy ideig az üres széket nézte, aztán a lángot, majd ő is elindult.
+
+A szobákban kilencen feküdtek le. Kettőjük közül egyik sem aludt, de erről a többiek nem tudtak.
