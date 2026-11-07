@@ -93,3 +93,47 @@ Mercury felbontotta a második borítékot. A Játékmester felolvasta a kérdé
 A homokóra utolsó szemcséje is lehullt. Mercury lehajtotta a fejét, és a szája mozdult, de már nem tudta, mit mondana.
 
 – Egy név elveszett – mondta a Játékmester halkan, és a tizenkettedik keret alatt a gyertya sötét maradt. – Tizenegy gyertya ég. Egymillió-százezer forint kerül a fődíjba, a fődíj hárommillió-kilencszáztízezer forint. – Hangja ünnepélyes volt, és egy pillanatra végigfuttatta a tekintetét a tíz emberen. – A kastély tizenegy nevet elengedett. A tizenkettediket megtartotta.
+
+## A délután
+
+A fődíj hárommillió-kilencszázezer fölé emelkedett, és ez aznap egyiküket sem vigasztalta. A délutánt a kastély folyosóin és termeiben töltötték, külön-külön, kettesével, mint akik egymást keresik, és közben egymás elől bújnak. Mercury a nyugati szárny hosszú folyosóján ült le a falnak dőlve, a tenyerét az ölében tartotta, és újra meg újra megnézte, mintha azon lehetne rajta olvasni, amit a fejében már nem talált. Callas egy ideig állt vele szemben, egyenes háttal, aztán lassan, ruhástul a kőpadlóra ült mellé, ahogy valaki, aki nem szokott a földön ülni, de ezt most nem tartja méltóságán alulinak. Egy ideig egyikük sem szólt.
+
+– Gyula – mondta végül Callas, tisztán és halkan. – Kabos Gyula. Tudtam, amikor megkérdezték, és nem szólhattam. Nem arról van szó, hogy nem akartam.
+
+– Tudom. – Mercury nem emelte fel a fejét. – Láttam, hogy tudja. Ezt a kezét... ahogy a szalvétát szorongatta. Én csak... Nem tudom, hogy lehet az, hogy egy név elmegy, miközben még a tortára emlékszem.
+
+– Ha holnap újra elvész, jöjjön hozzám – mondta Callas. – Megint elmondom. Ahányszor kell. – A hangja nem lett melegebb, de valami megváltozott benne, mint egy ajtó, amelyet nem nyitottak ki, csak a zárat fordították el. – Tartozom magának. Így legalább van mivel törlesztenem.
+
+– Nem tartozik semmivel.
+
+– Tartozom – ismételte Callas, és ezzel a beszélgetés véget ért, mert ő így zárt le minden beszélgetést. Mercury a vállát egy pillanatra az övének döntötte, és a két ember hosszan ült még egymás mellett a folyosó félhomályában, szó nélkül.
+
+Zsazsa az ablaknál állt a lépcsőforduló fölött, és a homlokát a hideg üvegnek támasztotta. A füzetét visszakapta a Játékmestertől, de nem nyitotta ki. Halkan, szünet nélkül ismételgetett valamit, és aki elhaladt mellette, azt hallhatta, hogy a nevet mondja. – Puskás Ferenc – suttogta. – Ferenc. Ferenc. – Aztán, mint aki egy szót sem akar elveszíteni, még egyszer: – Puskás Ferenc. – Hepburn, aki elment mellette, megállt, és nem szólt, csak a kezét tette Zsazsa hátára, és Zsazsa ezt is hagyta, a szemét le sem vette az ablakról.
+
+Einstein azon a délutánon mindenkivel külön beszélt, és ezt senki sem vette észre, mert úgy tette, mint aki éppen sétál. Először Zsazsával ült le a lépcsőn, szelíden, gyerekes tisztasággal megkérdezte tőle, mit látott a hetedik Kerekasztalnál, amikor valaki felemelte a hangját, és Zsazsa, mert nem volt ereje másra, elmondta. – Hat nap alatt egyszer sem – mondta. – Hat nap alatt egyszer sem emelte fel a hangját, és tegnap felemelte. – Einstein bólintott, és nem jegyezte fel, mert nem volt mit, és nem tudott volna mit. Aztán Brandóval beszélt a könyvtár ajtajában, aki mormogva válaszolt, de a kérdésekre, amelyek a számokra vonatkoztak, hirtelen pontosan és tisztán felelt, ahogy csak akkor szokott, ha valami valóban érdekli. Aztán Hofival, aki a lépcső alján ült, és a kezét a térdére téve annyit mondott, hogy ő már ezt a számolgatást a második napon megunta, mégis tudta, mennyi a három, és hogy a három nem egyforma. Aztán Callasszal, aki egyetlen mondatot mondott: – Ha egy ember három napig ugyanabban téved, az nem tévedés. – Einstein mind a négyszer ugyanazokat a kérdéseket tette fel, szinte szó szerint, és mind a négyszer ugyanazt a választ kapta, csak más hangon, és ebből a négy hangból a végén ott állt előtte négy pont, amelyek egymás mellett még nem voltak érv, de már kezdtek mintázattá összeállni.
+
+Neumann a lépcső tetején állt meg, és onnan nézte Einsteint, aki éppen Callas mellől állt fel. Amikor Einstein elhaladt mellette, Neumann halkan, az ajka alig mozdult, azt mondta: – Pókhálót sző.
+
+– Nem. – Einstein megállt, és a szeme szelíd volt, és fáradt, mint egy öreg tengerészé, aki egy hosszú hajóút végén azt mondja, hogy egyetlen csillagot sem keres, csak a korlátot. – Csak összeadok.
+
+– Az összeadás kegyetlen dolog.
+
+– Az – mondta Einstein. – De kevésbé, mint a tévedés.
+
+Neumann nem felelt. A délután hátralévő részében megpróbálta, amit mindig megpróbált: a számokat, a támaszokat, a szavazatokat. Hepburnhöz a kert felőli folyosón lépett oda, olyan közel, amilyen közel udvariasan lehetett, és halkan, gyorsan, tárgyilagosan beszélt. Hepburn a kezét a mellére szorította, és nem nézett fel. – Most nem tudok, János – mondta. A hangja finom volt, szinte törékeny, és Neumann ezen a törékenységen megállt, mint egy ajtón, amely nem nyílik ki, de nem is csapódik be. Aztán Dalít kereste meg a Galéria bejáratánál, aki a falat vizsgálta, mintha valami láthatatlan rajzot követne az ujjával. – Dalí nem választ pártot – mondta Dalí, mielőtt Neumann megszólalt volna. – Dalí a boltozatot választja. A boltozat nem szavaz. – Neumann egy pillanatig a másik arcát fürkészte, aztán elfordult, és valami eltűnt a kimért, hideg arcáról, ami eddig mindig ott volt.
+
+A könyvtárban Zsazsa már leült egy íróasztalhoz, és fehér papírlapokra próbálta visszaírni a füzet tartalmát, amit tudott, fejből, a napok sorrendjében. Neumann belépett, és ő nem nézett fel. – Ön tegnap Puskás Ferencet írta – mondta Neumann. Hangja halk volt, tárgyilagos. – Ön az elmúlt két napban a legtöbbet szólt ember a teremben, és a leghangosabb embernek van a legkönnyebb dolga: sosem kérdezik meg tőle, mit gondol valójában. Aki mindent leír, bármit idézhet, amit akar.
+
+Zsazsa letette a tollat. Lassan felállt, és az arca elfehéredett. – Én leírom – mondta. – Én mindent leírok, drágám, mert fél, hogy elfelejtem, ami történt, és mert ezek között a falak között az a legnagyobb bűn, ha valaki elfelejt. – A hangja emelkedett, és már nem volt benne sem drágám, sem selyem. – Ön hat napja mindent tud, János. Mindent. Kivéve, amikor számolni kell.
+
+– Elég – mondta Neumann.
+
+– Nem elég! – Zsazsa a papírlapokat az asztalról a padlóra söpörte, és az ajtó felé indult. – Tudja, mi a baj magával? Hogy mindig igaza van. Még akkor is, amikor tévedett.
+
+Az ajtó akkorát csapódott mögötte, hogy a polcról egy könyv a padlóra esett. Brando a küszöbön állt, a vállát a félfának támasztotta, és úgy tűnt, már régóta ott van. A mormolás ezúttal elmaradt. – Hat napja ülünk egy asztalnál – mondta, és a hangja hirtelen megnőtt, zengett, mint egy színpad, amelyre valaki egyszerre mindegyik reflektort ráirányította. – Hat napja ülünk egy asztalnál valakivel, aki velünk számol! Magának mi mind számok vagyunk, János! Székek és szavazatok és százalékok! Aki ennyire tudja, hány ember marad, annak az kell, hogy mindig kevesebb legyen!
+
+– Elég – mondta Bud Spencer a folyosó felől, és nem emelte fel a hangját, mégis olyan volt, mintha egy kő zuhant volna a vízbe. Ott állt Hofival, mindketten, és Hofi most nem mosolygott.
+
+– Én is számolok – mondta Hofi halkan, és a hangjában benne volt az egész nap keserűsége. – Tízen vannak, és mind a tíz azt mondja, hogy valaki hazudik. Szerintem ez igaz.
+
+Neumann egy darabig mozdulatlan maradt. Aztán a kezét lassan lehúzta az ing mandzsettájáról, megigazította, és elfordult a polcoktól. – Elnézést kérek – mondta. – Nem a számokat akartam védeni. – Kiment a könyvtárból, és a léptei lassan, egyenletesen távolodtak a kőpadlón, és Brando még sokáig állt a küszöbön, mint aki nem tudja, hogy mit kezdjen azzal, amit éppen kimondott.
