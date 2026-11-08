@@ -2,7 +2,7 @@
 
 ## A reggeli
 
-A gong hétkor szólalt meg, és a Nagyterem aznap is a gyertyák fényével várta őket: tizenegy teríték, tizenegy névtábla, mindegyiken ép, aranyló betűkkel, és az asztal körül egyetlen szék sem árult el semmit. A kenyér még gőzölt a tálban, a kandallóban frissen rakott tűz égett, és senki sem tudta, ki hozta fel a reggelit, mert amikor az első vendégek az ajtóhoz értek, a folyosón már nem járt senki. Elsőként Bud Spencer, Callas és Mercury érkezett, de nem együtt: Bud Spencer úgy lépett be köztük, mintha véletlenül került volna oda, és közben gondosan ügyelt rá, hogy Callas és Mercury tekintete ne találkozzon. Callas egyenes háttal, összekulcsolt kézzel haladt az asztalig, és úgy ült le, mint aki a székét is megvizsgálja, mielőtt rábízza magát. Mercury a tenyerét nézte. Hosszan, lehajtott fejjel, mintha olyasmit keresne rajta, ami már tegnap sem volt ott, aztán halkan, szinte csak a szája mozgásával elkezdte mondani a neveket.
+A gong hétkor szólalt meg, és a Nagyterem aznap is a gyertyák fényével várta őket: tizenegy teríték, tizenegy névtábla, mindegyiken ép, aranyló betűkkel, és az asztal körül egyetlen szék sem árult el semmit. A kenyér még meleg volt a kosárban, az illata betöltötte a termet, a kandallóban pedig frissen rakott tűz égett. Senki sem tudta, ki hozta fel a reggelit, mert amikor az első vendégek az ajtóhoz értek, a folyosón már nem járt senki. Az első csoportot Bud Spencer, Callas és Mercury alkotta. Callas és Mercury egyszerre léptek be, és Bud Spencer úgy ment közöttük, mintha véletlenül került volna oda, pedig gondosan ügyelt rá, hogy a tekintetük ne találkozzon. Callas egyenes háttal, összekulcsolt kézzel haladt az asztalig, és úgy ült le, mint aki a székét is megvizsgálja, mielőtt rábízza magát. Mercury a tenyerét nézte. Hosszan, lehajtott fejjel, mintha olyasmit keresne rajta, ami már tegnap sem volt ott, aztán halkan, szinte csak a szája mozgásával elkezdte mondani a neveket.
 
 – Louis, Louis, Kálmán, Agatha, Irén, Marlene, Ferenc, Elizabeth, Orson, Alfred... – Itt elakadt. A tenyerét az asztalra fektette, a tizenegyedik név helyén valami üres, szinte tapintható hézag maradt.
 
@@ -14,7 +14,7 @@ A második csoport négy emberből állt. Einstein ment elöl, kissé előregör
 
 – Hét – mondta. – Négy hiányzik. Az egyik... ne mondjuk ki. Úgysem tudjuk, melyik az.
 
-A harmadik csoport csak két emberből állt, és ez már az ajtóban feltűnt. Neumann jött elöl, az arca sápadt volt, mint aki egész éjjel nem aludt, és csak a küszöbön torpant meg, hogy végigfusson a székeken. Hepburn egy lépéssel mögötte haladt, nem mellette, és ahogy elhaladt az asztal mellett, megérintette Mercury vállát, és csak aztán ült le, két szék távolságra Neumanntól. Neumann ajka mozdult, aztán lassan, szinte hallhatatlanul megszámolta őket.
+A harmadik csoport csak két emberből állt, és ez már az ajtóban feltűnt. Neumann jött elöl, az arca sápadt volt, mint aki egész éjjel nem aludt, és a küszöbön megállt, hogy tekintetével végigmérje a székeket. Hepburn egy lépéssel mögötte haladt, nem mellette, és ahogy elhaladt az asztal mellett, megérintette Mercury vállát, és csak aztán ült le, két szék távolságra Neumanntól. Neumann ajka mozdult, aztán lassan, szinte hallhatatlanul megszámolta őket.
 
 – Kilenc – mondta. – Ketten hiányoznak.
 
@@ -22,11 +22,19 @@ A harmadik csoport csak két emberből állt, és ez már az ajtóban feltűnt. 
 
 – A lista két tagja – ismételte Einstein, és az asztalon összekulcsolta az ujjait. – Az egyik nem fog bejönni. Nem tudjuk, melyik.
 
+– A lista az éjszakát nem kötötte – mondta Hofi. – Az árulók bárkit választhattak volna, és mégis a két megmaradt listásra vártunk reggel. Ezt vagy nem gondolták végig, vagy nagyon is.
+
+– Vagy azt akarták, hogy mi gondoljuk végig – mondta Callas hidegen. – Tegnap azt mondtuk, aki a listán van, az nagy valószínűséggel ártatlan. Ha most közülük esik ki valaki, az árulók pontosan azt számolják, hogy mi a listába kapaszkodunk, mintha az védelem volna.
+
+– Nem kényszer volt, hanem döntés – mondta Neumann. – Csak azt nem tudjuk, miért erre esett.
+
+– Hagyják – mondta Hepburn halkan, a kezét a mellére szorítva. – Még nem tudjuk, melyikük jön be. Ne temessük el őket előre.
+
 Senki sem szólt egy darabig. A kandalló tüzét hallani lehetett, és egy ideig a Nagyteremben csak az volt, ahogy a gyertyák lángja néha oldalra hajlott, mintha valaki a falon túl beszívta volna a levegőt. Callas az asztal lapját nézte. Hepburn hangtalanul mozgatta az ajkát, mintha imádkozna, és közben Mercury tenyerére pillantott, amelyen nem volt semmi. Dalí a mennyezetet fürkészte, és egyszer, nagyon halkan, a bajusza alól annyit mondott, hogy „a várakozás az egyetlen szín, amelyet nem lehet megfesteni", de senki sem felelt neki.
 
 – Ez a leghosszabb tíz perc, amit valaha egy ajtó figyelésével töltöttem – mondta végül Hofi. – És a szakmámban ez sokat jelent.
 
-Lépések hallatszottak a folyosóról, nem gyorsak, nem lassúak, bizonytalanok, és a Nagyterem mind a kilenc embere egyszerre fordult az ajtó felé. Zsazsa állt a küszöbön. A füzetét a mellére szorította két kézzel, mintha az volna az egyetlen, ami megtartja, a ruhája gyűrött volt, az arcán nem volt semmi festék, és a szeme alatt a sötét, amit egész éjszaka nem aludt át. Megnézte őket, egyiket a másik után, lassan, mintha számolná, és amikor a végére ért, a füzet kicsúszott a kezéből, és a padlóra esett.
+Lépések hallatszottak a folyosóról, nem gyorsak, nem lassúak, bizonytalanok, és a Nagyterem mind a kilenc embere egyszerre fordult az ajtó felé. Zsazsa állt a küszöbön. A füzetét a mellére szorította két kézzel, mintha az volna az egyetlen, ami megtartja, a ruhája gyűrött volt, az arcán nem volt semmi festék, a szeme alatt pedig sötét árnyék húzódott, mint aki egész éjszaka nem aludt. Megnézte őket, egyiket a másik után, lassan, mintha számolná, és amikor a végére ért, a füzet kicsúszott a kezéből, és a padlóra esett.
 
 – Tíz – mondta Neumann halkan.
 
@@ -48,7 +56,7 @@ Az asztal egyik végén, a tizenegyedik teríték mellett, a névtábla betűi l
 
 Mercury kinyitotta a tenyerét, és a névsorának a végére, hangtalanul hozzátett egy nevet. – Ferenc – suttogta. – A másik. – Callas rápillantott, rövid ideig, a szeme hideg volt, és semmi sem látszott rajta, aztán elfordult, és a kezét a szalvétán megigazította.
 
-– A fődíj marad, kétmillió-nyolcszáztízezer – mondta a Játékmester. – A pajzs senkié, és nem is lesz. A mai próbatételre tíz órakor várom önöket a Nevek Termében, a nyugati szárny földszintjén. – Egy pillanatra elhallgatott, és mintha körbenézett volna az egyetlen üres székkel és a tíz lélegző emberrel teli asztalon. – Egyenek. Ma szükségük lesz rá, hogy emlékezzenek.
+– A fődíj marad, kétmillió-nyolcszáztízezer – mondta a Játékmester. – A pajzs senkié, és nem is lesz. A mai próbatételre tíz órakor várom önöket a Nevek Termében, a nyugati szárny földszintjén. – Egy pillanatra elhallgatott, és végigmérte az asztalt, ahol tíz ember ült, és egyetlen szék maradt üresen. – Egyenek. Ma szükségük lesz rá, hogy emlékezzenek.
 
 ## Az Emlékezet Próbája
 
