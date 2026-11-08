@@ -54,11 +54,25 @@ Mercury kinyitotta a tenyerét, és a névsorának a végére, hangtalanul hozz�
 
 A Nevek Terme a nyugati szárny földszintjén volt, hosszú, alacsony boltozatú helyiség, amelyet addig senki sem látott. A falak mentén tizenkét üres fekete keret függött egymás mellett, és mindegyik alatt vaskarón egy gyertya állt, kialudva, a keret alatti kis rézlemezen pedig a betűk helyén csak simára kopott fém volt. A terem közepén egy szürke bársonnyal letakart asztal állt, rajta egy urna, két homokóra és egy pecsétes láda, amelynek a tetején két fekete boríték feküdt külön, egymás mellett, mintha nem akarnák, hogy a többihez érjenek. A Játékmester a terem túlsó végén várta őket, a tizenkét kerettel szemben, és a tíz ember úgy sorakozott fel előtte, hogy közben senki sem akarta a falakra pillantani, és mind a tízen pontosan oda néztek.
 
-– A kastély azt akarja, hogy elfelejtsék őket – mondta a Játékmester, és a hangja nem emelkedett, mégis végigfutott a boltozaton. – Minden reggel egy névvel kevesebb, minden délben egy halványabb emlék, és aki egyszer elfelejtetett, annak a világ még a hiányát is elveszi. Ma bizonyítsák be, hogy nem sikerült. Minden elmondott név egy gyertya, minden gyertya százezer forint a fődíjba. De csak az számít, ami a fejükből jön. Tollat, papírt, jegyzetet tilos bevinni, súgni nem szabad, és aki súg, annak a kérdésnek a gyertyája sötét marad, akkor is, ha a válasz helyes volt.
+– A kastély azt akarja, hogy elfelejtsék őket – mondta a Játékmester, és a hangja nem emelkedett, mégis végigfutott a boltozaton. – Minden reggel egy névvel kevesebb, minden délben egy halványabb emlék, és aki egyszer elfelejtetett, annak a világ még a hiányát is elveszi. Ma bizonyítsák be, hogy nem sikerült. Minden elmondott név egy gyertya, minden gyertya százezer forint a fődíjba. De csak az számít, ami a fejükből jön. Tollat, papírt, jegyzetet tilos bevinni, súgni nem szabad, és aki súg, annak a kérdésnek a gyertyája sötét marad, akkor is, ha a válasz helyes volt. Név csak válaszként hangozhat el: aki másképp mondja ki, annak a kérdése szintén sötét marad.
 
 Zsazsa a füzetét a ládára tette. Sokáig tartotta rajta a kezét, és amikor elvette, az ujjai a bőrborítót még egy pillanatig követték, mintha nem akarna elszakadni tőle. Mercury megmutatta a tenyerét, üresen, a Játékmester bólintott, és Mercury egy hosszú másodpercig még maga is a tenyerét nézte, mintha ellenőriznie kellene, nem maradt-e rajta valami.
 
 – Tíz lezárt boríték van az urnában – folytatta a Játékmester. – Mindegyikben egy kérdés, egy eseményről, amelynek a válasza egy elfelejtett név. Húzzanak, de ne nyissák ki. A sorrendet is a húzás dönti el. – Neumann ellenőrizte az urnát: felemelte, megrázta, belenézett, aztán a pecséteket vizsgálta a boríték szélén, és hosszú, kimért mozdulattal bólintott. – A két fekete borítékot külön őrzöm, az a két név a legfrissebb. A csoportnak ki kell jelölnie két játékost, akik megválaszolják, öt perc áll rendelkezésükre, és a kijelölteknek a saját fehér borítékjukon felül kell ezt is elvállalniuk.
+
+– Sorsolás – mondta Neumann azonnal. – Minden más elfogultság.
+
+– Persze – mondta Brando, és nem mormogott, a hangja tisztán, zengően vágott a boltozat alá. – Egy számot kihúznak, és senkinek sincs felelőssége. Maga mindent így szeret, ugye? Hogy ne kelljen kimondani, kire gondol.
+
+– A szeretet nem szempont – felelte Neumann.
+
+– Nem sorsolunk emberéleteket – mondta Zsazsa, a keze remegett. – Neveket sem. Ha valakinek ez a dolga, azt vállalja, nem húzzák a kalapból.
+
+– Aki mindent leírt, az tudja a legtöbbet – mondta Callas, és a hangja hideg és tiszta volt. – A füzet a ládában van, de ami benne volt, annak a nagy része nem.
+
+Hosszú, kínos hallgatás következett. Mercury tett egy lépést előre, a fehér kezével a szája előtt, és amikor megszólalt, a hangja olyan volt, mint valakié, aki előbb eldöntötte, hogy beszél, és csak azután keresi a szavakat. – Az egyiket én írtam, tegnap – mondta. – Nekem kell tudnom. – Callas hirtelen Mercuryre nézett, és az arcán átfutott valami, amit gyorsan elfojtott. Zsazsa letörölte a szeméről a könnyet, és a füzet ládája felé fordult. – Akkor én – mondta. – A másikat. Mert nem fér bele, hogy más mondja el.
+
+A Játékmester a két fekete borítékot a ládán hagyta, lezárva, hogy csak a végén bontsák fel őket. Aztán odatolta az urnát a tíz ember elé.
 
 A húzás gyorsan lezajlott. Bud Spencer, Hofi, Einstein, Callas, Dalí, Mercury, Zsazsa, Hepburn, Brando és Neumann, ebben a sorrendben, és a tíz ember tíz különböző arccal állt a rézlemezek előtt. A Játékmester mellette egy hosszú, vékony gyertyagyújtót tartott, a láng a hegyén szinte mozdulatlan volt, és minden alkalommal, amikor egy válasz elhangzott, odalépett a megfelelő kerethez, és a gyertyát meggyújtotta. Ez a szertartás mindannyiuknak más volt: a helyes válasz után a lángocska felragyogott a fekete keret alatt, és egy pillanatra olyan volt, mintha a keretben valami megmozdult volna.
 
@@ -72,19 +86,9 @@ Zsazsa a csendesek listájáról kapta a kérdést, és a gyertyák fényében a
 
 Brando borítékját a Játékmester a kezébe vette, és olvasta: ki mondta ki az ötödik Kerekasztalnál, hogy ha éjjel valami történik vele, Marlon Brandót figyeljék. Brando elmosolyodott, a szája sarkában a régi, keserű vonallal. – Orson – mondta. – És tévedett. – A Játékmester arcán nem rezdült semmi, a gyertya mégis meggyulladt. Neumann kérdése Hitchcockról szólt: ki mondta a búcsújában, hogy áruló, majd az ujját az ajkához emelte. Neumann egy pillanatot sem késett. – Alfred Hitchcock – mondta hűvösen, mint aki egy tételt zár le, és a hangjában nem volt semmi. A teremben néhányan egymásra néztek, mert ez volt az egyetlen válasz, amelyhez senkinek sem kellett keresgélnie, aztán a gyertya meggyulladt, és a pillantások szétoszlottak.
 
-– Tíz gyertya ég – mondta a Játékmester. – Egymillió forint a fődíjba. A két fekete boríték marad. – Két ujjal megérintette őket. – A tizenegyedik és a tizenkettedik név. Öt perc. Jelöljék ki, ki felel.
+Mercury, mióta a kijelölést elvállalta, egyszer sem szólalt meg. Az ajka olykor mozdult, némán ismételgetett valamit, amit reggel még tudott, és ami óráról órára távolabb került tőle, mint a kép, amelyről egy lépést hátrál az ember, hogy jobban lássa, és közben egyre kevesebbet lát belőle. Amikor a tizedik gyertya is égett, a keze már ökölbe szorult.
 
-– Sorsolás – mondta Neumann azonnal. – Minden más elfogultság.
-
-– Persze – mondta Brando, és nem mormogott, a hangja tisztán, zengően vágott a boltozat alá. – Egy számot kihúznak, és senkinek sincs felelőssége. Maga mindent így szeret, ugye? Hogy ne kelljen kimondani, kire gondol.
-
-– A szeretet nem szempont – felelte Neumann.
-
-– Nem sorsolunk emberéleteket – mondta Zsazsa, a keze remegett. – Neveket sem. Ha valakinek ez a dolga, azt vállalja, nem húzzák a kalapból.
-
-– Aki mindent leírt, az tudja a legtöbbet – mondta Callas, és a hangja hideg és tiszta volt. – A füzet a ládában van, de ami benne volt, annak a nagy része nem.
-
-Hosszú, kínos hallgatás következett. Mercury tett egy lépést előre, a fehér kezével a szája előtt, és amikor megszólalt, a hangja olyan volt, mint valakié, aki előbb eldöntötte, hogy beszél, és csak azután keresi a szavakat. – Gyulát én írtam – mondta. – Tegnap. Nekem kell tudnom. – Callas hirtelen Mercuryre nézett, és az arcán átfutott valami, amit gyorsan elfojtott. Zsazsa letörölte a szeméről a könnyet, és a füzet ládája felé fordult. – Akkor én – mondta. – Ferencet. Mert nem fér bele, hogy más mondja el.
+– Tíz gyertya ég – mondta a Játékmester. – Egymillió forint a fődíjba. A két fekete boríték marad. – Két ujjal megérintette őket. – A tizenegyedik és a tizenkettedik név. Öt perc, és a két kijelölt jön.
 
 A Játékmester a két fekete borítékot átnyújtotta nekik, és megfordította a homokórát. A szemcsék halkan peregni kezdtek, és a terem összes lélegzete egyszerre állt meg. Zsazsa feltörte a pecsétet, a lapot a Játékmester olvasta fel: – Ki mondta a hetedik Kerekasztalnál, hogy „Ártatlan vagyok. Pont."? – Zsazsa a homokórára pillantott. Az ajka szétnyílt, és egy pillanatra olyan volt, mintha nem jönne ki rajta hang, aztán kimondta. – Puskás Ferenc. – A hangja elcsuklott a végén, és még egyszer megismételte, mintha el akarná magától engedni: – Ferenc. Puskás Ferenc. – A gyertya felvillant a tizenegyedik keret alatt.
 
@@ -192,7 +196,7 @@ A terem egy másodpercig hallgatott, aztán Zsazsa sikoltott. Egyszerre sikoltot
 
 – Ketten írtak engem – mondta Zsazsa lassan, és a szeme Hofira siklott. – Maga az egyik. És a másik... – Hirtelen elhallgatott, a szeme a Kapura tévedt, és az arca valami olyasmit mutatott, amit nem lehetett megnevezni. – Ő. János. Természetesen ő.
 
-– Kilencen vannak – mondta a Játékmester. – A gong hamarosan szól. – A hangja újra ünnepélyes volt, és halk, és a kerek asztal fölött a gyertyák lángjai egyszerre hajoltak meg. – Jó éjszakát kívánok.
+– Kilencen vannak – mondta a Játékmester. – Egy szabályra még emlékeztetem önöket. Ha a Kapu árulót ad, az árulók vagy áldozatot választanak, vagy új tagot hívnak maguk közé. Ma éjjel utoljára van erre lehetőségük. Hogy élnek-e vele, azt nem fogom önöknek megmondani. – Az asztal körül senki sem mozdult, és Mercury a fél krétát lassan letette az asztalra, mintha attól félne, hogy a hangja elárulja. – A gong hamarosan szól. – A hangja újra ünnepélyes volt, és halk, és a kerek asztal fölött a gyertyák lángjai egyszerre hajoltak meg. – Jó éjszakát kívánok.
 
 ## A nyolcadik konklávé
 
@@ -220,7 +224,23 @@ A Harmadik sokáig hallgatott. A lángocska megrezzent, a két csuklya árnyéka
 
 Az Új nem felelt azonnal. A csuklya alatt egy hang hallatszott, rövid, halk, mintha valaki nevetne, és nem tudna, mit. – Szóval ez a másik oldal – mondta végül. – Azt hittem, hideg lesz. Nem az. Csak éppen mindenki ugyanúgy gyanakszik mindenkire.
 
-– Az éjszakának kell valaki.
+– A Játékmester azt mondta, ma utoljára hívhatunk – mondta a Harmadik. – Hallottam.
+
+– Én is. – Az Új közelebb hajolt a gyertyához. – Háromnak több esélye van, mint kettőnek. Ezt nem kell bizonygatni.
+
+– A biztonság többet ér egy részesedésnél – mondta a Harmadik halkan, és a hangján hallatszott, hogy ezt a mondatot már egyszer kimondta, egy másik éjszakán, más számokkal.
+
+– Akkor igaz volt. – Az Új hangja nyugodt maradt. – Ha ma hívunk, nincs gyilkosság, és aki ma a legközelebb járt, holnap is él, és holnap talán már a nevünket mondja. Aki ide beül, annak azonnal tudnia kell, kik vagyunk, és egy harmadik nem csökkenti a gyanút, csak megsokszorozza a tanúkat. A díj pedig nem egymillió-kilencszázötvenötezer lenne, hanem valamivel egymillió-háromszázezer fölött.
+
+– Ön számolt.
+
+– Mindig számol valaki. – Az Új a gyertyára nézett. – Ön szeretne hívni?
+
+– Nem. – A Harmadik sokáig hallgatott. – Nem akarok még egy embert, akit el kell veszíteni.
+
+– Akkor nem hívunk – mondta az Új. A hangja nem volt megkönnyebbült, csak végleges, mint amikor valaki egy ajtót nem becsuk, hanem lezár.
+
+– Akkor az éjszakának kell valaki.
 
 – Kell. – Az Új hangja újra tárgyilagos lett. – Ma ketten is közel jártak az igazsághoz. Az egyik hangosan, a másik halkan. A halkabb a veszélyesebb, mert őt nem gyanúsítja senki, és ő nem kiabál addig, amíg valaki le nem lép előle. Nem hibázott. Csak éppen közel járt.
 
