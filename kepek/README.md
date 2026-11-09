@@ -60,3 +60,7 @@ Tippek az egységességhez:
 | `07-02-mercury-kivalt` | „Maria Callast váltom ki." | kész, beszerkesztve |
 | `07-03-callas-a-kuszoben` | „Nem kértem, hogy fizessen értem valaki." | kész, beszerkesztve |
 | `07-04-kabos-felall` | „Kabos felállt. A térde meginogott, de Puskás kinyújtotta a kezét, és megtartotta a könyökét." | kész, beszerkesztve |
+| `08-01-a-nevek-terme` | „A terem közepén egy szürke bársonnyal letakart asztal állt, rajta egy urna, két homokóra és egy pecsétes láda, amelynek a tetején két fekete boríték feküdt egymás mellett, az urnától távol, mintha nem tartoznának a többi közé." | prompt kész, kép még nincs |
+| `08-02-einstein-felall` | „Einstein volt az, aki felállt." | prompt kész, kép még nincs |
+| `08-03-brando-a-kovon` | „Brando lecsúszott a székről a padlóra, és ott ült a kövön, az arcát a tenyerébe temetve, és nevetett és sírt egyszerre, előbb hangtalanul, a vállát rázva, aztán hangosan, megkönnyebbülten." | prompt kész, kép még nincs |
+| `08-04-az-ures-szek` | „A gyertya lángja, amely tegnap még egyenesen égett, most az üres szék felé hajlott, mintha a közelében keresne valakit, és az asztal lapján nem feküdt semmi, sem szürke lap, sem fekete, csak a viasz kis, kihűlt cseppjei, ahol tegnap még valaki az ujját tartotta." | prompt kész, kép még nincs |
