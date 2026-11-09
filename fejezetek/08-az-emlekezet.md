@@ -208,7 +208,7 @@ A terem egy másodpercig hallgatott, aztán Zsazsa sikoltott. Egyszerre sikoltot
 
 ## A nyolcadik konklávé
 
-Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn két ember lépései hallatszottak. A kőasztalnál három szék állt, és kettőbe ültek le a csuklyák árnyékában, a harmadik üresen maradt. A gyertya lángja, amely tegnap még egyenesen égett, most az üres szék felé hajlott, mintha a közelében keresne valakit, és az asztal lapján nem feküdt semmi, sem szürke lap, sem fekete, csak a viasz kis, kihűlt cseppjei, ahol tegnap még valaki az ujját tartotta.
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn két ember lépései hallatszottak. A kőasztalnál három szék állt, kettőre ültek le a csuklyák árnyékában, a harmadik üresen maradt. A gyertya lángja, amely tegnap még egyenesen égett, most az üres szék felé hajlott, mintha a közelében keresne valakit, és az asztal lapján nem feküdt semmi, sem szürke lap, sem fekete, csak a viasz kis, kihűlt cseppjei, ahol tegnap még valaki az ujját tartotta.
 
 – Ketten maradtunk – mondta az Új. A hangja halk volt, és nyugodt, mint aki egy képet vizsgál, amelyen valami megváltozott. – Fele-fele. A díj hárommillió-kilencszáztízezer. Kettő felé osztva egymillió-kilencszázötvenötezer.
 
@@ -230,11 +230,11 @@ A Harmadik sokáig hallgatott. A lángocska megrezzent, a két csuklya árnyéka
 
 – Tudom. – A Harmadik keze az asztalon feküdt, mozdulatlanul, és a gyertya fénye az ujjakon remegett. – De nem is kell. Elég, ha kimondjuk, hogy kimondtuk.
 
-Az Új nem felelt azonnal. A csuklya alatt egy hang hallatszott, rövid, halk, mintha valaki nevetne, és nem tudna, mit. – Szóval ez a másik oldal – mondta végül. – Azt hittem, hideg lesz. Nem az. Csak éppen mindenki ugyanúgy gyanakszik mindenkire.
+Az Új nem felelt azonnal. A csuklya alatt egy rövid, halk hang hallatszott, mintha valaki akaratlanul felnevetett volna. – Szóval ez a másik oldal – mondta végül. – Azt hittem, hideg lesz. Nem az. Csak éppen mindenki ugyanúgy gyanakszik mindenkire.
 
-– A Játékmester azt mondta, ma utoljára meghívhatunk valakit – mondta a Harmadik. – Hallottam.
+– A Játékmester azt mondta, ma utoljára meghívhatunk valakit – mondta a Harmadik. – Ön is hallotta?
 
-– Én is. – Az Új közelebb hajolt a gyertyához. – Háromnak több esélye van, mint kettőnek. Ezt nem kell bizonygatni.
+– Hallottam. – Az Új közelebb hajolt a gyertyához. – Háromnak több esélye van, mint kettőnek. Ezt nem kell bizonygatni.
 
 – A biztonság többet ér egy részesedésnél – mondta a Harmadik halkan, és a hangján hallatszott, hogy ezt a mondatot már egyszer kimondta, egy másik éjszakán, más számokkal.
 
@@ -250,7 +250,7 @@ Az Új nem felelt azonnal. A csuklya alatt egy hang hallatszott, rövid, halk, m
 
 – Akkor az éjszakának kell valaki.
 
-– Kell. – Az Új hangja újra tárgyilagos lett. – Ma ketten is közel jártak az igazsághoz. Az egyik hangosan, a másik halkan. A halkabb a veszélyesebb, mert őt nem gyanúsítja senki, és ő nem kiabál addig, amíg valaki le nem lép előle. Nem hibázott. Csak éppen közel járt.
+– Kell. – Az Új hangja újra tárgyilagos lett. – Ma ketten is közel jártak az igazsághoz. Az egyik hangosan, a másik halkan. A halkabb a veszélyesebb, mert őt nem gyanúsítja senki, és ő nem kiabál, csak vár a megfelelő pillanatra. Nem hibázott. Csak éppen közel járt.
 
 – A másik is veszélyes – mondta a Harmadik. – A hangos. Aki félelemből vádol.
 
