@@ -1,0 +1,7 @@
+# Kiesettek az olvasói szöveg szerint, fejezetenként, kumulatívan (az N. sor az N. fejezet végéig kiesetteket tartalmazza).
+# Csak azt írjuk ide, ami a megjelent szövegből látszik. Nevek: a kihuzas.py vezetéknevei (ékezet nélkül).
+# Fejezet lezárásakor (CLAUDE.md, 4. lépés) fel kell venni az új sort. Az ajanlas/ajanlo.py ebből dolgozik.
+# A 3–6. sor hiányzik: az ezekhez tartozó ajánlóképek már elkészültek.
+2: Armstrong, Latabar
+7: Kabos, Latabar, Psota, Bessenyei, Christie, Dietrich, deFunes, Armstrong, Welles, Taylor, Hitchcock
+8: Kabos, Latabar, Psota, Bessenyei, Christie, Dietrich, deFunes, Armstrong, Welles, Taylor, Hitchcock, Puskas, Neumann

@@ -45,6 +45,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - [x] 7. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
 - [x] 8. fejezet illusztrációinak promptjai megírva (`kepek/08-01`–`08-04`). (C)
 - [x] 8. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
+- [x] 8. fejezet retrospektív: a munkamód finomításai átvezetve a `CLAUDE.md`-be (köteg-mód, következetességi táblázat, szószedet, ellenőrző parancsok, `kepek/beszerkeszt.py`, `ajanlas/ajanlo.py`, `projekt/kiesettek.txt`). (C)
 - [x] 8. fejezet megírva: `fejezetek/08-az-emlekezet.md` (az Emlékezet Próbája, fődíj 3 910 000 Ft; K8 és az éjszaka a szövegben) (C, 11-07)
 - [x] 7. fejezet megírva: `fejezetek/07-a-halallista.md` (a halállista és a váltságdíj; fődíj 2 810 000 Ft; K7 és az éjszaka a szövegben) (C, 10-31)
 - [x] 6. fejezet megírva: `fejezetek/06-a-merleg.md` (új próbatétel: a Mérleg; fődíj 2 960 000 Ft; K6 és a konklávé a szövegben) (C, 10-28)
