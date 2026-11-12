@@ -159,3 +159,79 @@ A folyosón, a Tükörterem lépcsője alatt, késő délután Brando állta Zsa
 – Ez fenyegetés? – kérdezte Zsazsa.
 
 – Nem. – Brando elmosolyodott, egy pillanatra, szinte kedvesen. – Ez egy színész utolsó jó tanácsa, mielőtt még kiderülne, hogy kinek. – Eltolta magát a faltól, és elment, a lépései lassúak voltak, a vállai előreesve, és Zsazsa még sokáig állt a folyosón, a füzetet a mellére szorítva, és a tekintete a falon, ahol Brando háta az imént még a kőhöz simult.
+
+## A Kerekasztal
+
+Este nyolckor a gong hangja a Kerekasztal-terem boltozatáig hatolt, és nyolcan ültek le a kerek asztalhoz, tizennégy székkel kevesebben, mint az első napokban. A palatáblák fordítva feküdtek előttük, a kréta mellettük, a terem végében pedig, a falba mélyedve, ott állt a Feledés Kapuja, a fekete ajtó ezüst kerettel, kilincs nélkül. A nyolc ember között ma több volt a hely, mint tegnap, a székek közt rés nyílt, és mindenki egy kicsit távolabb húzódott a szomszédjától, mintha az üresen maradt szék a levegőt is elvette volna. Zsazsa a füzetét az asztalra tette, kinyitotta, és a keze nyugodt volt, a tekintete pedig az asztalon át egyenesen Brandóra irányult, aki a székében hátradőlt, a karját a mellén keresztbe fonta, és a szemét a boltozatra emelte, mint aki olyasmit hallgat, amit más nem hall.
+
+– A kilencedik Kerekasztal – mondta a Játékmester. – Aki szólni akar, szóljon. Aki vádol, vádoljon. A szavazás után a kiesett a Feledés Kapuján távozik, ahogy mindenki, akit a Kerekasztal korábban elküldött.
+
+Zsazsa felállt, és a keze a füzet szélére simult. – Nem fogok sokáig beszélni – mondta. – Mert sokat beszéltem már, és tegnap tévedtem. Puskás Ferencet írtam, és ő meghalt, és ez az én lelkemen is van. Ezért ma nem tévedhetek, és nem azért, mert büszke vagyok, hanem mert nincs több tévedésem. – Hangja egy pillanatra megremegett, de megkapaszkodott. – Öt érvem van, és mind Marlon Brandóra mutat. Az első: ma délelőtt öten írták a nevét, amikor azt kérdezték, ki hazudik a legszebben. Öt ember, megegyezés nélkül, ugyanazt. A második: Orson Welles az utolsó éjszakáján azt mondta, ha vele történik valami, Marlont figyeljék. Welles tévedett, de valamiért mondta. A harmadik: a hatodik napon, a Mérlegteremben két kő került a Vas serpenyőbe, és az egyik Marlonról tudjuk, hogy ő „kérte", hirtelen, mielőtt bárki kérdezte volna. A negyedik: valahányszor valaki közel kerül hozzá, kérdéssel válaszol. Az ötödik: a hatodik napon azt mondta nekem, hogy „aki ennyire biztos, annak legyen alkalma tévedni." – Elhallgatott. – Mostanra mindenki látja, hogy tévedtem, és nem azért, mert alkalmam lett volna, hanem mert vakon mentem. Ma nem vakon megyek. Ma nyitott szemmel.
+
+– Nyitott szemmel – mondta Brando. Nem emelte fel a hangját, és a karját sem bontotta ki. – Ez szép. Ezt nem én mondtam.
+
+– Nem – mondta Zsazsa. – Én mondtam.
+
+– Lehet, hogy mégis én mondtam, csak nem emlékszik rá – mondta Brando, és a szája sarkában egy pillanatra megjelent az, ami régen mosoly volt. Aztán fölegyenesedett, és a karját az asztalra tette, és amikor beszélni kezdett, a hangja tiszta volt, mély, szinte zengő, és a terem mintha összébb húzódott volna. – Színész vagyok. Ezt mindenki tudja, és ezt ma délelőtt öten pontosan megértették. A színész nem hazudik. A színész valaki más igazát mondja el, olyan hűen, hogy a terem elhiszi. Ezért tudom, hogy aki gyilkos, az igazat mond, amikor hazudik: nem a szavakban, hanem abban, amit megél, amíg mondja. Zsazsa, maga ma az igazat mondja: azt, amit érez, hogy ki kell mondania valakinek a nevét. Csak éppen nem az enyém az. – Nyugodtan nézett rá. – Én nem tudom bebizonyítani, hogy ártatlan vagyok. Az ártatlanság nem bizonyítható. Ezért ülök itt, és ezért állok szemben maguk előtt, és egyszerűen azt mondom: ha ma engem küldenek el, a maguk gyanúja nem lesz kisebb, csak a nevem fog hiányozni belőle.
+
+– Ez szépen hangzik – mondta Zsazsa halkan.
+
+– Nem szépnek szántam – mondta Brando. – Pontosnak. – Előrehajolt. – Egy kérdést teszek fel magának, asszonyom. Négy éjszaka a listán volt a neve. Egy éjszakán a kapu elé küldtek egy embert, aki szintén ott volt. Egy éjszakán a lista másik tagját megölték. Maga mégis itt ül. Még mindig él. Miért?
+
+A terem megmerevedett. Hofi lassan eltolta magától a krétát, mintha nem akarna hozzányúlni, Mercury lehajtotta a fejét. Zsazsa arca elsápadt, a keze összeszorult a füzet szélén, aztán kiegyenesedett, és a hangja halk lett. – Ha gyilkos lennék, tudnám a választ – mondta. – Nem tudom. Ezt veszik tőlem tudomásul, vagy nem.
+
+– Nem tudom – ismételte Brando. – Ezt is el lehet hinni. – Visszahajolt a székébe. – Én csak kérdeztem.
+
+Callas ekkor szólalt meg, és nem emelte fel a hangját, a tekintete az asztal lapján maradt. – Egy dolgot szeretnék mondani – kezdte. – Ma délelőtt a Tükörteremben egy nevet öten írtak, és az nem Marlon volt, hanem valaki, akit mindenki kedvel. Én is kedvelem. Nem mondok nevet, mert nincs mit mondanom. Csak azt tudom, hogy mi mind vigyázunk arra, akit szeretünk, és ez egy olyan szokás, amelyet a Játékmester nem tilt, de amely nem azonos a bizalommal. Ma este azt szeretném, ha az első nevet nem a kedvencünk elől véve, hanem velünk szemben vizsgálnánk.
+
+– Ha Audreyre gondol, mondja ki – mondta Zsazsa.
+
+– Nem gondolok senkire – mondta Callas. – Azt mondtam, nem mondok nevet.
+
+– Ha van valaki, aki gyanúsít, szóljon – mondta Hepburn, és a hangja lágy volt, szinte elcsukló, a két kezét az asztalra téve, nyitott tenyérrel. – Nem leszek haragos. Valóban nem. Én is szeretnék tudni, mit látnak, hátha nekem is segít. Ha ma engem kell kiszavazni, szívesen ülök a székemen, amíg eldöntik. – Az ajka remegett, de elmosolyodott. – Csak azt kérem, ne a kedvességemet hozzák fel ellenem. Más nincs, amit adhatok.
+
+– Dalí ártatlansága festői tény – mondta Dalí, és a botját az asztal szélének támasztotta, mintha az is szavazna. – Dalí rajzolta a boltozatot, amelyet a torony néz, és a toronyba Dalí nem jut, mert Dalí nem ismeri a kulcsot. – Egyenesen az asztal közepére tekintett. – Dalí szeretné megjegyezni, hogy a legveszélyesebb kép mindig a legszebb keretben van. A tökéletes kedvesség ecsetvonás, amelyet nem lehet megismételni. Dalí csak megjegyezte.
+
+– Ön ma mindenkit gyanúsít, aki nem maga – mondta Hofi, és a hangjában nem volt gúny, csak fáradtság.
+
+– Nem gyanúsít – mondta Zsazsa élesen. – Szimmetria. Ha nincs érve, mindenki gyanús. Ez a világ legrégibb trükkje.
+
+– Dalí nem trükkös – mondta Dalí. – Dalí ritkán téved a szimmetriában. – Egyetlen mozdulattal visszahúzta a botját, és többet nem szólt.
+
+Bud Spencer a tenyerét az asztalra téve hosszú ideig hallgatott, és amikor megszólalt, a hangja mély volt, és lassú, és nem nézett senkire. – Zsazsa. Ma túl sok a biztos mondat. – Ennyit mondott, és ezzel az ügy számára lezárult. Mercury a krétát az ujjai közt forgatta, és a táblát sokáig nem érintette.
+
+– Nem tudom – mondta végül. – Marlon, nem haragszik, ugye? Nem tudom, kit higgyek. – Brando megrázta a fejét. – Nem – mondta. – Írjon, amit a szíve diktál. – Mercury ráírt a táblára, és a keze remegett, de a betűk ép maradtak.
+
+A kréta egyenként mozdult, és a nyolc ember a táblája fölé hajolt, mint aki titkot rejt a szomszéd elől. A Játékmester a nyolc táblát egymás után felemelte, lassan, és a hangja mindegyiknél ugyanolyan maradt. – Marlon Brando. – Zsazsa keze megállt a füzeten. – Gábor Zsazsa. Marlon Brando. Audrey Hepburn. – Hepburn a tenyerét lassan ráfektette az asztalra. – Gábor Zsazsa. Marlon Brando. Gábor Zsazsa. – A Játékmester a nyolcadik táblára nézett, és egy pillanatnyi szünet után olvasta fel. – Marlon Brando.
+
+A teremben nem hallatszott semmi, csak a gyertya sercenése. Brando a szemét a tábláról lassan a boltozatra emelte, és mormolt valamit, amit nem lehetett hallani. – Négy szavazat Marlon Brandóra – mondta a Játékmester. – Három Gábor Zsazsára. Egy Audrey Hepburnre. Marlon Brando kiesik.
+
+Brando azonnal felállt. A székét nem tolta hátra, csak elengedte, és az halkan a padlóhoz koccant. A Kapu elé lépett, a kezét a zsebébe dugta, és sokáig csak állt ott, a fekete ajtóval szemközt, mintha a szavakat kellene megtalálnia. Aztán, mormolva, szinte mint a legelső napon, elkezdte. – Hazudni a szakmám – mondta. – Igazat mondani a hobbim. Nyolc napja játsszuk, hogy ki a hazug, és én voltam a leghosszabb ideig a gyanú tárgya, és őszintén szólva... szerettem. Mert egy színész nem szokta meg, hogy valaki végre figyeli. – A hangja az utolsó szavaknál egyszerre tisztább lett, mélyebb, és a terem összébb húzódott. – Asszonyom – mondta Zsazsának. – Maga ma este jól játszott. Csak rosszul választotta a szerepet. Ne higgye, hogy a hibája az, hogy tévedett. A hibája az, hogy egyedül akart igazat mondani. – Hangja újra mormolóvá vált. – Hölgyeim és uraim: ártatlan vagyok.
+
+– Marlon Brando ártatlan volt – mondta a Játékmester.
+
+Brando meghajolt, kicsit, nem színpadiasan, inkább ahogy az ember a vendéglátó előtt biccent, és annyit mondott: – Köszönöm. – A fekete ajtó, amelynek se kilincse, se zára nem volt, mellette csendesen nyílt, ő belépett, és az ajtó mögötte becsukódott.
+
+Az asztal körül sokáig senki sem szólt. Zsazsa lassan leült, a füzetet becsukta, és a két tenyerét az arcára szorította. A válla remegett, és a hangja, amikor megszólalt, nem hasonlított arra, amelyet az egész nap használt. – Nem hibáztatnak – mondta. – Tudom, hogy nem hibáztatnak. De én igen. – Az ujjai közt alig lehetett hallani a szavait. – Én kértem. Én kértem, hogy írják.
+
+– Maga kérte, mi megadtuk – mondta Hofi halkan, és a hangjában nem volt csattanó. – Nem maga volt az egyetlen kéz a krétán.
+
+– Elég – mondta Bud Spencer, és a kezét Zsazsa vállára tette, nehéz, óvatos mozdulattal. Mercury kinyitotta a tenyerét, és az üres felületet nézte. – Hány maradtunk? – kérdezte rekedten.
+
+– Heten – mondta Hofi. – Heten, és nem tudjuk, hányan közülünk... – Elhallgatott.
+
+– Nyolc Kerekasztal – mondta a Játékmester, és a hangja halk volt, és fenyegetően nyugodt. – Hat ártatlan. Kezdem azt hinni, hogy ez nem hiba, hanem szokás. – Egy pillanatra elhallgatott. – A gongig már csak az idő van hátra.
+
+– Ki nem szavazott rá? – kérdezte Callas. A hangja hideg volt, a keze összekulcsolva az asztalon. – Hogy tudjuk.
+
+– Én nem – mondta Hofi. – Zsazsát írtam. Elnézést kérek, asszonyom. Nem személyes. Ma estére egyszerűen túl sok volt a biztos mondatból.
+
+– Zsazsát – mondta Bud Spencer, és ennyit mondott.
+
+– Dalí Hepburnt írt – mondta Dalí, a bajusza alól, nyugodtan. – Egy túl szép keret. Azt a legveszélyesebb nézni.
+
+– Köszönöm, Salvador – mondta Hepburn. Az arca nem változott, a szeme nedves volt, a hangja lágy. – Remélem, azért nem haragszik rám. – Dalí egy pillanatra rápillantott, és nem felelt. – Én Marlont írtam – folytatta Hepburn. – Sajnálom. Nagyon sajnálom, Marlon, ha ártatlan volt.
+
+– Ha ártatlan volt – mondta Zsazsa üresen. – Ártatlan volt. – A füzetet az asztalra tette, és az ujja egy üres oldalra tévedt, aztán megállt. – Mi csak azt tudjuk, hogy hat ártatlan ment ki ezen az ajtón. És hogy ma sem tudjuk, miért.
+
+A fal mellett a gyertyák lángjai egyszerre hajoltak a Kapu felé, és mire a gong szólt, a nyolc szék közül hétben ültek.
