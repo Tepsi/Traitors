@@ -8,3 +8,4 @@
 06-a-merleg.md;2026-11-29
 07-a-halallista.md;2026-12-06
 08-az-emlekezet.md;2026-12-13
+09-a-tukor.md;2026-12-20

@@ -3,6 +3,7 @@
 Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, (C) = Claude. Ha kész egy elem, írd át `[ ]`-ról `[x]`-re, és vidd a „Kész" részbe.
 
 ## Következő lépések
+- [ ] 9. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Tükörterem, a Kerekasztal, a konklávé. (Z)
 - [x] 8. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, az Emlékezet Próbája, a Kerekasztal, a konklávé. (Z)
 - [ ] 7. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a halállista és a váltságdíj, a Kerekasztal, a konklávé. (Z)
 - [ ] Halállista: mikor és milyen formában vezessük be? (Z+C)
@@ -40,6 +41,7 @@ Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, 
 - Hatodik próbatétel (a halállista napja): a Váltságdíj (a négy listást a Kápolnában tartják, a nyolc kint maradó hangosan dönt, kiváltja-e valamelyiküket százötvenezer forintért a fődíjból; legfeljebb egy név). Eredmény: fődíj 2 810 000 Ft. (C, 7. fejezet)
 
 ## Kész
+- [x] 9. fejezet megírva: `fejezetek/09-a-tukor.md` (új próbatétel: a Tükörterem; fődíj 4 510 000 Ft; K9 és az éjszaka a szövegben) (C, 11-12)
 - [x] 6. fejezet illusztrációi: promptok megírva (`kepek/06-01`–`06-03`), a képek `.jpg`-re átnevezve és beszerkesztve. (C, 11-05)
 - [x] 7. fejezet illusztrációinak promptjai megírva (`kepek/07-01`–`07-04`). (C)
 - [x] 7. fejezet illusztrációi: a képek `.jpg`-re átnevezve és beszerkesztve. (C)
