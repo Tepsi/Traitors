@@ -56,61 +56,47 @@ A szürke köpenyből a következő pillanatban már csak a lengő függöny mar
 
 ## A Tükörterem
 
-A déli szárny emeletén a folyosó végén egy kétszárnyú, sötét tölgyajtó állt nyitva, és a küszöbön túl a terem hosszabb volt, mint amekkorát az épület falai engedtek volna. Mindkét oldalán négy-négy magas tükör állt aranyozott keretben, a felületük megfakult, itt-ott foltos, és a gyertyák fénye bennük kétszer, háromszor tükröződött, úgyhogy a terem tele volt apró, tovahaladó lángokkal, és ahogy a nyolc ember belépett, a tükrökben nyolc arc fordult feléjük, kicsit homályosan, mintha mindegyik egy másik napszakból érkezett volna. A terem közepén kőpárkány állt, és a tetején sárgaréz láda, két tenyérnyi, keskeny réssel a fedelén. A falak mentén, a tükrök között, nyolc sötét fa fülke sorakozott, mindegyik előtt vastag bársonyfüggöny, mögötte pedig kis lámpa, egy szál ceruza és egy halom krémszínű lap. A Játékmester a láda mellett állt, a szürke köpenyében mozdulatlanul, és csak akkor szólalt meg, amikor az utolsó vendég is megállt a küszöb és a párkány között.
+A déli szárny emeletén a folyosó végén egy kétszárnyú, sötét tölgyajtó állt nyitva, és a küszöbön túl a terem hosszabb volt, mint amekkorát az épület falai engedtek volna. Mindkét oldalán négy-négy magas tükör állt aranyozott keretben, a felületük megfakult, itt-ott foltos, és a gyertyák fénye bennük kétszer, háromszor tükröződött, úgyhogy a terem tele volt apró, tovahaladó lángokkal, és ahogy a nyolc ember belépett, a tükrökben nyolc arc fordult feléjük, kicsit homályosan. A terem közepén kőpárkány állt, a tetején sárgaréz láda, két tenyérnyi, keskeny réssel a fedelén. A falak mentén, a tükrök között nyolc sötét fa fülke sorakozott, mindegyik előtt vastag bársonyfüggöny, mögötte kis lámpa, ceruza, egy halom krémszínű lap, és a hátsó falon, szemmagasságban, egy keskeny, aranykeretes tükör, amely az odaülő saját arcát mutatta. A Játékmester a láda mellett állt, a szürke köpenyében mozdulatlanul, és csak akkor szólalt meg, amikor az utolsó vendég is megállt a küszöb és a párkány között.
 
-– A tükörbe mindenki másképp néz – mondta. – A játékuk, amióta idejöttek, abból áll, hogy egymás arcát olvassák. Ma az a kérdés, hogy az arcok közül melyiket olvassák ugyanúgy. Négy kérdést teszek fel. Mindegyikre mindenki a saját fülkéjében ráírja egy lapra egy játékos nevét, nyomtatott nagybetűkkel, hogy a kéz ne áruljon el semmit. A saját nevüket is írhatják. A lapot kétszer félbehajtják, és a ládába dobják. A függöny mögött senki sem lát, senki sem hall, a lap, a hajtás és a ceruza mind ugyanaz; a neveket én olvasom fel, és csak a nevek hangzanak el, a kéz nem. Ha egy név legalább öt lapon áll a nyolcból, háromszázezer forint kerül a fődíjba. Ha nem, semmi. A kérdések között beszélhetnek egymással, megállapodhatnak, hazudhatnak. Ezt mind ismerik. – A hangja egy árnyalattal halkabb lett. – Az első kérdés: kire bízná legszívesebben a fődíjat egy éjszakára?
+– A tükörbe mindenki másképp néz – mondta. – A játékuk, amióta idejöttek, abból áll, hogy egymás arcát olvassák. Ma azt próbálom ki, mennyire olvasnak jól. Négy kérdést teszek fel. Mindegyikre mindenki a saját fülkéjében, a saját tükre előtt ráírja egy lapra egy játékos nevét, nyomtatott nagybetűkkel, hogy a kéz ne áruljon el semmit. A saját nevüket is írhatják. A lapot kétszer félbehajtják, és a ládába dobják; a neveket én olvasom fel, és csak a nevek hangzanak el, a kéz nem. Ha egy név legalább öt lapon áll a nyolcból, háromszázezer forint kerül a fődíjba. Ha nem, semmi. A kérdés mindig az, kit gondolnak a legalkalmasabbnak, de a háromszázezret csak az kapja, aki arra ír, akire a többiek is írni fognak. – Egy pillanatra elhallgatott. – Egy szabály van, amelyet nem lehet megszegni: a feladat végéig a teremben egyetlen szó sem hangozhat el, rajtam kívül senkitől. Nem beszélhetnek meg semmit, nem súghatnak, nem suttoghatnak. Aki megszólal, annak az adott kör lapja érvénytelen, és ha a lapja nélkül nincs meg az ötös többség, nincs háromszázezer. Az első kérdés: kire bízná legszívesebben a fődíjat egy éjszakára?
 
-Senki sem mozdult. A tükrök nyolc arca mozdulatlan maradt, és a gyertyák lángja a terem végében egyszerre meghajlott. Zsazsa tette meg az első lépést: a keze a levegőben megállt, aztán a fülkék felé mutatott. – Egyezzünk meg – mondta, és a hangja ma először volt tiszta, határozott, mint amikor valaki egy mondatot már régen kigondolt. – Ha mind ugyanazt írjuk, megvan a háromszázezer. Nincs szükség arra, hogy ez játék legyen. Bud Spencer. Ő a legkevésbé gyanús, nem szavaz fejből, és nem mutat érzelmet. Ha nála maradna a pénz, nem félnék.
-
-– Én sem – mondta Callas, és a keze az asztal szélén pihent. – Bud Spencer.
-
-– Rendben – mondta Hofi. – Bud Spencer. – Hátrafordult. – Ha valaki mást ír, az az ördögé.
-
-– Az ördög nem ír nevet – mondta Brando. – Az ördög csak aláírja.
-
-A nyolc ember a nyolc fülkéhez ment, és a bársonyfüggönyök egymás után záródtak. A teremben csak a ceruzák halk, kaparó hangja hallatszott, aztán a lapok összehajtásának csendes sercenése, és a ládában a papírok halk puffanása, sorban, mint amikor valaki a mélybe ejti a köveket. Aztán a függönyök egyszerre mozdultak, és a nyolc ember újra a teremben állt, a párkány körül, egymástól egy lépésnyire, a tükrökben nyolc arc, de most már egyik sem nézett egyenesen. A Játékmester felemelte a ládát, megrázta, és kinyitotta. A kezében egymás után tűntek elő a lapok, ő kibontotta őket, és a nevek halkan, lassan, szünetekkel követték egymást.
+Senki sem mozdult. Zsazsa szája kinyílt, hogy mondjon valamit, a keze a levegőben megállt, és a Játékmester felé fordult, aki nem szólt, csak egy ujját emelte fel. Zsazsa becsukta a száját. A tükrökben nyolc ember állt, és mindegyik látta a többiek arcát, a háta mögött, oldalról, ferdén, tizenhat szögből, és senki sem tudta, merre nézzen, hogy ne találkozzon a szeme valakiével. A nyolc ember a nyolc fülkéhez ment, és a bársonyfüggönyök egymás után záródtak. A teremben csak a ceruzák halk, kaparó hangja hallatszott, aztán a lapok összehajtásának sercenése, és a ládában a papírok puffanása, sorban, mint amikor valaki a mélybe ejti a köveket. Amikor a függönyök egyszerre mozdultak, a nyolc ember újra a teremben állt, a párkány körül, egymástól egy lépésnyire, és egyikük sem szólt. A Játékmester felemelte a ládát, megrázta, és kinyitotta. A kezében egymás után tűntek elő a lapok, ő kibontotta őket, és a nevek halkan, lassan, szünetekkel követték egymást.
 
 – Hepburn. – Hepburn keze megállt a ruháján. – Hofi. – Hofi lassan kifújta a levegőt. – Hepburn. Hepburn. Bud Spencer. Hepburn. Hofi. Hepburn.
 
 Csend lett. A nyolcadik név után a Játékmester egy pillanatra fölnézett. – Öt a nyolcból. Hepburn. – Az ujjai a láda szélén pihentek. – Háromszázezer forint a fődíjba.
 
-– Nem értem – mondta Zsazsa. A hangja hirtelen megváltozott, a határozottság kicsúszott belőle, és csak a csodálkozás maradt. – Megegyeztünk. Bud Spencer. Mind, nyolc. – A tükrökben nyolc ember állt, és egyikük sem nézett a másikra. – Az ördög az volt, hogy valaki más nevet írt.
+A tükrökben ekkor látszott a legtöbb. Zsazsa arcán a csodálkozás, amely lassan értetlenségbe ment át, Callas összeszorított ajka, Mercury, aki a falnak dőlt, Bud Spencer, aki mély lélegzetet vett, és a mellkasa megemelkedett, aztán lassan leszállt. Hepburn a tükör felé fordult, amely az ő arcát mutatta, sápadtat, vörös szemmel, és az ajka megmozdult, mintha mondani akarna valamit, de nem jött hang. A Játékmester újra a ládához lépett, és a második kérdést is feltette: – Ki a legveszélyesebb ebben a teremben?
 
-– Öten – mondta Callas lassan. – Öten ugyanazt. – A hangja nem volt vád, inkább számolás. – Nem kérdezem, ki mit írt. Aki megszegte a megállapodást, úgysem vallja be, aki pedig betartotta, annak nincs mit bizonyítania.
+A fülkék függönyei egymás után záródtak, a ceruzák zizegtek, a lapok a ládába hullottak, és amikor a nyolc ember újra kilépett, a tekintetük már nem keresett, hanem kerülte a többiekét. A nevek ismét lassan hangzottak fel. – Brando. Dalí. Brando. Zsazsa. Callas. Dalí. Zsazsa. Brando. – A Játékmester felnézett. – Brando három, Dalí kettő, Zsazsa kettő, Callas egy. Egyik sem éri el az ötöt. Nincs háromszázezer. – Callas keze összeszorult az oldalán, és a tükörben látszott, hogy a tekintete egyik arcról a másikra lép, és mindegyiken megáll, amíg az el nem fordul.
 
-– Én betartottam – mondta Zsazsa.
+– A harmadik kérdés. – A Játékmester hangja nem volt gyorsabb, de nem is állt meg. – Ki hazudik a legszebben?
 
-– Persze – mondta Hofi. – Aki hazudik, ne most.
+A fülkék függönyei most gyorsabban zárultak, a ceruzák hamarabb szóltak, a lapok hangosabban hullottak a ládába. Mercury a függönyénél egy pillanatra megállt, a tenyerét nézte, aztán belépett. A nyolc ember együtt lépett ki újra, és a Játékmester szó nélkül fordította a ládát, a nevek pedig sorban hangzottak fel. – Brando. Brando. Dalí. Brando. Hepburn. Brando. Dalí. Brando. – Rövid szünetet tartott. – Brando öt. Dalí kettő. Hepburn egy. Háromszázezer forint a fődíjba.
 
-Hepburn nem szólt. A keze még mindig a ruháján feküdt, és az ajka megmozdult, de nem jött hang. A tekintete Mercury felé fordult, aztán Zsazsa felé, és végül a tükörbe, amely az ő arcát mutatta, sápadtat és a szeme vörösét. – Én nem... – mondta aztán, és a hangja halk volt, szinte kérdő. – Én magamat nem írtam. Nem tudom, mit mondjak. Nem hiszem, hogy... – Az ujja a nyakához szaladt. – Köszönöm. De nem tudom, miért.
-
-– Én sem – mondta Bud Spencer. – Egy lapra az én nevem volt írva. Egyre. – A hangja mély volt, lassú, és a szeme egyik arcról a másikra vándorolt. – Aki írta, annak köszönöm. A többinek nem ártok vele.
-
-A Játékmester megvárta, amíg a csend újra megtelik, és a második kérdést is feltette: – Ki a legveszélyesebb ebben a teremben?
-
-Ezúttal senki sem javasolt megállapodást. A fülkék függönyei egymás után záródtak, a ceruzák zizegtek, a lapok a ládába hullottak, és amikor a nyolc ember újra kilépett, a tekintetük már nem keresett, hanem kerülte a többiekét. A nevek ismét lassan hangzottak fel. – Brando. Dalí. Brando. Zsazsa. Callas. Dalí. Zsazsa. Brando. – A Játékmester felnézett. – Brando három, Dalí kettő, Zsazsa kettő, Callas egy. Egyik sem éri el az ötöt. Nincs háromszázezer.
-
-– Nyolc ember, négy név – mondta Hofi, és a hangjából kihallatszott a keserűség. – Mindenki mást fél.
-
-– Egy szavazatot kaptam – mondta Callas hidegen. – Kíváncsi vagyok, kitől. – Senki sem felelt.
-
-– A harmadik kérdés – mondta a Játékmester. A hangjában nem volt gyorsaság, de nem is állt meg. – Ki hazudik a legszebben?
-
-A fülkék függönyei most gyorsabban zárultak, a ceruzák hamarabb szóltak, és a lapok hangosabban hullottak a ládába. Mercury a függönyénél egy pillanatra megállt, aztán belépett. A nyolc ember együtt lépett ki újra, és a Játékmester szó nélkül fordította a ládát, a nevek pedig sorban hangzottak fel. – Brando. Brando. Dalí. Brando. Hepburn. Brando. Dalí. Brando. – Rövid szünetet tartott. – Brando öt. Dalí kettő. Hepburn egy. Háromszázezer forint a fődíjba.
-
-Brando felnevetett, rövid, száraz, szinte hangtalan nevetéssel, és a keze elmozdult a mellkasáról. – Végre valaki észrevette – mondta halkan. – Évek óta várom a dicséretet. – A hangjából hiányzott a mókázás, és a tekintete egy másodpercig nem a termet, hanem Zsazsát kereste, aki már a füzetéhez nyúlt. Dalí a botjára támaszkodva a tükör felé fordult, és a saját arcát fürkészte, mintha valamit számon kérne tőle. Hepburn lenézett a kezére. Mercury a falnak dőlt.
+Brando felnevetett, rövid, száraz, szinte hangtalan nevetéssel, és a Játékmester felé fordította a fejét, aki ezúttal nem emelte fel az ujját: a nevetés nem volt szó. Zsazsa a füzetéhez nyúlt, de a keze félúton megállt. Dalí a botjára támaszkodva a tükör felé fordult, és a saját arcát fürkészte, mintha valamit számon kérne tőle. Hepburn lenézett a kezére. Mercury a falnak dőlt, és a tükörben látszott, hogy az ajka némán mozog, nevekkel.
 
 – Utolsó kérdés – mondta a Játékmester. – Ki marad utolsónak?
 
-Ez a kérdés hosszabb csendet hagyott maga után, mint a többi. Hofi egy pillanatra felnevetett, aztán abbahagyta. Callas a fülkéje függönyét sokáig tartotta, mielőtt belépett. A ceruzák hosszan kaparták a lapokat, és amikor a nevek elhangzottak, a Játékmester hangja nyugodt maradt, de a terem figyelt. – Dalí. Hepburn. Bud Spencer. Dalí. Hepburn. Dalí. Hepburn. Bud Spencer. – Becsukta a ládát. – Dalí három. Hepburn három. Bud Spencer kettő. Nincs háromszázezer.
+Ez a kérdés hosszabb csendet hagyott maga után, mint a többi. Callas a fülkéje függönyét sokáig tartotta, mielőtt belépett, Hofi a tükrök egyikében a saját arcát nézte, és kis, száraz mosoly futott át rajta, aztán eltűnt. A ceruzák hosszan kaparták a lapokat, és amikor a nevek elhangzottak, a Játékmester hangja nyugodt maradt. – Dalí. Hepburn. Bud Spencer. Dalí. Hepburn. Dalí. Hepburn. Bud Spencer. – Becsukta a ládát. – Dalí három. Hepburn három. Bud Spencer kettő. Nincs háromszázezer.
 
-– Három és három, és kettő – mondta Hofi. – Ketten vagyunk, akik úgy tesznek, mintha tudnák.
+Hosszú ideig senki sem moccant, és a Játékmester sem sietett. A tükrökben nyolc arc állt, mozdulatlanul, és egyikük sem látszott olyannak, mint amilyennek reggel a Nagyteremben látták. – A feladat véget ért – mondta végül. – Most beszélhetnek. Hatszázezer forint a fődíjba, a fődíj négymillió-ötszáztízezer. A tükör nem hazudik, és ma nem is fog. Azt mutatta meg, amit önök egymásról gondolnak, nem azt, amit mondanak.
 
-– Dalí nem vár – mondta Dalí. – Dalí megjelenik.
+– Nem lehetett megbeszélni semmit – mondta Zsazsa halkan, és a hangja ezután a hosszú csend után rekedtnek tűnt. – Öten ugyanarra gondoltak. Öten ugyanazt. – A tükrökben nyolc ember állt, és egyikük sem nézett a másikra. – Hogy lehet ez?
+
+– Én magamat nem írtam – mondta Hepburn, és a hangja halk volt, szinte kérdő. Az ujja a nyakához szaladt. – Nem tudom, mit mondjak. Köszönöm. De nem tudom, miért.
+
+– Én sem – mondta Bud Spencer. – Egy lapra az én nevem volt írva. Egyre. – A hangja mély volt, lassú, és a szeme egyik arcról a másikra vándorolt. – Aki írta, annak köszönöm. A többinek nem ártok vele.
+
+– Egy szavazatot kaptam – mondta Callas hidegen. – Kíváncsi vagyok, kitől. – Senki sem felelt.
+
+– Végre valaki észrevette – mondta Brando halkan. – Évek óta várom a dicséretet. – A hangjából hiányzott a mókázás, és a tekintete egy másodpercig Zsazsát kereste.
 
 – Hatan ugyanarra a két névre – mondta Callas lassan. Ahogy kimondta, maga is összeráncolta a homlokát. – Nem tudom, mit jelent.
 
-A Játékmester a láda fölé hajolt, és a falra tekintett, ahol a tükrökben nyolc arc állt, mozdulatlanul. – Hatszázezer forint a fődíjba – mondta. – A fődíj négymillió-ötszáztízezer. A tükör nem hazudik, és ma nem is fog. – Megállt, és a hangja halk maradt. – Vigyék magukkal, amit ma láttak. A délutánra nincs feladat, a Kerekasztalra este nyolckor várom önöket.
+– Dalí nem vár – mondta Dalí. – Dalí megjelenik.
+
+A Játékmester a láda fölé hajolt, és a falra tekintett, ahol a tükrökben nyolc arc állt, mozdulatlanul. – Vigyék magukkal, amit ma láttak – mondta. – A délutánra nincs feladat, a Kerekasztalra este nyolckor várom önöket.
 
 Amikor kimentek, a tölgyajtó mögött a terem tükrei még egy darabig a nyolc üres fülkét mutatták, a gyertyák lángját, és a szürke köpenyes alakot, aki egyedül maradt a sárgaréz láda mellett.
 
