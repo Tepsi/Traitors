@@ -235,3 +235,49 @@ Az asztal körül sokáig senki sem szólt. Zsazsa lassan leült, a füzetet bec
 – Ha ártatlan volt – mondta Zsazsa üresen. – Ártatlan volt. – A füzetet az asztalra tette, és az ujja egy üres oldalra tévedt, aztán megállt. – Mi csak azt tudjuk, hogy hat ártatlan ment ki ezen az ajtón. És hogy ma sem tudjuk, miért.
 
 A fal mellett a gyertyák lángjai egyszerre hajoltak a Kapu felé, és mire a gong szólt, a nyolc szék közül hétben ültek.
+
+## A kilencedik konklávé
+
+Éjfélkor a tölgyajtó magától kinyílt, és a lépcsőn két ember lépései hallatszottak. A kőasztalnál három szék állt, kettőre ültek le a csuklyák árnyékában, a harmadik most is üresen maradt. A gyertya nem hajlott az üres szék felé, mint tegnap, hanem egyenesen égett, magasan, és a láng olyan nyugodt volt, hogy a viasz peremén a fény egyetlen vonalat húzott. Az asztalon nem feküdt semmi, sem lap, sem ceruza, csak a kő hideg, sima lapja, és a két árnyék a falon, egymásnak háttal, ahogy két ember ül, ha nem akarja, hogy a másik az arcát lássa.
+
+– Ma nem mi tettük – mondta a Harmadik. A hangja halk volt, és nem kérdezett, csak megállapított, mintha ez volna az a mondat, amelyet egész este mondani akart. – Ma a Kerekasztal elvégezte helyettünk. Egy embert küldtek a Kapu elé, és egyetlen nevet sem mi írtunk. Mégis mi vagyunk, akiknek jó.
+
+– Az érzelem mindig érv – mondta az Új. – De ma este nem a jó a kérdés. Négymillió-ötszáztízezer a fődíj. Ketten vagyunk. Kettő felé kétmillió-kettőszázötvenötezer. – Rövid szünetet tartott. – Tegnap azt mondta, nem akar még egy embert, akit el kell veszíteni. Ma este már nem is kell harmadikat keresnünk, mert a Játékmester azt mondta, ma éjjel utoljára.
+
+– Nem keresünk – mondta a Harmadik. – Ketten is elég.
+
+A hallgatás hosszú volt. A gyertya lángja nem mozdult, és az asztal két oldalán a csuklyák szinte észrevétlenül egymás felé fordultak, aztán el. – Ma elhangzott egy mondat – mondta az Új lassan. – Nem az enyém volt, és nem is a magáé. Az, hogy a kedvesség gyanús lehet. A délelőtti ötös név után ez nem is meglepő. Az asztal körül hárman hallották meg, és ketten el is felejtették, mert a harmadik nem nevezett nevet. Az, hogy mi ezt hogyan kezeljük, nem csak a mai éjszakáról szól.
+
+– Ezzel mit akar mondani? – kérdezte a Harmadik.
+
+– Azt, hogy a gyanú, amit egyszer kimondtak, nem tűnik el, ha ma elnevetik. Csak elalszik. – Az Új hangja nyugodt maradt. – A legjobb védekezés az, ha a gyanút elnevetik. Aki ma nevetett rajta, az holnap nem fog komolyan gondolni rá. Ez nekünk jó, és nem hibázott érte senki. De van egy másik fele is: aki ma kimondta, az tudja, hogy kimondta.
+
+– Tehát ő a veszélyes. – A Harmadik hangja kissé megemelkedett. – Akkor őt kell ma éjjel kiválasztanunk. Aki a kedvességről beszélt. Nem tudom, miért kellene mást keresnünk.
+
+– Mert ha ma éjjel ő hiányzik, holnap reggel mindenki arra gondol, hogy igaza volt. – Az Új a gyertyára nézett. – Nem a bizonyíték számít, hanem a sorrend. Ha ő mondja ki, és az éjszaka elviszi, az asztal körül nem lesz senki, aki ne tudná, mit mondott utoljára. A halottak szavai mindig súlyosabbak az élőkénél. Tegnap este láttuk, mi marad egy elfelejtett érvből: egyetlen irány, amelyre mindenki emlékszik, és senki sem tudja, kié volt.
+
+– Ez... igaz – mondta a Harmadik lassan, és a hangján hallatszott, hogy nem akarja elismerni. – De akkor ki?
+
+– Aki ma is eldöntött egy szavazást – mondta az Új. – A mérleg nyelve. Akire mindenki számol, és aki sosem tudja előre, mit fog tenni. Ha ő nincs, a holnapi asztal kiszámíthatóbb lesz: a hangosak a hangosak mellett, a hallgatók a hallgatók mellett, és mi tudjuk, hová kell nyúlni.
+
+– Nem. – A Harmadik hangja ezúttal nem volt halk. – Őt nem szeretném. Ő... – Elhallgatott, és a csuklya árnyéka hosszan mozdulatlan maradt. – Reggel megfogtam a kezét. Én éreztem, hogy nincs benne semmi.
+
+– Ezért kell – mondta az Új. – Mert ma reggel maga volt az, aki megfogta. Holnap reggel mindenki arra fog gondolni, hogy a kedves ember tette ezt, és senki sem fog arra gondolni, hogy a kedves ember hallgatott. – A hangja nem lett keményebb, csak lassabb. – Vagy nem kell megtenni. Akkor ma éjjel senki nem hiányzik, ami azt jelenti, hogy holnap nem hat, hanem hét ember ül le reggelizni, és a hét közül kettő közülünk való. A Játékmester pedig ma azt mondta, hogy ma éjjel utoljára.
+
+– Nem azt mondta, hogy utoljára kell – mondta a Harmadik. – Azt mondta, hogy lehetőség. Nem ugyanaz.
+
+– Nem. – Az Új egy pillanatra elhallgatott. – Akkor tegyük fel, hogy nem teszünk semmit. Ketten vagyunk, hét ember ül. Holnap ki kell választani valakit, aki kimegy a Kapun, és ha mi ketten nem szavazunk ugyanarra, az asztal kiszámítja, melyikünk volt. Maga szeretné, hogy ez megtörténjen?
+
+– Nem – mondta a Harmadik. Hosszan hallgatott, aztán, szinte suttogva: – Hát akkor... legyen. De egy dolgot kérek. Hogy holnap, ha nem értünk egyet, ne a Kerekasztalnál derüljön ki.
+
+– Ezt nem lehet megígérni.
+
+– Tudom. – A Harmadik hangja kimerült volt. – De nem is kell. Elég, ha kimondjuk, hogy kimondtuk.
+
+– Ezt már mondta – mondta az Új. – Tegnap.
+
+– Igen. – A csuklya alól halk, száraz hang hallatszott, nem nevetés, inkább egy lélegzet. – Mert tegnap igaz volt.
+
+Az Új felállt. Nem várta meg, hogy a másik is felálljon, a keze a kőasztalra nehezedett, és a gyertya lángja egyszerre meghajlott, ahogy közelebb hajolt hozzá. Halkan kimondta a nevet, olyan halkan, hogy a láng sem mozdult, és a Harmadik nem válaszolt, csak a csuklya alatt lassan bólintott, mint aki tudomásul vesz valamit, amit nem akart tudni. A lépcső felé az Új indult elöl, a lépései gyorsan elnyelődtek a torony fojtott csendjében, és a Harmadik még egy ideig az üres szék helyét nézte, aztán a gyertyát, amely most is egyenesen égett. Amikor végül ő is elindult, a láng még mindig nem mozdult, mintha tudná, hogy ma éjjel egy ember lépése kevesebbet fog hagyni maga után.
+
+A szobákban heten feküdtek le. Egyikük a gyertyát nem oltotta el, és hajnalig égve hagyta, de erről a többiek nem tudtak.
