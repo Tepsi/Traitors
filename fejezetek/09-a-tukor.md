@@ -52,7 +52,7 @@ Hofi hátradőlt a székén, és a kezét a tarkójára tette. – Tegnap este a
 
 – Számoljunk – mondta Callas, és a hangja hideg volt, rendezett, mint aki egy zavaros asztalt akar rendbe tenni. – Tegnap este a Játékmester azt mondta, hogy az árulók az éjszaka utoljára hívhatnak meg valakit. Meghívni csak olyan éjszakán lehet, amikor senki sem hiányzik reggel. A nyolcadik reggelen Ferenc hiányzott, ma Albert. Vagyis a hatodik éjszaka óta senkit sem hívhattak meg.
 
-– Az elejétől – mondta Hofi. – Az első napon kettő és négy között volt. Kettőt elvittünk, maradt nulla és kettő. Plusz egy, ha a hatodik éjszakán, amikor reggel senki sem hiányzott, meghívtak valakit. Az legfeljebb három.
+– Számoljuk végig – mondta Hofi. – Az első napon kettő és négy közötti számú áruló volt. Kettőt kiszavaztunk, vagyis maradt nulla és kettő közötti szám. Plusz egy, ha a hatodik éjszakán, amikor reggel senki sem hiányzott, meghívtak valakit. Az legfeljebb három.
 
 – Legfeljebb három – mondta Callas. – Három, ha négyen indultak, és meghívtak valakit. Más esetben kettő.
 
@@ -98,15 +98,13 @@ Hosszú ideig senki sem moccant, és a Játékmester sem sietett. A tükrökben 
 
 – Az elsőnél magamat nem írtam – mondta Hepburn, és a hangja halk volt, szinte kérdő. Az ujja a nyakához szaladt. – Nem tudom, mit mondjak. Köszönöm. De nem tudom, miért.
 
-– Én sem – mondta Bud Spencer. – Az elsőnél egy lapra az én nevem volt írva. Egyre. – A hangja mély volt, lassú, és a szeme egyik arcról a másikra vándorolt. – Aki írta, annak köszönöm. A többinek nem ártok vele.
+– Én sem – mondta Bud Spencer. – Az elsőnél egy lapra az én nevem volt írva. Egyre. – A hangja mély volt, lassú, és a szeme egyik arcról a másikra vándorolt. – Aki írta, annak köszönöm.
 
 – A másodiknál, hogy ki a legveszélyesebb, egy szavazatot kaptam – mondta Callas hidegen. – Kíváncsi vagyok, kitől. – Senki sem felelt.
 
 – A harmadiknál, hogy ki hazudik a legszebben, végre valaki észrevette – mondta Brando halkan. – Évek óta várom a dicséretet. – A hangjából hiányzott a mókázás, és a tekintete egy másodpercig Zsazsát kereste.
 
-– Az utolsónál hatan ugyanarra a két névre írtak – mondta Callas lassan. Ahogy kimondta, maga is összeráncolta a homlokát. – Nem tudom, mit jelent.
-
-– Dalí nem vár – mondta Dalí. – Dalí megjelenik.
+– Az utolsónál, hogy ki marad utolsónak, hatan ugyanarra a két névre írtak – mondta Callas lassan. Ahogy kimondta, maga is összeráncolta a homlokát. – Nem tudom, mit jelent.
 
 A Játékmester a láda fölé hajolt, és a falra tekintett, ahol a tükrökben nyolc arc állt, mozdulatlanul. – Vigyék magukkal, amit ma láttak – mondta. – A délutánra nincs feladat, a Kerekasztalra este nyolckor várom önöket.
 
@@ -152,7 +150,7 @@ A kert felől Dalí hangja hallatszott, vékonyan, magabiztosan, és a két embe
 
 A folyosón, a Tükörterem lépcsője alatt, késő délután Brando állta Zsazsa útját. Nem mozdult, nem szólt, csak a falnak támaszkodott, és a karját összefonta. Zsazsa megtorpant, és egy pillanatra az arcán látszott, hogy el akar menni, aztán összeszedte magát. – Marlon – mondta. – Ha beszélni akar, ma este a Kerekasztalnál lesz rá alkalma.
 
-– Tudom – mondta Brando. A hangja ma nem mormolt. Tiszta volt, mély, és nem volt benne indulat, csak valami fáradt, kerek nyugalom. – Nem azért állítottam meg. Csak annyit szeretnék mondani, hogy ha ma engem küldenek el, ne higgye, hogy ezzel vége. A kérdés ugyanúgy marad, csak én nem leszek ott, hogy válaszoljak rá, és maga fogja a legjobban tudni, ha tévedett.
+– Tudom – mondta Brando. A hangja ma nem mormolt. Tiszta volt, mély, és nem volt benne indulat, csak valami fáradt, kerek nyugalom. – Nem azért állítottam meg. Csak annyit szeretnék mondani, hogy ha ma engem küldenek el, ne higgye, hogy ezzel vége. A kérdés ugyanúgy marad, csak nem rólam fog szólni, és maga fogja elsőként észrevenni, ha tévedtünk.
 
 – Ez fenyegetés? – kérdezte Zsazsa.
 
@@ -166,7 +164,7 @@ Este nyolckor a gong hangja a Kerekasztal-terem boltozatáig hatolt, és nyolcan
 
 Zsazsa felállt, és a keze a füzet szélére simult. – Nem fogok sokáig beszélni – mondta. – Mert sokat beszéltem már, és tévedtem is. A hetedik napon Puskás Ferencet írtam, és még aznap éjjel meghalt, és ez az én lelkemen szárad. Ezért ma nem tévedhetek, és nem azért, mert büszke vagyok, hanem mert nincs több tévedésem. – Hangja egy pillanatra megremegett, de megkapaszkodott. – Öt érvem van, és mind Marlon Brandóra mutat. Az első: ma délelőtt öten írták a nevét, amikor azt kérdezték, ki hazudik a legszebben. Öt ember, megegyezés nélkül, ugyanazt. A második: Orson Welles az utolsó éjszakáján azt mondta, hogy ha vele történik valami, Marlont figyeljék. Aztán meghalt. Lehet, hogy tévedett, de valamiért ezt a nevet mondta. A harmadik: a hatodik napon, a Mérlegteremben két kő került a Vas serpenyőbe, és hogy az egyik az övé volt, azt maga mondta ki, hirtelen, mielőtt bárki kérdezte volna: „Én kérem." A negyedik: valahányszor valaki közel kerül hozzá, kérdéssel válaszol. Az ötödik: a hatodik napon azt mondta, hogy „aki ennyire biztos, annak legyen alkalma kimondani, hogy tévedett." – Elhallgatott. – Mostanra mindenki látja, hogy tévedtem, és nem azért, mert alkalmam lett volna, hanem mert vakon mentem. Ma nem vakon megyek. Ma nyitott szemmel.
 
-– Nyitott szemmel – mondta Brando. Nem emelte fel a hangját, és a karját sem bontotta ki. – Ez szép mondat. – A szája sarkában egy pillanatra megjelent az, ami régen mosoly volt. Aztán fölegyenesedett, és a karját az asztalra tette, és amikor beszélni kezdett, a hangja tiszta volt, mély, szinte zengő, és a terem elcsendesedett. – Színész vagyok. Ezt mindenki tudja, és ezt ma délelőtt öten pontosan megértették. A színész nem hazudik. A színész valaki más igazát mondja el, olyan hűen, hogy a terem elhiszi. Ezért tudom, hogy aki gyilkos, az igazat mond, amikor hazudik: nem a szavakban, hanem abban, amit megél, amíg mondja. Zsazsa, maga ma az igazat mondja: azt, amit érez, hogy ki kell mondania valakinek a nevét. Csak éppen nem az enyém az. – Nyugodtan nézett rá. – Én nem tudom bebizonyítani, hogy ártatlan vagyok. Az ártatlanság nem bizonyítható. Ezért ülök itt, és ezért állok szemben maguk előtt, és egyszerűen azt mondom: ha ma engem küldenek el, a gyanú nem szűnik meg, csak én nem leszek itt, hogy válaszoljak rá.
+– Nyitott szemmel – mondta Brando. Nem emelte fel a hangját, és a karját sem bontotta ki. – Ez szép mondat. – A szája sarkában egy pillanatra megjelent az, ami régen mosoly volt. Aztán fölegyenesedett, és a karját az asztalra tette, és amikor beszélni kezdett, a hangja tiszta volt, mély, szinte zengő, és a terem elcsendesedett. – Színész vagyok. Ezt mindenki tudja, és ezt ma délelőtt öten pontosan megértették. A színész nem hazudik. A színész valaki más igazát mondja el, olyan hűen, hogy a terem elhiszi. Ezért tudom, hogy aki gyilkos, az igazat mond, amikor hazudik: nem a szavakban, hanem abban, amit megél, amíg mondja. Zsazsa, maga ma az igazat mondja: azt, amit érez, hogy ki kell mondania valakinek a nevét. Csak éppen nem az enyém az. – Nyugodtan nézett rá. – Én nem tudom bebizonyítani, hogy ártatlan vagyok. Az ártatlanság nem bizonyítható. Ezért ülök itt, és ezért állok szemben maguk előtt, és egyszerűen azt mondom: ha ma engem küldenek el, a gyanú attól még nem szűnik meg, csak már nem én leszek a tárgya.
 
 – Ez szépen hangzik – mondta Zsazsa halkan.
 
@@ -226,7 +224,7 @@ Az asztal körül sokáig senki sem szólt. Zsazsa lassan leült, a füzetet bec
 
 – Dalí Hepburnt írta – mondta Dalí, a bajusza alól, nyugodtan. – Egy túl szép keret. Azt a legveszélyesebb nézni.
 
-– Köszönöm, Salvador – mondta Hepburn. Az arca nem változott, a szeme nedves volt, a hangja lágy. – Remélem, azért nem haragszik rám. – Dalí egy pillanatra rápillantott, és nem felelt. – Én Marlont írtam – folytatta Hepburn. – Sajnálom. Nagyon sajnálom, Marlon.
+– Köszönöm, Salvador – mondta Hepburn. Az arca nem változott, a szeme nedves volt, a hangja lágy. – Remélem, azért nem haragszik rám. – Dalí egy pillanatra rápillantott, és nem felelt. – Én Marlont írtam – folytatta Hepburn, halkan. – Szegény Marlon.
 
 – Ártatlan volt – mondta Zsazsa üresen. – A füzetet az asztalra tette, és az ujja egy üres oldalra tévedt, aztán megállt. – Hat ártatlan ment ki ezen az ajtón, és mi küldtük ki mindet.
 

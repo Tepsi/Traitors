@@ -11,3 +11,19 @@ A többinek nem ártok vele.
 – Dalí nem vár – mondta Dalí. – Dalí megjelenik. / ennek nincs kontextusa, nincs értelme
 és maga fogja a legjobban tudni, ha tévedett.
 Nagyon sajnálom, Marlon. / már nincs ott, hogy elnézést kérhessen
+
+=== 2. menet: Claude javításai ===
+❗ Az elejétől... kettő és négy mínusz kettő
+   ➜ – Számoljuk végig – mondta Hofi. – Az első napon kettő és négy közötti számú áruló volt. Kettőt kiszavaztunk, vagyis maradt nulla és kettő közötti szám. Plusz egy, ha a hatodik éjszakán, amikor reggel senki sem hiányzott, meghívtak valakit. Az legfeljebb három.
+❗ a maguk gyanúja nem lesz kisebb...
+   ➜ a gyanú attól még nem szűnik meg, csak már nem én leszek a tárgya.
+A többinek nem ártok vele.
+   ➜ törölve; marad: – Aki írta, annak köszönöm.
+– Az utolsónál hatan ugyanarra a két névre írtak
+   ➜ – Az utolsónál, hogy ki marad utolsónak, hatan ugyanarra a két névre írtak – mondta Callas lassan.
+– Dalí nem vár – mondta Dalí. – Dalí megjelenik.
+   ➜ a sor törölve
+és maga fogja a legjobban tudni, ha tévedett.
+   ➜ A kérdés ugyanúgy marad, csak nem rólam fog szólni, és maga fogja elsőként észrevenni, ha tévedtünk.
+Nagyon sajnálom, Marlon.
+   ➜ – Én Marlont írtam – folytatta Hepburn, halkan. – Szegény Marlon.
