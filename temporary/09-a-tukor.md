@@ -113,3 +113,49 @@ Ez a kérdés hosszabb csendet hagyott maga után, mint a többi. Hofi egy pilla
 A Játékmester a láda fölé hajolt, és a falra tekintett, ahol a tükrökben nyolc arc állt, mozdulatlanul. – Hatszázezer forint a fődíjba – mondta. – A fődíj négymillió-ötszáztízezer. A tükör nem hazudik, és ma nem is fog. – Megállt, és a hangja halk maradt. – Kérem, a kezüket, a tekintetüket és a nevüket is vigyék magukkal. A délutánra nincs feladat, a Kerekasztalra hét órakor várom önöket.
 
 Amikor kimentek, a tölgyajtó mögött a terem tükrei még egy darabig a nyolc üres fülkét mutatták, a gyertyák lángját, és a szürke köpenyes alakot, aki a sárgaréz ládát lassan a mellére ölelte.
+
+## A délután
+
+Zsazsa már a lépcsőn elkezdte, és mire a könyvtárba értek, a mondatai olyan gyorsan követték egymást, hogy a többiek alig tudtak közbeszólni. A kandalló előtt négy fotelt húzott össze, a füzetét az ölébe fektette, és Callast, Hofit és Mercuryt maga elé ültette, Bud Spencer pedig, aki senkit sem hívott, a polcnak dőlt, karját összefonta, és hallgatott. Zsazsa most nem remegett. A reggeli roskadás után valami kemény és szervezett lépett a helyébe, mint aki a félelmét feladatra váltotta, és a hangja újra a régi lett, az, amelyet a hatodik napon még az egész terem hallgatott. Felsorolta, amit tudtak. Öt ember írta Brando nevét azután a kérdés után, hogy ki hazudik a legszebben, és a hazugság a játék nyelve, vagyis aki a legszebben hazudik, az itt a legjobban beszél. Welles, aki életében utolsó éjszakáján azt mondta, hogy ha vele történik valami, Marlont figyeljék. Brando kérdésre kérdéssel válaszol, valahányszor valaki közel kerül hozzá, és ezt a modort mindenki ismeri, aki ült már vele egy asztalnál. És az a két kő a Mérlegteremben, amelyből az egyik az övé volt, és erről ő maga mondta, hogy „én kérem", hirtelen, mielőtt bárki kérdezte volna.
+
+– Ez négy – mondta Zsazsa, és a füzetet becsukta, mintha a számot lezárta volna. – Négy dolog, és mindegyiknek van ártatlan magyarázata. De négy ártatlan magyarázat már egy minta.
+
+– Egy minta – mondta Hofi. Hátradőlt, és a lábát a kandalló kövére tette. – Zsazsa, kedvesem, magának mindig mintája van. Hat napja Hitchcock volt a minta, és igaza is volt. Tegnap Puskást írta, és nem volt igaza. Most Brando a minta. Ha minden mintából egy gyilkos lenne, ma este három sorban végeznénk.
+
+– Hitchcockról igazam volt – mondta Zsazsa.
+
+– Igaza volt. Utána két napig mindenki hallgatott magára, mert azt hitte, hogy az igazság maga mellett marad. – Hofi hangjában nem volt gúny, inkább fáradt őszinteség. – Ez a baj az igazságokkal. Nem lehet őket zsebre tenni.
+
+Callas közben hallgatott, aztán lassan, ahogy mindig, amikor valami nem volt kényelmes, a kezét az ölében összekulcsolta. – Négy érv, és mind ugyanarra mutat – mondta végül. – Erre a Játékmester azt mondaná, hogy a tükör nem hazudik. Csak azt mutatja meg, amit nézni akarunk. – Zsazsára emelte a szemét. – Nézze meg, mit nézünk. Ma reggel azt kérdezte, mit mondtunk tegnap. Ma délután már tudja, kit akar. Nem a bizonyítékok mutatnak Marlonra. Maga akar rá mutatni, mert valakire muszáj.
+
+– Ez nem igaz – mondta Zsazsa, de a hangja elhalkult.
+
+Mercury a fotel karfáján ült, a tenyerét nézte, és úgy tűnt, nem is hallja őket. Aztán Hofi felé fordult, és a kérdés, amely nem illett a beszélgetésbe, olyan váratlanul érkezett, hogy egy pillanatra mindenki elhallgatott. – Mondja, Géza... mi volt az első név? Amit ma reggel megkérdeztem, és Bud Spencer megmondta.
+
+– Albert – mondta Hofi, nyugodtan, és a hangjából az utolsó csattanó is eltűnt. – Albert. Nem fogom elfelejteni. Mind, akik itt vagyunk, azért vagyunk itt, hogy ne felejtsünk. – Egy pillanatra elhallgatott. – Maga gyilkos?
+
+Mercury meglepetten nézett fel, aztán elnevette magát. A nevetése rövid volt, rekedt, és kicsit meglepetten csengett, mint amikor valaki egy rég elhagyott szobában gyufát gyújt, és kiderül, hogy még ég. – Ha az lennék, pont ezt mondanám – mondta. – De nem vagyok. Az áruló nem így felejt. – Nevetése elhalt. – Köszönöm. Ezt még meg tudom jegyezni.
+
+Callas és Hofi egy órával később a déli terasz korlátjánál álltak, ahol a kastély kőpárkánya alatt a kert lépcsős teraszai szürkén, nedvesen húzódtak a ködbe, és Callas a korlátra támaszkodott, a két kezét egymás fölött pihentetve. A hangja halk volt, a szeme a ködre meredt. – Szeretnék mondani valamit, Géza. Nem vád. Nem is mondom el senki másnak. – Hofi nem szólt, csak a kabátja zsebéből előhúzta a cigarettapapírt, és megint eltette. – Ma délelőtt öten írták Audrey nevét. Én nem. Én Bud Spencert írtam, mert megegyeztünk. Ő pedig... – Elhallgatott. – Gondolkodtam, miért nem gyanúsítom. Hogy ha nyolc nap után sem gyanúsítom, annak oka kell, hogy legyen. És tudja, mit találtam?
+
+– Nem – mondta Hofi.
+
+– Azt, hogy nem jó rá rosszat gondolni. – Callas halkabban folytatta. – Nem azért, mert bizonyítékom van, hanem mert kedves. Mert mindenkire vigyáz. Mert Zsazsának fogta a kezét, és Gyulát végig vezette, és amikor ma reggel Mercury tenyerén nem volt semmi, az ő keze volt az első, amely megfogta. Én nem tudok róla semmi rosszat mondani, és ez az a pont, amelyen elakadok. Nem azért, mert ártatlan. Azért, mert nincs mit mondani.
+
+Hofi sokáig hallgatott. – Ez a legrosszabb érv, amit valaha hallottam – mondta végül. – És a legrázósabb. Mert igaz. – A korláthoz dőlt. – Maga se vádolta meg. Én se fogom. Egy kedves embert gyanúsítani olyan, mint a templomban köhögni. Nem bűn, de mindenki megfordul.
+
+– Nem akarom, hogy megforduljanak – mondta Callas. – Csak azt akarom, hogy valaki tudja, hogy én is észrevettem.
+
+A kert felől Dalí hangja hallatszott, vékonyan, magabiztosan, és a két ember lenézett: a legalsó terasz közepén Dalí állt a botjára támaszkodva, előtte egy állvány, amelyet az ég tudja, ki hozott ki neki, és az arca a nyugati torony felé fordult, mintha a tornyot festené. Hepburn a lépcsőn jött le hozzá, egy csésze teával a kezében, és a lépése óvatos volt, lassú. – Salvador – mondta halkan, és a csészét felé nyújtotta. – Még meleg. Egész nap nem ivott semmit.
+
+– Dalí ma nem kér teát – mondta Dalí, és anélkül, hogy a vászonról felnézett volna, a kezével elhárította. – A tea az udvarias emberek vallomása. Dalí ma nem vall.
+
+– Rendben – mondta Hepburn, és mosolygott, lágyan. A csészét a legközelebbi kőpárkányra tette, és még egy pillanatig állt mellette, aztán elindult vissza a lépcsőn. A mosolya még a lépcsőn is megmaradt, de aki mögötte nézte volna, azt látta volna, hogy a válla egy kicsit feljebb húzódik, mint amikor valaki egy hideg szél elől védekezik.
+
+A folyosón, a Tükörterem lépcsője alatt, késő délután Brando állta Zsazsa útját. Nem mozdult, nem szólt, csak a falnak támaszkodott, és a karját összefonta, mint aki türelmesen vár. Zsazsa megtorpant, és egy pillanatra az arcán látszott, hogy el akar menni, aztán összeszedte magát. – Marlon – mondta. – Ha beszélni akar, ma este a Kerekasztalnál lesz rá alkalma.
+
+– Tudom – mondta Brando. A hangja ma nem mormolt. Tiszta volt, mély, és nem volt benne indulat, csak valami fáradt, kerek nyugalom. – Nem azért állítottam meg. Csak annyit szeretnék mondani, hogy ha ma engem küldenek el, ne higgye, hogy vele vége. Nem vége lesz, hanem egy új kezdés, és maga fogja a legjobban tudni, hogy nem helyes.
+
+– Ez fenyegetés? – kérdezte Zsazsa.
+
+– Nem. – Brando elmosolyodott, egy pillanatra, szinte kedvesen. – Ez egy színész utolsó jó tanácsa, mielőtt még kiderülne, hogy kinek. – Eltolta magát a faltól, és elment, a lépései lassúak voltak, a vállai előreesve, és Zsazsa még sokáig állt a folyosón, a füzetet a mellére szorítva, és a tekintete a falon, ahol Brando háta az imént még a kőhöz simult.
