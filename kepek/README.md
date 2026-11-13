@@ -64,3 +64,6 @@ Tippek az egységességhez:
 | `08-02-einstein-felall` | „Einstein volt az, aki felállt." | kész, beszerkesztve |
 | `08-03-brando-a-kovon` | „Brando lecsúszott a székről a padlóra, és ott ült a kövön, az arcát a tenyerébe temetve, és nevetett és sírt egyszerre, előbb hangtalanul, a vállát rázva, aztán hangosan, megkönnyebbülten." | kész, beszerkesztve |
 | `08-04-az-ures-szek` | „A gyertya lángja, amely tegnap még egyenesen égett, most az üres szék felé hajlott, mintha a közelében keresne valakit, és az asztal lapján nem feküdt semmi, sem szürke lap, sem fekete, csak a viasz kis, kihűlt cseppjei, ahol tegnap még valaki az ujját tartotta." | kész, beszerkesztve |
+| `09-01-a-tukorterem` | „A terem közepén kőpárkány állt, a tetején sárgaréz láda, két tenyérnyi, keskeny réssel a fedelén." | |
+| `09-02-brando-a-kapu-elott` | „A Kapu elé lépett, a kezét a zsebébe dugta, és sokáig csak állt ott, a fekete ajtóval szemközt, mintha a szavakat kellene megtalálnia." | |
+| `09-03-zsazsa-es-a-fuzet` | „A füzetet az asztalra tette, és az ujja egy üres oldalra tévedt, aztán megállt." | |
