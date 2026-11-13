@@ -43,7 +43,9 @@ def parse(md):
     quote = quote[1:-1] if quote[:1] in "„\"" else quote
     scene = next((l for l in lines if l.startswith("**Jelenet:**")), "")
     alt = scene.replace("**Jelenet:**", "").strip().split(". ")[0].rstrip(".")
-    alt = alt.replace("[", "").replace("]", "")[:110]
+    alt = alt.replace("[", "").replace("]", "")
+    if len(alt) > 60:
+        alt = alt[:60].rsplit(" ", 1)[0].rstrip(",;:–- ")
     return quote, alt
 
 
