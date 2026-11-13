@@ -104,7 +104,7 @@ Hosszú ideig senki sem moccant, és a Játékmester sem sietett. A tükrökben 
 
 – A harmadiknál, hogy ki hazudik a legszebben, végre valaki észrevette – mondta Brando halkan. – Évek óta várom a dicséretet. – A hangjából hiányzott a mókázás, és a tekintete egy másodpercig Zsazsát kereste.
 
-– Az utolsónál, hogy ki marad utolsónak, hatan ugyanarra a két névre írtak – mondta Callas lassan. Ahogy kimondta, maga is összeráncolta a homlokát. – Nem tudom, mit jelent.
+– Az utolsónál, hogy ki marad utolsónak, hatan ugyanazt a két nevet írták – mondta Callas lassan. Ahogy kimondta, maga is összeráncolta a homlokát. – Nem tudom, mit jelent.
 
 A Játékmester a láda fölé hajolt, és a falra tekintett, ahol a tükrökben nyolc arc állt, mozdulatlanul. – Vigyék magukkal, amit ma láttak – mondta. – A délutánra nincs feladat, a Kerekasztalra este nyolckor várom önöket.
 
@@ -150,7 +150,7 @@ A kert felől Dalí hangja hallatszott, vékonyan, magabiztosan, és a két embe
 
 A folyosón, a Tükörterem lépcsője alatt, késő délután Brando állta Zsazsa útját. Nem mozdult, nem szólt, csak a falnak támaszkodott, és a karját összefonta. Zsazsa megtorpant, és egy pillanatra az arcán látszott, hogy el akar menni, aztán összeszedte magát. – Marlon – mondta. – Ha beszélni akar, ma este a Kerekasztalnál lesz rá alkalma.
 
-– Tudom – mondta Brando. A hangja ma nem mormolt. Tiszta volt, mély, és nem volt benne indulat, csak valami fáradt, kerek nyugalom. – Nem azért állítottam meg. Csak annyit szeretnék mondani, hogy ha ma engem küldenek el, ne higgye, hogy ezzel vége. A kérdés ugyanúgy marad, csak nem rólam fog szólni, és maga fogja elsőként észrevenni, ha tévedtünk.
+– Tudom – mondta Brando. A hangja ma nem mormolt. Tiszta volt, mély, és nem volt benne indulat, csak valami fáradt, kerek nyugalom. – Nem azért állítottam meg. Csak annyit szeretnék mondani, hogy ha ma engem küldenek el, ne higgye, hogy ezzel vége. A kérdés ugyanúgy marad, csak nem rólam fog szólni, és ha tévednek, azt mindannyian egyszerre fogják észrevenni.
 
 – Ez fenyegetés? – kérdezte Zsazsa.
 
