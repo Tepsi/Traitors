@@ -1,3 +1,3 @@
 # Állapot (10. fejezet, folyamatban)
-- Kész: A reggeli, A Kerengő.
-- Következik: A délután.
+- Kész: A reggeli, A Kerengő, A délután.
+- Következik: A Kerekasztal.
