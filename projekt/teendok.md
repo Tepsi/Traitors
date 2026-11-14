@@ -3,6 +3,7 @@
 Közös lista: bárki felvehet és kipipálhat elemeket. Jelölés: (Z) = Zoli, (C) = Claude. Ha kész egy elem, írd át `[ ]`-ról `[x]`-re, és vidd a „Kész" részbe.
 
 ## Következő lépések
+- [ ] 10. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Kerengő, a Kerekasztal, a konklávé. (Z)
 - [ ] 9. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a Tükörterem, a Kerekasztal, a konklávé. (Z)
 - [x] 8. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, az Emlékezet Próbája, a Kerekasztal, a konklávé. (Z)
 - [ ] 7. fejezet átolvasása és jelzés (szerzői átolvasás, 5. lépés): hangnem, a halállista és a váltságdíj, a Kerekasztal, a konklávé. (Z)

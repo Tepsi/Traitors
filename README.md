@@ -21,6 +21,7 @@ Az oldal fejezetenként, a `site/menetrend.txt` dátumai szerint jelenik meg a G
 | 7 | A halállista | [fejezetek/07-a-halallista.md](fejezetek/07-a-halallista.md) |
 | 8 | Az emlékezet | [fejezetek/08-az-emlekezet.md](fejezetek/08-az-emlekezet.md) |
 | 9 | A tükör | [fejezetek/09-a-tukor.md](fejezetek/09-a-tukor.md) |
+| 10 | A mécses | [fejezetek/10-a-mecses.md](fejezetek/10-a-mecses.md) |
 
 ## Háttéranyag
 
